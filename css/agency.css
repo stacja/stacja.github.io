@@ -540,6 +540,11 @@ section h3.section-subheading {
     margin-bottom: 0;
 }
 
+.timeline a.timeline-link:hover,a.timeline-link:active,a.timeline-link:link,a.timeline-link:visited {
+  text-decoration: none;
+  color: black;
+}
+
 @media(min-width:768px) {
     .timeline:before {
         left: 50%;
