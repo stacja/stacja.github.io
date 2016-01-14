@@ -70,7 +70,19 @@ h6 {
 
 .bg-blue {
     background-color: #324495;
+	padding: 70px 0;
 }
+
+.bg-red {
+    background-color: #DC4E41;
+	padding: 30px 0;
+}
+
+.bg-yellow {
+    background-color: #fed136;
+	padding: 70px 0;
+}
+
 
 .btn-primary {
     border-color: #fed136;
@@ -345,7 +357,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 130px 0;
     }
 }
 
@@ -546,7 +558,7 @@ section h3.section-subheading {
 
 .timeline a.timeline-link:hover,a.timeline-link:active,a.timeline-link:link,a.timeline-link:visited {
   text-decoration: none;
-  color: black;
+  color: white;
 }
 
 @media(min-width:768px) {
