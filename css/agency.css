@@ -681,7 +681,7 @@ aside.clients img:hover {
 }
 
 section#c4p {
-    background-color: #222;
+    background-color: #D4D5D0;
     background-image: url(../img/c4p.jpg);
     background-position: center;
     background-repeat: no-repeat;
@@ -955,6 +955,12 @@ img::selection {
 
 img::-moz-selection {
     background: 0 0;
+}
+
+img{
+	max-width: 100%;
+	height:auto;
+	width:auto;
 }
 
 body {
