@@ -265,13 +265,13 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/platform.png);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    margin-bottom: -20px;
 }
 
 header .intro-text {
@@ -959,13 +959,6 @@ h4 .fa {
     padding: 85px 0;
 }
 .video-container {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 100%;
-    width: 100%;
 }
 .video-background {
     width: 100%;
