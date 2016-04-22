@@ -68,6 +68,22 @@ h6 {
     background-color: #222;
 }
 
+.bg-blue {
+    background-color: #324495;
+	padding: 70px 0;
+}
+
+.bg-red {
+    background-color: #DC4E41;
+	padding: 30px 0;
+}
+
+.bg-yellow {
+    background-color: #fed136;
+	padding: 70px 0;
+}
+
+
 .btn-primary {
     border-color: #fed136;
     text-transform: uppercase;
@@ -265,6 +281,10 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
+<<<<<<< HEAD
+=======
+    background-image: url(../img/platform.jpg);
+>>>>>>> master
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -341,7 +361,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 130px 0;
     }
 }
 
@@ -542,7 +562,7 @@ section h3.section-subheading {
 
 .timeline a.timeline-link:hover,a.timeline-link:active,a.timeline-link:link,a.timeline-link:visited {
   text-decoration: none;
-  color: black;
+  color: white;
 }
 
 @media(min-width:768px) {
@@ -665,7 +685,7 @@ aside.clients img:hover {
 }
 
 section#c4p {
-    background-color: #222;
+    background-color: #D4D5D0;
     background-image: url(../img/c4p.jpg);
     background-position: center;
     background-repeat: no-repeat;
@@ -939,6 +959,12 @@ img::selection {
 
 img::-moz-selection {
     background: 0 0;
+}
+
+img{
+	max-width: 100%;
+	height:auto;
+	width:auto;
 }
 
 body {
