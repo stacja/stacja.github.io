@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Stacja IT - Warsztaty - Wprowadzenie do technologii Docker</title>
+    <title>Stacja IT - Warsztaty - Pipeline as a code automatyzacja tworzenia pipelinów przy użyciu Jenkins Job DSL</title>
     <!-- Bootstrap Core CSS -->
     <link href="../css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->
@@ -98,10 +98,10 @@
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="modal-body">
                         <!-- Project Details Go Here -->
-                        <h2 style="color:#fed136">Wprowadzenie do technologii Docker</h2>
+                        <h2 style="color:#fed136">Pipeline as a code automatyzacja tworzenia pipelinów przy użyciu Jenkins Job DSL</h2>
                         <ul class="list-inline">
                             <li><b>Data odjazdu:</b>
-                                <font color="#fed136"><strong>SOB, 18 CZERWCA 2016</strong></font>
+                                <font color="#fed136"><strong>SOB, 25 CZERWCA 2016</strong></font>
                             </li>
                             <li>
                                 <font color="silver">|</font>
@@ -121,58 +121,72 @@
                         <hr>
                         <h4 style="color:#fed136">INFORMACJE</h4>
                         <hr>
+                        <p style="text-align: justify;"><strong>Zapoznaj się z możliwościami frameworka AngularJS oraz narzędzi pomocnych przy budowie aplikacji internetowych w architekturze "Single-page application" podczas jednodniowych warsztatów hands-on!</strong></p>
+						
+						<p style="text-align: justify;">Wydarzenie adresowane do programistów, którzy chcą przekonać się w praktyce na czym polega efektywność w programowaniu aplikacji we frameworku AngularJS i zdobyć wiedzę potrzebną do rozpoczęcia pracy z tym narzędziem. </p>
+                        <p style="text-align: left;">
+                            <strong>Podczas warsztatów dowiesz się jak:</strong>
+                        </p>
+                        <p style="text-align: left;">
+                            ✔ sprawnie i szybko rozpocząć projekt w architekturze MVC oparty na AngularJS,
+                            <br> ✔ utworzyć wydajne środowisko do rozwoju aplikacji webowych,
+                            <br> ✔ efektywnie wykorzystać bogaty wachlarz komponentów wbudowanych w AngularJS,
+							<br> ✔ w prosty sposób zaimplementować atrakcyjne elementy interfejsu użytkownika.
+                        </p>
                         <p style="text-align: justify;">
-W ostatnich latach wielką popularność zyskują rozwiązania wirtualizacji zasobów w oparciu o kontenery systemowe. Projekt Docker, wyróżniający się dojrzałością i powszechnością wykorzystania, jest to system kontenerów nastawiony na dostarczanie aplikacji jako gotowych rozwiązań. Naucz się wykorzystywać go w celu sprawnego i prostego dostarczania tego typu rozwiązań, czyli kontenerów zawierających usługi!
-<br><br>
-Na warsztatach zapoznasz się z produkcyjnymi i testowymi procesami pracy z Dockerem oraz z rozwiązaniami usprawniającymi łączenie wielu gotowych kontenerów w większe rozwiązania. Dodatkowo, będziesz mógł zapoznać się z zagrożeniami użycia Dockera i innych systemów kontenerów oraz sposobami radzenia sobie z nimi.
-						</p>
-						<p style="text-align: justify;">
-Uczestnicy powinni posiadać podstawową wiedzę z zakresu systemu Linux, system operacyjny dla szkolenia to Ubuntu Desktop 14.04 LTS</p>
-                        <p style="text-align: justify;">Zapewniamy nielimitowany dostęp do pysznej kawy oraz pizzę. ☺
+                            Od uczestników wymagana jest przynajmniej podstawowa znajomość języka JavaScript. 
+Uczestnicy w trakcie zajęć korzystają z własnego sprzętu (wymagany komputer z min. 4GB RAM, preferowany system operacyjny: Linux / OS X). 
+                        </p>
+                        <p style="text-align: justify;">Zapewniamy nielimitowany dostęp do pysznej kawy oraz lunch.
                         </p>
                         <hr>
                         <h4 style="color:#fed136">Prowadzący</h4>
                         <hr>
                         <p style="text-align: justify;">
-<strong>Krzysztof Suszyński</strong> - Główny Programista w Centralnym Ośrodku Informatyki oraz trener firmy SAGES. Z technologiami IT ma profesjonalnie do czynienia od 2007 roku i obecnie zajmuje się głownie metodykami DevOps oraz technologiami Puppet, Java oraz Ruby. Technologie te oraz metodyki z powodzeniem stosuje na co dzień w dużych projektach, start-upach i projektach open-source. Z jego inicjatywy rozpoczęto udostępnianie wybranego oprogramowania wytwarzanego w Centralnym Ośrodku Informatyki na GitHubie. Opublikował na otwartej licencji kilka modułów Puppet między innymi: JBoss, Glassfish, XtreemFS, Artifactory, Flyway, Herald oraz kilka bibliotek Java m.in.: WFirma, Eid, Hiera Preferenes. Prowadzi szkolenia z wyżej wymienionych tematów dla firmy SAGES oraz w ramach inicjatyw takich jak Warsaw Puppet User Group, Warsaw Java User Group czy WarsawJS.
+                            <strong>Tomek Sułkowski</strong> pracę z technologiami webowymi rozpoczął w 2004 roku jako full-stack developer. Specjalizuje się w tematyce front-endowej (CSS3, JavaScript, AngularJS, React) oraz w zagadnieniach związanych z tworzeniem użytecznych interfejsów użytkownika (frameworki UI i projektowanie UX). Jego pasją jest poszerzanie i dzielenie się wiedzą dotyczącą dynamicznie rozwijających się technik wykorzystywanych przy budowaniu aplikacji przeglądarkowych. Skupia się na opracowywaniu dobrych praktyk umożliwiających realizację tych zadań w sposób pragmatyczny i elegancki.
                         </p>
                         <hr>
                         <h4 style="color:#fed136">Program warsztatów</h4>
                         <hr>
                         <div style="text-align:left">
-                            <p>
-1. Wprowadzenie do kontenerów systemu<br>
-2. Ograniczenia kontenerów<br>
-3. Zalety kontenerów oraz Docker<br>
-4. Różnice między kontenerami LXC i Docker<br>
-5. Docker CLI<br>
-6. Obrazy Docker oraz repozytoria obrazów (publiczne i przywatne)<br>
-7. Praca interaktywna z kontenerem oraz zapisywanie stanu<br>
-8. Budowanie obrazów z plików Dockerfile<br>
-9. Łączenie kontenerów<br>
-10. Uruchamianie kontenerów jako usług<br>
-11. Kwestie administracyjne i bezpieczeństwa<br>
-12. Zarządzanie wieloma połączonymi kontenerami przy użyciu Docker Compose<br>
-13. Docker API<br>
-14. Zarządzanie klastrem kontenerów na przykładzie projektu Google Kubernetes<br>
-15. Micro projekt na przykładzie Wordpress oraz podsumowanie<br>
-</p>
+<ol>
+	<li>AngularJS
+	<ul>
+		<li>Podstawowe założenia budowy aplikacji w AngularJS</li>
+		<li>Wiązanie danych w dwie i jedną stronę</li>
+		<li>Zasada działania widoków w AngularJS</li>
+		<li>Przykładowe wbudowane dyrektywy i ich praktyczne zastosowanie</li>
+		<li>Filtrowanie i przekształcanie danych</li>
+		<li>Czym są dyrektywy?</li>
+		<li>Ćwiczenia w pracy z różnymi typami dyrektyw</li>
+		<li>Budowa i walidacja formularzy</li>
+		<li>Dodawanie kolejnych widoków do aplikacji - front-end routing</li>
+		<li>Komunikacja z serwerem</li>
+	</ul>
+	</li>
+	<li>Narzędzia usprawniające pracę przy aplikacji
+	<ul>
+		<li>Automatyzacja zadań</li>
+		<li>Rozszerzenia usprawniające pracę z AngularJS</li>
+		<li>Generatory konfiguracji i struktur projektów</li>
+	</ul>
+	</li>
+</ol>
                         </div>
                         <hr>
-                        <h4><font color="#fed136">Rejestracja:</font> 
-						</h4>
+                        <h4><font color="#fed136">Rejestracja:</font> </h4>
 						<hr>
 						<div style="text-align:center">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2443.915798624129!2d20.998808015959778!3d52.22674756567248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47192da21714e76b%3A0x2f2d808736ce6362!2sSages+sp.+z+o.o.!5e0!3m2!1spl!2spl!4v1457709396727" width="700" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
 						</div>
                         <div style="text-align:center">
-<iframe src="https://docker.evenea.pl?out=1&source=event_iframe" width="100%" scrolling="no" style="border: 0;"></iframe>
+<iframe src="https://pipelineasacode.evenea.pl?out=1&source=event_iframe" width="100%" scrolling="no" style="border: 0;"></iframe>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script type="text/javascript" src="//cdn.evenea.pl/js/iframe/new/iframeResizer2.js"></script>
                         </div>
                         <hr>
                         <p style="text-align: justify;">
-                            <strong><span data-redactor-tag="span" style="color:#fed136">UWAGA!</span> </strong>W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. Kwalifikacja odbywa się na podstawie formularza rejestracyjnego. Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.</font>
+                            <strong><span data-redactor-tag="span" style="color:#fed136">UWAGA!</span> </strong><strong><font color="grey">Liczba miejsc ograniczona! </strong>Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.</font>
                         </p>
                         <a class="btn btn-primary" href="../index.html"><i class="fa fa-times"></i> Wróć</a>
                 </div>
