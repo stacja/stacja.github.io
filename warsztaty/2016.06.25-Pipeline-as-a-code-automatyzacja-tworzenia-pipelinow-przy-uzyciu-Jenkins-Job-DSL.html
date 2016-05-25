@@ -121,55 +121,49 @@
                         <hr>
                         <h4 style="color:#fed136">INFORMACJE</h4>
                         <hr>
-                        <p style="text-align: justify;"><strong>Zapoznaj się z możliwościami frameworka AngularJS oraz narzędzi pomocnych przy budowie aplikacji internetowych w architekturze "Single-page application" podczas jednodniowych warsztatów hands-on!</strong></p>
-						
-						<p style="text-align: justify;">Wydarzenie adresowane do programistów, którzy chcą przekonać się w praktyce na czym polega efektywność w programowaniu aplikacji we frameworku AngularJS i zdobyć wiedzę potrzebną do rozpoczęcia pracy z tym narzędziem. </p>
+                        <p style="text-align: justify;"><strong>W obecnych czasach nie trzeba już chyba nikogo przekonywać jak ważna jest automatyzacja w procesie ciągłego dostarczania oprogramowania. Od dawna automatyzujemy wszelkie etapy ww. procesu, piszemy liczne testy automatyczne odpalane w ramach zautomatyzowanego procesu budowania aplikacji, którą następnie w sposób zautomatyzowany wdrażamy na środowiska, których provisioning również przebiega w sposób zautomatyzowany. Nawet nasza JIRA potrafi automatycznie utworzyć nowy branch w repozytorium kodu źródłowego w momencie gdy rozpoczynamy prace nad nowym zadaniem. </strong></p>
+
+                        <p style="text-align: justify;">Automatyzujemy już prawie wszystko co ma sens, a mimo to nadal większość firm tworzy pipeliny umożliwiające przeprowadzenie zautomatyzowanego procesu budowania, testowania i wdrażania oprogramowania w sposób manualy. Jest to szczególnie dziwne w czasach wszechobecnych mikrousłóg, gdzie każdy nowy mikroserwis skutkuje utworzeniem kolejnego pipelinu.</p>   
+                                           					
+						<p style="text-align: justify;">Podczas warsztatu poznamy Jenkins Job DSL, który jest jednym z dostępnych rozwiązań dla przedstawionej powyżej sytuacji. Job DSL pozwoli nam zautomatyzować proces tworzenia zarówno pojedynczych jobów i widoków, jak i całych pielinów. Zobaczymy również jak w jeszcze większym stopniu ułatwić automatyzację procesu tworzenia pipelinów poprzez tworzenie własnych DSLi na bazie Job DSL. </p>
                         <p style="text-align: left;">
-                            <strong>Podczas warsztatów dowiesz się jak:</strong>
+                            <strong>W ramach warsztatu:</strong>
                         </p>
                         <p style="text-align: left;">
-                            ✔ sprawnie i szybko rozpocząć projekt w architekturze MVC oparty na AngularJS,
-                            <br> ✔ utworzyć wydajne środowisko do rozwoju aplikacji webowych,
-                            <br> ✔ efektywnie wykorzystać bogaty wachlarz komponentów wbudowanych w AngularJS,
-							<br> ✔ w prosty sposób zaimplementować atrakcyjne elementy interfejsu użytkownika.
+                            ✔ zobaczymy co dzieje się wewnątrz Jenkinsa podczas tworzenia jobów,
+                            <br>✔ poznamy DSL dostarczany przez Jenkins Job DSL oraz zobaczymy za co odpowiada sam plugin,
+                            <br>✔ zapoznamy się z API Viewer umożliwiającym odkrywanie API dostarczanego DSLa,
+							<br>✔ stworzymy własne joby, widoki i pipeliny,
+                            <br>✔ przeniesiemy konfigurację pipelinów do projektów przez nie budowanych, tak aby konfiguracja specyficna dla poszególnych projektów była odseparowana od kodu generującego joby i pipeliny,
+                            <br>✔ stworzymy własnego DSLa na bazie job-dsl,
+                            <br>✔ napiszemy testy do naszych skryptów i DSLi.
                         </p>
-                        <p style="text-align: justify;">
-                            Od uczestników wymagana jest przynajmniej podstawowa znajomość języka JavaScript. 
-Uczestnicy w trakcie zajęć korzystają z własnego sprzętu (wymagany komputer z min. 4GB RAM, preferowany system operacyjny: Linux / OS X). 
-                        </p>
+                        
                         <p style="text-align: justify;">Zapewniamy nielimitowany dostęp do pysznej kawy oraz lunch.
                         </p>
                         <hr>
                         <h4 style="color:#fed136">Prowadzący</h4>
                         <hr>
                         <p style="text-align: justify;">
-                            <strong>Tomek Sułkowski</strong> pracę z technologiami webowymi rozpoczął w 2004 roku jako full-stack developer. Specjalizuje się w tematyce front-endowej (CSS3, JavaScript, AngularJS, React) oraz w zagadnieniach związanych z tworzeniem użytecznych interfejsów użytkownika (frameworki UI i projektowanie UX). Jego pasją jest poszerzanie i dzielenie się wiedzą dotyczącą dynamicznie rozwijających się technik wykorzystywanych przy budowaniu aplikacji przeglądarkowych. Skupia się na opracowywaniu dobrych praktyk umożliwiających realizację tych zadań w sposób pragmatyczny i elegancki.
+                            <strong>Kamil Szymański</strong>
                         </p>
                         <hr>
                         <h4 style="color:#fed136">Program warsztatów</h4>
                         <hr>
                         <div style="text-align:left">
 <ol>
-	<li>AngularJS
-	<ul>
-		<li>Podstawowe założenia budowy aplikacji w AngularJS</li>
-		<li>Wiązanie danych w dwie i jedną stronę</li>
-		<li>Zasada działania widoków w AngularJS</li>
-		<li>Przykładowe wbudowane dyrektywy i ich praktyczne zastosowanie</li>
-		<li>Filtrowanie i przekształcanie danych</li>
-		<li>Czym są dyrektywy?</li>
-		<li>Ćwiczenia w pracy z różnymi typami dyrektyw</li>
-		<li>Budowa i walidacja formularzy</li>
-		<li>Dodawanie kolejnych widoków do aplikacji - front-end routing</li>
-		<li>Komunikacja z serwerem</li>
-	</ul>
-	</li>
-	<li>Narzędzia usprawniające pracę przy aplikacji
-	<ul>
-		<li>Automatyzacja zadań</li>
-		<li>Rozszerzenia usprawniające pracę z AngularJS</li>
-		<li>Generatory konfiguracji i struktur projektów</li>
-	</ul>
+	<li>Nakreślenie problemu jaki rozwiązuje automatyzacja procesu tworzenia jobów i pipelinów.
+	<li>Manualne tworzenie jobów.
+    <li>Poznanie wewnętrznych mechanizmóœ Jenkinsa w celu zrozumienia na czym polegać będzie automatyzacja ww. procesu.
+    <li>Zapoznanie się z DSLem dostarczanym przez job-dsl plugin.
+    <li>Zapoznanie się z API Viewer.
+    <li>Zapoznanie się z pluginem job-dsl oraz sposobem jego integracji z Jenkinsem.
+    <li>Tworzenie jobów w sposób zautomatyzowany.
+    <li>Wykorzystanie języka groovy do rozszerzenia możliwości DSL oraz samego Jenkinsa.
+    <li>Eksternalizacja konfiguracji jobów.
+    <li>Tworzenie widoków.
+    <li>Tworzenie pipelinów.
+    <li>Tworzenie własnego DSLa w oparciu o job-dsl.
 	</li>
 </ol>
                         </div>
