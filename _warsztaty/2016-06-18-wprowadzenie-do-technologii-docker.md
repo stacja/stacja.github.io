@@ -9,6 +9,7 @@ prowadzacy: suszynski
 evenea_link: "https://docker.evenea.pl?out=1&source=event_iframe"
 cena: Rejestracja bezpłatna
 miasto: Warszawa
+slideshare:
 opis:
   informacje: |
     W ostatnich latach wielką popularność zyskują rozwiązania wirtualizacji zasobów w oparciu o kontenery systemowe. Projekt Docker, wyróżniający się dojrzałością i powszechnością wykorzystania, jest to system kontenerów nastawiony na dostarczanie aplikacji jako gotowych rozwiązań. Naucz się wykorzystywać go w celu sprawnego i prostego dostarczania tego typu rozwiązań, czyli kontenerów zawierających usługi!

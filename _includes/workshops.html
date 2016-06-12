@@ -7,26 +7,32 @@
                 <h3 class="section-subheading text-muted">Sprawdź program i zarejestruj się na wybrany warsztat:</h3>
             </div>
         </div>
-    {% for warsztat in site.warsztaty %}
-    {% assign prowadzacy = site.data.prowadzacy[warsztat.prowadzacy] %}
-    <div class="col-md-4 col-sm-6 portfolio-item">
-      <a href="{{ warsztat.url }}" class="portfolio-link" data-toggle="modal">
-          <div class="portfolio-hover">
-              <div class="portfolio-hover-content">
-                  <h2><i class="fa fa-user fa-2x"></i><br>{{ prowadzacy.name }}</h2>
+      {% assign sorted_warsztaty = site.warsztaty | sort: 'date' %}
+      {% for warsztat in sorted_warsztaty %}
+        {% capture nowtime %}{{site.time | date: '%s'}}{% endcapture %}
+        {% capture eventtime %}{{warsztat.event_date | date: '%s'}}{% endcapture %}
+        {% if eventtime < nowtime %}
+          {% break %}
+        {% endif %}
+        {% assign prowadzacy = site.data.prowadzacy[warsztat.prowadzacy] %}
+        <div class="col-md-4 col-sm-6 portfolio-item">
+          <a href="{{ warsztat.url }}" class="portfolio-link">
+              <div class="portfolio-hover">
+                  <div class="portfolio-hover-content">
+                      <h2><i class="fa fa-user fa-2x"></i><br>{{ prowadzacy.name }}</h2>
+                  </div>
               </div>
-          </div>
-          <img src="{{ prowadzacy.img | prepend: site.baseurl}}" class="img-responsive" alt="">
-      </a>
-      <div class="portfolio-caption">
-        <h4><font color="#fed136">{{ warsztat.event_date }} - {{ warsztat.miasto }}</font></h4>
-                  <h4>{{ warsztat.title }}</h4>
-                  <p class="text-muted">{{ warsztat.cena }}</p>
-        <br>
-        <a href="{{ warsztat.url }}" class="portfolio-link"><button type="submit" class="btn btn-xl">ZAREJESTRUJ SIĘ</button></a>
+              <img src="{{ prowadzacy.img | prepend: site.baseurl}}" class="img-responsive" alt="">
+          </a>
+          <div class="portfolio-caption">
+            <h4><font color="#fed136">{{ warsztat.event_date }} - {{ warsztat.miasto }}</font></h4>
+                      <h4>{{ warsztat.title }}</h4>
+                      <p class="text-muted">{{ warsztat.cena }}</p>
+            <br>
+            <a href="{{ warsztat.url }}" class="portfolio-link"><button type="submit" class="btn btn-xl">ZAREJESTRUJ SIĘ</button></a>
+            </div>
         </div>
-    </div>
-    {% endfor %}
+      {% endfor %}
 
-</div>
+    </div>
 </section>
