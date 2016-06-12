@@ -281,10 +281,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-<<<<<<< HEAD
-=======
-    background-image: url(../img/platform.jpg);
->>>>>>> master
+    background-color: black;
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -325,13 +322,13 @@ header .intro-text .intro-heading {
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
         font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-        font-size: 40px;
+        font-size: 36px;
         font-style: italic;
         line-height: 40px;
     }
 
     header .intro-text .intro-heading {
-        margin-bottom: 50px;
+        margin-bottom: 22px;
         text-transform: uppercase;
         font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 75px;
@@ -686,7 +683,7 @@ aside.clients img:hover {
 
 section#c4p {
     background-color: #D4D5D0;
-    background-image: url(../img/c4p.jpg);
+    background-image: url(/img/c4p.jpg);
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -752,7 +749,7 @@ section#c4p .text-danger {
 
 section#contact {
     background-color: #222;
-    background-image: url(../img/keyboard.jpg);
+    background-image: url(/img/keyboard.jpg);
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -997,4 +994,8 @@ h4 .fa {
     height: 100%;
     opacity: .3;
     background-color: black;
+}
+#locations-map {
+    width: 100%;
+    height: 400px;
 }

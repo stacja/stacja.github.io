@@ -1,0 +1,67 @@
+---
+layout: default
+---
+<section>
+
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <div class="modal-body">
+                    <!-- Project Details Go Here -->
+                    <h2 style="color:#fed136">{{ page.title }}</h2>
+                    <ul class="list-inline">
+                        <li><b>Data odjazdu:</b>
+                            <font color="#fed136"><strong>{{ page.event_date }}</strong></font>
+                        </li>
+                        <li>
+                            <font color="silver">|</font>
+                        </li>
+                        <li><b>Czas podróży:</b>
+                            <font color="#fed136"><strong>9:00-17:00</strong></font>
+                        </li>
+                        <li>
+                            <font color="silver">|</font>
+                        </li>
+                        <li><b>Stacja:</b>
+                            <font color="#fed136"><strong>{{ page.lokalizacja }}</strong></font>
+                        </li>
+                    </ul>
+        <!-- Go to www.addthis.com/dashboard to customize your tools --><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54f95e0d4e6de0b8" async="async"></script><!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_sharing_toolbox"></div>
+                    <hr/>
+                    <h4 style="color:#fed136">INFORMACJE</h4>
+                    <hr/>
+                    {{ page.opis['informacje'] | markdownify }}
+                    <hr/>
+                    <h4 style="color:#fed136">Prowadzący</h4>
+                    <hr>
+                    {% assign prowadzacy = site.data.prowadzacy[page.prowadzacy] %}
+                    <p style="text-align: justify;">
+                    <strong>{{ prowadzacy.name }}</strong> - {{ prowadzacy.desc }}
+                    </p>
+                    <hr>
+                    <h4 style="color:#fed136">Program warsztatów</h4>
+                    <hr>
+                    {{ page.opis['program'] | markdownify }}
+                    <hr>
+                    <h4><font color="#fed136">Rejestracja:</font>
+                    </h4>
+                    <hr>
+                    <div style="text-align:center">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2443.915798624129!2d20.998808015959778!3d52.22674756567248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47192da21714e76b%3A0x2f2d808736ce6362!2sSages+sp.+z+o.o.!5e0!3m2!1spl!2spl!4v1457709396727" width="700" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    </div>
+                    <div style="text-align:center">
+                    <iframe src="{{ page.evenea_link }}" width="100%" scrolling="no" style="border: 0;"></iframe>
+                    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+                    <script type="text/javascript" src="//cdn.evenea.pl/js/iframe/new/iframeResizer2.js"></script>
+                    </div>
+                    <hr>
+                    <p style="text-align: justify;">
+                        <strong><span data-redactor-tag="span" style="color:#fed136">UWAGA!</span> </strong>W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. Kwalifikacja odbywa się na podstawie formularza rejestracyjnego. Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.</font>
+                    </p>
+                    <a class="btn btn-primary" href="../index.html"><i class="fa fa-times"></i> Wróć</a>
+            </div>
+        </div>
+    </div>
+</section>
