@@ -7,7 +7,7 @@
                 <h3 class="section-subheading text-muted">Sprawdź program i zarejestruj się na wybrany warsztat:</h3>
             </div>
         </div>
-      {% assign sorted_warsztaty = site.warsztaty | sort: 'date' %}
+      {% assign sorted_warsztaty = site.warsztaty | sort: 'event_date' | reverse %}
       {% for warsztat in sorted_warsztaty %}
         {% capture nowtime %}{{site.time | date: '%s'}}{% endcapture %}
         {% capture eventtime %}{{warsztat.event_date | date: '%s'}}{% endcapture %}
