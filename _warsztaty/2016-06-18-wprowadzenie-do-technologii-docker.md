@@ -30,6 +30,6 @@ opis:
     10. Zarządzanie wieloma połączonymi kontenerami przy użyciu Docker Compose
     
   uwaga: |
-    W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników.<strong>Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.</strong> Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
+    W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. <strong>Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.</strong> Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
     
 ---
