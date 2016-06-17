@@ -14,3 +14,7 @@ sobczak:
   name: "Tomasz Sobczak"
   img: /img/portfolio/ts.jpg
   desc: "pracuje w polskim oddziale szwedzkiej firmy Findwise. Przede wszystkim zajmuje się dostarczaniem rozwiązań opartych o technologie wyszukiwania i przetwarzania danych niestrukturalnych. Doradza organizacjom jak przechowywać dane, zarządzać nimi i budować dostęp do informacji. Na co dzień pracuje z tematami związanymi z architekturą informacji, wyszukiwarkami korporacyjnymi, oprogramowaniem open source (m.in. Lucene, Solr, Elasticsearch). Wcześniej pracował w Agorze dla serwisu Gazeta.pl, gdzie zajmował się m.in. wyszukiwarką portalową. Aktualnie współpracuje z klientami z wielu sektorów w Polsce i za zagranicą. Projekty, w których uczestniczy, dotyczą różnorodnych systemów (intranet, e-commerce, bazy wiedzy etc.), ale mają jedną wspólną cechę: dostęp do informacji. Tomasz jest organizatorem warszawskiej grupy dyskusyjnej ESWM poświęconej technologiom wyszukiwania oraz tematom pokrewnym. Jest również członkiem Stowarzyszenia Inżynierii Wymagań. Interesuje się zarządzaniem wiedzą w przedsiębiorstwie oraz budowaniem kultury organizacyjnej."
+szymanski:
+  name: "Kamil Szymański"
+  img: /img/portfolio/ks.jpg
+  desc: "software developer, entuzjasta JVM i open-source, aktywny członek Java community."
