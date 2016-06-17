@@ -5,7 +5,7 @@ date: 2016-06-17
 event_date: 2016-06-25
 title: "Pipeline as a code: automatyzacja tworzenia pipelinów przy użyciu Jenkins Job DSL"
 lokalizacja: Sages, ul. Nowogrodzka 62c, Warszawa
-prowadzacy: sobczak
+prowadzacy: szymanski
 evenea_link: "https://pipelineasacode.evenea.pl/?out=1&source=event_iframe"
 cena: 219 PLN
 miasto: Warszawa
