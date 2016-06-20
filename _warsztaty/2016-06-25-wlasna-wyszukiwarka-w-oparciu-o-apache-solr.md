@@ -27,7 +27,7 @@ opis:
     6. Budowanie dynamicznej nawigacji.
     7. Budowanie podpowiedzi zapytań.
     8. Wyszukiwarka: aplikacja webowa i interfejs użytkownika.
-    
+
   uwaga: |
     W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. <strong>Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.</strong> Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
 ---
