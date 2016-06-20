@@ -46,7 +46,7 @@ opis:
     11. Tworzenie pipelinów.
     12. Tworzenie własnego DSLa w oparciu o job-dsl.
     
- uwaga: |
+  uwaga: |
     W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. <strong>Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.</strong> Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
     
     
