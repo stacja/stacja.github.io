@@ -36,24 +36,25 @@ layout: default
                     {{ page.opis['informacje'] | markdownify }}
                     <hr/>
                     <h4 style="color:#fed136">Prowadzący</h4>
-                    <hr>
+                    <hr/>
                     {% assign prowadzacy = site.data.prowadzacy[page.prowadzacy] %}
                     <p style="text-align: justify;">
                     <strong>{{ prowadzacy.name }}</strong> - {{ prowadzacy.desc }}
                     </p>
-                    <hr>
+                    <hr/>
                     <h4 style="color:#fed136">Program warsztatów</h4>
-                    <hr>
+                    <hr/>
                     {{ page.opis['program'] | markdownify }}
-                    <hr>
+                    {% if page.opis['uwaga'] %}
+                    <hr/>
                     <h4 style="color:#fed136">Uwaga!</h4>
                     <hr/>
                     {{ page.opis['uwaga'] | markdownify }}
+                    {% endif %}
                     <hr/>
-                    <hr>
                     <h4><font color="#fed136">Rejestracja:</font>
                     </h4>
-                    <hr>
+                    <hr/>
                     <div style="text-align:center">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2443.915798624129!2d20.998808015959778!3d52.22674756567248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47192da21714e76b%3A0x2f2d808736ce6362!2sSages+sp.+z+o.o.!5e0!3m2!1spl!2spl!4v1457709396727" width="700" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
                     </div>
