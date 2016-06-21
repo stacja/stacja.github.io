@@ -281,10 +281,6 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-<<<<<<< HEAD
-=======
-    background-image: url(../img/platform.jpg);
->>>>>>> master
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -686,7 +682,7 @@ aside.clients img:hover {
 
 section#c4p {
     background-color: #D4D5D0;
-    background-image: url(../img/c4p.jpg);
+    background-image: url(/img/c4p.jpg);
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -752,7 +748,7 @@ section#c4p .text-danger {
 
 section#contact {
     background-color: #222;
-    background-image: url(../img/keyboard.jpg);
+    background-image: url(/img/keyboard.jpg);
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -1001,4 +997,8 @@ h4 .fa {
 #locations-map {
     width: 100%;
     height: 400px;
+}
+.workshop-title {
+  color: #fed136;
+  font-size: 30px;
 }

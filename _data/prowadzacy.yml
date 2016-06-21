@@ -1,0 +1,20 @@
+suszynski:
+  name: "Krzysztof Suszyński"
+  img: /img/portfolio/ksu.png
+  desc: "Główny Programista w Centralnym Ośrodku Informatyki oraz trener firmy SAGES. Z technologiami IT ma profesjonalnie do czynienia od 2007 roku i obecnie zajmuje się głownie metodykami DevOps oraz technologiami Puppet, Java oraz Ruby. Technologie te oraz metodyki z powodzeniem stosuje na co dzień w dużych projektach, start-upach i projektach open-source. Z jego inicjatywy rozpoczęto udostępnianie wybranego oprogramowania wytwarzanego w Centralnym Ośrodku Informatyki na GitHubie. Opublikował na otwartej licencji kilka modułów Puppet między innymi: JBoss, Glassfish, XtreemFS, Artifactory, Flyway, Herald oraz kilka bibliotek Java m.in.: WFirma, Eid, Hiera Preferenes. Prowadzi szkolenia z wyżej wymienionych tematów dla firmy SAGES oraz w ramach inicjatyw takich jak Warsaw Puppet User Group, Warsaw Java User Group czy WarsawJS."
+niedzielski:
+  name: "Adam Niedzielski"
+  img: /img/portfolio/an.png
+  desc: "to przedsiębiorca, który rozwiązuje biznesowe problemy budując aplikacje internetowe wysokiej jakości. Prowadzi własną firmę - Sunday Coding oraz uczy ludzi pisać czysty kod. W swojej pracy używa zwykle języków Ruby i JavaScript, chociaż nie boi się też dobierać programistycznych narzędzi do konkretnych problemów. Współorganizuje Łódź Ruby User Group i Nodeschool Łódź. Uwielbia dzielić się wiedzą podczas prezentacji na lokalnych grupach programistycznych."
+migacz:
+  name: "Maciej Migacz"
+  img: /img/portfolio/mm.png
+  desc: "Team leader, architekt, instruktor. Absolwent Politechniki Warszawskiej, aktywny zawodowo od prawie dziesięciu lat, w czasie których zdobywał doświadczenie w projektach dla największych firm i instytucji publicznych. Programuje w Java, Scala i Go, najczęściej buduje systemy backendowe z wykorzystaniem baz NoSQL. Od 2012 roku prowadzi firmę Semantive, specjalizującą się w rozwiązaniach typu big data i data science."
+sobczak:
+  name: "Tomasz Sobczak"
+  img: /img/portfolio/ts.jpg
+  desc: "pracuje w polskim oddziale szwedzkiej firmy Findwise. Przede wszystkim zajmuje się dostarczaniem rozwiązań opartych o technologie wyszukiwania i przetwarzania danych niestrukturalnych. Doradza organizacjom jak przechowywać dane, zarządzać nimi i budować dostęp do informacji. Na co dzień pracuje z tematami związanymi z architekturą informacji, wyszukiwarkami korporacyjnymi, oprogramowaniem open source (m.in. Lucene, Solr, Elasticsearch). Wcześniej pracował w Agorze dla serwisu Gazeta.pl, gdzie zajmował się m.in. wyszukiwarką portalową. Aktualnie współpracuje z klientami z wielu sektorów w Polsce i za zagranicą. Projekty, w których uczestniczy, dotyczą różnorodnych systemów (intranet, e-commerce, bazy wiedzy etc.), ale mają jedną wspólną cechę: dostęp do informacji. Tomasz jest organizatorem warszawskiej grupy dyskusyjnej ESWM poświęconej technologiom wyszukiwania oraz tematom pokrewnym. Jest również członkiem Stowarzyszenia Inżynierii Wymagań. Interesuje się zarządzaniem wiedzą w przedsiębiorstwie oraz budowaniem kultury organizacyjnej."
+szymanski:
+  name: "Kamil Szymański"
+  img: /img/portfolio/ks.jpg
+  desc: "software developer, entuzjasta JVM i open-source, aktywny członek Java community."
