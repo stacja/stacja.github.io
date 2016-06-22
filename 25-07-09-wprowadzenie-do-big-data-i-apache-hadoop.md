@@ -17,10 +17,10 @@ opis:
     Program warsztatu oferuje szybki przegląd podstawowych technologii z ekosystemu Apache Hadoop. Oprócz prezentacji, dla uczestników jest przygotowany warsztat, gdzie w praktyce będą mieli okazję samodzielnie eksplorować zbiory danych.
 
     Podczas warsztatów:           
-     - zdobędziesz podstawową wiedzę, dotyczącą problemów skali Big Data,
-     - zrozumiesz algorytm MapReduce,
-     - poznasz narzędzia analityczne Pig i Hive,
-     - poznasz zalety i wady omawianych technologii.
+     * zdobędziesz podstawową wiedzę, dotyczącą problemów skali Big Data,
+     * zrozumiesz algorytm MapReduce,
+     * poznasz narzędzia analityczne Pig i Hive,
+     * poznasz zalety i wady omawianych technologii.
                         
     Od uczestników wymagana jest podstawowa wiedza z SQLa, basha, Pythona (lub innego języka skryptowego) oraz Javy. Uczestnicy w trakcie zajęć korzystają z własnego sprzętu (wymagany komputer z min. 6GB RAM i procesorem Intel i5 lub nowszym/podobnym).
 
@@ -30,7 +30,7 @@ opis:
      1. Czym jest Big Data, BigTable, MapReduce.
      2. Pojęcia real time, batch w kontekście procesowania danych.
      3. Ekosystem Hadoop.
-  2. Wprowadzenie do MapReduce i Hadoop.
+  1. Wprowadzenie do MapReduce i Hadoop.
      1. Architektura.
      2. HDFS and YARN.
      3. Map Reduce Framework.
@@ -38,13 +38,13 @@ opis:
      5. Warsztat.
          1. HDFS.
          2. Map Reduce.
-  3. Wprowadzenie do Pig.
+  1. Wprowadzenie do Pig.
      1. Architektura.
      2. Tryby pracy.           
      3. Typy danych, słowa kluczowe.
      4. Składnia.            
      5. Warsztat Pig.
-  4. Wprowadzenie do Hive.
+  1. Wprowadzenie do Hive.
      1. Architektura.
      2. Tryby pracy.
      3. Typy danych.
@@ -52,7 +52,7 @@ opis:
      5. Formaty danych.
      6. Porównanie z Pig.
      7. Warsztat Hive.
-  5. Monitorowanie i zarządzanie klastrem.  
+  1. Monitorowanie i zarządzanie klastrem.  
      1. CLI.
      2. Przegląd Apache Ambari.
   uwaga: |
