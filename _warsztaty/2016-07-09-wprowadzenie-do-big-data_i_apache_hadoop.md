@@ -27,34 +27,34 @@ opis:
     Zapewniamy nielimitowany dostęp do pysznej kawy oraz pizzę. ☺
   program: |
     1. Wprowadzenie do Big Data.
-        1. Czym jest Big Data, BigTable, MapReduce.
-        2. Pojęcia real time, batch w kontekście procesowania danych.
-        3. Ekosystem Hadoop.
+      1. Czym jest Big Data, BigTable, MapReduce.
+      2. Pojęcia real time, batch w kontekście procesowania danych.
+      3. Ekosystem Hadoop.
     2. Wprowadzenie do MapReduce i Hadoop.
-        1. Architektura.
-        2. HDFS and YARN.
-        3. Map Reduce Framework.
-        4. Map Reduce Streaming.
-        5. Warsztat.
-            1. HDFS.
-            2. Map Reduce.
+      1. Architektura.
+      2. HDFS and YARN.
+      3. Map Reduce Framework.
+      4. Map Reduce Streaming.
+      5. Warsztat.
+        1. HDFS.
+        2. Map Reduce.
     3. Wprowadzenie do Pig.
-        1. Architektura.
-        2. Tryby pracy.           
-        3. Typy danych, słowa kluczowe.
-        4. Składnia.            
-        5. Warsztat Pig.
+      1. Architektura.
+      2. Tryby pracy.           
+      3. Typy danych, słowa kluczowe.
+      4. Składnia.            
+      5. Warsztat Pig.
     4. Wprowadzenie do Hive.
-        1. Architektura.
-        2. Tryby pracy.
-        3. Typy danych.
-        4. Składnia.
-        5. Formaty danych.
-        6. Porównanie z Pig.
-        7. Warsztat Hive.
+      1. Architektura.
+      2. Tryby pracy.
+      3. Typy danych.
+      4. Składnia.
+      5. Formaty danych.
+      6. Porównanie z Pig.
+      7. Warsztat Hive.
     5. Monitorowanie i zarządzanie klastrem.  
-        1. CLI.
-        2. Przegląd Apache Ambari.
+      1. CLI.
+      2. Przegląd Apache Ambari.
   uwaga: |
     W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników.**Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
     
