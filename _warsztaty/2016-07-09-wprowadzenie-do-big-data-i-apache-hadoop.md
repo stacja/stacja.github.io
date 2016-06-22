@@ -16,7 +16,8 @@ opis:
 
     Program warsztatu oferuje szybki przegląd podstawowych technologii z ekosystemu Apache Hadoop. Oprócz prezentacji, dla uczestników jest przygotowany warsztat, gdzie w praktyce będą mieli okazję samodzielnie eksplorować zbiory danych.
 
-    Podczas warsztatów:           
+    Podczas warsztatów:
+    
      - zdobędziesz podstawową wiedzę, dotyczącą problemów skali Big Data,
      - zrozumiesz algorytm MapReduce,
      - poznasz narzędzia analityczne Pig i Hive,
