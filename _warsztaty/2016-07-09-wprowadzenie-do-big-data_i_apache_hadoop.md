@@ -12,70 +12,51 @@ miasto: Warszawa
 slideshare:
 opis:
   informacje: |
-    Jesteś analitykiem lub programistą? Zastanawiasz się nad dalszym rozwojem w kierunku Big Data? Zrób pierwszy krok w kierunku poznania technologii Big Data i weź udział w jednodniowych warsztatach z jednym z wykładowców nowego<strong> kierunku studiów podyplomowych Politechniki Warszawskiej</strong><a href="http://datascience.ii.pw.edu.pl/bigdata.html"> Big Data - przetwarzanie i analiza dużych zbiorów danych!</a>
+    Jesteś analitykiem lub programistą? Zastanawiasz się nad dalszym rozwojem w kierunku Big Data? Zrób pierwszy krok w kierunku poznania technologii Big Data i weź udział w jednodniowych warsztatach z jednym z wykładowców **nowego kierunku studiów podyplomowych Politechniki Warszawskiej** [Big Data - przetwarzanie i analiza dużych zbiorów danych!][1]
 
     Program warsztatu oferuje szybki przegląd podstawowych technologii z ekosystemu Apache Hadoop. Oprócz prezentacji, dla uczestników jest przygotowany warsztat, gdzie w praktyce będą mieli okazję samodzielnie eksplorować zbiory danych.
 
     Podczas warsztatów:           
-    ✔ zdobędziesz podstawową wiedzę, dotyczącą problemów skali Big Data,<br>
-    ✔ zrozumiesz algorytm MapReduce,<br>
-    ✔ poznasz narzędzia analityczne Pig i Hive,<br>
-    ✔ poznasz zalety i wady omawianych technologii.<br>
+    ✔ zdobędziesz podstawową wiedzę, dotyczącą problemów skali Big Data,
+    ✔ zrozumiesz algorytm MapReduce,
+    ✔ poznasz narzędzia analityczne Pig i Hive,
+    ✔ poznasz zalety i wady omawianych technologii.
                         
     Od uczestników wymagana jest podstawowa wiedza z SQLa, basha, Pythona (lub innego języka skryptowego) oraz Javy. Uczestnicy w trakcie zajęć korzystają z własnego sprzętu (wymagany komputer z min. 6GB RAM i procesorem Intel i5 lub nowszym/podobnym).
 
     Zapewniamy nielimitowany dostęp do pysznej kawy oraz pizzę. ☺
   program: |
-    <ol>
-                                <li>Wprowadzenie do Big Data.
-                                    <ol>
-                                        <li>Czym jest Big Data, BigTable, MapReduce.</li>
-                                        <li>Pojęcia real time, batch w kontekście procesowania danych.</li>
-                                        <li>Ekosystem Hadoop.</li>
-                                    </ol>
-                                </li>
-                                <li>Wprowadzenie do MapReduce i Hadoop.
-                                    <ol>
-                                        <li>Architektura.</li>
-                                        <li>HDFS and YARN.</li>
-                                        <li>Map Reduce Framework.</li>
-                                        <li>Map Reduce Streaming.</li>
-                                        <li>Warsztat.
-                                            <ul>
-                                                <li>HDFS.</li>
-                                                <li>Map Reduce.</li>
-                                            </ul>
-                                        </li>
-                                    </ol>
-                                </li>
-                                <li>Wprowadzenie do Pig.
-                                    <ol>
-                                        <li>Architektura.</li>
-                                        <li>Tryby pracy.</li>
-                                        <li>Typy danych, słowa kluczowe.</li>
-                                        <li>Składnia.</li>
-                                        <li>Warsztat Pig.</li>
-                                    </ol>
-                                </li>
-                                <li>Wprowadzenie do Hive.
-                                    <ol>
-                                        <li>Architektura.</li>
-                                        <li>Tryby pracy.</li>
-                                        <li>Typy danych.</li>
-                                        <li>Składnia.</li>
-                                        <li>Formaty danych.</li>
-                                        <li>Porównanie z Pig.</li>
-                                        <li>Warsztat Hive.</li>
-                                    </ol>
-                                </li>
-                                <li>Monitorowanie i zarządzanie klastrem.
-                                    <ol>
-                                        <li>CLI.</li>
-                                        <li>Przegląd Apache Ambari.</li>
-                                    </ol>
-                                </li>
-                            </ol> 
+    1. Wprowadzenie do Big Data.
+        1. Czym jest Big Data, BigTable, MapReduce.
+        2. Pojęcia real time, batch w kontekście procesowania danych.
+        3. Ekosystem Hadoop.
+    2. Wprowadzenie do MapReduce i Hadoop.
+        1. Architektura.
+        2. HDFS and YARN.
+        3. Map Reduce Framework.
+        4. Map Reduce Streaming.
+        5. Warsztat.
+            1. HDFS.
+            2. Map Reduce.
+    3. Wprowadzenie do Pig.
+        1. Architektura.
+        2. Tryby pracy.           
+        3. Typy danych, słowa kluczowe.
+        4. Składnia.            
+        5. Warsztat Pig.
+    4. Wprowadzenie do Hive.
+        1. Architektura.
+        2. Tryby pracy.
+        3. Typy danych.
+        4. Składnia.
+        5. Formaty danych.
+        6. Porównanie z Pig.
+        7. Warsztat Hive.
+    5. Monitorowanie i zarządzanie klastrem.  
+        1. CLI.
+        2. Przegląd Apache Ambari.
   uwaga: |
-    W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. <strong>Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.</strong> Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
+    W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników.**Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
     
 ---
+[1]: http://datascience.ii.pw.edu.pl/bigdata.html
