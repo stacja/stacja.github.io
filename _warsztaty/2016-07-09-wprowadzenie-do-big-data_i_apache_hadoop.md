@@ -12,7 +12,7 @@ miasto: Warszawa
 slideshare:
 opis:
   informacje: |
-    Jesteś analitykiem lub programistą? Zastanawiasz się nad dalszym rozwojem w kierunku Big Data? Zrób pierwszy krok w kierunku poznania technologii Big Data i weź udział w jednodniowych warsztatach z jednym z wykładowców nowego<strong> kierunku studiów podyplomowych Politechniki Warszawskiej</storong><a href="http://datascience.ii.pw.edu.pl/bigdata.html"> Big Data - przetwarzanie i analiza dużych zbiorów danych!</a>
+    Jesteś analitykiem lub programistą? Zastanawiasz się nad dalszym rozwojem w kierunku Big Data? Zrób pierwszy krok w kierunku poznania technologii Big Data i weź udział w jednodniowych warsztatach z jednym z wykładowców nowego<strong> kierunku studiów podyplomowych Politechniki Warszawskiej</strong><a href="http://datascience.ii.pw.edu.pl/bigdata.html"> Big Data - przetwarzanie i analiza dużych zbiorów danych!</a>
 
     Program warsztatu oferuje szybki przegląd podstawowych technologii z ekosystemu Apache Hadoop. Oprócz prezentacji, dla uczestników jest przygotowany warsztat, gdzie w praktyce będą mieli okazję samodzielnie eksplorować zbiory danych.
 
