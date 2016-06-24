@@ -7,14 +7,15 @@
                 <h3 class="section-subheading text-muted">Sprawdź program i zarejestruj się na wybrany warsztat:</h3>
             </div>
         </div>
-      {% assign sorted_warsztaty = site.warsztaty | sort: 'event_date' | reverse %}
+      {% assign sorted_warsztaty = site.warsztaty | sort: 'event_date' %}
       {% for warsztat in sorted_warsztaty %}
         {% capture nowtime %}{{site.time | date: '%s'}}{% endcapture %}
         {% capture eventtime %}{{warsztat.event_date | date: '%s'}}{% endcapture %}
         {% if eventtime < nowtime %}
-          {% break %}
+          {% continue %}
         {% endif %}
         {% assign prowadzacy = site.data.prowadzacy[warsztat.prowadzacy] %}
+        {% assign lokalizacja = site.data.lokalizacje[warsztat.lokalizacja] %}
         <div class="col-md-4 col-sm-6 portfolio-item">
           <a href="{{ warsztat.url }}" class="portfolio-link">
               <div class="portfolio-hover">
@@ -25,7 +26,7 @@
               <img src="{{ prowadzacy.img | prepend: site.baseurl}}" class="img-responsive" alt="">
           </a>
           <div class="portfolio-caption">
-            <h4><font color="#fed136">{{ warsztat.event_date }} - {{ warsztat.miasto }}</font></h4>
+            <h4><font color="#fed136">{{ warsztat.event_date }} - {{ lokalizacja.miasto }}</font></h4>
                       <h4>{{ warsztat.title }}</h4>
                       <p class="text-muted">{{ warsztat.cena }}</p>
             <br>

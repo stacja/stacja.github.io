@@ -23,8 +23,9 @@ layout: default
                         <li>
                             <font color="silver">|</font>
                         </li>
+                        {% assign lokalizacja = site.data.lokalizacje[page.lokalizacja] %}
                         <li><b>Stacja:</b>
-                            <font color="#fed136"><strong>{{ page.lokalizacja }}</strong></font>
+                            <font color="#fed136"><strong>{{ lokalizacja.adres }}</strong></font>
                         </li>
                     </ul>
 
@@ -56,7 +57,7 @@ layout: default
                     </h4>
                     <hr/>
                     <div style="text-align:center">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2443.915798624129!2d20.998808015959778!3d52.22674756567248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47192da21714e76b%3A0x2f2d808736ce6362!2sSages+sp.+z+o.o.!5e0!3m2!1spl!2spl!4v1457709396727" width="700" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    <iframe src="{{ lokalizacja.mapa }}" width="700" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
                     </div>
                     <div style="text-align:center">
                     <iframe src="{{ page.evenea_link }}" width="100%" scrolling="no" style="border: 0;"></iframe>
