@@ -4,7 +4,7 @@ date: 2016-06-22
 # Data wydarzenia
 event_date: 2016-07-09
 title: "Wprowadzenie do Big Data i Apache Hadoop"
-lokalizacja: COWorKING
+lokalizacja: Sages
 prowadzacy: nowacki
 evenea_link: "https://bigdata.evenea.pl/?out=1&source=event_iframe"
 cena: Rejestracja bezpłatna
