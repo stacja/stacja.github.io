@@ -4,11 +4,10 @@ date: 2016-06-22
 # Data wydarzenia
 event_date: 2016-07-09
 title: "Wprowadzenie do Big Data i Apache Hadoop"
-lokalizacja: Sages, ul. Nowogrodzka 62c, Warszawa
+lokalizacja: Sages
 prowadzacy: nowacki
 evenea_link: "https://bigdata.evenea.pl/?out=1&source=event_iframe"
 cena: Rejestracja bezpłatna
-miasto: Warszawa
 slideshare:
 opis:
   informacje: |
@@ -17,12 +16,12 @@ opis:
     Program warsztatu oferuje szybki przegląd podstawowych technologii z ekosystemu Apache Hadoop. Oprócz prezentacji, dla uczestników jest przygotowany warsztat, gdzie w praktyce będą mieli okazję samodzielnie eksplorować zbiory danych.
 
     Podczas warsztatów:
-    
+
      - zdobędziesz podstawową wiedzę, dotyczącą problemów skali Big Data,
      - zrozumiesz algorytm MapReduce,
      - poznasz narzędzia analityczne Pig i Hive,
      - poznasz zalety i wady omawianych technologii.
-     
+
     Od uczestników wymagana jest podstawowa wiedza z SQLa, basha, Pythona (lub innego języka skryptowego) oraz Javy. Uczestnicy w trakcie zajęć korzystają z własnego sprzętu (wymagany komputer z min. 6GB RAM i procesorem Intel i5 lub nowszym/podobnym).
 
     Zapewniamy nielimitowany dostęp do pysznej kawy oraz pizzę. ☺
@@ -58,6 +57,5 @@ opis:
        2. Przegląd Apache Ambari.
   uwaga: |
     W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników.**Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
-    
----
 
+---

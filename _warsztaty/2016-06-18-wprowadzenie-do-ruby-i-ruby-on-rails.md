@@ -4,11 +4,10 @@ date: 2016-06-11
 # Data wydarzenia
 event_date: 2016-06-18
 title: "Wprowadzenie do Ruby i Ruby on Rails"
-lokalizacja: Łódź, COWorKING Kościelna 6
+lokalizacja: COWorKING
 prowadzacy: niedzielski
 evenea_link: "https://WprowadzeniedoRuby.evenea.pl?out=1&source=event_iframe"
 cena: Rejestracja bezpłatna
-miasto: Łódź
 slideshare:
 opis:
   informacje: |

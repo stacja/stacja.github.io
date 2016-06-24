@@ -4,11 +4,10 @@ date: 2016-06-17
 # Data wydarzenia
 event_date: 2016-06-25
 title: "Pipeline as a code: automatyzacja tworzenia pipelinów przy użyciu Jenkins Job DSL"
-lokalizacja: Sages, ul. Nowogrodzka 62c, Warszawa
+lokalizacja: Sages
 prowadzacy: szymanski
 evenea_link: "https://pipelineasacode.evenea.pl/?out=1&source=event_iframe"
 cena: 219 PLN
-miasto: Warszawa
 slideshare:
 opis:
   informacje: |
@@ -20,16 +19,16 @@ opis:
 
     W ramach warsztatu:
 
-    ✔ zobaczymy co dzieje się wewnątrz Jenkinsa podczas tworzenia jobów, 
-    ✔ poznamy DSL dostarczany przez Jenkins Job DSL oraz zobaczymy za co odpowiada sam plugin, 
-    ✔ zapoznamy się z API Viewer umożliwiającym odkrywanie API dostarczanego DSLa, 
-    ✔ stworzymy własne joby, widoki i pipeliny, 
-    ✔ przeniesiemy konfigurację pipelinów do projektów przez nie budowanych, tak aby konfiguracja specyficna dla poszególnych projektów była odseparowana od kodu generującego joby i pipeliny, 
-    ✔ stworzymy własnego DSLa na bazie job-dsl, 
+    ✔ zobaczymy co dzieje się wewnątrz Jenkinsa podczas tworzenia jobów,
+    ✔ poznamy DSL dostarczany przez Jenkins Job DSL oraz zobaczymy za co odpowiada sam plugin,
+    ✔ zapoznamy się z API Viewer umożliwiającym odkrywanie API dostarczanego DSLa,
+    ✔ stworzymy własne joby, widoki i pipeliny,
+    ✔ przeniesiemy konfigurację pipelinów do projektów przez nie budowanych, tak aby konfiguracja specyficna dla poszególnych projektów była odseparowana od kodu generującego joby i pipeliny,
+    ✔ stworzymy własnego DSLa na bazie job-dsl,
     ✔ napiszemy testy do naszych skryptów i DSLi.
 
     Warsztaty adresowane do osób mających dość żmudnego, manualnego wyklikiwania kolejnych jobów i pipelinów w Jenkinsie. Wskazana podstawowa znajomość Jenkinsa oraz języka wysokiego poziomu (np. Java, Groovy, Python).
-    
+
     Zapewniamy nielimitowany dostęp do pysznej kawy oraz pizzę. ☺
 
   program: |
@@ -45,9 +44,9 @@ opis:
     10. Tworzenie widoków.
     11. Tworzenie pipelinów.
     12. Tworzenie własnego DSLa w oparciu o job-dsl.
-    
+
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
-    
-    
+
+
 ---
