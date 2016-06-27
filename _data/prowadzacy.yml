@@ -26,4 +26,7 @@ reszka:
   name: "Piotr Reszka"
   img: /img/portfolio/pr.jpg
   desc: "Absolwent Inżynierii Oprogramowania PW. 120 przeprowadzonych wdrożeń Tableau w ciągu 4 ostatnich lat w różnych branżach. Kilkanaście lat w biznesie BI/ERP/Workflow, w Polsce i USA. Specjalista metodyk wizualizacji danych, autor polskiego bloga Tableau. “Jak większość analityków poszukiwałem rozwiązań pozwalających skupić się na potrzebach biznesowych a nie technologii. Wtedy odkryłem moc analizy i wizualizacji w narzędziach takich jak Tableau dzięki którym praca z danymi jest przyjemniejsza i pozwala na szybkie wyciąganie wniosków oraz podejmowanie właściwych decyzji zmieniających biznes. Moją pasją jest robotyka i astrofizyka ale zasypiając, liczę owce używając Count Distinct…”"
-
+nazimek:
+  name: "Piotr Nazimek"
+  img: /img/portfolio/pn.png
+  desc: "interesuje się szeroko pojętym bezpieczeństwem systemów komputerowych oraz inżynierią oprogramowania. Pracuje w projektach wykorzystujących karty elektroniczne takich jak systemy płatnicze i transportowe. Bierze udział w pracach Komitetu Technicznego Nr 172 ds. Kart Identyﬁkacyjnych przy Polskim Komitecie Normalizacyjnym."
