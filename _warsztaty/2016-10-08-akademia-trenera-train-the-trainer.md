@@ -14,28 +14,28 @@ opis:
   informacje: |
     Jesteś specjalistą IT i czujesz powołanie (lub przymus sytuacyjny) do edukacji swoich kolegów? Stwórz swój niepowtarzalny wizerunek trenerski oraz zdobądź wiedzę i umiejętności w zakresie prowadzenia i projektowania szkoleń, ze szczególnym uwzględnieniem specyfiki szkoleń IT podczas **bezpłatnego, 2-dniowego szkolenia Train The Trainer!**
 
-    **Podczas szkolenia:**
+    Podczas szkolenia:
 
      - poznasz kryteria sukcesu szkolenia, nauczysz się stosować techniki zwiększające jakość w każdym z tych kryteriów oraz dowiesz się jak skutecznie zbudować własny autorytet i efektywnie wykorzystywać go w trakcie szkolenia,
      - poznasz specyfikę uczenia się dorosłych - w szczególności osób IT, metody i formuły szkoleń oraz będziesz potrafił wykorzystać tę wiedzę do stworzenia optymalnego szkolenia,
      - dowiesz się jak można pracować nad zaangażowaniem grupy i własnym oraz dlaczego jest to kluczowe dla sukcesu szkolenia,
      - zapoznasz się z możliwymi trudnymi sytuacjami - zarówno obiektywnymi - wynikającymi np. ze zróżnicowanego poziomu w grupie, pytaniami, na które nie znamy odpowiedzi, jak i wynikającymi z indywidualnych postaw uczestników oraz sposobami radzenia sobie w ww. sytuacjach.
 
-    **Mocne strony szkolenia:**
+    Mocne strony szkolenia:
 
      - szkolenie zaprojektowane jest na bazie naszych doświadczeń ze szkoleniami, obejmujące 8 lat pracy z ponad czterdziestoma trenerami.
      - dopasowanie do specyfiki szkoleń IT,
      - zero czystej teorii, dobór wyłącznie zagadnień mających ważne implikacje praktyczne, warsztatowa formuła zajęć, bogata w różnorakie formy dydaktyczne wymagające pełnego zaangażowania uczestników (dyskusje, wystąpienia),
      - zindywidualizowana informacja zwrotna dla każdego uczestnika.
 
-    **OPINIE UCZESTNIKÓW POPRZEDNICH EDYCJI:**
+    OPINIE UCZESTNIKÓW POPRZEDNICH EDYCJI:
 
      - (...) Dowiedziałem się wiele nie tylko o szkoleniach, ale też o sobie samym. Dziękuję :)
      - Idąc na szkolenie, myślałem, że będzie lipa i trochę siędę nudził, ale było super i cieszę się, że poświęciłem na nie weekend. Dziękuję.
      - Bardzo fajne szkolenie. Nie był to czas zmarnowany. Miła atmosfera na szkoleniu - co oczywiście było zasługą prelegenta.
      - Prowadzący ma świetny kontakt z grupą. Jest bardzo spokojny i opanowany, co wspomaga otwartość uczestników. Ma umiejętność tworzenia bezpiecznego środowiska, w którym nie obawiam się zrobić błędu.
 
-   program: |
+  program: |
     1. Wstęp.
        1. Co to jest szkolenie?
        2. 7 kryteriów sukcesu usługi szkoleniowej.
