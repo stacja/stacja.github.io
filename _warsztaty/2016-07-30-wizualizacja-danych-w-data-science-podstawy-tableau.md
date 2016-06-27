@@ -12,6 +12,11 @@ cena: Rejestracja bezpłatna
 slideshare:
 opis:
   informacje: |
+    Czy wiesz, że według Harvard Business Review Data Scientist to najbardziej seksowny zawód XXI wieku?
+    Na rynku pracy istnieje znaczne, ciągle rosnące zapotrzebowanie na rozumiejących dane profesjonalistów w instytucjach biznesowych, publicznych, organizacjach non-profit. Podaż profesjonalistów mogących pracować efektywnie z dużymi wolumenami danych jest ograniczona i znajduje odzwierciedlenie w rosnących pensjach inżynierów danych, badaczy danych, statystyków i analityków danych. Portal Forbes.pl podaje szacunkowe dane nt. zarobków badaczy danych w USA, które wahają się od 50 tys. USD do 150 tys. USD, zależnie od doświadczenia.
+
+    Jeżeli chcesz dowiedzieć się więcej o data science lub rozważasz podjęcie [studiów podyplomowych](http://datascience.ii.pw.edu.pl/datascience.html) w tym kierunku - zapraszamy do udziału w wydarzeniu!
+    
     Warsztaty obejmują podstawy narzędzia Tableau przedstawione w kontekście scenariuszy biznesowych.
 
     Uczestnicy wykonują ćwiczenia na komputerach z zainstalowanym Tableau na przygotowanych workbookach.
