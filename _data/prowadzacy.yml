@@ -22,3 +22,8 @@ nowacki:
   name: "Jakub Nowacki"
   img: /img/portfolio/spark.png
   desc: "Absolwent Politechniki Gdańskiej oraz Uniwersytetu Bristolskiego, gdzie obronił doktorat z matematyki stosowanej. Na co dzień łączy umiejętności analityczne i programistyczne. Najbardziej interesuje się rozproszonym przetwarzaniem i analizą dużych zbiorów danych. Zaczynał przygodę z programowaniem w językach C i C++, jednak obecnie najlepiej czuje się w świecie Javy i Pythona."
+reszka:
+  name: "Piotr Reszka"
+  img: /img/portfolio/pr.jpg
+  desc: "Absolwent Inżynierii Oprogramowania PW. 120 przeprowadzonych wdrożeń Tableau w ciągu 4 ostatnich lat w różnych branżach. Kilkanaście lat w biznesie BI/ERP/Workflow, w Polsce i USA. Specjalista metodyk wizualizacji danych, autor polskiego bloga Tableau. “Jak większość analityków poszukiwałem rozwiązań pozwalających skupić się na potrzebach biznesowych a nie technologii. Wtedy odkryłem moc analizy i wizualizacji w narzędziach takich jak Tableau dzięki którym praca z danymi jest przyjemniejsza i pozwala na szybkie wyciąganie wniosków oraz podejmowanie właściwych decyzji zmieniających biznes.Moją pasją jest robotyka i astrofizyka ale zasypiając, liczę owce używając Count Distinct…”"
+
