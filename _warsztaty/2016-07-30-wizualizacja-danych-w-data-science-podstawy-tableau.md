@@ -16,7 +16,7 @@ opis:
 
     Uczestnicy wykonują ćwiczenia na komputerach z zainstalowanym Tableau na przygotowanych workbookach.
 
-    Zapewniamy nielimitowany dostęp do pysznej kawy oraz pizzę. ☺
+    Zapewniamy nielimitowany dostęp do pysznej kawy. ☺
 
   program: |
     1. Podłączanie się do danych w różnych opcjach.
