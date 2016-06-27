@@ -11,7 +11,7 @@ cena: Rejestracja bezpłatna
 slideshare:
 opis:
   informacje: |
-    Warsztaty obejmują podstawy narzędzia Tableau przedstawione w kontekście scenariuszy biznesowych. Warsztat pokrywa następujące elementy:
+    Warsztaty obejmują podstawy narzędzia Tableau przedstawione w kontekście scenariuszy biznesowych.
 
     Uczestnicy wykonują ćwiczenia na komputerach z zainstalowanym Tableau na przygotowanych workbookach.
 
@@ -28,6 +28,6 @@ opis:
     8. dzielenie się wizualizacjami.
 
   uwaga: |
-    W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników.**Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
+    W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. **Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
 
 ---
