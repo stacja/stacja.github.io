@@ -30,10 +30,10 @@ opis:
 
     OPINIE UCZESTNIKÓW POPRZEDNICH EDYCJI:
 
-     - (...) Dowiedziałem się wiele nie tylko o szkoleniach, ale też o sobie samym. Dziękuję :)
-     - Idąc na szkolenie, myślałem, że będzie lipa i trochę siędę nudził, ale było super i cieszę się, że poświęciłem na nie weekend. Dziękuję.
-     - Bardzo fajne szkolenie. Nie był to czas zmarnowany. Miła atmosfera na szkoleniu - co oczywiście było zasługą prelegenta.
-     - Prowadzący ma świetny kontakt z grupą. Jest bardzo spokojny i opanowany, co wspomaga otwartość uczestników. Ma umiejętność tworzenia bezpiecznego środowiska, w którym nie obawiam się zrobić błędu.
+     - *(...) Dowiedziałem się wiele nie tylko o szkoleniach, ale też o sobie samym. Dziękuję :)*
+     - *Idąc na szkolenie, myślałem, że będzie lipa i trochę siędę nudził, ale było super i cieszę się, że poświęciłem na nie weekend. Dziękuję.*
+     - *Bardzo fajne szkolenie. Nie był to czas zmarnowany. Miła atmosfera na szkoleniu - co oczywiście było zasługą prelegenta.*
+     - *Prowadzący ma świetny kontakt z grupą. Jest bardzo spokojny i opanowany, co wspomaga otwartość uczestników. Ma umiejętność tworzenia bezpiecznego środowiska, w którym nie obawiam się zrobić błędu.*
 
   program: |
     1. Wstęp.
