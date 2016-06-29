@@ -1,5 +1,5 @@
 <!-- Portfolio Grid Section -->
-<section id="portfolio" class="bg-light-gray">
+<section id="portfolio" class="bg-light-gray portfolio">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -14,8 +14,10 @@
         {% if eventtime < nowtime %}
           {% continue %}
         {% endif %}
+
         {% assign prowadzacy = site.data.prowadzacy[warsztat.prowadzacy] %}
         {% assign lokalizacja = site.data.lokalizacje[warsztat.lokalizacja] %}
+        
         {% if warsztat.type %}
         <div class="col-md-4 col-sm-6 portfolio-item">
           <a href="{{ warsztat.meetup_link }}" class="portfolio-link">
