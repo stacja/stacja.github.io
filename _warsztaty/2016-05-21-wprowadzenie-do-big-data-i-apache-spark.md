@@ -1,8 +1,8 @@
 ---
 # Data dodania informacji o wydarzeniu
-date: 2016-05-21
+date: 2016-07-04
 # Data wydarzenia
-event_date: 2016-07-09
+event_date: 2016-05-21
 title: "Wprowadzenie do Big Data i Apache Spark"
 lokalizacja: PierwszePietro
 prowadzacy: nowacki
