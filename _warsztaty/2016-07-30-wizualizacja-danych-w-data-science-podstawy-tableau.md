@@ -6,7 +6,7 @@ event_date: 2016-07-30
 title: "Wizualizacja danych w Data Science: Podstawy Tableau"
 lokalizacja: Sages
 prowadzacy: reszka
-dlugosc: 4h
+dlugosc: 9:00-13:00
 evenea_link: "https://datascience.evenea.pl/?out=1&source=event_iframe"
 cena: Rejestracja bezpłatna
 slideshare:

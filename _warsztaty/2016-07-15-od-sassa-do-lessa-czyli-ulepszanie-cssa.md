@@ -6,6 +6,7 @@ event_date: 2016-07-15
 title: "Od SASSa do LESSa - czyli ulepszanie CSSa"
 lokalizacja: CreativeCoworking
 prowadzacy: scira
+dlugosc: 9:00-17:00
 evenea_link: "https://sassless.evenea.pl/?out=1&source=event_iframe"
 cena: 96 PLN
 slideshare:

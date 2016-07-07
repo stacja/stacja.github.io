@@ -6,6 +6,7 @@ event_date: 2016-07-09
 title: "Wprowadzenie do Big Data i Apache Hadoop"
 lokalizacja: Sages
 prowadzacy: nowacki
+dlugosc: 9:00-17:00
 evenea_link: "https://bigdata.evenea.pl/?out=1&source=event_iframe"
 cena: Rejestracja bezpłatna
 slideshare:
