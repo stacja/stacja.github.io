@@ -19,6 +19,7 @@
         {% assign lokalizacja = site.data.lokalizacje[warsztat.lokalizacja] %}
 
         {% assign button_class = 'btn btn-xl' %}
+        {% assign event_date = warsztat.event_date %}
         {% if warsztat.type %}
           {% if warsztat.type == 'meetup' %}
             {% assign button_text = 'MEETUP' %}
@@ -27,6 +28,24 @@
             {% assign button_text = 'Rejestracja wkrótce' %}
             {% assign event_link = '#' %}
             {% assign button_class = 'btn btn-xl workshop-future' %}
+            {% assign m = warsztat.event_date | date: "%-m" %}
+            {% capture event_date %}
+            {% case m %}
+              {% when '1' %}Styczeń
+              {% when '2' %}Luty
+              {% when '3' %}Marzec
+              {% when '4' %}Kwiecień
+              {% when '5' %}Maj
+              {% when '6' %}Czerwiec
+              {% when '7' %}Lipiec
+              {% when '8' %}Sierpień
+              {% when '9' %}Wrzesień
+              {% when '10' %}Październik
+              {% when '11' %}Listopad
+              {% when '12' %}Grudzień
+            {% endcase %}
+            {{ warsztat.event_date | date: "%Y" }}
+            {% endcapture %}
           {% endif %}
         {% else %}
           {% assign button_text = 'ZAREJESTRUJ SIĘ' %}
@@ -42,7 +61,7 @@
               <img src="{{ prowadzacy.img | prepend: site.baseurl}}" class="img-responsive" alt="">
           </a>
           <div class="portfolio-caption">
-            <h4><font color="#fed136">{{ warsztat.event_date }} - {{ lokalizacja.miasto }}</font></h4>
+            <h4><font color="#fed136">{{ event_date }} - {{ lokalizacja.miasto }}</font></h4>
                       <h4>{{ warsztat.title }}</h4>
                       <p class="text-muted">{{ warsztat.cena }}</p>
             <br>
