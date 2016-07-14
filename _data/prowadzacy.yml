@@ -53,3 +53,7 @@ kiezynski:
   name: "Paweł Kieżyński"
   img: /img/portfolio/pki.jpg
   desc: "na co dzień prowadzi firmę zajmującą się tworzeniem oprogramowania. Interesuje się wdrażaniem innowacyjnych rozwiązań informatycznych mających na celu automatyzację oraz optymalizację procesów w przedsiębiorstwach. Bierze udział w projektach budowy i rozwoju systemów assistance oraz likwidacji szkód, logistycznych oraz e-commerce."
+pajak:
+  name: "Tomek Pająk"
+  img: /img/portfolio/tp.png
+  desc: "na co dzień programista, team leader, architekt lub Scrum Master - w zależności od bieżących potrzeb. Nie boi się również zostać członkiem QA lub analitykiem, jeśli pomoże to Zespołowi osiągnąć cel, jakim jest oddanie produktu zgodnego z oczekiwaniami jego Właściciela. Kiedyś w projekcie od wyceny do wdrożenia, obecnie pracuje nad produktem płatności mobilnych. Nieustannie zdobywa doświadczenie podczas pracy nad systemami dla sektora finansowego (bankowości internetowe, płatności mobilne) i telekomunikacyjnego. Najczęściej pracuje z technologiami: Spring, Hibernate, Web Services, JBoss Drools oraz szeroko rozumianą Javą EE."
