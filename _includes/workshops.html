@@ -17,28 +17,23 @@
 
         {% assign prowadzacy = site.data.prowadzacy[warsztat.prowadzacy] %}
         {% assign lokalizacja = site.data.lokalizacje[warsztat.lokalizacja] %}
-        
+
+        {% assign button_class = 'btn btn-xl' %}
         {% if warsztat.type %}
-        <div class="col-md-4 col-sm-6 portfolio-item">
-          <a href="{{ warsztat.meetup_link }}" class="portfolio-link">
-              <div class="portfolio-hover">
-                  <div class="portfolio-hover-content">
-                      <h2><i class="fa fa-user fa-2x"></i><br>{{ prowadzacy.name }}</h2>
-                  </div>
-              </div>
-              <img src="{{ prowadzacy.img | prepend: site.baseurl}}" class="img-responsive" alt="">
-          </a>
-          <div class="portfolio-caption">
-            <h4><font color="#fed136">{{ warsztat.event_date }} - {{ lokalizacja.miasto }}</font></h4>
-                      <h4>{{ warsztat.title }}</h4>
-                      <p class="text-muted">{{ warsztat.cena }}</p>
-            <br>
-            <a href="{{ warsztat.meetup_link }}" class="portfolio-link"><button type="submit" class="btn btn-xl">MEETUP</button></a>
-            </div>
-        </div>
+          {% if warsztat.type == 'meetup' %}
+            {% assign button_text = 'MEETUP' %}
+            {% assign event_link = warsztat.meetup_link %}
+          {% elsif warsztat.type == 'planowane' %}
+            {% assign button_text = 'Rejestracja wkrótce' %}
+            {% assign event_link = '#' %}
+            {% assign button_class = 'btn btn-xl workshop-future' %}
+          {% endif %}
         {% else %}
+          {% assign button_text = 'ZAREJESTRUJ SIĘ' %}
+          {% assign event_link = warsztat.url %}
+        {% endif %}
         <div class="col-md-4 col-sm-6 portfolio-item">
-          <a href="{{ warsztat.url }}" class="portfolio-link">
+          <a href="{{ event_link }}" class="portfolio-link">
               <div class="portfolio-hover">
                   <div class="portfolio-hover-content">
                       <h2><i class="fa fa-user fa-2x"></i><br>{{ prowadzacy.name }}</h2>
@@ -51,10 +46,13 @@
                       <h4>{{ warsztat.title }}</h4>
                       <p class="text-muted">{{ warsztat.cena }}</p>
             <br>
-            <a href="{{ warsztat.url }}" class="portfolio-link"><button type="submit" class="btn btn-xl">ZAREJESTRUJ SIĘ</button></a>
+            <a href="{{ event_link }}" class="portfolio-link"><button type="submit" class="{{ button_class }}">{{ button_text }}</button></a>
+            {% if warsztat.sponsor %}
+              <p class="text-muted">Sponsor:</p>
+              <img src="{{ warsztat.sponsor | prepend: site.baseurl }}"></a>
+            {% endif %}
             </div>
         </div>
-        {% endif %}
       {% endfor %}
 
     </div>

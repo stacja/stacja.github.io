@@ -1002,3 +1002,7 @@ h4 .fa {
   color: #fed136;
   font-size: 30px;
 }
+.workshop-future,  .workshop-future:hover, .workshop-future:active, .workshop-future:focus {
+  background-color: #8a6d3b;
+  border-color: #8a6d3b;
+}
