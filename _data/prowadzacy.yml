@@ -56,4 +56,8 @@ kiezynski:
 pajak:
   name: "Tomek Pająk"
   img: /img/portfolio/tp.png
-  desc: "na co dzień programista, team leader, architekt lub Scrum Master - w zależności od bieżących potrzeb. Nie boi się również zostać członkiem QA lub analitykiem, jeśli pomoże to Zespołowi osiągnąć cel, jakim jest oddanie produktu zgodnego z oczekiwaniami jego Właściciela. Kiedyś w projekcie od wyceny do wdrożenia, obecnie pracuje nad produktem płatności mobilnych. Nieustannie zdobywa doświadczenie podczas pracy nad systemami dla sektora finansowego (bankowości internetowe, płatności mobilne) i telekomunikacyjnego. Najczęściej pracuje z technologiami: Spring, Hibernate, Web Services, JBoss Drools oraz szeroko rozumianą Javą EE."
+  desc: "doświadczony trener z ponad 9 letnim doświadczeniem na sali szkoleniowej. Od wielu lat aktywnie pracuje jako konsultant i programista. Specjalizuje się w technologiach Java oraz natywnych rozwiązaniach mobilnych (Android i iOS). Absolwent wydziału Fizyki Technicznej Politechniki Poznańskiej na specjalności Symulacje Komputerowe."
+andrzejewski:  
+  name: "Łukasz Andrzejewski"
+  img: /img/portfolio/ła.jpg
+  desc: "doświadczony trener z ponad 9 letnim doświadczeniem na sali szkoleniowej. Od wielu lat aktywnie pracuje jako konsultant i programista. Specjalizuje się w technologiach Java oraz natywnych rozwiązaniach mobilnych (Android i iOS). Absolwent wydziału Fizyki Technicznej Politechniki Poznańskiej na specjalności Symulacje Komputerowe."
