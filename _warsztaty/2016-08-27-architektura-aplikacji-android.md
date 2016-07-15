@@ -8,7 +8,7 @@ lokalizacja: Poznan
 prowadzacy: andrzejewski
 dlugosc: 9:00-17:00
 evenea_link: "https://android.evenea.pl/?out=1&source=event_iframe"
-cena: bezpłatnie
+cena: Rejestracja bezpłatna
 slideshare:
 opis:
   informacje: |
