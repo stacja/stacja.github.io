@@ -61,3 +61,7 @@ andrzejewski:
   name: "Łukasz Andrzejewski"
   img: /img/portfolio/ła.jpg
   desc: "doświadczony trener z ponad 9 letnim doświadczeniem na sali szkoleniowej. Od wielu lat aktywnie pracuje jako konsultant i programista. Specjalizuje się w technologiach Java oraz natywnych rozwiązaniach mobilnych (Android i iOS). Absolwent wydziału Fizyki Technicznej Politechniki Poznańskiej na specjalności Symulacje Komputerowe."
+kobylinski:  
+  name: "Łukasz Kobyliński"
+  img: /img/portfolio/łk.jpg
+  desc: "posiada wieloletnie doświadczenie z zagadnieniami uczeniami maszynowego i eksploracji danych. Jest adiunktem w Instytucie Podstaw Informatyki Polskiej Akademii Nauk, gdzie zajmuje się problematyką przetwarzania języka naturalnego i ekstrakcji danych z tekstu. Realizował projekty związane z ujednoznacznianiem sensów słów, identyfikacją jednostek nazewniczych i znakowaniem morfosyntaktycznym tekstów w języku polskim. Posiada również doświadczenie w obszarze przetwarzania obrazów i eksploracji baz obrazowych, a także doświadczenie projektowe, związane z językiem Python, Java i platformą Java Enterprise Edition."
