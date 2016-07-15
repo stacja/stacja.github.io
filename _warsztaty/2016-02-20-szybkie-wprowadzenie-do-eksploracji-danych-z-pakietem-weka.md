@@ -18,13 +18,13 @@ opis:
 
     Podczas warsztatu warsztatu:
 
-    ✔ dowiesz się czym jest eksploracja danych i uczenie maszynowe oraz kiedy można stosować ich poszczególne metody,
-    ✔ poznasz poszczególne etapy procesu eksploracji danych,
-    ✔ poznasz kluczowe metody uczenia maszynowego: najważniejsze algorytmy klasyfikacji, grupowania, selekcji atrybutów i odkrywania reguł asocjacyjnych,
-    ✔ poznasz kluczowe metody uczenia maszynowego: najważniejsze algorytmy klasyfikacji, grupowania, selekcji atrybutów i odkrywania reguł asocjacyjnych,
-    ✔ przeniesiemy konfigurację pipelinów do projektów przez nie budowanych, tak aby konfiguracja specyficna dla poszególnych projektów była odseparowana od kodu generującego joby i pipeliny,
-    ✔ w ciągu jednego dnia zdobędziesz niezbędną wiedzę, żeby rozpocząć korzystanie z pakietu Weka i w przyszłości pogłębiać swoje umiejętności we własnym zakresie.
-    ✔ napiszemy testy do naszych skryptów i DSLi.
+     - dowiesz się czym jest eksploracja danych i uczenie maszynowe oraz kiedy można stosować ich poszczególne metody,
+     - poznasz poszczególne etapy procesu eksploracji danych,
+     - poznasz kluczowe metody uczenia maszynowego: najważniejsze algorytmy klasyfikacji, grupowania, selekcji atrybutów i odkrywania reguł asocjacyjnych,
+     - poznasz kluczowe metody uczenia maszynowego: najważniejsze algorytmy klasyfikacji, grupowania, selekcji atrybutów i odkrywania reguł asocjacyjnych,
+     - przeniesiemy konfigurację pipelinów do projektów przez nie budowanych, tak aby konfiguracja specyficna dla poszególnych projektów była odseparowana od kodu generującego joby i pipeliny,
+     - w ciągu jednego dnia zdobędziesz niezbędną wiedzę, żeby rozpocząć korzystanie z pakietu Weka i w przyszłości pogłębiać swoje umiejętności we własnym zakresie.
+     - napiszemy testy do naszych skryptów i DSLi.
 
     Uczestnicy nie muszą mieć wcześniejszego przygotowania programistycznego (wykorzystujemy interfejs okienkowy pakietu Weka), ani przygotowania w dziedzinie statystyki. Uczestnicy w trakcie zajęć korzystają z własnego sprzętu (możliwe jest wykorzystanie dowolnego systemu operacyjnego z maszyną wirtualną Java: Windows, Linux, OS X).
 
