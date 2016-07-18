@@ -65,3 +65,7 @@ kobylinski:
   name: "Łukasz Kobyliński"
   img: /img/portfolio/łk.jpg
   desc: "posiada wieloletnie doświadczenie z zagadnieniami uczeniami maszynowego i eksploracji danych. Jest adiunktem w Instytucie Podstaw Informatyki Polskiej Akademii Nauk, gdzie zajmuje się problematyką przetwarzania języka naturalnego i ekstrakcji danych z tekstu. Realizował projekty związane z ujednoznacznianiem sensów słów, identyfikacją jednostek nazewniczych i znakowaniem morfosyntaktycznym tekstów w języku polskim. Posiada również doświadczenie w obszarze przetwarzania obrazów i eksploracji baz obrazowych, a także doświadczenie projektowe, związane z językiem Python, Java i platformą Java Enterprise Edition."
+ratajczyk:  
+  name: "Bartosz Ratajczyk"
+  img: /img/portfolio/br.jpg
+  desc: "konsultant SQL Server związany z 7N. Programista aplikacji i baz danych, ze szczególnym naciskiem na SQL Server i C#. Fan automatyzowania powtarzalnych czynności i szukania sposobów przyspieszania zbyt wolnych zapytań do baz danych. Ostatnie dziesięć lat spędził na tworzeniu i rozwoju systemów raportujących i rozliczających oraz hurtowni danych opartych głównie o technologie Microsoft. Posiada certyfikaty MCTS SQL Server oraz MCSE Data Platform. Autoryzowany trener Microsoft. Prelegent na warszawskiej grupie PLSSUG."
