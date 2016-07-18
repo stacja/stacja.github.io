@@ -53,7 +53,7 @@ function initialize() {
         title:"Gdańsk"
     });
     	var marker5 = new google.maps.Marker({
-        position: new google.maps.LatLng(52.4004458,16.7615836),
+        position: new google.maps.LatLng(52.4331275,16.7608965),
         map: map,
         title:"Poznań"
     });
