@@ -73,3 +73,7 @@ stolecki:
   name: "Grzegorz Stolecki"
   img: /img/portfolio/gs.jpg
   desc: "ekspert w dziedzinie Business Intelligence posiadający 20 lat doświadczeń. Pracował jako architekt, developer i trener. Obecnie zajmuje się projektowaniem specjalizowanych rozwiazań analityczno raportujących dla dużych i średnich przedsiębiorstw. Pracuje również nad aplikacjami controllingowymi służącymi do planowania finansowego oraz budżetowania. Obecnie współpracuje jako konsultant z firmą JCommerce oraz trener w Centrum Szkoleniowym Comarch. Jest jednym z liderów Polskiej Grupy Użytkowników SQL Server (PLSSUG). Aktywny prelegent i uczestnik spotkań oraz konferencji."
+stankiewicz:  
+  name: "Radosław Stankiewicz"
+  img: /img/portfolio/rs.jpg
+  desc: "jest specjalistą IT z szerokim zapleczem teoretycznym i praktycznym. Od 2006 roku zdobywa doświadczenia w różnych dziedzinach - od technologii mobilnych do JEE - a wszystko to w całej różnorodności projektów i środowisk m.in. bankowości, telekomunikacji, sektorze publicznym. Aktualnie pracuje na stanowisku IT Expert w Banku Zachodnim WBK S.A., gdzie rozwija frontend Bankowości Elektronicznej oraz platformę Big Data."
