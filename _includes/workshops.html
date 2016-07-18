@@ -46,6 +46,9 @@
             {% endcase %}
             {{ warsztat.event_date | date: "%Y" }}
             {% endcapture %}
+          {% else %}
+              {% assign button_text = 'ZAREJESTRUJ SIĘ' %}
+              {% assign event_link = warsztat.url %}
           {% endif %}
         {% else %}
           {% assign button_text = 'ZAREJESTRUJ SIĘ' %}

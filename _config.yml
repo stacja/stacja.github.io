@@ -35,3 +35,6 @@ defaults:
       type: warsztaty
    values:
       layout: event
+
+exclude:
+    - node_modules

@@ -6,6 +6,7 @@ event_date: 2016-10-08
 title: "Akademia Trenera - Train The Trainer"
 lokalizacja: Sages
 prowadzacy: nazimek
+type: akademia
 dlugosc: 2 dni
 evenea_link: "https://trainthetrainer102016.evenea.pl/?out=1&source=event_iframe"
 cena: Rejestracja bezpłatna
