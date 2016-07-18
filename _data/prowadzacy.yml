@@ -69,3 +69,7 @@ ratajczyk:
   name: "Bartosz Ratajczyk"
   img: /img/portfolio/br.jpg
   desc: "konsultant SQL Server związany z 7N. Programista aplikacji i baz danych, ze szczególnym naciskiem na SQL Server i C#. Fan automatyzowania powtarzalnych czynności i szukania sposobów przyspieszania zbyt wolnych zapytań do baz danych. Ostatnie dziesięć lat spędził na tworzeniu i rozwoju systemów raportujących i rozliczających oraz hurtowni danych opartych głównie o technologie Microsoft. Posiada certyfikaty MCTS SQL Server oraz MCSE Data Platform. Autoryzowany trener Microsoft. Prelegent na warszawskiej grupie PLSSUG."
+stolecki:  
+  name: "Grzegorz Stolecki"
+  img: /img/portfolio/gs.jpg
+  desc: "ekspert w dziedzinie Business Intelligence posiadający 20 lat doświadczeń. Pracował jako architekt, developer i trener. Obecnie zajmuje się projektowaniem specjalizowanych rozwiazań analityczno raportujących dla dużych i średnich przedsiębiorstw. Pracuje również nad aplikacjami controllingowymi służącymi do planowania finansowego oraz budżetowania. Obecnie współpracuje jako konsultant z firmą JCommerce oraz trener w Centrum Szkoleniowym Comarch. Jest jednym z liderów Polskiej Grupy Użytkowników SQL Server (PLSSUG). Aktywny prelegent i uczestnik spotkań oraz konferencji."
