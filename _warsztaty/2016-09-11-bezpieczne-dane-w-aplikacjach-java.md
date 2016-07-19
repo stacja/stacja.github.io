@@ -1,13 +1,15 @@
 ---
 # Data dodania informacji o wydarzeniu
-date: 2016-07-19
+date: 2016-07-18
 # Data wydarzenia
-event_date: 2016-09-11
+event_date: 2016-05-20
 title: "Bezpieczne dane w aplikacjach Java"
-lokalizacja: Sages
+lokalizacja: COWorKING
 prowadzacy: nazimek
-type: planowane
+evenea_link: "https://java.evenea.pl/?out=1&source=event_iframe"
+cena: 219 PLN
 slideshare:
+quote: Bardzo dobre przykłady i anegdoty. Wszystko było super!
 opis:
   informacje: |
    Zastanawiasz się jak prawidłowo przechowywać hasła użytkowników wbazie czy serializować obiekty aby były bezpieczne?
