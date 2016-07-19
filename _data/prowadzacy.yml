@@ -77,3 +77,7 @@ stankiewicz:
   name: "Radosław Stankiewicz"
   img: /img/portfolio/rs.jpg
   desc: "jest specjalistą IT z szerokim zapleczem teoretycznym i praktycznym. Od 2006 roku zdobywa doświadczenia w różnych dziedzinach - od technologii mobilnych do JEE - a wszystko to w całej różnorodności projektów i środowisk m.in. bankowości, telekomunikacji, sektorze publicznym. Aktualnie pracuje na stanowisku IT Expert w Banku Zachodnim WBK S.A., gdzie rozwija frontend Bankowości Elektronicznej oraz platformę Big Data."
+harasymczuk:  
+  name: "Matt Harasymczuk"
+  img: /img/portfolio/mh.png
+  desc: "pracuje jako Agile Coach w MattAgile.com oraz Architekt Procesów w Centralnym Ośrodku Informatyki powołanym przez Ministra Spraw Wewnętrznych. Wcześniej miał przyjemność współpracować z Grupą Allegro. Ponadto na codzień pomaga dużym i małym organizacjom rządowym, firmom i start-upom przy wdrażaniu zwinnych procesów wytwarzania oprogramowania oraz dobrych praktyk. Będąc osobą techniczną poznał wiele technik, metryk i metod inżynierii software’u takich jak XP, CI, CD, TDD, BDD, CR, Clean Code i Software Craftsmanship. Ostatnio jednak większość swojego czasu poświęca pracy z kadrą zarządzającą, aby pomóc jej w dostrzeżeniu zalet w podejściu zwinnym do wytwarzania oprogramowania."
