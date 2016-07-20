@@ -22,7 +22,7 @@ opis:
      - usystematyzować pojęcia Scrumowe względem filozofii Agile,
      - zabrać do swojego środowiska pracy serię szybkich ćwiczeń obrazujących istotę zwinności i korzyści takiego podejścia do wytwarzania oprogramowania.
 
-    WWarsztat kierowany jest do wszystkich chcących zrozumieć istotę zwinnych metod pracy na podstawie wprowadzenia do elementów metody Scrum i XP. Wymagane jest jednak minimalne doświadczenie w pracy z produktami IT - zapraszam developerów, menedżerów, specjalistów kadr i klientów zwinnych zespołów. Uczestnicy nie będą korzystali ze sprzętu komputerowego, elementy praktyczne nie wymagają zaawansowanej wiedzy programistycznej, a poziom języka specjalistycznego zostanie dostosowany do Państwa wiedzy.
+    Warsztat kierowany jest do wszystkich chcących zrozumieć istotę zwinnych metod pracy na podstawie wprowadzenia do elementów metody Scrum i XP. Wymagane jest jednak minimalne doświadczenie w pracy z produktami IT - zapraszam developerów, menedżerów, specjalistów kadr i klientów zwinnych zespołów. Uczestnicy nie będą korzystali ze sprzętu komputerowego, elementy praktyczne nie wymagają zaawansowanej wiedzy programistycznej, a poziom języka specjalistycznego zostanie dostosowany do Państwa wiedzy.
   program: |
     1. Agile Software Development.
        1. Idea metodyk Zwinnych w kontekście przemysłu software’go.

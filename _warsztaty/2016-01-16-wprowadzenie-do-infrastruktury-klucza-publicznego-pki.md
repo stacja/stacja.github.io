@@ -12,13 +12,13 @@ cena: 219 PLN
 slideshare:
 opis:
   informacje: |
-   Zdobądź umiejętność stosowania algorytmów zapewniających ochronę informacji w systemach komputerowych - obecnie niezbędny warsztat dla każdego programisty, wdrożeniowca czy administratora - podczas jednodniowych warsztatów hands-on z ekspertem Sages!
+    Zdobądź umiejętność stosowania algorytmów zapewniających ochronę informacji w systemach komputerowych - obecnie niezbędny warsztat dla każdego programisty, wdrożeniowca czy administratora - podczas jednodniowych warsztatów hands-on z ekspertem Sages!
 
     Podczas warsztatów:
-    - dowiesz się jakie są podstawowe usługi ochrony informacji,
-    - poznasz zasady użycia różnych algorytmów kryptograficznych,
-    - nauczysz się przygotowywać repozytoria z kluczami i certyfikatami,
-    - uruchomisz własne centrum certyfikacji, a wystawione certyfikaty użyjesz do uwierzytelnienia serwera i klienta w protokole SSL (TLS).
+     - dowiesz się jakie są podstawowe usługi ochrony informacji,
+     - poznasz zasady użycia różnych algorytmów kryptograficznych,
+     - nauczysz się przygotowywać repozytoria z kluczami i certyfikatami,
+     - uruchomisz własne centrum certyfikacji, a wystawione certyfikaty użyjesz do uwierzytelnienia serwera i klienta w protokole SSL (TLS).
 
     Od uczestników wymagana jest podstawowa znajomość Javy oraz basha. Uczestnicy w trakcie zajęć korzystają z własnego sprzętu (wymagany komputer z systemem Linux lub Windows).
 

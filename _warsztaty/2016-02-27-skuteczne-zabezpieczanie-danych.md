@@ -12,15 +12,15 @@ cena: 219 PLN
 slideshare:
 opis:
   informacje: |
-   Dowiedz się jak skutecznie chronić dane przechowywane na dyskach i przesyłane w sieci - taka wiedza jest dziś niezbędna dla każdej osoby, która wykorzystuje komputer w codziennej pracy, komunikacji czy rozrywce. Bez względu na to czy jesteś programistą, dziennikarzem, handlowcem czy szefową kadr skorzystaj z warsztatów podczas których przećwiczysz skuteczne zabezpieczanie swoich danych!
+    Dowiedz się jak skutecznie chronić dane przechowywane na dyskach i przesyłane w sieci - taka wiedza jest dziś niezbędna dla każdej osoby, która wykorzystuje komputer w codziennej pracy, komunikacji czy rozrywce. Bez względu na to czy jesteś programistą, dziennikarzem, handlowcem czy szefową kadr skorzystaj z warsztatów podczas których przećwiczysz skuteczne zabezpieczanie swoich danych!
 
-   Podczas warsztatów:
-    - zobaczysz jak łatwo podsłuchać Twoją komunikację i podszyć się pod Ciebie w sieci,
-    - zrozumiesz jakimi technikami zabezpiecza się dane elektroniczne,
-    - dowiesz się jak prawidłowo weryfikować bezpieczeństwo połączenia ze swoim bankiem lub innym serwisem internetowym (certyfikaty),
-    - nauczysz się zabezpieczać swoje dane na całej drodze od nadawcy do odbiorcy za pomocą GnuPG stosując podpis elektroniczny oraz szyfrowanie,
-    - utworzysz szyfrowany dysk używając TrueCrypt/VeraCrypt,
-    - zwiększysz bezpieczeństwo przechowywania swoich haseł stosując menadżera haseł KeePass.
+    Podczas warsztatów:
+     - zobaczysz jak łatwo podsłuchać Twoją komunikację i podszyć się pod Ciebie w sieci,
+     - zrozumiesz jakimi technikami zabezpiecza się dane elektroniczne,
+     - dowiesz się jak prawidłowo weryfikować bezpieczeństwo połączenia ze swoim bankiem lub innym serwisem internetowym (certyfikaty),
+     - nauczysz się zabezpieczać swoje dane na całej drodze od nadawcy do odbiorcy za pomocą GnuPG stosując podpis elektroniczny oraz szyfrowanie,
+     - utworzysz szyfrowany dysk używając TrueCrypt/VeraCrypt,
+     - zwiększysz bezpieczeństwo przechowywania swoich haseł stosując menadżera haseł KeePass.
 
     Od uczestników wymagana jest podstawowa znajomość obsługi komputera. Uczestnicy w trakcie zajęć korzystają z własnego sprzętu (wymagany komputer z systemem Linux lub Windows z prawami administratora).
 

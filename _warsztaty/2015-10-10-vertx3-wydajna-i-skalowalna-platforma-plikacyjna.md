@@ -25,7 +25,7 @@ opis:
 
     Wydarzenie adresowane do programistów, którzy chcą przekonać się w praktyce na czym polega efektywność w programowaniu aplikacji we frameworku AngularJS i zdobyć wiedzę potrzebną do rozpoczęcia pracy z tym narzędziem.
 
-   Uczestnicy w trakcie zajęć korzystają z własnego sprzętu. Każdy uczestnik otrzymuje certyfikat uczestnictwa w warsztatach w formie elektronicznej.
+    Uczestnicy w trakcie zajęć korzystają z własnego sprzętu. Każdy uczestnik otrzymuje certyfikat uczestnictwa w warsztatach w formie elektronicznej.
                                        
   program: |
     1. Przezentacja w wprowadzająca do Vert.x w wersji 3.
