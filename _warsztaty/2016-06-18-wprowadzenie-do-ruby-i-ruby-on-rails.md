@@ -13,7 +13,7 @@ opis:
   informacje: |
     Dowiedz się jak szybko tworzyć aplikacje webowe przy użyciu frameworka Ruby on Rails. Poznaj technologię, którą wybierają startupy aby zbudować Minimum Viable Product. Przekonaj się że Ruby to język który na pierwszym miejscu stawia szczęście programisty.
 
-    Szkolenie adresowane jest do programistów, którzy mają doświadczenie z dowolnym innym rozwiązaniem do tworzenia aplikacji webowych i chcieliby poznać framework Ruby on Rails kompletnie od podstaw.
+    Warsztat adresowany jest do programistów, którzy mają doświadczenie z dowolnym innym rozwiązaniem do tworzenia aplikacji webowych i chcieliby poznać framework Ruby on Rails kompletnie od podstaw.
 
     *Podczas warsztatów*
     - poznasz podstawowe elementy składni języka Ruby,

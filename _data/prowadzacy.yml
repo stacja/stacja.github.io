@@ -81,3 +81,7 @@ harasymczuk:
   name: "Matt Harasymczuk"
   img: /img/portfolio/mh.png
   desc: "pracuje jako Agile Coach w MattAgile.com oraz Architekt Procesów w Centralnym Ośrodku Informatyki powołanym przez Ministra Spraw Wewnętrznych. Wcześniej miał przyjemność współpracować z Grupą Allegro. Ponadto na codzień pomaga dużym i małym organizacjom rządowym, firmom i start-upom przy wdrażaniu zwinnych procesów wytwarzania oprogramowania oraz dobrych praktyk. Będąc osobą techniczną poznał wiele technik, metryk i metod inżynierii software’u takich jak XP, CI, CD, TDD, BDD, CR, Clean Code i Software Craftsmanship. Ostatnio jednak większość swojego czasu poświęca pracy z kadrą zarządzającą, aby pomóc jej w dostrzeżeniu zalet w podejściu zwinnym do wytwarzania oprogramowania."
+sulkowski: 
+  name: Tomek Sułkowski
+  img: /img/portfolio/angular.png
+  desc: "pracę z technologiami webowymi rozpoczął w 2004 roku jako full-stack developer. Specjalizuje się w tematyce front-endowej (CSS3, JavaScript, AngularJS, React) oraz w zagadnieniach związanych z tworzeniem użytecznych interfejsów użytkownika (frameworki UI i projektowanie UX). Jego pasją jest poszerzanie i dzielenie się wiedzą dotyczącą dynamicznie rozwijających się technik wykorzystywanych przy budowaniu aplikacji przeglądarkowych. Skupia się na opracowywaniu dobrych praktyk umożliwiających realizację tych zadań w sposób pragmatyczny i elegancki"
