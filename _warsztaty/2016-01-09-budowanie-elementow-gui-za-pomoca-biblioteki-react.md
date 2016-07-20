@@ -13,10 +13,10 @@ opis:
   informacje: |
     Zapoznaj się z możliwościami biblioteki React podczas jednodniowych warsztatów z ekspertem Sages!
 
-    *Podczas warsztatów*
-    - sprawnie i szybko rozpocząć projekt wykorzystujący React,
-    - utworzyć wydajne środowisko do rozwoju aplikacji webowych,
-    - w prosty sposób zaimplementować atrakcyjne elementy interfejsu użytkownika.
+    Podczas warsztatów
+     - sprawnie i szybko rozpocząć projekt wykorzystujący React,
+     - utworzyć wydajne środowisko do rozwoju aplikacji webowych,
+     - w prosty sposób zaimplementować atrakcyjne elementy interfejsu użytkownika.
     
     Od uczestników wymagana jest przynajmniej podstawowa znajomość języka JavaScript. Uczestnicy w trakcie zajęć korzystają z własnego sprzętu (wymagany komputer z min. 4GB RAM, preferowany system operacyjny: Linux / OS X).
 

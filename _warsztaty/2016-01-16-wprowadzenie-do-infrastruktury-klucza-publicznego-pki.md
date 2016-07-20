@@ -14,7 +14,7 @@ opis:
   informacje: |
    Zdobądź umiejętność stosowania algorytmów zapewniających ochronę informacji w systemach komputerowych - obecnie niezbędny warsztat dla każdego programisty, wdrożeniowca czy administratora - podczas jednodniowych warsztatów hands-on z ekspertem Sages!
 
-    *Podczas warsztatów:*
+    Podczas warsztatów:
     - dowiesz się jakie są podstawowe usługi ochrony informacji,
     - poznasz zasady użycia różnych algorytmów kryptograficznych,
     - nauczysz się przygotowywać repozytoria z kluczami i certyfikatami,

@@ -16,7 +16,7 @@ opis:
 
    Dowiedz się jak skutecznie chronić dane przetwarzane przez Twoje aplikacje. Nie wymyślaj własnych algorytmów ochrony podczas tworzenia oprogramowania - poznaj istniejące techniki zabezpieczania informacji, mechanizmy bezpieczeństwa i sposób ich wykorzystania na platformie Java w praktyce!
 
-    *Podczas warsztatów:*
+   Podczas warsztatów:
     - dowiesz się dlaczego należy zabezpieczać dane przetwarzane przez aplikacje,
     - nzrozumiesz jak działa Java Cryptography Extension i Security Manager,
     - poznasz techniki ochrony informacji i algorytmy, które je zapewniają,

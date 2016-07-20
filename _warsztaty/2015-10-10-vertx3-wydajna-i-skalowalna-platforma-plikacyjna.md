@@ -15,11 +15,11 @@ opis:
     
     Od uczestników wymagana jest:
 
-    - ogólna wiedza i umiejętność programowania w Javie,
-    - znajomość zagadnienia testowania jednostkowego i integracyjnego aplikacji,
-    - umiejętność używania narzędzia Maven i/lub Gradle,
-    - podstawowa znajomość JavaScript,
-    - obsługa Javy 8 w wybranym IDE.
+     - ogólna wiedza i umiejętność programowania w Javie,
+     - znajomość zagadnienia testowania jednostkowego i integracyjnego aplikacji,
+     - umiejętność używania narzędzia Maven i/lub Gradle,
+     - podstawowa znajomość JavaScript,
+     - obsługa Javy 8 w wybranym IDE.
 
     Polecane IDE - IntellJ IDEA&nbsp;(w wersji dowolnej - community lub enterprise).
 

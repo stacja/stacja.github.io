@@ -15,11 +15,11 @@ opis:
 
     Wydarzenie adresowane do programistów, którzy chcą przekonać się w praktyce na czym polega efektywność w programowaniu aplikacji we frameworku AngularJS i zdobyć wiedzę potrzebną do rozpoczęcia pracy z tym narzędziem.
 
-    *Podczas warsztatów*
-    - sprawnie i szybko rozpocząć projekt w architekturze MVC oparty na AngularJS,
-    - utworzyć wydajne środowisko do rozwoju aplikacji webowych,
-    - efektywnie wykorzystać bogaty wachlarz komponentów wbudowanych w AngularJS,
-    - w prosty sposób zaimplementować atrakcyjne elementy interfejsu użytkownika.
+    Podczas warsztatów:
+     - sprawnie i szybko rozpocząć projekt w architekturze MVC oparty na AngularJS,
+     - utworzyć wydajne środowisko do rozwoju aplikacji webowych,
+     - efektywnie wykorzystać bogaty wachlarz komponentów wbudowanych w AngularJS,
+     - w prosty sposób zaimplementować atrakcyjne elementy interfejsu użytkownika.
 
     Zapewniamy nielimitowany dostęp do pysznej kawy oraz lunch.
                      
