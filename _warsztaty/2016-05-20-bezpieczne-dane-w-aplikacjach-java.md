@@ -2,11 +2,13 @@
 # Data dodania informacji o wydarzeniu
 date: 2016-07-19
 # Data wydarzenia
-event_date: 2016-09-11
+event_date: 2016-05-20
 title: "Bezpieczne dane w aplikacjach Java"
 lokalizacja: Sages
 prowadzacy: nazimek
-type: planowane
+dlugosc: 9:00-17:00
+evenea_link: "https://java.evenea.pl/?out=1&source=event_iframe"
+cena: 219 PLN
 slideshare:
 opis:
   informacje: |

@@ -76,7 +76,7 @@ stolecki:
 stankiewicz:  
   name: "Radosław Stankiewicz"
   img: /img/portfolio/rs.jpg
-  desc: "jest specjalistą IT z szerokim zapleczem teoretycznym i praktycznym. Od 2006 roku zdobywa doświadczenia w różnych dziedzinach - od technologii mobilnych do JEE - a wszystko to w całej różnorodności projektów i środowisk m.in. bankowości, telekomunikacji, sektorze publicznym. Aktualnie pracuje na stanowisku IT Expert w Banku Zachodnim WBK S.A., gdzie rozwija frontend Bankowości Elektronicznej oraz platformę Big Data."
+  desc: "jest specjalistą IT z szerokim zapleczem teoretycznym i praktycznym. Od 2006 roku zdobywa doświadczenia w różnych dziedzinach - od technologii mobilnych przez JEE po wdrażanie platform Big Data - a wszystko to w całej różnorodności projektów i środowisk m.in. bankowości, telekomunikacji, sektorze publicznym i startupach."
 harasymczuk:  
   name: "Matt Harasymczuk"
   img: /img/portfolio/mh.png
@@ -85,3 +85,7 @@ sulkowski:
   name: Tomek Sułkowski
   img: /img/portfolio/angular.png
   desc: "pracę z technologiami webowymi rozpoczął w 2004 roku jako full-stack developer. Specjalizuje się w tematyce front-endowej (CSS3, JavaScript, AngularJS, React) oraz w zagadnieniach związanych z tworzeniem użytecznych interfejsów użytkownika (frameworki UI i projektowanie UX). Jego pasją jest poszerzanie i dzielenie się wiedzą dotyczącą dynamicznie rozwijających się technik wykorzystywanych przy budowaniu aplikacji przeglądarkowych. Skupia się na opracowywaniu dobrych praktyk umożliwiających realizację tych zadań w sposób pragmatyczny i elegancki"
+zdanowski: 
+  name: Bartek Zdanowski
+  img: /img/portfolio/bz.jpg
+  desc: "Na co dzień developer, tata i mąż. Posiada 11 lat doświadczenia jako zadowowy programista, w tym 9 lat jako programista Javy. Tworzy czysty kod i gasi pożary na produkcji. Pracuje w TouK. Od 4 edycji zasiada w Kapitule konferencji Confitura. Macza również palce w innej inicjatywie WJUG - Warsjawie. Bardzo lubi grać w squasha."
