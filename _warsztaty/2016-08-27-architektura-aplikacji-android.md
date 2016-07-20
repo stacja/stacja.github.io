@@ -4,7 +4,7 @@ date: 2016-07-15
 # Data wydarzenia
 event_date: 2016-08-27
 title: "Architektura aplikacji Android"
-lokalizacja: Poznan
+lokalizacja: SaleOmega
 prowadzacy: andrzejewski
 dlugosc: 9:00-17:00
 evenea_link: "https://android.evenea.pl/?out=1&source=event_iframe"
