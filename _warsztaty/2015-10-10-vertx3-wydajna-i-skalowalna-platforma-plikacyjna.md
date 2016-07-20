@@ -11,7 +11,7 @@ cena: 219 PLN
 slideshare:
 opis:
   informacje: |
-    Warsztat przeznaczony jest dla programistów z ogólną i ugruntowaną wiedzą na temat Javy, chcących poznać najnowsze narzędzie do tworzenia wydajnych i skalowalnych aplikacji backendowych.</strong></p>
+    Warsztat przeznaczony jest dla programistów z ogólną i ugruntowaną wiedzą na temat Javy, chcących poznać najnowsze narzędzie do tworzenia wydajnych i skalowalnych aplikacji backendowych.
     
     Od uczestników wymagana jest:
 
