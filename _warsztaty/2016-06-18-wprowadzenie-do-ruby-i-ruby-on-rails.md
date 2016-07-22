@@ -8,7 +8,7 @@ lokalizacja: COWorKING
 prowadzacy: niedzielski
 evenea_link: "https://WprowadzeniedoRuby.evenea.pl?out=1&source=event_iframe"
 cena: Rejestracja bezpłatna
-slideshare:
+slideshare: https://www.slideshare.net/secret/NKuU7t2NMsjTcb
 opis:
   informacje: |
     Dowiedz się jak szybko tworzyć aplikacje webowe przy użyciu frameworka Ruby on Rails. Poznaj technologię, którą wybierają startupy aby zbudować Minimum Viable Product. Przekonaj się że Ruby to język który na pierwszym miejscu stawia szczęście programisty.

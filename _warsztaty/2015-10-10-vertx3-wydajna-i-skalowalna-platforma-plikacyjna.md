@@ -8,7 +8,7 @@ lokalizacja: Sages
 prowadzacy: zdanowski
 evenea_link: "https://vertx.evenea.pl?out=1&source=event_iframe"
 cena: 219 PLN
-slideshare:
+slideshare: http://www.slideshare.net/sagespl/vertx-v3-high-performance-polyglot-application-toolkit
 opis:
   informacje: |
     Warsztat przeznaczony jest dla programistów z ogólną i ugruntowaną wiedzą na temat Javy, chcących poznać najnowsze narzędzie do tworzenia wydajnych i skalowalnych aplikacji backendowych.

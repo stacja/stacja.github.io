@@ -8,6 +8,7 @@ lokalizacja: Sages
 prowadzacy: kobylinski
 evenea_link: "https://weka.evenea.pl/?out=1&source=event_iframe"
 cena: 219 PLN
+sponsor: /img/logo.png
 slideshare: http://www.slideshare.net/sagespl/szybkie-wprowadzenie-do-eksploracji-danych-z-pakietem-weka
 opis:
   informacje: |

@@ -9,7 +9,8 @@ prowadzacy: nowacki
 dlugosc: 9:00-17:00
 evenea_link: "https://bigdata.evenea.pl/?out=1&source=event_iframe"
 cena: Rejestracja bezpłatna
-slideshare:
+sponsor: /img/logo.png
+slideshare: https://www.slideshare.net/secret/3d1SwqC7fzs3qQ
 opis:
   informacje: |
     Jesteś analitykiem lub programistą? Zastanawiasz się nad dalszym rozwojem w kierunku Big Data? Zrób pierwszy krok w kierunku poznania technologii Big Data i weź udział w jednodniowych warsztatach z jednym z wykładowców **nowego kierunku studiów podyplomowych Politechniki Warszawskiej** [Big Data - przetwarzanie i analiza dużych zbiorów danych!](http://datascience.ii.pw.edu.pl/bigdata.html)

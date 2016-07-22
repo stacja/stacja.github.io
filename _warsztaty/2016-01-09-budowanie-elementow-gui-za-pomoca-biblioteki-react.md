@@ -8,7 +8,7 @@ lokalizacja: Sages
 prowadzacy: sulkowski
 evenea_link: "https://react.evenea.pl?out=1&source=event_iframe"
 cena: 219 PLN
-slideshare:
+slideshare: http://www.slideshare.net/sagespl/budowa-elementw-gui-za-pomoc-biblioteki-react-szybki-start
 opis:
   informacje: |
     Zapoznaj się z możliwościami biblioteki React podczas jednodniowych warsztatów z ekspertem Sages!

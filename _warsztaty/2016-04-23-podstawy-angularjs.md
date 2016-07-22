@@ -8,7 +8,7 @@ lokalizacja: Sages
 prowadzacy: sulkowski
 evenea_link: "https://angularjs1.evenea.pl?out=1&source=event_iframe"
 cena: 219 PLN
-slideshare:
+slideshare: http://www.slideshare.net/sagespl/podstawy-angularjs
 opis:
   informacje: |
     Zapoznaj się z możliwościami frameworka AngularJS oraz narzędzi pomocnych przy budowie aplikacji internetowych w architekturze "Single-page application" podczas jednodniowych warsztatów hands-on!

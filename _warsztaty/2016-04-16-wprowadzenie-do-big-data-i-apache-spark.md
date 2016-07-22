@@ -8,7 +8,7 @@ lokalizacja: COWorKING
 prowadzacy: nowacki
 evenea_link: "https://apachespark3.evenea.pl?out=1&source=event_iframe"
 cena: 219 PLN
-slideshare:
+slideshare: http://www.slideshare.net/sagespl/wprowadzenie-do-big-data-i-apache-spark
 opis:
   informacje: |
     Stało się: Stacja IT zawitała do Trójmiasta! Na dobry początek ruszamy ze Sparkiem, wkrótce kolejne tematy. W ramach inauguracji #stacja3city warsztaty są bezpłatne.

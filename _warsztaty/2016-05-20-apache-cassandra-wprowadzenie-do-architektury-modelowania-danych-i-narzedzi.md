@@ -8,6 +8,7 @@ lokalizacja: Sages
 prowadzacy: migacz
 evenea_link: https://docker.evenea.pl?out=1&source=event_iframe
 cena: Rejestracja bezpłatna
+sponsor: /img/logos/semantive.png
 slideshare:
 opis:
   informacje: |
