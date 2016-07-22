@@ -8,7 +8,7 @@ lokalizacja: Sages
 prowadzacy: nazimek
 type: akademia
 dlugosc: 2 dni
-evenea_link: "https://trainthetrainer102016.evenea.pl/?out=1&source=event_iframe"
+evenea_link: https://trainthetrainer102016.evenea.pl/?out=1&source=event_iframe
 cena: Rejestracja bezpłatna
 sponsor: /img/logo.png
 slideshare:
