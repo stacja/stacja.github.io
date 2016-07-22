@@ -10,6 +10,7 @@ dlugosc: 9:00-17:00
 evenea_link: "https://java.evenea.pl/?out=1&source=event_iframe"
 cena: 219 PLN
 slideshare:
+quote: Bardzo dobre przykłady i anegdoty. Wszystko było super!
 opis:
   informacje: |
     Zastanawiasz się jak prawidłowo przechowywać hasła użytkowników wbazie czy serializować obiekty aby były bezpieczne?

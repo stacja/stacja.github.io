@@ -9,6 +9,7 @@ prowadzacy: nowacki
 evenea_link: "https://hadoop3.evenea.pl?out=1&source=event_iframe"
 cena: 219 PLN
 slideshare:
+quote: Ciekawe warsztaty. Polecam!
 opis:
   informacje: |
     Program warsztatu oferuje szybki przegląd podstawowych technologii z ekosystemu Apache Hadoop. Oprócz prezentacji, dla uczestników jest przygotowany warsztat, gdzie w praktyce będą mieli okazję samodzielnie eksplorować zbiory danych.

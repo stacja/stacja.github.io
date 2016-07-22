@@ -9,6 +9,7 @@ prowadzacy: szadkowski
 evenea_link: "https://userexperiencemvp.evenea.pl/?out=1&source=event_iframe"
 cena: 219 PLN
 slideshare:
+quote: Solidna porcja wiedzy nabytej w praktyce. Oby więcej takich merytorycznych warsztatów.
 opis:
   informacje: |
     Naucz się projektować aplikacje i usługi koncentrując się zarówno na potrzebach Twoich użytkowników, jak i na zarządzaniu strategicznym rozwoju produktu. Maksymalizuj szanse na jego sukces wykorzystując narzędzia Lean UX.

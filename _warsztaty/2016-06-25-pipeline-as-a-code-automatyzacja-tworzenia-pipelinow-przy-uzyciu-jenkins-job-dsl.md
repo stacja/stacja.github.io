@@ -9,6 +9,7 @@ prowadzacy: szymanski
 evenea_link: "https://pipelineasacode.evenea.pl/?out=1&source=event_iframe"
 cena: 219 PLN
 slideshare:
+quote: Bardzo dobry i praktyczny warsztat dla osób mających już kontakt z Jenkinsem.
 opis:
   informacje: |
     W obecnych czasach nie trzeba już chyba nikogo przekonywać jak ważna jest automatyzacja w procesie ciągłego dostarczania oprogramowania. Od dawna automatyzujemy wszelkie etapy ww. procesu, piszemy liczne testy automatyczne odpalane w ramach zautomatyzowanego procesu budowania aplikacji, którą następnie w sposób zautomatyzowany wdrażamy na środowiska, których provisioning również przebiega w sposób zautomatyzowany. Nawet nasza JIRA potrafi automatycznie utworzyć nowy branch w repozytorium kodu źródłowego w momencie gdy rozpoczynamy prace nad nowym zadaniem.

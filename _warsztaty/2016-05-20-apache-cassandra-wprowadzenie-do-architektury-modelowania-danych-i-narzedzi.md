@@ -10,6 +10,7 @@ evenea_link: https://docker.evenea.pl?out=1&source=event_iframe
 cena: Rejestracja bezpłatna
 sponsor: /img/logos/semantive.png
 slideshare:
+quote: Świetnie uporządkowane warsztaty. Każdy szczegół został omówiony.
 opis:
   informacje: |
     Zdobądź mocne podstawy niezbędne do prawidłowego modelowania własnych przypadków biznesowych podczas jednodniowych warsztatów hands-on!
