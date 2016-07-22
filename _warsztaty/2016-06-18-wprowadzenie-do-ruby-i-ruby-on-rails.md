@@ -15,11 +15,11 @@ opis:
 
     Warsztat adresowany jest do programistów, którzy mają doświadczenie z dowolnym innym rozwiązaniem do tworzenia aplikacji webowych i chcieliby poznać framework Ruby on Rails kompletnie od podstaw.
 
-    *Podczas warsztatów*
-    - poznasz podstawowe elementy składni języka Ruby,
-    - zrozumiesz fundamentalne założenia frameworka Ruby on Rails,
-    - zbudujesz swoją pierwszą aplikację w Ruby on Rails,
-    - nauczysz się korzystać z bogatego ekosystemu gemów (bibliotek).
+    Podczas warsztatów:
+     - poznasz podstawowe elementy składni języka Ruby,
+     - zrozumiesz fundamentalne założenia frameworka Ruby on Rails,
+     - zbudujesz swoją pierwszą aplikację w Ruby on Rails,
+     - nauczysz się korzystać z bogatego ekosystemu gemów (bibliotek).
 
     Uczestnicy w trakcie zajęć korzystają z własnego sprzętu (wymagany komputer z min. 4GB RAM, preferowany system operacyjny Linux / OS X).
   program: |

@@ -19,10 +19,10 @@ opis:
 
     Jaki proces projektowania aplikacji i usług z obszaru IT maksymalizuje szanse na opłacalność inwestycji? Zderzenie ze sobą dwóch modeli pracy, czyli User Centered Design wraz z podejściem typu Lean zaowocowało stworzeniem skutecznego sposobu opracowywania i weryfikacji efektywności rynkowej produktu przy jednoczesnej minimalizacji nakładów na rozwój i jego wdrożenie.
 
-    *Podczas warsztatów poznasz model projektowania Minimum Viable Product przy użyciu metody Story Mapping. Dzięki temu:*
-    - zapoznasz się z podstawami projektowania UX,
-    - nauczysz się patrzeć na produkty i usługi z obszaru IT z punktu widzenia Klienta końcowego,
-    - opanujesz podstawy metod weryfikacji biznesowej wizji i pomysłów na nowe funkcjonalności i usługi.
+    Podczas warsztatów poznasz model projektowania Minimum Viable Product przy użyciu metody Story Mapping. Dzięki temu: 
+     - zapoznasz się z podstawami projektowania UX,
+     - nauczysz się patrzeć na produkty i usługi z obszaru IT z punktu widzenia Klienta końcowego,
+     - opanujesz podstawy metod weryfikacji biznesowej wizji i pomysłów na nowe funkcjonalności i usługi.
 
   program: |
     1. Wprowadzenie.
