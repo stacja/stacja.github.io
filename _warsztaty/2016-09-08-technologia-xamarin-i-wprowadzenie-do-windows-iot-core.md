@@ -16,7 +16,7 @@ opis:
 
     Program warsztatu oferuje szybki przegląd technologii Xamarin oraz programowania aplikacji uniwersalnych na system Windows IoT. Oprócz prezentacji, dla uczestników jest przygotowany warsztat, gdzie w praktyce będą mieli okazję samodzielnie wykonać przygotowane zadania.
 
-    Od uczestników wymagana jest podstawowa wiedza z C#. Uczestnicy w trakcie zajęć korzystają z własnego sprzętu (wymagany komputer z min. 6GB RAM i procesorem Intel i5 lub nowszym/podobnym).
+    Od uczestników wymagana jest podstawowa wiedza z C#.
 
     Zapewniamy nielimitowany dostęp do pysznej kawy :)
 
@@ -24,7 +24,7 @@ opis:
     
     1. Wprowadzenie do Xamarin dla Visual Studio 2015 oraz Windows IoT.
     2. Xamarin na tle innych technologii cross-platform.
-       1.Zalety.
+       1. Zalety.
        2. Wady.
     3. Konfiguracja środowiska programistycznego.
        1. Utworzenie projektu w Visual Studio.
