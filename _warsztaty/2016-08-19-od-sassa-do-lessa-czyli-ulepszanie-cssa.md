@@ -4,7 +4,7 @@ date: 2016-07-13
 # Data wydarzenia
 event_date: 2016-08-19
 title: "Od SASSa do LESSa - czyli ulepszanie CSSa"
-lokalizacja: CreativeCoworking
+lokalizacja: SkladKreatywny
 prowadzacy: scira
 dlugosc: 9:00-17:00
 evenea_link: "https://sassless2.evenea.pl/?out=1&source=event_iframe"
