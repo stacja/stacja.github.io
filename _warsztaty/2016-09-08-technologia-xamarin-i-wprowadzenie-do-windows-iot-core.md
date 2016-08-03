@@ -9,6 +9,7 @@ prowadzacy: kiezynski
 dlugosc: 18:00-21:00
 evenea_link: "https://xamarin.evenea.pl/?out=1&source=event_iframe"
 cena: Rejestracja bezpłatna
+sponsor: /img/logo.png
 slideshare:
 opis:
   informacje: |

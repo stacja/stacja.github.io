@@ -9,6 +9,7 @@ prowadzacy: andrzejewski
 dlugosc: 9:00-17:00
 evenea_link: "https://android1.evenea.pl/?out=1&source=event_iframe"
 cena: Rejestracja bezpłatna
+sponsor: /img/logo.png
 slideshare:
 opis:
   informacje: |
