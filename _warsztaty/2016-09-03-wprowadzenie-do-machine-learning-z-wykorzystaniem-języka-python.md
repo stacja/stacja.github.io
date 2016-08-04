@@ -17,6 +17,8 @@ opis:
 
     Nie ma żadnych wielkich wymagań na wejściu, nie trzeba znać Python'a, nie będziemy Was zasypywać mrowiem skomplikowanych wzorów matematycznych. Warsztat jest przeznaczony dla każdej osoby, która chce się zapoznać z niesamowitym światem Machine Learning - uczenia maszynowego.
 
+    Zapewniamy nielimitowany dostęp do pysznej kawy oraz pizzę. ☺
+
   program: |
     1. Wstęp.
     2. Bezbolesne wprowadzenie do uczenia maszynowego.
