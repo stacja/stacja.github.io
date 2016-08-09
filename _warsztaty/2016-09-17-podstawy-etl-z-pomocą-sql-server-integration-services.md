@@ -6,7 +6,10 @@ event_date: 2016-09-17
 title: "Podstawy ETL z pomocą SQL Server Integration Services"
 lokalizacja: Sages
 prowadzacy: ratajczyk
-type: planowane
+dlugosc: 9:00-17:00
+evenea_link: "https://ETLSQL.evenea.pl/?out=1&source=event_iframe"
+cena: Rejestracja bezpłatna
+sponsor: /img/logo.png
 slideshare:
 opis:
   informacje: |
