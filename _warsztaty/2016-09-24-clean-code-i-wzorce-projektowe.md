@@ -6,7 +6,10 @@ event_date: 2016-09-24
 title: "Clean Code + Wzorce Projektowe"
 lokalizacja: COWorKING
 prowadzacy: pajak
-type: planowane
+dlugosc: 9:00-17:00
+evenea_link: "https://cleancode.evenea.pl/?out=1&source=event_iframe"
+cena: Rejestracja bezpłatna
+sponsor: /img/logo.png
 slideshare:
 opis:
   informacje: |
