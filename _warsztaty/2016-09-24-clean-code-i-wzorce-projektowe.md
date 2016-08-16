@@ -24,28 +24,28 @@ opis:
     Szkolenie przeznaczone jest dla początkujących programistów Javy rozumiejących ideę programowania obiektowego. Podczas warsztatu nie będą poruszane tematy programowania funkcyjnego
 
   program: |
-    Wprowadzenie
-    Jakość kodu i jej ocena
-        Jak mierzyć jakość kodu źródłowego?
-        Code Smells
-        Antywzorce
-        Poprawianie jakości kodu
-        Dług techniczny
-    Techniki refaktoryzacji
-      Wprowadzenie
-      Tworzenie metod
-      Upraszczanie wywołań metod
-      Przenoszenie cech między obiektami
-      Organizacja i modelowanie danych
-      Upraszczanie wyrażeń warunkowych
-      Generalizacje
-    Wzorce projektowe
-      Wprowadzenie
-      Wzorce GoF
-          Kreacyjne
-          Strukturalne
-          Behawioralne
-    Podsumowanie
+    1. Wprowadzenie
+    2. Jakość kodu i jej ocena
+        1. Jak mierzyć jakość kodu źródłowego?
+        2. Code Smells
+        3. Antywzorce
+        4. Poprawianie jakości kodu
+        5. Dług techniczny
+    3. Techniki refaktoryzacji
+        1. Wprowadzenie
+        2. Tworzenie metod
+        3. Upraszczanie wywołań metod
+        4. Przenoszenie cech między obiektami
+        5. Organizacja i modelowanie danych
+        6. Upraszczanie wyrażeń warunkowych
+        7. Generalizacje
+    4. Wzorce projektowe
+        1. Wprowadzenie
+        2. Wzorce GoF
+          1. Kreacyjne
+          2. Strukturalne
+          3. Behawioralne
+    5. Podsumowanie
 
 
   uwaga: |
