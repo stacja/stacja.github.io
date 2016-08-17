@@ -19,7 +19,7 @@ opis:
 
     Z uwagi na warsztatowy charakter zajęć od uczestników wymagana jest podstawowa znajomość platformy Android. Wskazane jest przyniesienie własnego sprzętu - zrobimy wiele praktycznych przykładów. 
 
-    Zapewniamy pyszną kawę oraz lunch. ☺
+    Zapewniamy pyszną kawę oraz pizzę. ☺
 
   program: |
     1. Dlaczego architektura jest ważna?
