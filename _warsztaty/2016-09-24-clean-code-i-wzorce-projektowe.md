@@ -21,7 +21,9 @@ opis:
       rozumieć różne techniki refaktoryzacji i potrafić je stosować na kodzie niskiej jakości,
       rozumieć kontekst, w którym należy użyć danego wzorca projektowego i potrafić go zaimplementować.
 
-    Szkolenie przeznaczone jest dla początkujących programistów Javy rozumiejących ideę programowania obiektowego. Podczas warsztatu nie będą poruszane tematy programowania funkcyjnego
+    Szkolenie przeznaczone jest dla początkujących programistów Javy rozumiejących ideę programowania obiektowego. Podczas warsztatu nie będą poruszane tematy programowania funkcyjnego.
+
+    Uczestnicy w trakcie zajęć korzystają z własnego sprzętu. Zapewniamy pyszną kawę oraz pizzę. ☺
 
   program: |
     1. Wprowadzenie
