@@ -18,6 +18,8 @@ opis:
     Na szkoleniu postaramy się odpowiedzieć na pytanie czy jest dobra architektura, porównamy najbardziej popularne podejścia i pokażemy praktyczne przykłady ich zastosowania. 
 
     Z uwagi na warsztatowy charakter zajęć od uczestników wymagana jest podstawowa znajomość platformy Android. Wskazane jest przyniesienie własnego sprzętu - zrobimy wiele praktycznych przykładów. 
+    
+    Zapewniamy pyszną kawę oraz lunch. ☺
 
   program: |
     1. Dlaczego architektura jest ważna?
