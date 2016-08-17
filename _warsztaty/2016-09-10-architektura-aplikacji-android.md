@@ -19,6 +19,8 @@ opis:
 
     Z uwagi na warsztatowy charakter zajęć od uczestników wymagana jest podstawowa znajomość platformy Android. Wskazane jest przyniesienie własnego sprzętu - zrobimy wiele praktycznych przykładów. 
 
+    Zapewniamy pyszną kawę oraz lunch. ☺
+
   program: |
     1. Dlaczego architektura jest ważna?
     2. Złożoność aplikacji mobilnych.
