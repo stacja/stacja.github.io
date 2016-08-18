@@ -13,7 +13,7 @@ sponsor: /img/logo.png
 slideshare:
 opis:
   informacje: |
-    Szkolenie w sposób podstawowy opisuje tematykę "czystego kodu” (ang. clean code) oraz techniki refaktoryzacji. Rozpoczyna się ono od dyskusji na temat jakości kodu i metod, za pomocą których jesteśmy w stanie stwierdzić, że kod źródłowy jest niskiej jakości. Następnie, w skrócie przedstawione są zasady, którymi powinien kierować się programista w swojej pracy, by dążyć do kodu o wysokiej jakości. Pozostała część szkolenia to warsztaty z technik refaktoryzacji (m.in. kompozycja metod, upraszczanie wyrażeń warunkowych) oraz wybranych, najbardziej popularnych wzorców projektowych w oparciu o zbiór GoF (Gang-of-Four).
+    Warsztaty w sposób podstawowy opisuje tematykę "czystego kodu” (ang. clean code) oraz techniki refaktoryzacji. Rozpoczynają się od dyskusji na temat jakości kodu i metod, za pomocą których jesteśmy w stanie stwierdzić, że kod źródłowy jest niskiej jakości. Następnie, w skrócie przedstawione są zasady, którymi powinien kierować się programista w swojej pracy, by dążyć do kodu o wysokiej jakości. Pozostała część to warsztaty z technik refaktoryzacji (m.in. kompozycja metod, upraszczanie wyrażeń warunkowych) oraz wybranych, najbardziej popularnych wzorców projektowych w oparciu o zbiór GoF (Gang-of-Four).
 
     Po warsztacie uczestnik szkolenia będzie w stanie:
       ocenić jakość kodu źródłowego, z którym pracuje,
@@ -21,7 +21,7 @@ opis:
       rozumieć różne techniki refaktoryzacji i potrafić je stosować na kodzie niskiej jakości,
       rozumieć kontekst, w którym należy użyć danego wzorca projektowego i potrafić go zaimplementować.
 
-    Szkolenie przeznaczone jest dla początkujących programistów Javy rozumiejących ideę programowania obiektowego. Podczas warsztatu nie będą poruszane tematy programowania funkcyjnego.
+    Warsztaty przeznaczone są dla początkujących programistów Javy rozumiejących ideę programowania obiektowego. Podczas warsztatu nie będą poruszane tematy programowania funkcyjnego.
 
     Uczestnicy w trakcie zajęć korzystają z własnego sprzętu. Zapewniamy pyszną kawę oraz pizzę. ☺
 
