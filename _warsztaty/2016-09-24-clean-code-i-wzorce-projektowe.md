@@ -15,7 +15,7 @@ opis:
   informacje: |
     Warsztaty w sposób podstawowy opisuje tematykę "czystego kodu” (ang. clean code) oraz techniki refaktoryzacji. Rozpoczynają się od dyskusji na temat jakości kodu i metod, za pomocą których jesteśmy w stanie stwierdzić, że kod źródłowy jest niskiej jakości. Następnie, w skrócie przedstawione są zasady, którymi powinien kierować się programista w swojej pracy, by dążyć do kodu o wysokiej jakości. Pozostała część to warsztaty z technik refaktoryzacji (m.in. kompozycja metod, upraszczanie wyrażeń warunkowych) oraz wybranych, najbardziej popularnych wzorców projektowych w oparciu o zbiór GoF (Gang-of-Four).
 
-    Po warsztacie uczestnik szkolenia będzie w stanie:
+    Po warsztacie uczestnik będzie w stanie:
       ocenić jakość kodu źródłowego, z którym pracuje,
       wskazać w kodzie niedoskonałości, nazwać je i uargumentować, czemu negatywnie wpływają one na jakość aplikacji,
       rozumieć różne techniki refaktoryzacji i potrafić je stosować na kodzie niskiej jakości,
