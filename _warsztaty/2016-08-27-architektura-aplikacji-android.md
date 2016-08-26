@@ -24,16 +24,12 @@ opis:
   program: |
     1. Dlaczego architektura jest ważna?
     2. Złożoność aplikacji mobilnych.
-    3. Czysta architektura - różne nazwy jedna filozofia.
-    4. Podejście klasyczne czyli robisz to źle!
-    5. Model View Presenter.
-    6. Reactive android.
-    7. Model View View Model.
-    8. Model View Intent.
-    9. Flux.
-    10. V.I.P.E.R.
-    11. Square.
-    12. Is About Intent, not Frameworks
+    3. Czysta architektura.
+    4. Model View Presenter.
+    5. Reactive android.
+    6. Model View View Model.
+    7. Flux.
+    8. Is About intent, not frameworks.
   
   uwaga: |
     W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. **Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
