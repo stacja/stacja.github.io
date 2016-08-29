@@ -1,6 +1,6 @@
 ---
 # Data dodania informacji o wydarzeniu
-date: 2016-07-15
+date: 2016-07-16
 # Data wydarzenia
 event_date: 2016-08-27
 title: "Architektura aplikacji Android"
@@ -9,7 +9,6 @@ prowadzacy: andrzejewski
 dlugosc: 9:00-17:00
 evenea_link: "https://android.evenea.pl/?out=1&source=event_iframe"
 cena: Rejestracja bezpłatna
-sponsor: /img/logo.png
 slideshare:
 opis:
   informacje: |
