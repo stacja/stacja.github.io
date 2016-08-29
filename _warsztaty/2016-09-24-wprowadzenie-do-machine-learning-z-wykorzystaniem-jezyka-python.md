@@ -1,6 +1,6 @@
 ---
 # Data dodania informacji o wydarzeniu
-date: 2016-07-18
+date: 2016-08-29
 # Data wydarzenia
 event_date: 2016-09-24
 title: "Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
