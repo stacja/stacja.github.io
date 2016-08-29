@@ -9,7 +9,6 @@ prowadzacy: ratajczyk
 dlugosc: 9:00-17:00
 evenea_link: "https://ETLSQL.evenea.pl/?out=1&source=event_iframe"
 cena: Rejestracja bezpłatna
-sponsor: /img/logo.png
 slideshare:
 opis:
   informacje: |

@@ -9,7 +9,6 @@ prowadzacy: stolecki
 cena: Rejestracja bezpłatna
 dlugosc: 9:00-12:00
 evenea_link: "https://machinelearning.evenea.pl/?out=1&source=event_iframe"
-sponsor: /img/logo.png
 slideshare:
 opis:
   informacje: |
