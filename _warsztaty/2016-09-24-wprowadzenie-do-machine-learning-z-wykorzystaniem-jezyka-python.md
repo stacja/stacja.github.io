@@ -7,7 +7,7 @@ title: "Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
 lokalizacja: Sages
 prowadzacy: stolecki
 cena: Rejestracja bezpłatna
-dlugosc: 9:00-12:00
+dlugosc: 9:00-17:00
 evenea_link: "https://machinelearning.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
