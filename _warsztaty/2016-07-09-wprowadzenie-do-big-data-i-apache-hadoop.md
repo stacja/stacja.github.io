@@ -29,7 +29,6 @@ opis:
 
     Zapewniamy nielimitowany dostęp do pysznej kawy oraz pizzę. ☺
 	
-		Za użyczenie sali bardzo dziękujemy ![Image of SaleOmega](https://stacja.it/img/logos/saleomega.jpg)
 		
   program: |
     1. Wprowadzenie do Big Data.
