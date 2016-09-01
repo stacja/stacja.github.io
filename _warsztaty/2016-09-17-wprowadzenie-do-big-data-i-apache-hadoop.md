@@ -25,17 +25,12 @@ opis:
 
     Od uczestników wymagana jest podstawowa wiedza z SQLa, basha, Pythona (lub innego języka skryptowego) oraz Javy. Uczestnicy w trakcie zajęć korzystają z własnego sprzętu (wymagany komputer z min. 6GB RAM i procesorem Intel i5 lub nowszym/podobnym).
 
-<<<<<<< HEAD
     Zapewniamy nielimitowany dostęp do pysznej kawy oraz lunch. ☺
 	
 	Za użyczenie sali bardzo dziękujemy
-	
-	![Image of SaleOmega](https://stacja.it/img/logos/saleomega.jpg)
-		
-=======
-    Zapewniamy nielimitowany dostęp do pysznej kawy oraz lunch. ☺ 
+ 
     ![Image of SaleOmega](/img/logos/saleomega.jpg)
->>>>>>> origin/master
+
   program: |
     1. Wprowadzenie do Big Data.
        1. Czym jest Big Data, BigTable, MapReduce.
