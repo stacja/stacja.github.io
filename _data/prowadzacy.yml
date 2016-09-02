@@ -84,8 +84,13 @@ harasymczuk:
 sulkowski: 
   name: Tomek Sułkowski
   img: /img/portfolio/angular.png
-  desc: "pracę z technologiami webowymi rozpoczął w 2004 roku jako full-stack developer. Specjalizuje się w tematyce front-endowej (CSS3, JavaScript, AngularJS, React) oraz w zagadnieniach związanych z tworzeniem użytecznych interfejsów użytkownika (frameworki UI i projektowanie UX). Jego pasją jest poszerzanie i dzielenie się wiedzą dotyczącą dynamicznie rozwijających się technik wykorzystywanych przy budowaniu aplikacji przeglądarkowych. Skupia się na opracowywaniu dobrych praktyk umożliwiających realizację tych zadań w sposób pragmatyczny i elegancki"
+  desc: "pracę z technologiami webowymi rozpoczął w 2004 roku jako full-stack developer. Specjalizuje się w tematyce front-endowej (CSS3, JavaScript, AngularJS, React) oraz w zagadnieniach związanych z tworzeniem użytecznych interfejsów użytkownika (frameworki UI i projektowanie UX). Jego pasją jest poszerzanie i dzielenie się wiedzą dotyczącą dynamicznie rozwijających się technik wykorzystywanych przy budowaniu aplikacji przeglądarkowych. Skupia się na opracowywaniu dobrych praktyk umożliwiających realizację tych zadań w sposób pragmatyczny i elegancki."
 zdanowski: 
   name: Bartek Zdanowski
   img: /img/portfolio/bz.jpg
   desc: "Na co dzień developer, tata i mąż. Posiada 11 lat doświadczenia jako zadowowy programista, w tym 9 lat jako programista Javy. Tworzy czysty kod i gasi pożary na produkcji. Pracuje w TouK. Od 4 edycji zasiada w Kapitule konferencji Confitura. Macza również palce w innej inicjatywie WJUG - Warsjawie. Bardzo lubi grać w squasha."
+galka: 
+  name: Michał Gałka
+  img: /img/portfolio/mg.jpg
+  desc: "Inżynier oprogramowania, zajmujący się na co dzień systemami wbudowanymi, głównie programując w języku C. Doświadczenie zdobywał w wielu, często międzynarodowych, zespołach pracując w Polsce i poza nią. Z Pythonem związany od 8 lat, wykorzystuje go jako język skryptowy do automatyzacji i tworzenia narzędzi. Ma także doświadczenie w tworzeniu samodzielnych aplikacji opartych głównie o frameworki Django i Tornado. Bierze aktywny udział w działaniu grupy Python Łódź."
+
