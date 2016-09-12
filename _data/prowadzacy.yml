@@ -93,4 +93,7 @@ galka:
   name: Michał Gałka
   img: /img/portfolio/mg.jpg
   desc: "Inżynier oprogramowania, zajmujący się na co dzień systemami wbudowanymi, głównie programując w języku C. Doświadczenie zdobywał w wielu, często międzynarodowych, zespołach pracując w Polsce i poza nią. Z Pythonem związany od 8 lat, wykorzystuje go jako język skryptowy do automatyzacji i tworzenia narzędzi. Ma także doświadczenie w tworzeniu samodzielnych aplikacji opartych głównie o frameworki Django i Tornado. Bierze aktywny udział w działaniu grupy Python Łódź."
-
+jelski: 
+  name: Krzysztof Jelski
+  img: /img/portfolio/kj.jpg
+  desc: "Krzysztof organizuje i prowadzi szkolenia, przede wszystkim z zakresu zwinnych praktyk technicznych. Przeszkolił już wiele zespołów z Test-Driven Development czy z pracy z odziedziczonym kodem. Pomaga też znajdować i eliminować nieefektywności, szczególnie w zakresie definiowania wymagań. Pracuje w Pragmatists."
