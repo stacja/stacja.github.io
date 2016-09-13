@@ -5,10 +5,11 @@ date: 2016-09-12
 event_date: 2016-10-07
 title: "Pair Programming"
 lokalizacja: Sages
-prowadzacy: jelski
+prowadzacy: jelskipierzchala
 dlugosc: 18:00-21:00
+evenea_link: "https://pair.evenea.pl/?out=1&source=event_iframe"
 cena: Rejestracja bezpłatna
-type: planowane
+sponsor: /img/logos/pragmatists.png
 slideshare:
 opis:
   informacje: |
