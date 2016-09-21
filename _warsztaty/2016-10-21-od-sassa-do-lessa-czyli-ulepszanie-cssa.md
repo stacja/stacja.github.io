@@ -27,8 +27,6 @@ opis:
 
     Zapewniamy pyszną pizzę ☺
 
-    Za użyczenie sali bardzo dziękujemy ![Image of CreativeCoworking](/img/logos/cc.png)
-
   program: |
     1. Front¬end mobile.
        1. Wzorce do stosowania na urządzeniach mobilnych.
