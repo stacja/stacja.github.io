@@ -20,9 +20,9 @@ opis:
     Podczas warsztatu będzie okazja poćwiczyć Test Driven Development, zasady projektowania obiektowego i funkcyjnego oraz praktyki pisania czystego kodu.
 
     Tak było na poprzednich edycjach:
-![Image of Coderetreat 2015(http://www.agiledevelopmentday.pl/img/2015-coderetreat/CTw0vGjWUAAJiJW.jpg)
-
-![Image of Coderetreat 2014(http://www.agiledevelopmentday.pl/img/code/24.jpg)
+    
+    ![Image of Coderetreat 2015(http://www.agiledevelopmentday.pl/img/2015-coderetreat/CTw0vGjWUAAJiJW.jpg)
+    ![Image of Coderetreat 2014(http://www.agiledevelopmentday.pl/img/code/24.jpg)
 
     Uczestnicy w trakcie zajęć korzystają z własnego sprzętu.
     
