@@ -6,7 +6,6 @@ event_date: 2016-10-22
 title: "Global Day of Coderetreat 2016"
 lokalizacja: Sages
 prowadzacy: jelskipachowski
-type: planowane
 dlugosc: 09:00-17:00
 cena: Rejestracja bezpłatna
 evenea_link: "https://coderetreat16.evenea.pl/?out=1&source=event_iframe"
@@ -20,9 +19,7 @@ opis:
 
     Podczas warsztatu będzie okazja poćwiczyć Test Driven Development, zasady projektowania obiektowego i funkcyjnego oraz praktyki pisania czystego kodu.
     
-    Uczestnicy w trakcie zajęć korzystają z własnego sprzętu.
-    
-    Zapewniamy nielimitowany dostęp do pysznej kawy oraz pizzę. ☺ 
+    Uczestnicy w trakcie zajęć korzystają z własnego sprzętu. Zapewniamy nielimitowany dostęp do pysznej kawy oraz pizzę. ☺ 
 
     Tak było na poprzednich edycjach:
     ![Image of Coderetreat 2015](http://www.agiledevelopmentday.pl/img/2015-coderetreat/CTw0vGjWUAAJiJW.jpg)
@@ -30,7 +27,9 @@ opis:
 
   program:
     1. Wprowadzenie do Coderetreat
+    
     2. Sesje i retrospekcje
+    
     3. Retrospekcja końcowa
 
   uwaga: |
