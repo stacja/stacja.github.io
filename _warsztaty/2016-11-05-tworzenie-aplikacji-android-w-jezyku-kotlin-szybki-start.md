@@ -3,7 +3,7 @@
 date: 2016-09-21
 # Data wydarzenia
 event_date: 2016-11-05
-title: "Wprowadzenie do języka Kotlin"
+title: "Tworzenie aplikacji Android w języku Kotlin - szybki start"
 lokalizacja: SaleOmega
 prowadzacy: andrzejewski
 type: planowane
