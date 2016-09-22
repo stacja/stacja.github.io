@@ -8,7 +8,6 @@ lokalizacja: SaleOmega
 prowadzacy: andrzejewski
 type: planowane
 dlugosc: 9:00-17:00
-cena: bezpłatnie
 slideshare:
 opis:
   informacje: |

@@ -8,6 +8,7 @@ lokalizacja: COWorKING
 prowadzacy: scira
 dlugosc: 10:00-18:00
 evenea_link: "https://sasslodz.evenea.pl/?out=1&source=event_iframe"
+cena: 96 PLN
 slideshare:
 opis:
   informacje: |
