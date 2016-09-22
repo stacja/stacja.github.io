@@ -3,7 +3,7 @@
 date: 2016-09-21
 # Data wydarzenia
 event_date: 2016-10-22
-title: "Wprowadzenie do języka Kotlin"
+title: "Tworzenie aplikacji Android w języku Kotlin - szybki start"
 lokalizacja: Sages
 prowadzacy: andrzejewski
 dlugosc: 9:00-17:00
