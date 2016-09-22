@@ -9,6 +9,7 @@ prowadzacy: jelskipachowski
 type: planowane
 dlugosc: 09:00-17:00
 cena: Rejestracja bezpłatna
+evenea_link: "https://coderetreat16.evenea.pl/?out=1&source=event_iframe"
 sponsor: /img/logos/pragmatists.png
 slideshare:
 opis:
@@ -26,6 +27,11 @@ opis:
     Tak było na poprzednich edycjach:
     ![Image of Coderetreat 2015](http://www.agiledevelopmentday.pl/img/2015-coderetreat/CTw0vGjWUAAJiJW.jpg)
     ![Image of Coderetreat 2014](http://www.agiledevelopmentday.pl/img/code/24.jpg)
+
+  program:
+    1. Wprowadzenie do Coderetreat
+    2. Sesje i retrospekcje
+    3. Retrospekcja końcowa
 
   uwaga: |
     W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. **Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
