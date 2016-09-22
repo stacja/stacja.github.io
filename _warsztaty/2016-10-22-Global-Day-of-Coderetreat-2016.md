@@ -13,7 +13,7 @@ sponsor: /img/logos/pragmatists.png
 slideshare:
 opis:
   informacje: |
-    Światowy Dzień Coderetreat to wydarzenie podczas którego programiści doskonalą swoje umiejętności kodując problem Game of Life. Warszawa od kilku lat widnieje wśród ponad 150 miast z całego świata, które tego dnia kodują przy użyciu formatu coderetreat. 
+    Światowy Dzień Coderetreat to wydarzenie podczas którego programiści doskonalą swoje umiejętności kodując problem **Game of Life**. Warszawa od kilku lat widnieje wśród ponad 150 miast z całego świata, które tego dnia kodują przy użyciu formatu **coderetreat**. 
 
     Podczas 45 minutowych sesji uczestnicy będą kodowali w parach, rozwiązując problem programistyczny. W każdej sesji położymy nacisk na naukę innych umiejetności programistycznych.
 
