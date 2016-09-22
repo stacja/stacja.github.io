@@ -7,6 +7,7 @@ title: "Tworzenie aplikacji Android w języku Kotlin"
 lokalizacja: Sages
 prowadzacy: andrzejewski
 dlugosc: 9:00-17:00
+type: planowane
 evenea_link: "https://kotlin.evenea.pl/?out=1&source=event_iframe"
 cena: bezpłatnie
 slideshare:
