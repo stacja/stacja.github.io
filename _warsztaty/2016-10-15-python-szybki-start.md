@@ -28,51 +28,53 @@ opis:
 
   program: |
 
-    1. Wprowadzenie 
-       1. Obszary zastosowań języka Python
+    1. Wprowadzenie. 
+       1. Obszary zastosowań języka Python.
        2. Instalacja zewnętrznych pakietów i środowiska wirtualne.
-       3. Podstawy pracy z interpreterem
-       4. IPython jako wygodna alternatywa dla standardowego interpretera
-    1. Podstawowe elementy języka
+       3. Podstawy pracy z interpreterem.
+       4. IPython jako wygodna alternatywa dla standardowego interpretera.
+    1. Podstawowe elementy języka.
        1. Składnia języka Python.
-       2. Zmienne i podstawowe typy danych: string, int, float
-          1. Zakres widoczności zmiennych
+       2. Zmienne i podstawowe typy danych: string, int, float.
+          1. Zakres widoczności zmiennych.
        3. Podstawowe konstrukcje programistyczne:
-          1. Zmienne
-          2. Instrukcje warunkowe
-          3. Pętle for i while
-          4. Podstawy pracy z funkcjami
+          1. Zmienne.
+          2. Instrukcje warunkowe.
+          3. Pętle for i while.
+          4. Podstawy pracy z funkcjami.
     1. Typy danych c.d.
        1. Krotki, listy, słowniki:
           1. Cechy w/w struktur danych.
           2. Operatory charakterystyczne dla tych typów danych.
           3. Operatory indeksowania oraz slice.
        1. Łańcuchy znaków:
-          1. Operatory dla typów znakowych
-          2. Typy łańcuchów znaków i różnice między nimi
-          3. Formatowanie łańcuchów znaków
-       1. Typy zmienne (ang. mutable) i niezmienne (ang. immutable)
-    1. Funkcje
-       1. Definiowanie i wywoływanie funkcji
-       2. Parametry pozycyjne i nazwane funkcji
-       3. Wartości domyślne parametrów
-       4. Funkcje o zmiennej ilości parametrów
-    1. Obsługa plików
-       1. Bliki binarne i tekstowe
-       2. Kodowanie znaków w plikach tekstowych.
+          1. Operatory dla typów znakowych.
+          2. Typy łańcuchów znaków i różnice między nimi.
+          3. Formatowanie łańcuchów znaków.
+       1. Typy zmienne (ang. mutable) i niezmienne (ang. immutable).
+    1. Funkcje.
+       1. Definiowanie i wywoływanie funkcji.
+       2. Parametry pozycyjne i nazwane funkcji.
+       3. Wartości domyślne parametrów.
+       4. Funkcje o zmiennej ilości parametrów.*
+    1. Obsługa plików.
+       1. Bliki binarne i tekstowe.
+       2. Kodowanie znaków w plikach tekstowych.*
     1. Struktura programów Python.
        1. Moduły i pakiey.
        2. Zakres widoczności zmiennych.
        3. Co to jest __main__()?
-    1. Podstawy programowania obiektowego
+    1. Podstawy programowania obiektowego.*
        1. Koncepcja programowania obiektowego.
        2. Klasy i ich struktura.
-       3. Dzedziczenie 
-    1. Obsługa wyjątków w języku Python
-    1. Przydatne moduły 
-       1. logging
-       2. unittest
-       3. requests
+       3. Dzedziczenie. 
+    1. Obsługa wyjątków w języku Python.
+    1. Przydatne moduły. 
+       1. logging.
+       2. unittest.*
+       3. requests.
+
+    *Zagadnienie dodatkowe, które zastanie omówione podczas warsztatu, pod warunkiem, że wystarczy na nie czasu.   
   
   uwaga: |
     W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. **Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
