@@ -7,7 +7,7 @@ title: "Pomiary i monitorowanie aplikacji"
 lokalizacja: Sages
 prowadzacy: dubiel
 dlugosc: 09:00-17:00
-Type: planowane
+type: planowane
 cena: Rejestracja bezpłatna
 slideshare:
 opis:
