@@ -13,7 +13,16 @@ opis:
     Budowanie przewagi konkurencyjnej przez poszukiwanie usprawnień w produkcji oprogramowania wymaga nie tylko zwinności, ale wyszczuplania procesu. Doświadczenia z podejściem Lean’owym mają dużo dłuższą historię, niż metody Agile i są ich inspiracją.
 
   program: |
-    Budowanie przewagi konkurencyjnej przez poszukiwanie usprawnień w produkcji oprogramowania wymaga nie tylko zwinności, ale wyszczuplania procesu. Doświadczenia z podejściem Lean’owym mają dużo dłuższą historię, niż metody Agile i są ich inspiracją.
+    1. Wprowadzenie - Lean w warstwach.
+       1. ogólnej: flow efficiency.
+       2. zarządzania: lean management.
+       3. procesowej: Kaizen.
+    1. Analiza Lean.
+       1. convention over configuration.
+       2. Lean i Agile, czy Lean vs Agile?
+       3. muri-mura-muda, czyli co badamy.
+       4. systemy typu “ciągnącego” (pull).
+       5. 3 prawa przepływu.
 
 
   uwaga: |
