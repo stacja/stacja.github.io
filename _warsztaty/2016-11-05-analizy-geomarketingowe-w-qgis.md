@@ -6,8 +6,9 @@ event_date: 2016-11-05
 title: "Analizy geomarketingowe w QGIS"
 lokalizacja: Sages
 prowadzacy: wojdynskaigorka
-dlugosc: 18:00-21:00
-type: planowane
+cena: Rejestracja bezpłatna
+dlugosc: 9:00-14:00
+evenea_link: "https://angeo.evenea.pl/?out=1&source=event_iframe"
 sponsor: /img/logos/gepol.png
 slideshare:
 opis:
@@ -23,8 +24,6 @@ opis:
     Zapewniamy nielimitowany dostęp do pysznej kawy :)
 
   program: |
-
-
     1. Wprowadzenie - czym jest geomarketing?
     2. Dlaczego się nim zajmujemy?
     3. QGIS i jego możliwości.
