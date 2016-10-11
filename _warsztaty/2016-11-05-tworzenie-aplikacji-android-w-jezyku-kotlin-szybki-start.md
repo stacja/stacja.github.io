@@ -6,8 +6,9 @@ event_date: 2016-11-05
 title: "Tworzenie aplikacji Android w języku Kotlin - szybki start"
 lokalizacja: SaleOmega
 prowadzacy: andrzejewski
-type: planowane
+cena: Rejestracja bezpłatna
 dlugosc: 9:00-17:00
+evenea_link: "https://kotlin2.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
