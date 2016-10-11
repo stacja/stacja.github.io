@@ -8,7 +8,7 @@ lokalizacja: COWorKING
 prowadzacy: galka
 dlugosc: 9:00-17:00
 evenea_link: "https://python1.evenea.pl/?out=1&source=event_iframe"
-ccena: 96 PLN
+cena: 96 PLN
 slideshare:
 opis:
   informacje: |
