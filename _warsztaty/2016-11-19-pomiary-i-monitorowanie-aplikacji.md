@@ -6,24 +6,38 @@ event_date: 2016-11-19
 title: "Pomiary i monitorowanie aplikacji"
 lokalizacja: Sages
 prowadzacy: dubiel
-type: planowane
+długość: 9:00-17:00
+evenea_link: "https://monitorowanieaplikacji.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
-    Budowanie przewagi konkurencyjnej przez poszukiwanie usprawnień w produkcji oprogramowania wymaga nie tylko zwinności, ale wyszczuplania procesu. Doświadczenia z podejściem Lean’owym mają dużo dłuższą historię, niż metody Agile i są ich inspiracją.
+    Zastanawiałeś/aś się kiedyś co dzieje się w środku Twojej aplikacji? Jak w prosty sposób obserwować natężenie ruchu czy czas wykonywania poszczególnych akcji? Może chcesz wiedzieć jak dobierać krytyczne parametry techniczne takie jak timeouty sieciowe czy rozmiary pul wątków? Dzięki temu warsztatowi poznasz odpowiedź na wszystkie nurtujące Cię pytania z zakresu pomiarów i monitorowania aplikacji Java. Jeśli jesteś programistką z dobrą znajomością języka Java i nie boisz się czasem sięgnąć po narzędzia DevOps (na przykład Docker), ten warsztat jest dla Ciebie.
+
+    Podczas warsztatu:
+
+      - poznasz narzędzia i biblioteki do monitorowania kodu
+      - dowiesz się o różnych rodzajach metryk i ich zastosowaniu
+      - nauczysz się stosować metryki w krytycznych miejscach aplikacji - zarówno od strony biznesowej jak i technicznej
+      - poznasz sposoby na łatwe i przystępne zaglądanie wewnątrz JVMa
+      - poznasz narzędzia do agregacji i przystępnej wizualizacji metryk
+
+    Od uczestników wymagana jest dobra znajomość Javy (opcjonalnie też Spring). Przed warsztatem należy zainstalować:
+      - JDK 1.8 
+      - IDE (Eclipse, NetBeans, IntelliJ) 
+      - git 
+      - środowisko Docker 1.10+
+
+    Dokładna instrukcja z instalacją zostanie wysłana do uczestników na kilka dni przed warsztatem.
+
+    Zapewniamy pyszną kawę oraz pizzę ☺
 
   program: |
-    1. Wprowadzenie - Lean w warstwach.
-       1. ogólnej: flow efficiency.
-       2. zarządzania: lean management.
-       3. procesowej: Kaizen.
-    1. Analiza Lean.
-       1. convention over configuration.
-       2. Lean i Agile, czy Lean vs Agile?
-       3. muri-mura-muda, czyli co badamy.
-       4. systemy typu “ciągnącego” (pull).
-       5. 3 prawa przepływu.
-
+    1. Metryki - wprowadzenie do tematu, przykłady zastosowań.
+    2. Poznanie narzędzia: io.dropwizard.metrics.
+    3. Pomiary w kodzie biznesowym.
+    4. Agregacja i wizualizacja metryk.
+    5. Pomiary części technicznej aplikacji.
+    6. Jak stosować metryki z głową.
 
   uwaga: |
     W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. **Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
