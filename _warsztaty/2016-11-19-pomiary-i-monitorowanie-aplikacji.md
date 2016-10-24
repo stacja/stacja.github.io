@@ -6,7 +6,7 @@ event_date: 2016-11-19
 title: "Pomiary i monitorowanie aplikacji"
 lokalizacja: Sages
 prowadzacy: dubiel
-długość: 9:00-17:00
+dlugosc: 9:00-17:00
 evenea_link: "https://monitorowanieaplikacji.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
