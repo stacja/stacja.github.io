@@ -22,6 +22,7 @@ opis:
       - poznasz narzędzia do agregacji i przystępnej wizualizacji metryk
 
     Od uczestników wymagana jest dobra znajomość Javy (opcjonalnie też Spring). Przed warsztatem należy zainstalować:
+    
       - JDK 1.8 
       - IDE (Eclipse, NetBeans, IntelliJ) 
       - git 
