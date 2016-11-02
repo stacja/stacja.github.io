@@ -8,7 +8,6 @@ lokalizacja: Sages
 prowadzacy: szadkowski
 type: planowane
 slideshare:
-quote: Solidna porcja wiedzy nabytej w praktyce. Oby więcej takich merytorycznych warsztatów.
 opis:
   informacje: |
     Naucz się projektować aplikacje i usługi koncentrując się zarówno na potrzebach Twoich użytkowników, jak i na zarządzaniu strategicznym rozwoju produktu. Maksymalizuj szanse na jego sukces wykorzystując narzędzia Lean UX.
