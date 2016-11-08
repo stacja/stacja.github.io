@@ -18,10 +18,10 @@ opis:
 
     Nauczysz się jak zacząć pracę z R, dowiesz się jak skonfigurować środowisko by korzystanie z języka było jeszcze łatwiejsze, jak przygotować dane do analizy oraz jakie metody przetwarzania dobrać by były one optymalne dla postawionego celu. Wszystko będzie poparte praktycznymi przykładami, które otworzą Ci furtkę do dalszej nauki języka R.
 
-    Wymagania do swarsztatu: 
-    1. Własny komputer z systemem Windows, OSX, Linux. 
-    2. Chęć do nauki  
-    3. Pozytywne nastawienie oraz uśmiech :)
+    Wymagania do warsztatu: 
+     - własny komputer z systemem Windows, OSX, Linux. 
+     - chęć do nauki  
+     - pozytywne nastawienie oraz uśmiech :)
 
     Zapewniamy nielimitowany dostęp do pysznej kawy oraz pizzę!
 
