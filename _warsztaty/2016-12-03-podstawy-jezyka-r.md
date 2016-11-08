@@ -45,7 +45,7 @@ opis:
        1. Import
        2. Export
        3. Podłączenie do relacyjnej bazy danych
-    1.Control flow'y
+    1. Control flow'y
        1. If - else
        2. Switch
        3. Repeat
