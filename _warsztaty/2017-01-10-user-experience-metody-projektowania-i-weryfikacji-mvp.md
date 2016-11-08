@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2016-09-09
 # Data wydarzenia
-event_date: 2016-12-10
+event_date: 2017-01-10
 title: "User Experience: Metody projektowania i weryfikacji MVP"
 lokalizacja: Sages
 prowadzacy: szadkowski
