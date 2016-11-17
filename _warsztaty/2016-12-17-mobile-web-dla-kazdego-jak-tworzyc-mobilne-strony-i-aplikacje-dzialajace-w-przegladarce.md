@@ -8,7 +8,7 @@ lokalizacja: ClusterCowork
 prowadzacy: scira
 dlugosc: 9:00-17:00
 evenea_link: "https://mobileweb.evenea.pl/?out=1&source=event_iframe"
-Rejestracja: 96 PLN
+cena: 96 PLN
 slideshare:
 opis:
   informacje: |
@@ -29,7 +29,7 @@ opis:
 
     Zapewniamy lunch dla uczestników warsztatu.
 
-    Za użyczenie sali bardzo dziękujemy ![Image of ClusterCowork](/img/logos/clustercowork.png)
+    Za użyczenie sali bardzo dziękujemy ![Image of ClusterCowork](/img/logos/clustercowork.png)(http://www.clustercowork.com/#firstcontainer)
 
   program: |
     1. Popularne przeglądarki internetowe
