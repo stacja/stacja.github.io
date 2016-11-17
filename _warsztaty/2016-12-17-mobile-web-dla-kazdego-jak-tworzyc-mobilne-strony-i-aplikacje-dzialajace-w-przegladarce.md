@@ -29,7 +29,7 @@ opis:
 
     Zapewniamy lunch dla uczestników warsztatu.
 
-    Za użyczenie sali bardzo dziękujemy ![Image of ClusterCowork](/img/logos/clustercowork.png)(http://www.clustercowork.com/#firstcontainer)
+    Za użyczenie sali bardzo dziękujemy [![Image of ClusterCowork](/img/logos/clustercowork.png)](http://www.clustercowork.com/#firstcontainer)
 
   program: |
     1. Popularne przeglądarki internetowe
