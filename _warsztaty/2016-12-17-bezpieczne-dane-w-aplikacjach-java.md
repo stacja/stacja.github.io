@@ -6,7 +6,9 @@ event_date: 2016-12-17
 title: "Bezpieczne dane w aplikacjach Java"
 lokalizacja: Sages
 prowadzacy: nazimek
-type: planowane
+cena: Rejestracja bezpłatna
+dlugosc: 9:00-17:00
+evenea_link: "https://java2.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
@@ -14,7 +16,8 @@ opis:
 
    Dowiedz się jak skutecznie chronić dane przetwarzane przez Twoje aplikacje. Nie wymyślaj własnych algorytmów ochrony podczas tworzenia oprogramowania - poznaj istniejące techniki zabezpieczania informacji, mechanizmy bezpieczeństwa i sposób ich wykorzystania na platformie Java w praktyce!
 
-    *Podczas warsztatów:*
+   Podczas warsztatów:
+
     - dowiesz się dlaczego należy zabezpieczać dane przetwarzane przez aplikacje,
     - nzrozumiesz jak działa Java Cryptography Extension i Security Manager,
     - poznasz techniki ochrony informacji i algorytmy, które je zapewniają,
@@ -38,6 +41,6 @@ opis:
     11. Problem autentyczności klucza - wprowadzenie do Infrastruktury Klucza Publicznego.
 
   uwaga: |
-    Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
+    W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. **Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
 
 ---
