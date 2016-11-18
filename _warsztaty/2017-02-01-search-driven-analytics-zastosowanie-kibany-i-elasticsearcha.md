@@ -1,16 +1,12 @@
 ---
 # Data dodania informacji o wydarzeniu
-date: 2016-06-15
+date: 2016-11-18
 # Data wydarzenia
-event_date: 2016-06-25
-title: "Własna wyszukiwarka w oparciu o Apache Solr"
+event_date: 2017-02-01
+title: "Search-Driven Analytics: zastosowanie Kibany i Elasticsearcha"
 lokalizacja: Sages
 prowadzacy: sobczak
-evenea_link: "https://solr.evenea.pl/?out=1&source=event_iframe"
-cena: Rejestracja bezpłatna
-sponsor: /img/logos/findwise.png
-slideshare: https://www.slideshare.net/secret/HiAmpaYQnx8ka9
-quote: Prowadzący bardzo miły i pomocny. Jestem pozytywnie zaskoczony!
+type: planowane
 opis:
   informacje: |
     Trudno sobie dziś wyobrazić serwisy, sklepy internetowe, aplikacje mobilne, czy korporacyjne, wewnętrzne narzędzia bez wyszukiwarek pełnotekstowych. Szybki i skuteczny dostęp do informacji to podstawa w dzisiejszym świecie i biznesie. Celem warsztatu jest zapoznanie się z podstawami budowania aplikacji wyszukującej na bazie popularnego silnika Apache Solr. Wynikiem jednodniowego kursu będzie prosta wyszukiwarka umożliwiająca pełnotekstowe wyszukiwanie w języku polskim, wyposażona w takie funkcjonalności jak dynamiczna nawigacja, czy podpowiedzi.
