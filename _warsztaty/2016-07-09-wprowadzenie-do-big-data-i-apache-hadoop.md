@@ -11,7 +11,7 @@ evenea_link: "https://bigdata.evenea.pl/?out=1&source=event_iframe"
 cena: Rejestracja bezpłatna
 sponsor: /img/logo.png
 slideshare: https://www.slideshare.net/secret/3d1SwqC7fzs3qQ
-quote: Bardzo pozytywne wrażenia. Oby więcej takich warsztatów! :)
+quote: "Bardzo pozytywne wrażenia. Oby więcej takich warsztatów! :)"
 opis:
   informacje: |
     Jesteś analitykiem lub programistą? Zastanawiasz się nad dalszym rozwojem w kierunku Big Data? Zrób pierwszy krok w kierunku poznania technologii Big Data i weź udział w jednodniowych warsztatach z jednym z wykładowców **nowego kierunku studiów podyplomowych Politechniki Warszawskiej** [Big Data - przetwarzanie i analiza dużych zbiorów danych!](http://datascience.ii.pw.edu.pl/bigdata.html)
@@ -28,8 +28,8 @@ opis:
     Od uczestników wymagana jest podstawowa wiedza z SQLa, basha, Pythona (lub innego języka skryptowego) oraz Javy. Uczestnicy w trakcie zajęć korzystają z własnego sprzętu (wymagany komputer z min. 6GB RAM i procesorem Intel i5 lub nowszym/podobnym).
 
     Zapewniamy nielimitowany dostęp do pysznej kawy oraz pizzę. ☺
-	
-		
+
+
   program: |
     1. Wprowadzenie do Big Data.
        1. Czym jest Big Data, BigTable, MapReduce.
