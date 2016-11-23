@@ -6,9 +6,12 @@ event_date: 2016-07-09
 title: "Wprowadzenie do Big Data i Apache Hadoop"
 lokalizacja: Sages
 prowadzacy: nowacki
+dlugosc: 9:00-17:00
 evenea_link: "https://bigdata.evenea.pl/?out=1&source=event_iframe"
 cena: Rejestracja bezpłatna
-slideshare:
+sponsor: /img/logo.png
+slideshare: https://www.slideshare.net/secret/3d1SwqC7fzs3qQ
+quote: "Bardzo pozytywne wrażenia. Oby więcej takich warsztatów! :)"
 opis:
   informacje: |
     Jesteś analitykiem lub programistą? Zastanawiasz się nad dalszym rozwojem w kierunku Big Data? Zrób pierwszy krok w kierunku poznania technologii Big Data i weź udział w jednodniowych warsztatach z jednym z wykładowców **nowego kierunku studiów podyplomowych Politechniki Warszawskiej** [Big Data - przetwarzanie i analiza dużych zbiorów danych!](http://datascience.ii.pw.edu.pl/bigdata.html)
@@ -25,6 +28,8 @@ opis:
     Od uczestników wymagana jest podstawowa wiedza z SQLa, basha, Pythona (lub innego języka skryptowego) oraz Javy. Uczestnicy w trakcie zajęć korzystają z własnego sprzętu (wymagany komputer z min. 6GB RAM i procesorem Intel i5 lub nowszym/podobnym).
 
     Zapewniamy nielimitowany dostęp do pysznej kawy oraz pizzę. ☺
+
+
   program: |
     1. Wprowadzenie do Big Data.
        1. Czym jest Big Data, BigTable, MapReduce.
@@ -56,6 +61,6 @@ opis:
        1. CLI.
        2. Przegląd Apache Ambari.
   uwaga: |
-    W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników.**Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
+    W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. **Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
 
 ---

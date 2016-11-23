@@ -16,9 +16,113 @@ sobczak:
   desc: "pracuje w polskim oddziale szwedzkiej firmy Findwise. Przede wszystkim zajmuje się dostarczaniem rozwiązań opartych o technologie wyszukiwania i przetwarzania danych niestrukturalnych. Doradza organizacjom jak przechowywać dane, zarządzać nimi i budować dostęp do informacji. Na co dzień pracuje z tematami związanymi z architekturą informacji, wyszukiwarkami korporacyjnymi, oprogramowaniem open source (m.in. Lucene, Solr, Elasticsearch). Wcześniej pracował w Agorze dla serwisu Gazeta.pl, gdzie zajmował się m.in. wyszukiwarką portalową. Aktualnie współpracuje z klientami z wielu sektorów w Polsce i za zagranicą. Projekty, w których uczestniczy, dotyczą różnorodnych systemów (intranet, e-commerce, bazy wiedzy etc.), ale mają jedną wspólną cechę: dostęp do informacji. Tomasz jest organizatorem warszawskiej grupy dyskusyjnej ESWM poświęconej technologiom wyszukiwania oraz tematom pokrewnym. Jest również członkiem Stowarzyszenia Inżynierii Wymagań. Interesuje się zarządzaniem wiedzą w przedsiębiorstwie oraz budowaniem kultury organizacyjnej."
 szymanski:
   name: "Kamil Szymański"
-  img: /img/portfolio/ks.jpg
+  img: /img/portfolio/kszymanski.png
   desc: "software developer, entuzjasta JVM i open-source, aktywny członek Java community."
 nowacki:
   name: "Jakub Nowacki"
-  img: /img/portfolio/spark.png
+  img: /img/portfolio/jn.jpg
   desc: "Absolwent Politechniki Gdańskiej oraz Uniwersytetu Bristolskiego, gdzie obronił doktorat z matematyki stosowanej. Na co dzień łączy umiejętności analityczne i programistyczne. Najbardziej interesuje się rozproszonym przetwarzaniem i analizą dużych zbiorów danych. Zaczynał przygodę z programowaniem w językach C i C++, jednak obecnie najlepiej czuje się w świecie Javy i Pythona."
+reszka:
+  name: "Piotr Reszka"
+  img: /img/portfolio/pr.jpg
+  desc: "Absolwent Inżynierii Oprogramowania PW. 120 przeprowadzonych wdrożeń Tableau w ciągu 4 ostatnich lat w różnych branżach. Kilkanaście lat w biznesie BI/ERP/Workflow, w Polsce i USA. Specjalista metodyk wizualizacji danych, autor polskiego bloga Tableau. “Jak większość analityków poszukiwałem rozwiązań pozwalających skupić się na potrzebach biznesowych a nie technologii. Wtedy odkryłem moc analizy i wizualizacji w narzędziach takich jak Tableau dzięki którym praca z danymi jest przyjemniejsza i pozwala na szybkie wyciąganie wniosków oraz podejmowanie właściwych decyzji zmieniających biznes. Moją pasją jest robotyka i astrofizyka ale zasypiając, liczę owce używając Count Distinct…”"
+nazimek:
+  name: "Piotr Nazimek"
+  img: /img/portfolio/pn.png
+  desc: "interesuje się szeroko pojętym bezpieczeństwem systemów komputerowych oraz inżynierią oprogramowania. Pracuje w projektach wykorzystujących karty elektroniczne takich jak systemy płatnicze i transportowe. Bierze udział w pracach Komitetu Technicznego Nr 172 ds. Kart Identyﬁkacyjnych przy Polskim Komitecie Normalizacyjnym."
+scira:
+  name: "Krzysztof Ścira"
+  img: /img/portfolio/ks.jpg
+  desc: "Absolwent AGH - Informatyka Stosowana w Hutnictwie. Prezes Zarządu i front¬end developer firmy desi9n.pl tworzącej hybrydowe aplikacje mobilne (iOS, Android, Windows Phone) oraz aplikacje internetowe. Wielokrotny prelegent na konferencjach związanych z programowaniem urządzeń mobilnych i programowaniem front¬end. W wolnych chwilach pasjonat boksu olimpijskiego."
+wse:
+  name: Warsaw Scala Enthusiasts
+  img: /img/portfolio/comp.png
+szadkowski:
+  name: "Łukasz Szadkowski"
+  img: /img/portfolio/łsz.png
+  desc: "konsultant User Experience z dziesięcioletnim doświadczeniem w obszarze IT. Współpracuje z największymi organizacjami w Polsce (m.in. Orange, T-Mobile, Empik, RWE, Generali, Bank Millennium) w budowaniu strategii UX. Bierze udział w najbardziej zaawansowanych projektach UX na rynku polskim. Przewodził pionierskim wdrożeniom, jak np. wprowadzenie podejścia RWD w sektorze telekomunikacyjnym (njumobile.pl) i ubezpieczeniowym (prudential.pl). Wysiłki zespołu UX tworzonego wspólnie z Bankiem Millennium nagrodzone zostały przez magazyn Newsweek jako „Najbardziej przyjazny bank w Internecie 2014″. O UX myśli w kontekście zachowań konsumenckich, możliwości technologicznych, trendów rynkowych, ale przede wszystkim spełniania oczekiwań użytkowników. Aktualnie jako Head of UX w SEQR Poland rozwija ekosystem płatności SEQR, czyli całej gamy produktów typu omnichannel commerce dla rynku B2B i B2C, obecnej w większości krajów UE oraz w USA. Branża FinTech charakteryzuje się ciągłą zmiennością kierunków i technologii. Praca w centrum tych zmian pozwala na nieprzerwany kontakt z najnowszymi trendami oraz możliwość weryfikacji najnowocześniejszych rozwiązań zarówno z dziedziny User Experience, jak i obszarów technologicznych."
+szewczyk:
+  name: "Robert Szewczyk"
+  img: /img/portfolio/rsz.png
+  desc: "konsultant, trener, coach. Rozwija ludzi, zespoły, biznes dynamicznie rozwijających się firm i organizacji krajowych oraz międzynarodowych (m.in.: Orange, T-Mobile, Play, Ericsson, Ericpol, mBank, Bank BPH, Politechnika Łódzka).W swojej karierze od 2006 prowadzi profesjonalne negocjacje zarówno z osobami indywidualnymi, jak i z globalnymi korporacjami. W wyniku negocjacji m.in. doprowadził do podpisania umowy ramowej między Ericpol Sp. z o.o. (w którym rozwinął biznes szkoleniowo-konsultacyjny) a globalnym operatorem telekomunikacyjnym. Robert pracuje w oparciu o wartości, które pozwalają budować długotrwałe relacje, w których wszyscy wygrywają. Od 2002 prowadzi szkolenia zaczynając od technicznych i zarządzania projektami dla studentów i inżynierów-programistów, od 2013 prowadzi szkolenia umiejętności miękkich i biznesowych dla liderów (Scrum Masterów, Agile Coachów), a od 2016 wspiera również handlowców i przedsiębiorców. Uwielbia podróże i spotkania z ludźmi."
+lont:
+  name: "Radek Lont"
+  img: /img/portfolio/rl.png
+  desc: "od 6 lat Scrum Master z wyboru, wcześniej lider i członek zespołów developerskich IT. Pasjonat sensownych zmian na wszystkich poziomach organizacji z doświadczeniem w dużych projektach telekomunikacyjnych (Ericpol, Ericsson) i jako konsultant w innych przedsięwzięciach, obecnie zmienia świat płatności bezgotówkowych z SEQR (Seamless). Założyciel grupy Zwinna Łódź, wychodzącej z Agile/Lean poza IT, propagującej odkrycia nauk psychologicznych/socjologicznych w biznesie i angażującej studentów w nowy sposób myślenia o projektach."
+kiezynski:
+  name: "Paweł Kieżyński"
+  img: /img/portfolio/pki.jpg
+  desc: "na co dzień prowadzi firmę zajmującą się tworzeniem oprogramowania. Interesuje się wdrażaniem innowacyjnych rozwiązań informatycznych mających na celu automatyzację oraz optymalizację procesów w przedsiębiorstwach. Bierze udział w projektach budowy i rozwoju systemów assistance oraz likwidacji szkód, logistycznych oraz e-commerce."
+pajak:
+  name: "Tomek Pająk"
+  img: /img/portfolio/tp.png
+  desc: "na co dzień programista, team leader, architekt lub Scrum Master - w zależności od bieżących potrzeb. Nie boi się również zostać członkiem QA lub analitykiem, jeśli pomoże to Zespołowi osiągnąć cel, jakim jest oddanie produktu zgodnego z oczekiwaniami jego Właściciela. Kiedyś w projekcie od wyceny do wdrożenia, obecnie pracuje nad produktem płatności mobilnych. Nieustannie zdobywa doświadczenie podczas pracy nad systemami dla sektora finansowego (bankowości internetowe, płatności mobilne) i telekomunikacyjnego. Najczęściej pracuje z technologiami: Spring, Hibernate, Web Services, JBoss Drools oraz szeroko rozumianą Javą EE."
+andrzejewski:  
+  name: "Łukasz Andrzejewski"
+  img: /img/portfolio/ła.jpg
+  desc: "doświadczony trener z ponad 9 letnim doświadczeniem na sali szkoleniowej. Od wielu lat aktywnie pracuje jako konsultant i programista. Specjalizuje się w technologiach Java oraz natywnych rozwiązaniach mobilnych (Android i iOS). Absolwent wydziału Fizyki Technicznej Politechniki Poznańskiej na specjalności Symulacje Komputerowe."
+kobylinski:  
+  name: "Łukasz Kobyliński"
+  img: /img/portfolio/łk.jpg
+  desc: "posiada wieloletnie doświadczenie z zagadnieniami uczeniami maszynowego i eksploracji danych. Jest adiunktem w Instytucie Podstaw Informatyki Polskiej Akademii Nauk, gdzie zajmuje się problematyką przetwarzania języka naturalnego i ekstrakcji danych z tekstu. Realizował projekty związane z ujednoznacznianiem sensów słów, identyfikacją jednostek nazewniczych i znakowaniem morfosyntaktycznym tekstów w języku polskim. Posiada również doświadczenie w obszarze przetwarzania obrazów i eksploracji baz obrazowych, a także doświadczenie projektowe, związane z językiem Python, Java i platformą Java Enterprise Edition."
+ratajczyk:  
+  name: "Bartosz Ratajczyk"
+  img: /img/portfolio/br.jpg
+  desc: "konsultant SQL Server związany z 7N. Programista aplikacji i baz danych, ze szczególnym naciskiem na SQL Server i C#. Fan automatyzowania powtarzalnych czynności i szukania sposobów przyspieszania zbyt wolnych zapytań do baz danych. Ostatnie dziesięć lat spędził na tworzeniu i rozwoju systemów raportujących i rozliczających oraz hurtowni danych opartych głównie o technologie Microsoft. Posiada certyfikaty MCTS SQL Server oraz MCSE Data Platform. Autoryzowany trener Microsoft."
+stolecki:  
+  name: "Grzegorz Stolecki"
+  img: /img/portfolio/gs.jpg
+  desc: "ekspert w dziedzinie baz danych oraz analityki biznesowej posiadający ponad 20 lat doświadczeń. Pracował jako architekt, developer i trener. Obecnie zajmuje się projektowaniem oraz budowaniem specjalizowanych rozwiązań analityczno-raportujących dla dużych i średnich przedsiębiorstw. Pracuje również nad aplikacjami controllingowymi służącymi do planowania finansowego oraz budżetowania. Obecnie współpracuje jako konsultant z firmą JCommerce oraz trener w Centrum Szkoleniowym Comarch. Jest jednym z liderów Polskiej Grupy Użytkowników SQL Server (PLSSUG). Aktywny prelegent i uczestnik spotkań oraz konferencji. Posiadacz tytułu Microsoft Most Valuable Professional (MVP) nieprzerwanie od 2010 roku."
+stankiewicz:  
+  name: "Radosław Stankiewicz"
+  img: /img/portfolio/rs.jpg
+  desc: "jest specjalistą IT z szerokim zapleczem teoretycznym i praktycznym. Od 2006 roku zdobywa doświadczenia w różnych dziedzinach - od technologii mobilnych przez JEE po wdrażanie platform Big Data - a wszystko to w całej różnorodności projektów i środowisk m.in. bankowości, telekomunikacji, sektorze publicznym i startupach."
+harasymczuk:  
+  name: "Matt Harasymczuk"
+  img: /img/portfolio/mh.png
+  desc: "jest przede wszystkim praktykiem, a nie teoretykiem. Co oznacza, że warsztaty prowadzi w sposób, dzięki któremu będziesz potrafił przełożyć wiedzę bezpośrednio na biznes. Jest coachem z wieloletnim wykształceniem, prowadzi szkolenia, warsztaty oraz wykłady."
+sulkowski: 
+  name: Tomek Sułkowski
+  img: /img/portfolio/angular.png
+  desc: "pracę z technologiami webowymi rozpoczął w 2004 roku jako full-stack developer. Specjalizuje się w tematyce front-endowej (CSS3, JavaScript, AngularJS, React) oraz w zagadnieniach związanych z tworzeniem użytecznych interfejsów użytkownika (frameworki UI i projektowanie UX). Jego pasją jest poszerzanie i dzielenie się wiedzą dotyczącą dynamicznie rozwijających się technik wykorzystywanych przy budowaniu aplikacji przeglądarkowych. Skupia się na opracowywaniu dobrych praktyk umożliwiających realizację tych zadań w sposób pragmatyczny i elegancki."
+zdanowski: 
+  name: Bartek Zdanowski
+  img: /img/portfolio/bz.jpg
+  desc: "Na co dzień developer, tata i mąż. Posiada 11 lat doświadczenia jako zadowowy programista, w tym 9 lat jako programista Javy. Tworzy czysty kod i gasi pożary na produkcji. Pracuje w TouK. Od 4 edycji zasiada w Kapitule konferencji Confitura. Macza również palce w innej inicjatywie WJUG - Warsjawie. Bardzo lubi grać w squasha."
+galka: 
+  name: Michał Gałka
+  img: /img/portfolio/mg.jpg
+  desc: "Inżynier oprogramowania, zajmujący się na co dzień systemami wbudowanymi, głównie programując w języku C. Doświadczenie zdobywał w wielu, często międzynarodowych, zespołach pracując w Polsce i poza nią. Z Pythonem związany od 8 lat, wykorzystuje go jako język skryptowy do automatyzacji i tworzenia narzędzi. Ma także doświadczenie w tworzeniu samodzielnych aplikacji opartych głównie o frameworki Django i Tornado. Bierze aktywny udział w działaniu grupy Python Łódź."
+jelski: 
+  name: Krzysztof Jelski
+  img: /img/portfolio/kj.jpg
+  desc: "Krzysztof organizuje i prowadzi szkolenia, przede wszystkim z zakresu zwinnych praktyk technicznych. Przeszkolił już wiele zespołów z Test-Driven Development czy z pracy z odziedziczonym kodem. Pomaga też znajdować i eliminować nieefektywności, szczególnie w zakresie definiowania wymagań. Pracuje w Pragmatists."
+jelskipierzchala: 
+  name: Krzysztof Jelski i Adam Pierzchała
+  img: /img/portfolio/kjiap.png
+  desc: "Krzysztof organizuje i prowadzi szkolenia, przede wszystkim z zakresu zwinnych praktyk technicznych. Przeszkolił już wiele zespołów z Test-Driven Development czy z pracy z odziedziczonym kodem. Pomaga też znajdować i eliminować nieefektywności, szczególnie w zakresie definiowania wymagań. Pracuje w Pragmatists. Adam jest programistą full-stack, z wieloletnim doświadczeniem przy tworzeniu aplikacji webowych. Czasem zakłada czapkę team leada lub Scrum Mastera. Pasjonat extremalnych metodyk programowania i TDD, uczestnik i prelegent wielu konferencji i warszatów."
+jelskipachowski: 
+  name: Krzysztof Jelski i Dawid Pachowski
+  img: /img/portfolio/kjidp.jpg
+  desc: "Sesje programistyczne będzie moderował Krzysztof Jelski - software developer, trener i agile coach z firmy Pragmatists oraz Dawid Pachowski - lider obszaru testów bezpieczeństwa, wykładowca na WEiTI PW i prezes Koła Naukowego Informatyków na Politechnice Warszawskiej."
+wojdynskaigorka:
+  name: Monika Wojdyńska i Tomasz Górka
+  img: /img/portfolio/mwitg.png
+  desc: "Monika to absolwentka Wydziału Nauk Geograficznych i Geologicznych na UAM w Poznaniu na kierunku geografia ze specjalnością geoinformacja. Specjalista GIS z dwuletnim stażem pracy w polskiej firmie kartograficznej. Tomasz to absolwent UAM w Poznaniu - Geografia o specjalności geoinformacja. Specjalista GIS z ponad 2-letnim stażem pracy w polskich i międzynarodowych firmach z sektora systemów informacji geograficznej i kartografii. Posiadający bogate doświadczenie w przetwarzaniu, analizowaniu i wizualizacji danych przestrzennych przy użyciu narzędzi GIS."
+dubiel:
+  name: Adam Dubiel
+  img: /img/portfolio/adubiel.JPG
+  desc: "Programista z pasją do tworzenia wydajnych i dobrze skalujących się aplikacji. Kiedy programuje, zwraca uwagę na czystość kodu, architekturę i testy, ale także na metryki. Lider techniczny, który lub zmieniać otoczenie na lepsze. Największą satysfakcję daje mu udane wdrożenie aplikacji, która po prostu działa i zadowolenie klientów."
+detko:
+  name: Dawid Detko
+  img: /img/portfolio/ddetko.png
+  desc: "Specjalista w dziedzinie hurtowni danych oraz zaawansowanej analityki danych. Pracował z wieloma technologiami ale najlepiej czuje się w rozwiązaniach Microsoftu. Ma w swoim dorobku wiele dużych projektów analitycznych  obejmujących tematykę integracji danych, wielowymiarowych kostek analitycznych oraz nowoczesnego raportowania self-service. Posiada tytuł MCP (Microsoft Certificate Professional) w dziedzinie SQL Server 2012/2014. Z programowaniem w R związany od 5 lat."
+sztajerowski:
+  name: Wiktor Sztajerowski
+  img: /img/portfolio/wsz.jpg
+  desc: "Programista z ponad 5-cio letnim stażem. Obecnie Java Developer w Smart Coders, entuzjasta NoSQL'a i orędownik wykorzystywania więcej niż jednej bazy danych w systemach. Prywatnie jeden z liderów łódziego JUG'a oraz Zwinnej Łodzi."
+
+
+
+
+

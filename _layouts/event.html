@@ -18,7 +18,8 @@ layout: default
                             <font color="silver">|</font>
                         </li>
                         <li><b>Czas podróży:</b>
-                            <font color="#fed136"><strong>8h</strong></font>
+							<font color="#fed136"><strong>{% if page.dlugosc %}{{ page.dlugosc }}
+							{% else %}8h{% endif %}</strong></font>
                         </li>
                         <li>
                             <font color="silver">|</font>
@@ -30,6 +31,11 @@ layout: default
                     </ul>
 
                     <div class="addthis_sharing_toolbox"></div>
+                    {% if page.sponsor %}
+                      <br/>
+                      <p class="text-muted">Sponsor:
+                      <img src="{{ page.sponsor | prepend: site.baseurl }}"></a></p>
+                    {% endif %}
 
                     <hr/>
                     <h4 style="color:#fed136">INFORMACJE</h4>

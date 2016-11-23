@@ -6,3 +6,27 @@ COWorKING:
   adres: Łódź, COWorKING Kościelna 6
   miasto: Łódź
   mapa: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9873.212511688302!2d19.455049!3d51.7823458!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6d59f8f684749e66!2sCOWorKING+Koscielna+6!5e0!3m2!1spl!2spl!4v1457709697084"
+CreativeCoworking:
+  adres: Kraków, Creative Coworking, ul. Przybyszewskiego 17B
+  miasto: Kraków
+  mapa: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10241.902034664723!2d19.8969153!3d50.0773835!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x576a72ed084272e9!2sCreative+Coworking!5e0!3m2!1spl!2spl!4v1467105539922"
+SkladKreatywny:
+  adres: Kraków, Skład Kreatywny, ul. Długa 72
+  miasto: Kraków
+  mapa: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2560.764762535753!2d19.933474215717702!3d50.07196697942484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47165b06c81f6c49%3A0xfc18340c27d1322b!2zRMWCdWdhIDcyLCBLcmFrw7N3!5e0!3m2!1spl!2spl!4v1469527199368"
+PierwszePietro:
+  adres: Gdańsk, Pierwsze Piętro, ul. Rajska 6
+  miasto: Gdańsk
+  mapa: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2325.095354509527!2d18.648499315876695!3d54.3552959802029!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46fd7374480ae8cd%3A0xf1e8aaf6c73543f7!2sRajska+6%2C+Gda%C5%84sk!5e0!3m2!1spl!2spl!4v1467642181281"
+SaleOmega:
+  adres: Poznań, Sale Omega, ul. Dąbrowskiego 79 A
+  miasto: Poznań
+  mapa: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2433.598198667262!2d16.897008215803528!3d52.41395797979426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470444b7db2d9b1f%3A0xbd4c696fe555223c!2sD%C4%85browskiego+79A%2C+60-575+Pozna%C5%84!5e0!3m2!1spl!2spl!4v1469016825620"
+ClusterCowork:
+  adres: Kraków, Cluster Cowork, ul. M. Skłodowskiej Curie 5/3
+  miasto: Kraków
+  mapa: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1280.61725902978!2d19.945164556094653!3d50.06316950112838!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47165b1127f42f05%3A0xab415f219419eb49!2sMarii+Sk%C5%82odowskiej-Curie+5%2C+Krak%C3%B3w!5e0!3m2!1spl!2spl!4v1479379186108"
+PSkarga:
+  adres: Wrocław, P Skarga, ul. Piotra Skargi 5
+  miasto: Wrocław
+  mapa: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2505.108727984472!2d17.03602931612783!3d51.10645407957135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470fc27730b2a8bb%3A0xb4b09c84e1223987!2sPiotra+Skargi+5%2C+50-082+Wroc%C5%82aw!5e0!3m2!1spl!2spl!4v1479460124849"

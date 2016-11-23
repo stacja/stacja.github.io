@@ -22,42 +22,42 @@
 </div>
 </div>
 <br><br>
+</div>
 
-</div>
+{% assign sorted_warsztaty = site.warsztaty | sort: 'event_date' %}
+{% for warsztat in sorted_warsztaty %}
+  {% capture nowtime %}{{site.time | date: '%s'}}{% endcapture %}
+  {% capture eventtime %}{{warsztat.event_date | date: '%s'}}{% endcapture %}
+  {% if eventtime < nowtime %}
+    {% continue %}
+  {% endif %}
+
+  {% if warsztat.type %}
+    {% if warsztat.type == 'akademia' %}
+
+      {% assign prowadzacy = site.data.prowadzacy[warsztat.prowadzacy] %}
+      {% assign lokalizacja = site.data.lokalizacje[warsztat.lokalizacja] %}
+
+
 <hr/>
 <div class="row">
 <div class="col-xs-4 col-md-2">
 <h4 style="text-align: center;"><em class="fa fa-calendar fa-2x"> </em></h4>
-<p style="text-align: center;"><strong>4-5 VI 2016</strong></p>
+<p style="text-align: center;"><strong>{{ warsztat.event_date }}</strong></p>
 </div>
 <div class="col-xs-8 col-md-3">
-<h4>Train The Trainer</h4>
-<p style="text-align: justify;"><strong>Piotr Nazimek<br /></strong></p>
+<h4>{{ warsztat.title }}</h4>
+<p style="text-align: justify;"><strong>{{ prowadzacy.name }}<br /></strong></p>
 </div>
 <div class="col-xs-12 col-md-5">
-<p style="text-align: justify;">Jesteś specjalistą IT i czujesz powołanie (lub przymus sytuacyjny) do edukacji swoich kolegów? Stwórz swój niepowtarzalny wizerunek trenerski oraz zdobądź wiedzę i umiejętności w zakresie prowadzenia i projektowania szkoleń, ze szczególnym uwzględnieniem specyfiki szkoleń IT!</p>
+<p style="text-align: justify;">{{ warsztat.opis['informacje'] | markdownify | truncate: 281 }}</p>
 </div>
 <div class="col-xs-12 col-md-2">
-<p style="text-align: center;"><strong>bezpłatnie</strong></p><p style="text-align: center;">
-<button type="button" class="btn btn-default btn-sm default">REJESTRACJA ZAKOŃCZONA</button></p>
+<p style="text-align: center;"><strong>{{ warsztat.cena }}</strong></p><p style="text-align: center;">
+<a href="{{ warsztat.url }}" class="portfolio-link"><button type="button" class="btn btn-default btn-sm default">ZAREJESTRUJ SIĘ</button></a></p>
 </div>
 </div>
-<hr/>
-<div class="row">
-<div class="col-xs-4 col-md-2">
-<h4 style="text-align: center;"><em class="fa fa-calendar fa-2x"> </em></h4>
-<p style="text-align: center;"><strong>19 III 2016</strong></p>
-</div>
-<div class="col-xs-8 col-md-3">
-<h4>Autoprezentacja w oparciu o warsztat aktorski</h4>
-<p style="text-align: justify;"><strong>Zuzanna Fijewska-Malesza<br /></strong></p>
-</div>
-<div class="col-xs-12 col-md-5">
-<p style="text-align: justify;">Jak mówić, aby być słuchanym? Jak przekazać, aby zostać zrozumianym? Warsztat skierowany jest do osób występujących publicznie, zarówno przed małą jak i dużą publicznością.</p>
-</div>
-<div class="col-xs-12 col-md-2">
-<p style="text-align: center;"><strong>€49</strong><br>lub bezpłatnie dla trenerów Sages</p><p style="text-align: center;">
-<button type="button" class="btn btn-default btn-sm default">REJESTRACJA ZAKOŃCZONA</button></p>
-</div>
-</div>
+    {% endif %}
+  {% endif %}
+{% endfor %}
 </section>

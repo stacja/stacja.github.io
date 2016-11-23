@@ -9,6 +9,7 @@ prowadzacy: szymanski
 evenea_link: "https://pipelineasacode.evenea.pl/?out=1&source=event_iframe"
 cena: 219 PLN
 slideshare:
+quote: Bardzo dobry i praktyczny warsztat dla osób mających już kontakt z Jenkinsem.
 opis:
   informacje: |
     W obecnych czasach nie trzeba już chyba nikogo przekonywać jak ważna jest automatyzacja w procesie ciągłego dostarczania oprogramowania. Od dawna automatyzujemy wszelkie etapy ww. procesu, piszemy liczne testy automatyczne odpalane w ramach zautomatyzowanego procesu budowania aplikacji, którą następnie w sposób zautomatyzowany wdrażamy na środowiska, których provisioning również przebiega w sposób zautomatyzowany. Nawet nasza JIRA potrafi automatycznie utworzyć nowy branch w repozytorium kodu źródłowego w momencie gdy rozpoczynamy prace nad nowym zadaniem.
@@ -19,13 +20,13 @@ opis:
 
     W ramach warsztatu:
 
-    ✔ zobaczymy co dzieje się wewnątrz Jenkinsa podczas tworzenia jobów,
-    ✔ poznamy DSL dostarczany przez Jenkins Job DSL oraz zobaczymy za co odpowiada sam plugin,
-    ✔ zapoznamy się z API Viewer umożliwiającym odkrywanie API dostarczanego DSLa,
-    ✔ stworzymy własne joby, widoki i pipeliny,
-    ✔ przeniesiemy konfigurację pipelinów do projektów przez nie budowanych, tak aby konfiguracja specyficna dla poszególnych projektów była odseparowana od kodu generującego joby i pipeliny,
-    ✔ stworzymy własnego DSLa na bazie job-dsl,
-    ✔ napiszemy testy do naszych skryptów i DSLi.
+     - zobaczymy co dzieje się wewnątrz Jenkinsa podczas tworzenia jobów,
+     - poznamy DSL dostarczany przez Jenkins Job DSL oraz zobaczymy za co odpowiada sam plugin,
+     - zapoznamy się z API Viewer umożliwiającym odkrywanie API dostarczanego DSLa,
+     - stworzymy własne joby, widoki i pipeliny,
+     - przeniesiemy konfigurację pipelinów do projektów przez nie budowanych, tak aby konfiguracja specyficna dla poszególnych projektów była odseparowana od kodu generującego joby i pipeliny,
+     - stworzymy własnego DSLa na bazie job-dsl,
+     - napiszemy testy do naszych skryptów i DSLi.
 
     Warsztaty adresowane do osób mających dość żmudnego, manualnego wyklikiwania kolejnych jobów i pipelinów w Jenkinsie. Wskazana podstawowa znajomość Jenkinsa oraz języka wysokiego poziomu (np. Java, Groovy, Python).
 

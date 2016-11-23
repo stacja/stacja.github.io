@@ -8,18 +8,19 @@ lokalizacja: COWorKING
 prowadzacy: niedzielski
 evenea_link: "https://WprowadzeniedoRuby.evenea.pl?out=1&source=event_iframe"
 cena: Rejestracja bezpłatna
-slideshare:
+slideshare: https://www.slideshare.net/secret/NKuU7t2NMsjTcb
+quote: Jedne z najlepszych warsztatów na jakich byłem!
 opis:
   informacje: |
     Dowiedz się jak szybko tworzyć aplikacje webowe przy użyciu frameworka Ruby on Rails. Poznaj technologię, którą wybierają startupy aby zbudować Minimum Viable Product. Przekonaj się że Ruby to język który na pierwszym miejscu stawia szczęście programisty.
 
-    Szkolenie adresowane jest do programistów, którzy mają doświadczenie z dowolnym innym rozwiązaniem do tworzenia aplikacji webowych i chcieliby poznać framework Ruby on Rails kompletnie od podstaw.
+    Warsztat adresowany jest do programistów, którzy mają doświadczenie z dowolnym innym rozwiązaniem do tworzenia aplikacji webowych i chcieliby poznać framework Ruby on Rails kompletnie od podstaw.
 
-    *Podczas warsztatów*
-    - poznasz podstawowe elementy składni języka Ruby,
-    - zrozumiesz fundamentalne założenia frameworka Ruby on Rails,
-    - zbudujesz swoją pierwszą aplikację w Ruby on Rails,
-    - nauczysz się korzystać z bogatego ekosystemu gemów (bibliotek).
+    Podczas warsztatów:
+     - poznasz podstawowe elementy składni języka Ruby,
+     - zrozumiesz fundamentalne założenia frameworka Ruby on Rails,
+     - zbudujesz swoją pierwszą aplikację w Ruby on Rails,
+     - nauczysz się korzystać z bogatego ekosystemu gemów (bibliotek).
 
     Uczestnicy w trakcie zajęć korzystają z własnego sprzętu (wymagany komputer z min. 4GB RAM, preferowany system operacyjny Linux / OS X).
   program: |
