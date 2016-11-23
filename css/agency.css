@@ -1007,3 +1007,7 @@ h4 .fa {
   background-color: #8a6d3b;
   border-color: #8a6d3b;
 }
+.workshop-bootcamp,  .workshop-bootcamp:hover, .workshop-bootcamp:active, .workshop-bootcamp:focus {
+  background-color: #2d65ff;
+  border-color: #2d65ff;
+}

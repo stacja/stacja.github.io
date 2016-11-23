@@ -48,10 +48,12 @@ layout: default
                     <p style="text-align: justify;">
                     <strong>{{ prowadzacy.name }}</strong> - {{ prowadzacy.desc }}
                     </p>
+                    {% if page.opis['program'] %}
                     <hr/>
                     <h4 style="color:#fed136">Program warsztatów</h4>
                     <hr/>
                     {{ page.opis['program'] | markdownify }}
+                    {% endif %}
                     {% if page.opis['uwaga'] %}
                     <hr/>
                     <h4 style="color:#fed136">Uwaga</h4>

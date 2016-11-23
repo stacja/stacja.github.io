@@ -24,6 +24,10 @@
           {% if warsztat.type == 'meetup' %}
             {% assign button_text = 'MEETUP' %}
             {% assign event_link = warsztat.meetup_link %}
+          {% elsif warsztat.type == 'bootcamp' %}
+            {% assign button_text = 'ZAREJESTRUJ SIĘ' %}
+            {% assign event_link = warsztat.url %}
+            {% assign button_class = 'btn btn-xl workshop-bootcamp' %}
           {% elsif warsztat.type == 'planowane' %}
             {% assign button_text = 'Rejestracja wkrótce' %}
             {% assign event_link = '#' %}
