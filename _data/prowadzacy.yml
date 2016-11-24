@@ -126,8 +126,8 @@ bootcampjava:
   img: /img/portfolio/java.png
   desc: "xxx"
 bootcampfrontend:
-  name: Wiktor Sztajerowski
-  img: /img/portfolio/bootcampfrontend.png
+  name: Bootcam Front-End
+  img: /img/portfolio/frontend.png
   desc: "xxx" 
 
 
