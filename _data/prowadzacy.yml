@@ -121,7 +121,14 @@ sztajerowski:
   name: Wiktor Sztajerowski
   img: /img/portfolio/wsz.jpg
   desc: "Programista z ponad 5-cio letnim stażem. Obecnie Java Developer w Smart Coders, entuzjasta NoSQL'a i orędownik wykorzystywania więcej niż jednej bazy danych w systemach. Prywatnie jeden z liderów łódziego JUG'a oraz Zwinnej Łodzi."
-
+bootcampjava:
+  name: Wiktor Sztajerowski
+  img: /img/portfolio/bootcampjava.png
+  desc: "xxx"
+bootcampfrontend:
+  name: Wiktor Sztajerowski
+  img: /img/portfolio/bootcampfrontend.png
+  desc: "xxx" 
 
 
 
