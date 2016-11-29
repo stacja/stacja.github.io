@@ -126,7 +126,7 @@ bootcampjava:
   img: /img/portfolio/java.png
   desc: "xxx"
 bootcampfrontend:
-  name: Bootcam Front-End
+  name: Bootcamp Front-End
   img: /img/portfolio/frontend.png
   desc: "xxx" 
 
