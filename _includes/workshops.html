@@ -20,10 +20,17 @@
 
         {% assign button_class = 'btn btn-xl' %}
         {% assign event_date = warsztat.event_date %}
+        {% assign item_class = '' %}
+
         {% if warsztat.type %}
           {% if warsztat.type == 'meetup' %}
             {% assign button_text = 'MEETUP' %}
             {% assign event_link = warsztat.meetup_link %}
+          {% elsif warsztat.type == 'bootcamp' %}
+            {% assign button_text = 'ZAREJESTRUJ SIĘ' %}
+            {% assign event_link = warsztat.evenea_link %}
+            {% assign button_class = 'btn btn-xl workshop-bootcamp' %}
+            {% assign item_class = 'item-bootcamp' %}
           {% elsif warsztat.type == 'planowane' %}
             {% assign button_text = 'Rejestracja wkrótce' %}
             {% assign event_link = '#' %}
@@ -63,7 +70,7 @@
               </div>
               <img src="{{ prowadzacy.img | prepend: site.baseurl}}" class="img-responsive" alt="">
           </a>
-          <div class="portfolio-caption">
+          <div class="portfolio-caption {{ item_class }}">
             <h4><font color="#fed136">{{ event_date }} - {{ lokalizacja.miasto }}</font></h4>
                       <h4>{{ warsztat.title }}</h4>
                       <p class="text-muted">{{ warsztat.cena }}</p>

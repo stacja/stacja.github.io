@@ -57,51 +57,51 @@ pajak:
   name: "Tomek Pająk"
   img: /img/portfolio/tp.png
   desc: "na co dzień programista, team leader, architekt lub Scrum Master - w zależności od bieżących potrzeb. Nie boi się również zostać członkiem QA lub analitykiem, jeśli pomoże to Zespołowi osiągnąć cel, jakim jest oddanie produktu zgodnego z oczekiwaniami jego Właściciela. Kiedyś w projekcie od wyceny do wdrożenia, obecnie pracuje nad produktem płatności mobilnych. Nieustannie zdobywa doświadczenie podczas pracy nad systemami dla sektora finansowego (bankowości internetowe, płatności mobilne) i telekomunikacyjnego. Najczęściej pracuje z technologiami: Spring, Hibernate, Web Services, JBoss Drools oraz szeroko rozumianą Javą EE."
-andrzejewski:  
+andrzejewski:
   name: "Łukasz Andrzejewski"
   img: /img/portfolio/ła.jpg
   desc: "doświadczony trener z ponad 9 letnim doświadczeniem na sali szkoleniowej. Od wielu lat aktywnie pracuje jako konsultant i programista. Specjalizuje się w technologiach Java oraz natywnych rozwiązaniach mobilnych (Android i iOS). Absolwent wydziału Fizyki Technicznej Politechniki Poznańskiej na specjalności Symulacje Komputerowe."
-kobylinski:  
+kobylinski:
   name: "Łukasz Kobyliński"
   img: /img/portfolio/łk.jpg
   desc: "posiada wieloletnie doświadczenie z zagadnieniami uczeniami maszynowego i eksploracji danych. Jest adiunktem w Instytucie Podstaw Informatyki Polskiej Akademii Nauk, gdzie zajmuje się problematyką przetwarzania języka naturalnego i ekstrakcji danych z tekstu. Realizował projekty związane z ujednoznacznianiem sensów słów, identyfikacją jednostek nazewniczych i znakowaniem morfosyntaktycznym tekstów w języku polskim. Posiada również doświadczenie w obszarze przetwarzania obrazów i eksploracji baz obrazowych, a także doświadczenie projektowe, związane z językiem Python, Java i platformą Java Enterprise Edition."
-ratajczyk:  
+ratajczyk:
   name: "Bartosz Ratajczyk"
   img: /img/portfolio/br.jpg
   desc: "konsultant SQL Server związany z 7N. Programista aplikacji i baz danych, ze szczególnym naciskiem na SQL Server i C#. Fan automatyzowania powtarzalnych czynności i szukania sposobów przyspieszania zbyt wolnych zapytań do baz danych. Ostatnie dziesięć lat spędził na tworzeniu i rozwoju systemów raportujących i rozliczających oraz hurtowni danych opartych głównie o technologie Microsoft. Posiada certyfikaty MCTS SQL Server oraz MCSE Data Platform. Autoryzowany trener Microsoft."
-stolecki:  
+stolecki:
   name: "Grzegorz Stolecki"
   img: /img/portfolio/gs.jpg
   desc: "ekspert w dziedzinie baz danych oraz analityki biznesowej posiadający ponad 20 lat doświadczeń. Pracował jako architekt, developer i trener. Obecnie zajmuje się projektowaniem oraz budowaniem specjalizowanych rozwiązań analityczno-raportujących dla dużych i średnich przedsiębiorstw. Pracuje również nad aplikacjami controllingowymi służącymi do planowania finansowego oraz budżetowania. Obecnie współpracuje jako konsultant z firmą JCommerce oraz trener w Centrum Szkoleniowym Comarch. Jest jednym z liderów Polskiej Grupy Użytkowników SQL Server (PLSSUG). Aktywny prelegent i uczestnik spotkań oraz konferencji. Posiadacz tytułu Microsoft Most Valuable Professional (MVP) nieprzerwanie od 2010 roku."
-stankiewicz:  
+stankiewicz:
   name: "Radosław Stankiewicz"
   img: /img/portfolio/rs.jpg
   desc: "jest specjalistą IT z szerokim zapleczem teoretycznym i praktycznym. Od 2006 roku zdobywa doświadczenia w różnych dziedzinach - od technologii mobilnych przez JEE po wdrażanie platform Big Data - a wszystko to w całej różnorodności projektów i środowisk m.in. bankowości, telekomunikacji, sektorze publicznym i startupach."
-harasymczuk:  
+harasymczuk:
   name: "Matt Harasymczuk"
   img: /img/portfolio/mh.png
   desc: "jest przede wszystkim praktykiem, a nie teoretykiem. Co oznacza, że warsztaty prowadzi w sposób, dzięki któremu będziesz potrafił przełożyć wiedzę bezpośrednio na biznes. Jest coachem z wieloletnim wykształceniem, prowadzi szkolenia, warsztaty oraz wykłady."
-sulkowski: 
+sulkowski:
   name: Tomek Sułkowski
   img: /img/portfolio/angular.png
   desc: "pracę z technologiami webowymi rozpoczął w 2004 roku jako full-stack developer. Specjalizuje się w tematyce front-endowej (CSS3, JavaScript, AngularJS, React) oraz w zagadnieniach związanych z tworzeniem użytecznych interfejsów użytkownika (frameworki UI i projektowanie UX). Jego pasją jest poszerzanie i dzielenie się wiedzą dotyczącą dynamicznie rozwijających się technik wykorzystywanych przy budowaniu aplikacji przeglądarkowych. Skupia się na opracowywaniu dobrych praktyk umożliwiających realizację tych zadań w sposób pragmatyczny i elegancki."
-zdanowski: 
+zdanowski:
   name: Bartek Zdanowski
   img: /img/portfolio/bz.jpg
   desc: "Na co dzień developer, tata i mąż. Posiada 11 lat doświadczenia jako zadowowy programista, w tym 9 lat jako programista Javy. Tworzy czysty kod i gasi pożary na produkcji. Pracuje w TouK. Od 4 edycji zasiada w Kapitule konferencji Confitura. Macza również palce w innej inicjatywie WJUG - Warsjawie. Bardzo lubi grać w squasha."
-galka: 
+galka:
   name: Michał Gałka
   img: /img/portfolio/mg.jpg
   desc: "Inżynier oprogramowania, zajmujący się na co dzień systemami wbudowanymi, głównie programując w języku C. Doświadczenie zdobywał w wielu, często międzynarodowych, zespołach pracując w Polsce i poza nią. Z Pythonem związany od 8 lat, wykorzystuje go jako język skryptowy do automatyzacji i tworzenia narzędzi. Ma także doświadczenie w tworzeniu samodzielnych aplikacji opartych głównie o frameworki Django i Tornado. Bierze aktywny udział w działaniu grupy Python Łódź."
-jelski: 
+jelski:
   name: Krzysztof Jelski
   img: /img/portfolio/kj.jpg
   desc: "Krzysztof organizuje i prowadzi szkolenia, przede wszystkim z zakresu zwinnych praktyk technicznych. Przeszkolił już wiele zespołów z Test-Driven Development czy z pracy z odziedziczonym kodem. Pomaga też znajdować i eliminować nieefektywności, szczególnie w zakresie definiowania wymagań. Pracuje w Pragmatists."
-jelskipierzchala: 
+jelskipierzchala:
   name: Krzysztof Jelski i Adam Pierzchała
   img: /img/portfolio/kjiap.png
   desc: "Krzysztof organizuje i prowadzi szkolenia, przede wszystkim z zakresu zwinnych praktyk technicznych. Przeszkolił już wiele zespołów z Test-Driven Development czy z pracy z odziedziczonym kodem. Pomaga też znajdować i eliminować nieefektywności, szczególnie w zakresie definiowania wymagań. Pracuje w Pragmatists. Adam jest programistą full-stack, z wieloletnim doświadczeniem przy tworzeniu aplikacji webowych. Czasem zakłada czapkę team leada lub Scrum Mastera. Pasjonat extremalnych metodyk programowania i TDD, uczestnik i prelegent wielu konferencji i warszatów."
-jelskipachowski: 
+jelskipachowski:
   name: Krzysztof Jelski i Dawid Pachowski
   img: /img/portfolio/kjidp.jpg
   desc: "Sesje programistyczne będzie moderował Krzysztof Jelski - software developer, trener i agile coach z firmy Pragmatists oraz Dawid Pachowski - lider obszaru testów bezpieczeństwa, wykładowca na WEiTI PW i prezes Koła Naukowego Informatyków na Politechnice Warszawskiej."
@@ -128,7 +128,4 @@ bootcampjava:
 bootcampfrontend:
   name: Bootcamp Front-End
   img: /img/portfolio/frontend.png
-  desc: "xxx" 
-
-
-
+  desc: "xxx"
