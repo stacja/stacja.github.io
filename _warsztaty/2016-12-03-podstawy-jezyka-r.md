@@ -24,7 +24,7 @@ opis:
      - chęć do nauki  
      - pozytywne nastawienie oraz uśmiech :)
 
-    Zapewniamy nielimitowany dostęp do pysznej kawy oraz pizzę!
+    Zapewniamy nielimitowany dostęp do pysznej kawy oraz pizzę.
 
   program: |
 
