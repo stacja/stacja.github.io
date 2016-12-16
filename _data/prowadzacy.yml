@@ -129,3 +129,7 @@ bootcampfrontend:
   name: Bootcamp Front-End
   img: /img/portfolio/frontend.png
   desc: "xxx"
+bootcampdatascience:
+  name: Bootcamp Data Science
+  img: /img/portfolio/datascientist.png
+  desc: "xxx"
