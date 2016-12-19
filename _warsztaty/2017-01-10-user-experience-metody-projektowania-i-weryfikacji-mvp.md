@@ -1,13 +1,14 @@
 ---
 # Data dodania informacji o wydarzeniu
-date: 2016-09-09
+date: 2016-12-19
 # Data wydarzenia
-event_date: 2017-01-10
+event_date: 2017-01-21
 title: "User Experience: Metody projektowania i weryfikacji MVP"
 lokalizacja: Sages
 prowadzacy: szadkowski
-type: planowane
-slideshare:
+cena: 96 PLN
+dlugosc: 9:00-17:00
+evenea_link: "https://uxwaw.evenea.pl/?out=1&source=event_iframe"
 opis:
   informacje: |
     Naucz się projektować aplikacje i usługi koncentrując się zarówno na potrzebach Twoich użytkowników, jak i na zarządzaniu strategicznym rozwoju produktu. Maksymalizuj szanse na jego sukces wykorzystując narzędzia Lean UX.
