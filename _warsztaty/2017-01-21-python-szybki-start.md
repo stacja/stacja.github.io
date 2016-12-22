@@ -6,9 +6,7 @@ event_date: 2017-01-21
 title: "Python - szybki start"
 lokalizacja: SaleOmega
 prowadzacy: galka
-cena: 96 PLN
-dlugosc: 9:00-17:00
-evenea_link: "https://podstawyR2.evenea.pl/?out=1&source=event_iframe"
+type: planowane
 slideshare:
 opis:
   informacje: |
