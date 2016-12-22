@@ -6,7 +6,9 @@ event_date: 2017-01-21
 title: "Python - szybki start"
 lokalizacja: SaleOmega
 prowadzacy: galka
-type: planowane
+dlugosc: 9:00-17:00
+evenea_link: "https://python2.evenea.pl/?out=1&source=event_iframe"
+cena: 96 PLN
 slideshare:
 opis:
   informacje: |
@@ -24,7 +26,7 @@ opis:
     Od uczestników wymagana jest umiejętność obsługi komputera wyposażonego w wybrany system operacyjny: Windows, macOS/OS X, Linux. W trakcie zajęć uczesnicy wykorzystywać będą własne komputery. 
     Umiejętność programowania w innych językach będzie pomocna, ale nie stanowi warunku koniecznego.
 
-    Za użyczenie sali bardzo dziękujemy [![Image of SaleOmega](/img/logos/saleomega.jpeg)](http://saleomega.pl/.com/#firstcontainer)
+    Za użyczenie sali bardzo dziękujemy [![Image of SaleOmega](/img/logos/saleomega.JPEG)](http://saleomega.pl/.com/#firstcontainer)
 
   program: |
 

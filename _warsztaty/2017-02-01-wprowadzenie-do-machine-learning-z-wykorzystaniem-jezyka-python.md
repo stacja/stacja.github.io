@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2016-09-23
 # Data wydarzenia
-event_date: 2017-01-01
+event_date: 2017-02-01
 title: "Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
 lokalizacja: PSkarga
 prowadzacy: stolecki
