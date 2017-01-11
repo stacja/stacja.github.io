@@ -1,11 +1,11 @@
 ---
 # Data dodania informacji o wydarzeniu
-date: 2016-07-20
+date: 2017-01-11
 # Data wydarzenia
-event_date: 2016-12-17
-title: "Mobile web dla każdego - jak tworzyć mobilne strony i aplikacje działające w przeglądarce"
+event_date: 2017-02-11
+title: "Wprowadzenie do języka Swift 3"
 lokalizacja: ClusterCowork
-prowadzacy: dziadowiec
+prowadzacy: dziadkowiec
 dlugosc: 9:00-17:00
 cena: 96 PLN
 type: planowane
