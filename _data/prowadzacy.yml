@@ -133,3 +133,7 @@ bootcampdatascience:
   name: Bootcamp Data Science
   img: /img/portfolio/datascientist.png
   desc: "xxx"
+dziadkowiec:
+  name: Michał Dziadkowiec
+  img: /img/portfolio/mdziadkowiec.png
+  desc: "Michał interesuje się technologiami z zakresu tworzenia responsywnych i interaktywnych aplikacji internetowych (głównie HTML5, CSS3, js, node.js, Backbone, jQuery, NoSQL) oraz aplikacji natywnych na urządzenia mobilne z systemem iOS (Objective-C, Cocoa Touch). Swoją wiedzę zdobywa przez samokształcenie, ciągle poszukując nowych wyzwań."
