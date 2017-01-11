@@ -7,7 +7,6 @@ title: "Wprowadzenie do języka Swift 3"
 lokalizacja: ClusterCowork
 prowadzacy: dziadkowiec
 dlugosc: 9:00-17:00
-cena: 96 PLN
 type: planowane
 slideshare:
 opis:
