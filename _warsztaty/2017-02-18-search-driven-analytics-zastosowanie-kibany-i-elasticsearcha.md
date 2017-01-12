@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2016-11-18
 # Data wydarzenia
-event_date: 2017-02-01
+event_date: 2017-02-18
 title: "Search-Driven Analytics: zastosowanie Kibany i Elasticsearcha"
 lokalizacja: Sages
 prowadzacy: sobczak
