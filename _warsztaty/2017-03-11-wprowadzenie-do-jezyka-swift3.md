@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-01-11
 # Data wydarzenia
-event_date: 2017-02-11
+event_date: 2017-03-11
 title: "Wprowadzenie do języka Swift 3"
 lokalizacja: ClusterCowork
 prowadzacy: dziadkowiec
