@@ -6,7 +6,7 @@ event_date: 2017-02-18
 title: "Search-Driven Analytics: zastosowanie Kibany i Elasticsearcha"
 lokalizacja: Sages
 prowadzacy: rubikowski
-evenea_link: "https://kibana.evenea.pl"
+evenea_link: "https://kibana.evenea.pl/?out=1&source=event_iframe"
 cena: Rejestracja bezpłatna
 sponsor: /img/logos/findwise.png
 opis:
