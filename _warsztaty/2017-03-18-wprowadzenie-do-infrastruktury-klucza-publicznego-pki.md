@@ -6,7 +6,9 @@ event_date: 2017-03-18
 title: "Wprowadzenie do Infrastruktury Klucza Publicznego (PKI)"
 lokalizacja: Sages
 prowadzacy: nazimek
-type: planowane
+dlugosc: 9:00-17:00
+evenea_link: "https://pki3.evenea.pl/?out=1&source=event_iframe"
+cena: Rejestracja bezpłatna
 slideshare:
 opis:
   informacje: |
