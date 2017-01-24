@@ -141,3 +141,7 @@ rubikowski:
   name: Maciej Rubikowski
   img: /img/portfolio/mrubikowski.jpg
   desc: "W IT od 2010 roku, doświadczenie głównie jako Java Developer. Od 3 lat zajmuje się technologiami wyszukiwania w polskim oddziale Findwise. Pracuje głównie z technologiami takimi jak Apache Solr, Elasticsearch, FAST ESP. Doświadczenie zawodowe i naukowe z zakresu text mining, machine learning, sentiment analysis; współautor The Scent of Deception: Recognizing Fake Perfume Reviews in Polish."
+lapierre:
+  name: Adrian Lapierre
+  img: /img/portfolio/alapierre.jpg
+  desc: "abcd"
