@@ -12,7 +12,6 @@ evenea_link: "https://daneosobowe.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
-
     O ochronie danych osobowych słyszał każdy. Nie ma w tym nic dziwnego, ponieważ jest to temat, z którym potykamy się właściwie na każdym kroku. Nie zawsze jednak nasza wiedza jest wystarczająca, aby płynnie poruszać się w tym temacie. Już 25 lutego będzie okazja do zgłębienia tego tematu!
 
     Nowe przepisy ogólnego Rozporządzenia Unii Europejskiej nr 2016/679 w sprawie ochrony danych osobowych (RODO) weszły już w życie. Zaczną obowiązywać z dniem 25 maja 2018 r. 
@@ -28,7 +27,6 @@ opis:
     Zapewniamy nielimitowany dostęp do pysznej kawy oraz pizzę.
 
   program: |
-
     1. Rozporządzenie o ochronie danych osobowych (RODO) – oddziaływanie unijne na rynek informatyczny i teleinformatyczny.
     2. Zgodność z przepisami RODO - sposoby jej zapewnienia. Zbiór sankcji za naruszenie przepisów.
     3. Dane osobowe w RODO oraz ich bezpieczeństwo. Omówienie dotychczasowego stanu prawnego - odpowiedzialności, dokumentacje. Przegląd zmian.
