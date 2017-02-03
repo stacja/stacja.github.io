@@ -144,7 +144,7 @@ rubikowski:
 lapierre:
   name: Adrian Lapierre
   img: /img/portfolio/alapierre.jpg
-  desc: "abcd"
+  desc: "Architekt, integrator aplikacji IT i Project Manager. Ekspert w kwestiach bezpieczeństwa systemów IT oraz autor wielu publikacji z tej dziedziny (m.in. w IT Professional, Gazecie Finansowej). Wieloletni trener i prelegent na konferencjach IT. Szczególnie zainteresowany aplikacjami typu enterprice i projektowaniem relacyjnych baz danych za pomocą MS-SQL Server lub PostgreSQL. Specjalizuje się w Java Desktop & Enterprice, Java Flash Remoting, Spring, Hibernate, JSP oraz JSF."
 brol:
   name: Wojciech Brol
   img: /img/portfolio/wbrol.JPG

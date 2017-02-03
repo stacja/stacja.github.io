@@ -1,11 +1,11 @@
 ---
 # Data dodania informacji o wydarzeniu
-date: 2017-01-24
+date: 2016-10-14
 # Data wydarzenia
-event_date: 2017-02-22
-title: "Ochrona danych osobowych w praktyce"
+event_date: 2017-05-01
+title: "Wizualizacja danych w R"
 lokalizacja: Sages
-prowadzacy: lapierre
+prowadzacy: detko
 type: planowane
 slideshare:
 opis:
