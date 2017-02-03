@@ -30,11 +30,9 @@ opis:
     1. Rozporządzenie o ochronie danych osobowych (RODO) – oddziaływanie unijne na rynek informatyczny i teleinformatyczny.
     2. Zgodność z przepisami RODO - sposoby jej zapewnienia. Zbiór sankcji za naruszenie przepisów.
     3. Dane osobowe w RODO oraz ich bezpieczeństwo. Omówienie dotychczasowego stanu prawnego - odpowiedzialności, dokumentacje. Przegląd zmian.
-    4. Zagadnienia związane z wdrożeniem regulacji GDPR – odpowiedzialność, wdrożenie procesów pod kątem zmniejszenia ryzyka. Omówienie rozwiązań operacyjnych 
-(procesowych, organizacyjnych IT) związanych z GDPR.
+    4. Zagadnienia związane z wdrożeniem regulacji GDPR – odpowiedzialność, wdrożenie procesów pod kątem zmniejszenia ryzyka. Omówienie rozwiązań operacyjnych (procesowych, organizacyjnych IT) związanych z GDPR.
 
   uwaga: |
     W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. **Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
----
 
 ---
