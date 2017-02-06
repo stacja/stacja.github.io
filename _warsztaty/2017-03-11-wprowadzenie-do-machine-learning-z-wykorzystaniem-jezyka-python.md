@@ -2,12 +2,12 @@
 # Data dodania informacji o wydarzeniu
 date: 2016-09-23
 # Data wydarzenia
-event_date: 2017-03-01
+event_date: 2017-03-11
 title: "Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
-lokalizacja: PSkarga
+lokalizacja: Sages
 prowadzacy: stolecki
-dlugosc: 09:00-17:00
-type: planowane
+dlugosc: 10:00-18:00
+evenea_link: "https://mlpython.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
