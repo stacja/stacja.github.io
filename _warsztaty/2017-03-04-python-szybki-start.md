@@ -7,7 +7,7 @@ title: "Python - szybki start"
 lokalizacja: Sages
 prowadzacy: galka
 dlugosc: 9:00-17:00
-type: planowane
+evenea_link: "https://startpython.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
