@@ -18,8 +18,7 @@ opis:
 
     Za użyczenie sali bardzo dziękujemy [![Image of ClusterCowork](/img/logos/clustercowork.png)](http://www.clustercowork.com/#firstcontainer)
 
- program: |
-
+  program: |
    1. Wprowadzenie
       1. Obszary zastosowań języka Swift
       2. Podstawy środowiska Xcode oraz Playgrounds
@@ -55,7 +54,6 @@ opis:
       3. Functional Programming
    1. Swift Package Manager
 
-  
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
 
