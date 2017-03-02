@@ -7,7 +7,7 @@ title: "Wprowadzenie do CSS - czyli jak zmusić HTMLa, żeby jakoś wyglądał"
 lokalizacja: ClusterCowork
 prowadzacy: scira
 dlugosc: 9:00-17:00
-evenea_link: "https://podstawycss.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://csspodstawy.evenea.pl/?out=1&source=event_iframe"
 cena: 96 PLN
 slideshare:
 opis:
