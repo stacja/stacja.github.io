@@ -2,17 +2,19 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-02-13
 # Data wydarzenia
-event_date: 2017-03-11
+event_date: 2017-05-13
 title: "Wprowadzenie do języka Swift 3"
 lokalizacja: ClusterCowork
 prowadzacy: dziadkowiec
 dlugosc: 9:00-17:00
-evenea_link: "https://podstawyswift.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://podstawyswift2.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
     Swift 3 jest jednym z najpopularniejszych języków, które pojawiły się w ostatnich latach. Jako obiecująca alternatywa dla wysłużonego Objective-C, nowy język fascynuje kolejne rzesze programistów. Firmy takie jak IBM inwestują w rozwój języka dając mu nowe możliwości. Apple udostępnił pełne kody zródłowe wraz z oficjalnym wsparciem na platformę Linux co dodatkowo przyczyniło się do zbudowania społeczności, która współtworzy język.
     Ty również możesz zagłębić się w nowoczesny, zwinny świat poznając język Swift 3!
+
+    Na warsztat konieczne jest zabranie własnego laptopa.
 
     Zapewniamy lunch dla uczestników warsztatu.
 
