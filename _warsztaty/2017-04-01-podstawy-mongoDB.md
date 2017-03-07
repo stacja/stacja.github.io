@@ -6,8 +6,9 @@ event_date: 2017-04-01
 title: "Podstawy MongoDB"
 lokalizacja: Sages
 prowadzacy: sztajerowski
-type: planowane
+evenea_link: "https://mongodb2.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
+cena: 96 PLN
 opis:
   informacje: |
     Istnieje kilka przesłanek dlaczego w ogóle warto poznać i zastanowić się nad użyciem MongoDB w projekcie. Głównym z nich jest potrzeba skalowania horyzontalnego (moment gdy dodawanie kolejnych dysków do serwera przestaje być możliwe do realizacji), ale nie tylko dlatego warto zwrócić uwagę na tę bazę. Jest ona również alternatywą dla baz relacyjnych, gdy schemat danych ulega ciągłym zmianom, bądź - co gorsza - nie ma go w ogóle lub sytuacja, w której to na czym najbardziej nam zależy to stała dostępność danych.
