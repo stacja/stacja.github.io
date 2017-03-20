@@ -9,7 +9,6 @@ prowadzacy: scira
 dlugosc: 9:00-17:00
 evenea_link: "https://csspodstawy.evenea.pl/?out=1&source=event_iframe"
 cena: 96 PLN
-sponsor: /img/logo.png
 slideshare:
 opis:
   informacje: |
