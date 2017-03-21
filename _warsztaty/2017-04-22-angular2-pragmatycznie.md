@@ -13,9 +13,9 @@ slideshare:
 opis:
   informacje: |
 
-    Partnerem wydarzenia jest Atena - firma specjalizująca się w projekowaniu i wdrażaniu kompleksowych systemów informatycznych dla biznesu. 
+    **Partnerem wydarzenia jest Atena - firma specjalizująca się w projekowaniu i wdrażaniu kompleksowych systemów informatycznych dla biznesu.** 
 
-    [![Image of atena](/img/logos/atena.jpeg)](https://www.atena.pl/)
+                 [![Image of atena](/img/logos/atena.jpg)](https://www.atena.pl/)
 
 
     Nowa wersja frameworka Angular czerpie pełnymi garściami z rewolucji w ekosystemie front-end, jaka odbyła się od czasu pojawienia się pierwszej odsłony AngularJS. 
