@@ -1,0 +1,67 @@
+---
+layout: nil
+---
+[
+{% assign sorted_warsztaty = site.warsztaty | sort: 'event_date' %}
+{% for warsztat in sorted_warsztaty %}
+  {% capture nowtime %}{{site.time | date: '%s'}}{% endcapture %}
+  {% capture eventtime %}{{warsztat.event_date | date: '%s'}}{% endcapture %}
+  {% if eventtime < nowtime %}
+    {% continue %}
+  {% endif %}
+
+  {% assign prowadzacy = site.data.prowadzacy[warsztat.prowadzacy] %}
+  {% assign lokalizacja = site.data.lokalizacje[warsztat.lokalizacja] %}
+
+  {% assign button_class = 'btn btn-xl' %}
+  {% assign event_date = warsztat.event_date %}
+  {% assign item_class = '' %}
+
+  {% if warsztat.type %}
+    {% if warsztat.type == 'meetup' %}
+      {% assign button_text = 'MEETUP' %}
+      {% assign event_link = warsztat.meetup_link %}
+    {% elsif warsztat.type == 'bootcamp' %}
+      {% assign button_text = 'ZAREJESTRUJ SIĘ' %}
+      {% assign event_link = warsztat.evenea_link %}
+      {% assign button_class = 'btn btn-xl workshop-bootcamp' %}
+      {% assign item_class = 'item-bootcamp' %}
+    {% elsif warsztat.type == 'planowane' %}
+      {% assign button_text = 'Rejestracja wkrótce' %}
+      {% assign event_link = '#' %}
+      {% assign button_class = 'btn btn-xl workshop-future' %}
+      {% assign m = warsztat.event_date | date: "%-m" %}
+      {% capture event_date %}
+      {% case m %}
+        {% when '1' %}Styczeń
+        {% when '2' %}Luty
+        {% when '3' %}Marzec
+        {% when '4' %}Kwiecień
+        {% when '5' %}Maj
+        {% when '6' %}Czerwiec
+        {% when '7' %}Lipiec
+        {% when '8' %}Sierpień
+        {% when '9' %}Wrzesień
+        {% when '10' %}Październik
+        {% when '11' %}Listopad
+        {% when '12' %}Grudzień
+      {% endcase %}
+      {{ warsztat.event_date | date: "%Y" }}
+      {% endcapture %}
+    {% else %}
+        {% assign button_text = 'ZAREJESTRUJ SIĘ' %}
+        {% assign event_link = warsztat.url %}
+    {% endif %}
+  {% else %}
+    {% assign button_text = 'ZAREJESTRUJ SIĘ' %}
+    {% assign event_link = warsztat.url %}
+  {% endif %}
+  {
+          "title"    : "{{ warsztat.title }}",
+          "url"     : "{{ event_link }}",
+          "date"     : "{{ event_date }}",
+          "price"  : "{{ warsztat.cena }}"
+          "city"     : "{{ lokalizacja.miasto }}",
+  } {% if forloop.last %}{% else %},{% endif %}
+{% endfor %}
+]
