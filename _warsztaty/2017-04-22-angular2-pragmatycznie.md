@@ -18,7 +18,6 @@ opis:
     [![Image of Atena](/img/logos/Atena.png)](https://www.atena.pl)
 
 
-
     <hr>
 
 
@@ -34,15 +33,15 @@ opis:
 
   program: |
 
-    1. Podstawowe założenia frameworka
-    1. Wprowadzenie do TypeScript
-    1. Wydajność programisty z Angular CLI
-    1. Budowa komponentów i usług
-    1. Czy to jeszcze HTML? Składnia szablonów
-    1. Routing
+    1. Podstawowe założenia frameworka.
+    1. Wprowadzenie do TypeScript.
+    1. Wydajność programisty z Angular CLI.
+    1. Budowa komponentów i usług.
+    1. Czy to jeszcze HTML? Składnia szablonów.
+    1. Routing.
     1. Angular poza przeglądarką - to proste!
     1. Co z moją aplikacją w Angular 1?
-    1. Angular a alternatywy
+    1. Angular a alternatywy.
    
   uwaga: |
 
