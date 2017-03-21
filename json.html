@@ -60,8 +60,8 @@ layout: nil
           "title"    : "{{ warsztat.title }}",
           "url"     : "{{ event_link }}",
           "date"     : "{{ event_date }}",
-          "price"  : "{{ warsztat.cena }}"
-          "city"     : "{{ lokalizacja.miasto }}",
+          "price"  : "{{ warsztat.cena }}",
+          "city"     : "{{ lokalizacja.miasto }}"
   } {% if forloop.last %}{% else %},{% endif %}
 {% endfor %}
 ]
