@@ -13,9 +13,9 @@ slideshare:
 opis:
   informacje: |
 
-    **Partnerem wydarzenia jest Atena - firma specjalizująca się w projekowaniu i wdrażaniu kompleksowych systemów informatycznych dla biznesu.**
+    <center>**Partnerem wydarzenia jest Atena - firma specjalizująca się w projekowaniu i wdrażaniu kompleksowych systemów informatycznych dla biznesu.**</center>
 
-    [![Image of atena](/img/logos/atena.png)](https://www.atena.pl)
+    <center>[![Image of atena](/img/logos/atena.png)](https://www.atena.pl)</center>
 
 
 
