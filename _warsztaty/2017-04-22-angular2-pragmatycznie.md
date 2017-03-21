@@ -8,13 +8,12 @@ lokalizacja: Focus
 prowadzacy: sulkowski
 cena: Rejestracja bezpłatna
 dlugosc: 9:00-17:00
-type: planowane
 evenea_link: "https://angular2.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
 
-    Partnerem wydarzenia jest firma Atena, specjalizująca się w projekowaniu i wdrażaniu kompleksowych systemów informatycznych dla biznesu. 
+    Partnerem wydarzenia jest Atena - firma specjalizująca się w projekowaniu i wdrażaniu kompleksowych systemów informatycznych dla biznesu. 
 
     [![Image of atena](/img/logos/atena.jpeg)](https://www.atena.pl/)
 
@@ -27,7 +26,7 @@ opis:
 
     Podczas warsztatów omówimy te zalety szerzej a także przećwiczymy na praktycznym przykładzie jak za pomocą Angulara w wydajny sposób budować aplikacje w architekturze SPA. 
 
-    Od uczestników wymagane jest minimum podstawowe doświadczenie z językiem JavaScript. Uczestnicy w trakcie zajęć korzystają z własnego sprzętu (wymagany komputer z systemem Linux lub Windows z prawami administratora). 
+    **Od uczestników wymagane jest minimum podstawowe doświadczenie z językiem JavaScript.** Uczestnicy w trakcie zajęć korzystają z własnego sprzętu (wymagany komputer z systemem Linux lub Windows z prawami administratora). 
 
   program: |
 
