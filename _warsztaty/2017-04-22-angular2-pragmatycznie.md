@@ -15,7 +15,7 @@ opis:
 
     **Partnerem wydarzenia jest Atena - lider wśród dostawców rozwiązań IT dla ubezpieczeń.**
 
-    [![Image of Atena](/img/logos/Atena.png)](https://www.atena.pl)
+    [![Image of atena](/img/logos/atena.png)](https://www.atena.pl)
 
 
     <hr>
