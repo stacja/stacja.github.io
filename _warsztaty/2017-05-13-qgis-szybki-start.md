@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-02-01
 # Data wydarzenia
-event_date: 2017-05-06
+event_date: 2017-05-13
 title: "QGIS - szybki start"
 lokalizacja: Sages
 prowadzacy: brol
