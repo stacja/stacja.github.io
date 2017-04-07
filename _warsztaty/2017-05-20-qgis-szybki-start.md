@@ -4,9 +4,9 @@ date: 2017-04-06
 # Data wydarzenia
 event_date: 2017-05-20
 title: "QGIS - szybki start"
+dlugosc: 9:00-15:00
 lokalizacja: Sages
 prowadzacy: brol
-dlugosc: 9:00-15:00
 evenea_link: "https://qgis2.evenea.pl/?out=1&source=event_iframe"
 cena: Rejestracja bezpłatna
 slideshare:
