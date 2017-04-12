@@ -155,7 +155,7 @@ labuz:
   desc: "Z informatyką spotkał się na poziomie Atari 65XE i języków Basic i Action! Zawodowo zajmuje się programowaniem już kilkanaście lat, głównie na platformę Java z wykorzystaniem frameworków Spring i Wicket. W pracy ukierunkowany głównie na cel czyli działający program i zadowolony klient, nie zapomina przy tym o dobrych wzorcach projektowych i architekturze nie blokującej rozwoju systemu w przyszłości, posiada doświadczenie jako kierownik techniczny małych zespołów wykonawczych. W ciągu ostatnich 5 lat prawie rok spędził prowadząc szkolenia z Java, głównie ze Spring Framework, Hibernate, EJB i administracji serwerem JBoss. Z zamiłowania kucharz, lubi sobie również czasem pochodzić z aparatem fotograficznym."
 kruglej:
   name: Przemysław Kruglej
-  img: /img/portfolio/pkruglej.jpg
+  img: /img/portfolio/pkruglej.JPG
   desc: "Programista Java i PL/SQL, którego pasją jest Git oraz dbanie o jakość w najdrobniejszych szczegółach. Współpracował m. in. z Toyotą, Sygnity, i Deloitte. W Deloitte, poza programowaniem, zajmował się utrzymywaniem projektowego repozytorium Git, implementacją Continuous Integration i Continuous Delivery, code review, wdrażaniem Branching Model Vincenta Driessena, oraz uczeniem Gita. Prowadzi bloga o Java, Oracle i Git na przemyslawkruglej.com oraz udziela się na StackOverflow na Oracle'owych tagach."
 chmielarski:
   name: Andrzej Chmielarski
