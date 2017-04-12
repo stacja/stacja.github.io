@@ -7,9 +7,7 @@ title: "Lean UX - skuteczne rozwijanie produktu"
 lokalizacja: Sages
 type: planowane
 prowadzacy: szadkowski
-cena: 96 PLN
 dlugosc: 9:00-17:00
-evenea_link: "https://uxwaw.evenea.pl/?out=1&source=event_iframe"
 opis:
   informacje: |
    
