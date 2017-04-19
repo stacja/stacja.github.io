@@ -1,14 +1,14 @@
 ---
 # Data dodania informacji o wydarzeniu
-date: 2016-12-15
+date: 2016-04-19
 # Data wydarzenia
 event_date: 2017-05-13
 title: "Podstawy języka R"
-type: planowane
 lokalizacja: SaleOmega
 prowadzacy: detko
+cena: 96 PLN
 dlugosc: 9:00-17:00
-evenea_link: "https://podstawyR3.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://podstawyR4.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
