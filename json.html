@@ -62,7 +62,15 @@ sitemap: false
           "url"     : "{{ event_link }}",
           "date"     : "{{ event_date }}",
           "price"  : "{{ warsztat.cena }}",
-          "city"     : "{{ lokalizacja.miasto }}"
+          "city"     : "{{ lokalizacja.miasto }}",
+          {% if warsztat.type %}
+            "type"    : "{{ warsztat.type }}",
+          {% else %}
+            "type"    : "aktywne",
+          {% endif %}
+          "overview"  : "{{ warsztat.opis.informacje }}",
+          "agenda"  : "{{ warsztat.opis.program }}",
+          "additional_info"  : "{{ warsztat.opis.uwaga }}"
   } {% if forloop.last %}{% else %},{% endif %}
 {% endfor %}
 ]
