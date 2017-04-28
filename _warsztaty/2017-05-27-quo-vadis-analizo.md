@@ -12,6 +12,8 @@ cena: Rejestracja bezpłatna
 slideshare:
 opis:
   informacje: |
+    
+    **Zapraszamy na pierwsze w ramach Stacji IT wydarzenie dedykowane analitykom biznesowym. Spotkanie poprowadzi Karolina Zmitrowicz - ekspert z obszaru analizy biznesowej.
 
     Analiza biznesowa nie jest pojęciem nowym. Istnieje na rynku już od jakiegoś czasu, przy czym najbardziej znaną i uznaną interpretację tego obszaru zawdzięczamy BABOK Guide, którego starsza wersja definiowała analizę jako "zestaw zadań, wiedzy, narzędzi i technik niezbędnych do identyfikacji potrzeb biznesowych i określenia rozwiązań dla problemów biznesowych". Ta interpretacja - rozumiana przez zainteresowanych w większym lub mniejszym stopniu - funkcjonowała w środowisku przez dłuższy czas. Nowa wersja BABOKa postanowiła zmienić ten stan rzeczy wprowadzając pozornie drobną modyfikację do definicji i podając nowe wyjaśnienie: analiza to "praktyka umożliwiająca zmianę organizacji poprzez określenie potrzeb i rekomendowanie rozwiązań dostarczających interesariuszom wartość". 
 
@@ -23,7 +25,7 @@ opis:
 
     Warsztat pomoże znaleźć odpowiedzi na te pytania, dążąc do opracowania modelu kompetencji idealnego nowoczesnego analityka biznesowego. 
 
-    Warsztat skierowany do osób już pracujących w obszarze analizy biznesowej i systemowej. Uczestnicy podczas warsztatu korzystają z własnych laptopów. 
+    **Warsztat skierowany do osób już pracujących w obszarze analizy biznesowej i systemowej. Uczestnicy podczas warsztatu korzystają z własnych laptopów.** 
 
     Gwarantujemy stały dostęp do kawy i pizzę w porze obiadowej :)
 
