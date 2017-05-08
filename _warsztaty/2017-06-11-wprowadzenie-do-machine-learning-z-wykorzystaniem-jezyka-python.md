@@ -4,10 +4,9 @@ date: 2016-09-23
 # Data wydarzenia
 event_date: 2017-06-11
 title: "Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
-lokalizacja: PSkarga
+lokalizacja: Workband
 prowadzacy: stolecki
 dlugosc: 09:00-17:00
-type: planowane
 slideshare:
 opis:
   informacje: |
@@ -20,7 +19,7 @@ opis:
 
     Podczas warsztatu uczestnicy korzystają z własnych komputerów.
 
-    Zapewniamy nielimitowany dostęp do pysznej kawy oraz pizzę. ☺
+    Zapewniamy kawę oraz pizzę. ☺
 
   program: |
     1. Wstęp.
@@ -36,6 +35,6 @@ opis:
        4. Algorytmy grupowania.
 
   uwaga: |
-    Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
+    W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. **Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
 
 ---

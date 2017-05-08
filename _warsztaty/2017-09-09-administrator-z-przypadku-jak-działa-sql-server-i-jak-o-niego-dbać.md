@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-02-01
 # Data wydarzenia
-event_date: 2017-06-10
+event_date: 2017-09-09
 title: "Administrator z przypadku. Jak działa SQL Server i jak o niego dbać"
 lokalizacja: Sages
 prowadzacy: ratajczyk
