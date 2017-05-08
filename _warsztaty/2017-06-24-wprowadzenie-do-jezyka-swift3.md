@@ -2,13 +2,13 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-02-13
 # Data wydarzenia
-event_date: 2017-05-13
+event_date: 2017-06-24
 title: "Wprowadzenie do języka Swift 3"
 lokalizacja: ClusterCowork
 prowadzacy: dziadkowiec
 dlugosc: 9:00-17:00
+type: planowane
 evenea_link: "https://podstawyswift2.evenea.pl/?out=1&source=event_iframe"
-cena: 96 PLN
 slideshare:
 opis:
   informacje: |
