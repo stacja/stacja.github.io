@@ -6,6 +6,8 @@ event_date: 2017-06-11
 title: "Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
 lokalizacja: Workband
 prowadzacy: stolecki
+cena: Rejestracja bezpłatna
+evenea_link: "https://machinelearningwroc.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
 slideshare:
 opis:
