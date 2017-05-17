@@ -58,7 +58,7 @@ sitemap: false
     {% assign event_link = warsztat.url %}
   {% endif %}
   {
-          "title"    : "{{ warsztat.title | replace: '"', '\"' }}",
+          "title"    : "{{ warsztat.title | replace: '"', '\"' | newline_to_br }}",
           "url"     : "{{ event_link }}",
           "date"     : "{{ event_date }}",
           "price"  : "{{ warsztat.cena }}",
@@ -68,9 +68,9 @@ sitemap: false
           {% else %}
             "type"    : "aktywne",
           {% endif %}
-          "overview"  : "{{ warsztat.opis.informacje | replace: '"', '\"' }}",
-          "agenda"  : "{{ warsztat.opis.program | replace: '"', '\"' }}",
-          "additional_info"  : "{{ warsztat.opis.uwaga | replace: '"', '\"' }}"
+          "overview"  : "{{ warsztat.opis.informacje | replace: '"', '\"' | newline_to_br }}",
+          "agenda"  : "{{ warsztat.opis.program | replace: '"', '\"' | newline_to_br }}",
+          "additional_info"  : "{{ warsztat.opis.uwaga | replace: '"', '\"' | newline_to_br }}"
   } {% if forloop.last %}{% else %},{% endif %}
 {% endfor %}
 ]
