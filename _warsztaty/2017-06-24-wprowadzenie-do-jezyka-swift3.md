@@ -1,14 +1,13 @@
 ---
 # Data dodania informacji o wydarzeniu
-date: 2017-02-13
+date: 2017-05-22
 # Data wydarzenia
 event_date: 2017-06-24
 title: "Wprowadzenie do języka Swift 3"
 lokalizacja: ClusterCowork
 prowadzacy: dziadkowiec
 dlugosc: 9:00-17:00
-type: planowane
-evenea_link: "https://podstawyswift2.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://podstawyswift3.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
@@ -17,7 +16,7 @@ opis:
 
     Na warsztat konieczne jest zabranie własnego laptopa.
 
-    Zapewniamy lunch dla uczestników warsztatu.
+    Zapewniamy pizzę oraz kawę i herbatę dla uczestników warsztatu.
 
     Za użyczenie sali bardzo dziękujemy [![Image of ClusterCowork](/img/logos/clustercowork.png)](http://www.clustercowork.com/#firstcontainer)
 
@@ -58,7 +57,7 @@ opis:
    1. Swift Package Manager
 
   uwaga: |
-    Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
+    W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. **Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 5 dni przed planowaną datą wydarzenia.
 
    
 ---
