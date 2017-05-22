@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-04-12
 # Data wydarzenia
-event_date: 2017-07-01
+event_date: 2017-08-05
 title: "Lean UX - skuteczne rozwijanie produktu"
 lokalizacja: Sages
 type: planowane
