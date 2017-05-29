@@ -7,7 +7,7 @@ title: "Apache Cassandra - wprowadzenie do architektury, modelowania danych i na
 lokalizacja: MillenniumPlaza
 prowadzacy: migacz
 dlugosc: 9:00-17:00
-evenea_link: https://apachecassandra2.evenea.pl?out=1&source=event_iframe
+evenea_link: "https://apachecassandra2.evenea.pl?out=1&source=event_iframe"
 cena: 96 PLN
 slideshare:
 opis:
