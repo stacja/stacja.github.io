@@ -56,7 +56,7 @@ kiezynski:
 pajak:
   name: "Tomek Pająk"
   img: /img/portfolio/tp.png
-  desc: "na co dzień programista, team leader, architekt lub Scrum Master - w zależności od bieżących potrzeb. Nie boi się również zostać członkiem QA lub analitykiem, jeśli pomoże to Zespołowi osiągnąć cel, jakim jest oddanie produktu zgodnego z oczekiwaniami jego Właściciela. Kiedyś w projekcie od wyceny do wdrożenia, obecnie pracuje nad produktem płatności mobilnych. Nieustannie zdobywa doświadczenie podczas pracy nad systemami dla sektora finansowego (bankowości internetowe, płatności mobilne) i telekomunikacyjnego. Najczęściej pracuje z technologiami: Spring, Hibernate, Web Services, JBoss Drools oraz szeroko rozumianą Javą EE."
+  desc: "Tomek pełni rolę Software Engineering Managera w fintechowej firmie Seqr. Jest to miejsce, w którym na co dzień zmaga się on z wyzwaniami budowania produktu, którego celem jest zakłócenie rynku (ang. disruptive product) i przedefiniowania jego zasad. Tomek dzieli się swoim doświadczeniem na międzynarodowych konferencjach (m.in. Agile Cambridge, Lean Agile Europe, Agile By Example, DevOpsDays, Agile Management Congress itd.) i jest autorem artykułów dla InfoQ. Specjalizuje się w transformacjach agileowych i DevOpsowych, budowaniu organizacji o dużej przepustowości, kulturze organizacyjnej oraz radzenia sobie ze złożonymi systemami. Jako trener, konsultant i coach w Sages Tomek jest świadkiem, jak inne organizacje zmieniają podejście do prowadzenia biznesu poprzez zaadaptowanie poszczególnych koncepcji (np. agile) i technologii."
 andrzejewski:
   name: "Łukasz Andrzejewski"
   img: /img/portfolio/ła.jpg

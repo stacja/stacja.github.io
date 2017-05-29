@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2016-10-14
 # Data wydarzenia
-event_date: 2017-06-24
+event_date: 2017-07-08
 title: "Wprowadzenie do Power BI"
 lokalizacja: Sages
 prowadzacy: detko
