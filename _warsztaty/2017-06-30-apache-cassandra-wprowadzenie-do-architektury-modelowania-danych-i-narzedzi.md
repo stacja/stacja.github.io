@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-05-29
 # Data wydarzenia
-event_date: 2016-06-30
+event_date: 2017-06-30
 title: "Apache Cassandra - wprowadzenie do architektury, modelowania danych i narzędzi"
 lokalizacja: MillenniumPlaza
 prowadzacy: migacz
