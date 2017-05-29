@@ -14,7 +14,8 @@ opis:
   informacje: |
     Zdobądź mocne podstawy niezbędne do prawidłowego modelowania własnych przypadków biznesowych podczas jednodniowych warsztatów hands-on!
 
-    Ilość gromadzonych i analizowanych danych rośnie lawinowo i wszystko wskazuje na to, że to dopiero początek. Dotyczy to niemal wszystkich obszarów: od mediów społecznościowych, przez wielkie przedsięwzięcia naukowe jak LHC, po Internet rzeczy już niebawem. Bazy danych NoSQL, w tym Cassandra, powstały by sprostać tej ogromnej skali. Dzięki bardzo dużej szybkości oraz możliwości liniowego skalowania, Cassandra jest liderem wśród tych rozwiązań.
+    Ilość gromadzonych i analizowanych danych rośnie lawinowo i wszystko wskazuje na to, że to dopiero początek. Dotyczy to niemal wszystkich obszarów: od mediów społecznościowych, przez wielkie przedsięwzięcia naukowe jak LHC, po Internet
+    rzeczy już niebawem. Bazy danych NoSQL, w tym Cassandra, powstały by sprostać tej ogromnej skali. Dzięki bardzo dużej szybkości oraz możliwości liniowego skalowania, Cassandra jest liderem wśród tych rozwiązań.
 
     Warsztat ma na celu wprowadzenie do podstaw baz NoSQL i Apache Cassandra. Uczestnicy zapoznają się z architekturą Cassandry, modelowaniem danych oraz zastosowaniami Cassandry.
 
@@ -38,6 +39,5 @@ opis:
     4. Podsumowanie
 
   uwaga: |
-
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
 ---
