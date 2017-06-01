@@ -3,17 +3,46 @@
 date: 2016-10-14
 # Data wydarzenia
 event_date: 2017-07-08
-title: "Wprowadzenie do Power BI"
+title: "Analiza danych w Power BI"
 lokalizacja: Sages
+evenea_link: "https://powerbi.evenea.pl/?out=1&source=event_iframe"
 prowadzacy: detko
-type: planowane
+dlugosc: 9:00-17:00
+cena: 96 PLN
 slideshare:
 opis:
   informacje: |
 
+    Power BI - jest to narzędzie typu self-service służące do raportowania, odkrywania wiedzy z danych w prosty i czytelny sposób. Podczas warsztatu dowiesz się jak stworzyć kompletne rozwiązanie analityczne, używając przy tym kluczowych dostępnych funkcjonalności. Początkowo zostaną omówione problemy importu danych, łączenia z różnymi źródłami, następnie zostanie przeprowadzona transformacja danych za pomocą wbudowanych narzędzi a także posługując się językiem DAX i R. Zostanie także stworzony model danych na którym będą przeprowadzane analizy z wykorzystaniem oferowanych możliwości wizualizacji danych. 
+
+    Po warsztacie, będziesz gotowy do używania PowerBI w swojej codzinnej pracy, a także wykorzystując go do własnych potrzeb. Będziesz w stanie dobrać odpowiednie funkcjonalności dla postawionych wymagań, przygotowywać rozwiązania w świetle dobrych praktyk. 
+
+    Podczas warsztatu zapewniemy nielimitowany dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę.
+
   program: |
+
+    1. Wprowadzenie do PowerBI i raportowania Self-service
+    1. Import danych 
+       1. Przegląd dostepnych źródeł
+       1. Import plików CSV i XLSX
+       1. Import danych z bazy danych 
+    1. Transformacja danych 
+       1. Edycja tabeli 
+       1. Tworzenie relacji w modelu 
+       1. Dodanie dodatkowych danych 
+       1. Przygotowanie modelu
+       1. Tworzenie miar w DAX 
+    1. Interaktywne przeglądanie danych 
+       1. Filtry 
+       1. Wykresy 
+       1. Wizualizacje 
+    1. Dystrybucja raportów do innych użytkowników 
+    1. Własne rozwiązania w Power BI 
+       1. Własne wizualizacje 
+       1. Skrypt R i wizualizacje oparte o R 
 
   uwaga: |
  
-
+    W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. **Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 5 dni przed planowaną datą wydarzenia.
+ 
 ---
