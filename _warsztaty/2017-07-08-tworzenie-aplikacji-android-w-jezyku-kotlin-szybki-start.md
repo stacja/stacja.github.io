@@ -4,15 +4,17 @@ date: 2017-06-01
 # Data wydarzenia
 event_date: 2017-07-08
 title: "Tworzenie aplikacji Android w języku Kotlin - szybki start"
-lokalizacja: CreativeCoworking
+lokalizacja: NiewiadomoKrakow
 prowadzacy: andrzejewski
-type: planowane
+sponsor: /img/logos/metrosoft.png
+cena: Rejestracja bezpłatna
 dlugosc: 9:00-17:00
-evenea_link: "https://kotlin2.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://androidkotlin.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
-    W czasie warsztatu prowadzący wraz z uczestnikami stworzy od podstaw aplikację wykorzystując język Kotlin - stworzony z myślą o programistach Java,, łatwy w użyciu i  bezpieczny. Praktyczne podejście umożliwia szybkie przyswojenie nowych koncepcji i pozwala na pokazanie najważniejszych różnic, zarówno na poziomie samego języka jaki i sposobów rozwiązywania typowych problemów z codziennego życia.  Dodatkowo pokażemy także wiele ciekawych bibliotek. Zajęcia będą miały formę czystego warsztatu dlatego zalecane jest, aby uczestnicy mieli doświadczenie w tworzeniu aplikacji na platformę Android oraz pracowali na komputerach wraz z prowadzącym.
+
+    W czasie warsztatu prowadzący wraz z uczestnikami stworzy od podstaw aplikację wykorzystując język Kotlin - stworzony z myślą o programistach Java,, łatwy w użyciu i  bezpieczny. Praktyczne podejście umożliwia szybkie przyswojenie nowych koncepcji i pozwala na pokazanie najważniejszych różnic, zarówno na poziomie samego języka jaki i sposobów rozwiązywania typowych problemów z codziennego życia. Dodatkowo pokażemy także wiele ciekawych bibliotek. Zajęcia będą miały formę czystego warsztatu dlatego zalecane jest, aby uczestnicy mieli doświadczenie w tworzeniu aplikacji na platformę Android oraz pracowali na komputerach wraz z prowadzącym.
 
   program: |
     1. Wprowadzenie.
