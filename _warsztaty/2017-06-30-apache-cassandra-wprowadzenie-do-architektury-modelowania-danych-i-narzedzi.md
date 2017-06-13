@@ -5,7 +5,7 @@ date: 2017-05-29
 event_date: 2017-06-30
 title: "Apache Cassandra - wprowadzenie do architektury, modelowania danych i narzędzi"
 lokalizacja: MillenniumPlaza
-prowadzacy: migacz
+prowadzacy: kosik
 dlugosc: 9:00-17:00
 evenea_link: "https://apachecassandra2.evenea.pl?out=1&source=event_iframe"
 cena: 96 PLN

@@ -173,6 +173,9 @@ smyk:
   name: Rafał Smyk
   img: /img/portfolio/rsmyk.png
   desc: "Specjalista w dziedzinie Systemów Informacji Geograficznej (GIS) oraz kartografii. Absolwent geoinformacji na UAM w Poznaniu oraz gospodarki przestrzennej na UP Poznaniu. Pracuje w projektach tworzenia przestrzennych baz danych tematycznych dotyczących środowiska przyrodniczego (mapy hydrograficzne, sozologiczne, geomorfologiczne). Prowadzi analizy GIS dotyczące danych środowiskowych i społeczno-ekonomicznych.  W pracy wykorzystuje oprogramowanie QGIS i język Python. Prowadzi szkolenia z programu QGIS oraz kursy z wizualizacji danych przestrzennych dla studentów UAM w Poznaniu i UMSC w Lublinie. Pasjonat kartografii, wędrówek górskich i jazdy na rowerze." 
-
+kosik:
+  name: Amadeusz Kosik
+  img: /img/portfolio/akosik.jpg
+  desc: "Software architekt i developer specjalizujący się w tworzeniu aplikacji rozproszonych w języku Scala oraz trener w zakresie rozwiązań przetwarzania Big Data (Apache Cassandra, Apache Spark). W pracy zawodowej zajmuje się projektowaniem, tworzeniem i wdrażaniem rozwiązań przetwarzania strumieniowego danych oraz uczenia maszynowego." 
 
 
