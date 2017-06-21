@@ -1,25 +1,17 @@
 ---
 # Data dodania informacji o wydarzeniu
-date: 2017-06-01
+date: 2017-06-21
 # Data wydarzenia
 event_date: 2017-07-15
 title: "Angular 2 pragmatycznie"
-lokalizacja: CreativeCoworking
+lokalizacja: NiewiadomoKrakow
 prowadzacy: sulkowski
-type: planowane
 dlugosc: 9:00-17:00
-evenea_link: "https://angular2.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://angular2krakow.evenea.pl/?out=1&source=event_iframe"
+sponsor: /img/logos/metrosoft.png
 slideshare:
 opis:
   informacje: |
-
-    **Partnerem wydarzenia jest Atena - lider wśród dostawców rozwiązań IT dla ubezpieczeń.**
-
-    [![Image of atena](/img/logos/atena.png)](https://www.atena.pl)
-
-
-    <hr>
-
 
     Nowa wersja frameworka Angular czerpie pełnymi garściami z rewolucji w ekosystemie front-end, jaka odbyła się od czasu pojawienia się pierwszej odsłony AngularJS. 
 
