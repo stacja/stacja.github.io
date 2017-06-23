@@ -5,56 +5,40 @@ date: 2017-06-23
 event_date: 2017-07-21
 title: "Docker - budowa wielokontenerowego systemu WWW od podstaw"
 lokalizacja: Sages
-type: planowane
 prowadzacy: murawski
 sponsor: /img/logos/epoint.png
-evenea_link: "https://mongodb2.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://docker2.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
 opis:
   informacje: |
-    Istnieje kilka przesłanek dlaczego w ogóle warto poznać i zastanowić się nad użyciem MongoDB w projekcie. Głównym z nich jest potrzeba skalowania horyzontalnego (moment gdy dodawanie kolejnych dysków do serwera przestaje być możliwe do realizacji), ale nie tylko dlatego warto zwrócić uwagę na tę bazę. Jest ona również alternatywą dla baz relacyjnych, gdy schemat danych ulega ciągłym zmianom, bądź - co gorsza - nie ma go w ogóle lub sytuacja, w której to na czym najbardziej nam zależy to stała dostępność danych.
- 
-    Warsztat skierowany jest do programistów/testerów, którzy chcą zapoznać się obsługą podstawowych elementów MongoDB. Od uczestników wymaga się jedynie ogólnej wiedzy na temat baz danych - wprowadzenie będzie "od zera".
+    Można śmiało powiedzieć, że Docker to implementacja koncepcji kontenerów rewolucjonizująca proces dystrybucji oprogramowania. Bazuje na tych samych ideach, które przyświecały inżynierom transportu morskiego wprowadzającym na statki ustandaryzowane pojemniki na przewożone towary. Dzięki nim zdecydowanie usprawniono proces obsługi portowej oraz znacząco obniżono koszty. Tak rewolucyjna koncepcja musiała zostać przeniesiona także w świat oprogramowania.
 
-    Celem warsztatu jest przybliżenie uczestnikom tematu NoSQL na przykładzie MongoDB. Uczestnicy dowiedzą się m.in. czym jest MongoDB, jak wygląda interfejs użytkownika czy jak się ma składnia zapytań MongoDB do klasycznego SQL'a. Dowiedzą się również czym jest _id i dlaczego identyfikator encji nie zawsze musi być losową wartością. Po szkoleniu uczestnik będzie potrafił zarządzać dokumentami w MongoDB (dodawać, modyfikować, pobierać), pozna i będzie umiał wykorzystać składnie zapytań wraz z użyciem projekcji. Oprócz tego uczestnik będzie potrafił tworzyć indeksy i wykorzystywać je w zapytaniach. Dodatkowo w ramach możliwości czasowych uczestnik dowie się jak realizowana jest agregacja, jakie są jej ograniczenia, będzie potrafił filtrować i agregować dane z dokumentów oraz pozna mechanizm replikacji danych. Warsztat nie porusza dostępu do bazy z aplikacji, shardingu i wewnętrznej budowy bazy.
-    
-    Podczas warsztatu uczestnicy korzystają z własnych laptopów, na których powinni mieć zainstalowaną bazę MongoDB (przed warsztatem pojawi się dokładna informacja o instalacji).
+    Podczas warsztatów dowiesz się jak przygotować kompletny system WWW wraz z monitoringiem i komponentami towarzyszącymi oraz jak za pomocą dockera i programu docker-compose zorganizować sprawny proces jego dystrybucji.
+
+    Od uczestników wymagana jest znajomość podstaw konsoli systemu Linux, podstawowa znajomość języka Java oraz protokołu HTTP, środowisko programistyczne Idea IntelliJ. Na warsztat konieczne jest zabranie własnego laptopa z zainstalowanym systemem operacyjnym Linux (rekomenduję Ubuntu 16.04 LTS). Dla uczestników przewidziany jest lunch oraz przerwy kawowe.
 
   program: |
 
-    1. Wstęp.
-       1. NoSQL - przegląd.
-       2. MongoDB - przegląd
-       3. Postać przechowywanych danych w MongoDB.
-       4. Porównanie MongoDB i relacyjnych baz danych.
-       5. Życie bez relacji - sposoby modelowania danych.
-    1. CRUD.
-       1. Tworzenie dokumentów.
-       2. Pobieranie dokumentów.
-       3. Opretory zapytań.
-       4. Projekcje.
-       5. Aktualizacja dokumentów.
-       6. Kursory.
-    1. Indeksy.
-       1. Podstawy.
-       2. Indeksy na polach wewnętrznych.
-       3. Indeksy złożone.
-       4. Indeksy wielokluczowe.
-       5. Indeksy z funkcją mieszającą.
-       6. Właściwości indeksów.
-       7. Zapytania pokryte (indeksem).
-    1. Agregacja *
-       1. Wstęp *
-       2. Operatory *
-       3. Limity *
-    1. Replikacja *
-       1. Węzły replikacyjne *
-       2. Potwierdzenie zapisu *
-       3. Odczyt danych z węzłów zapasowych *
+    1. Wprowadzenie do narzędzia Docker.
+       1. Omówienie idei wirtualizacji z wykorzystaniem kontenerów.
+       2. Omówienie architektury dockera.
+       3. Eksploracja DockerHub'a.
+       4. Eskperymenty z kontenerami i obrazami.
+    1. Tworzenie własnych obrazów.
+       1. Podstawowe składniku Dockerfile.
+       2. Postać "shellowa", kontra "executable".
+       3. ENTRYPOINT vs CMD.
+       4. Budowanie obrazów za pomovą narzędzia Gradle.
+    1. Tworzenie kompletnego systemu WWW w kontenerach.
+       1. Aplikacja SpringBoot.
+       2. Bazy danych.
+       3. Monitoring aplikacji (InfluxDb, Telegraf, Grafana).
+       4. Serwer HTTP.
+       5. Logowanie (Logstash + Kibana).
+    1. Wprowadzenie narzędzia Docker Compose.
 
-    * elementy opcjonalne - będą realizowane w ramach możliwości
 
   uwaga: |
-    Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
+    W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. **Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
 
 ---
