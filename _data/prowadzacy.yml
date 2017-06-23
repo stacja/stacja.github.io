@@ -177,5 +177,8 @@ kosik:
   name: Amadeusz Kosik
   img: /img/portfolio/akosik.jpg
   desc: "Software architekt i developer specjalizujący się w tworzeniu aplikacji rozproszonych w języku Scala oraz trener w zakresie rozwiązań przetwarzania Big Data (Apache Cassandra, Apache Spark). W pracy zawodowej zajmuje się projektowaniem, tworzeniem i wdrażaniem rozwiązań przetwarzania strumieniowego danych oraz uczenia maszynowego." 
-
+murawski:
+  name: Kamil Murawski
+  img: /img/portfolio/kmurawski.jpg
+  desc: "Software"
 

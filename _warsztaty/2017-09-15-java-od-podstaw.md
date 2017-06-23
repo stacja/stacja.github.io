@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-03-13
 # Data wydarzenia
-event_date: 2017-07-15
+event_date: 2017-09-15
 title: "Java od podstaw"
 lokalizacja: ClusterCowork
 prowadzacy: labuz

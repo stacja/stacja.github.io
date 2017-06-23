@@ -1,12 +1,12 @@
 ---
 # Data dodania informacji o wydarzeniu
-date: 2017-04-12
+date: 2017-04-19
 # Data wydarzenia
-event_date: 2017-07-01
-title: "Podstawy Git"
+event_date: 2017-09-22
+title: "Build Your Own Product (z Lean Startup)"
 type: planowane
-lokalizacja: Sages
-prowadzacy: kruglej
+lokalizacja: Focus
+prowadzacy: pajak
 slideshare:
 opis:
   informacje: |
