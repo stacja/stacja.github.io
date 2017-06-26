@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-06-21
 # Data wydarzenia
-event_date: 2017-07-15
+event_date: 2017-07-22
 title: "Angular 2 pragmatycznie"
 lokalizacja: NiewiadomoKrakow
 prowadzacy: sulkowski
