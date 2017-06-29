@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2016-10-14
 # Data wydarzenia
-event_date: 2017-07-22
+event_date: 2017-09-30
 title: "Wizualizacja danych w R"
 lokalizacja: Sages
 prowadzacy: detko

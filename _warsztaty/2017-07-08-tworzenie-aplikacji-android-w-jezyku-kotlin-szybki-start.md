@@ -4,7 +4,7 @@ date: 2017-06-01
 # Data wydarzenia
 event_date: 2017-07-08
 title: "Tworzenie aplikacji Android w języku Kotlin - szybki start"
-lokalizacja: NiewiadomoKrakow
+lokalizacja: GrzegorzkiPark
 prowadzacy: andrzejewski
 sponsor: /img/logos/metrosoft.png
 cena: Rejestracja bezpłatna
