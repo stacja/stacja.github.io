@@ -7,7 +7,6 @@ title: "Akademia Trenera - Train The Trainer"
 lokalizacja: GrzegorzkiPark
 type: planowane
 prowadzacy: nazimek
-type: akademia
 dlugosc: 2 dni
 cena: Rejestracja bezpłatna
 sponsor: /img/logo.png
