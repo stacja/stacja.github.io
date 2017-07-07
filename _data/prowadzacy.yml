@@ -189,3 +189,7 @@ jankiewicz:
   name: Bartosz Jankiewicz
   img: /img/portfolio/bjankiewicz.jpg
   desc: "Od ponad 10 lat zajmuje się programowaniem i projektowaniem systemów informatycznych. W swojej pracy miał szczęście zajmować się ciekawymi problemami wydajności oraz skalowalności. W ostatnich latach związany z pracą w bankowości inwestyczyjnej, gdzie projektował systemy raportowania oparte o technologię Hadoop oraz Spark. Obecnie razem z firmą Ocado przeciera szlaki we wdrażamniu systemów opartych o technologię Scala oraz AWS. Przez kilka ostatnich miałe okazję rozwiązywać problemy przy użyciu języka Scala."
+krainski:
+  name: Mateusz Kraiński
+  img: /img/portfolio/mkrainski.jpg
+  desc: "Od"
