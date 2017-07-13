@@ -4,7 +4,7 @@ date: 2017-06-23
 # Data wydarzenia
 event_date: 2017-07-21
 title: "Docker - budowa wielokontenerowego systemu WWW od podstaw"
-lokalizacja: Sages
+lokalizacja: GoldenFloor
 prowadzacy: murawski
 sponsor: /img/logos/epoint.png
 evenea_link: "https://docker2.evenea.pl/?out=1&source=event_iframe"
