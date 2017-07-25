@@ -12,19 +12,10 @@ slideshare:
 opis:
   informacje: |
     Cele warsztatu:
-     * zapoznanie uczestników z podstawami Robot Operating System:
-       * Przedstawienie ogólnej idei systemu
-       * Omówienie podstawowych narzędzi systemu 
-     * nauka pisania własnych aplikacji we frameworku ROS:
-       * przykłady w C++
-       * przykłady w Pythonie
-     * omówienie podstaw symulatora Gazebo:
-       * omówienie struktury plików URDF (Universal Robot Description Format)
-       * dodawanie wtyczek łączących Gazebo z ROSem
-     * nauka obsługi narzędzi wizualizacyjnych ROSa:
-       * podstawy rqt_plot
-       * podstawy rviz
-       * nagrywanie i odtwarzanie sesji za pomocą narzędzia bag.
+      - zapoznanie uczestników z podstawami Robot Operating System (przedstawienie ogólnej idei systemu, omówienie podstawowych narzędzi systemu) 
+      - nauka pisania własnych aplikacji we frameworku ROS (przykłady w C++, przykłady w Pythonie)
+      - omówienie podstaw symulatora Gazebo (omówienie struktury plików URDF (Universal Robot Description Format),dodawanie wtyczek łączących Gazebo z ROSem)
+      - nauka obsługi narzędzi wizualizacyjnych ROSa (podstawy rqt_plot, podstawy rviz, nagrywanie i odtwarzanie sesji za pomocą narzędzia bag).
 
     Uczestnicy będą pracowali indywidualnie, każdy nad swoim projektem. Podczas warsztatu uczestnicy będą mogli nauczyć się jak zaprojektować prostego robota w symulatorze Gazebo, a następnie oprogramować jego ruch z wykorzystaniem bibliotek ROSa. 
 
@@ -41,29 +32,29 @@ opis:
   program: |
 
     1. Podstawy systemu ROS:
-     * zastosowania
-     * zasada działania:
-       * master
-       * nodes
-       * topics
-       * messages
-       * pozostałe
-   2. Pisanie własnego kodu:
-    * minimalny przykład C++,
-    * minimalny przykład Python,
-    * rola CMakeLists.txt i package.xml
-    * catkin - kompilator ROSa
-    * ćwiczenie - samodzielne pisanie kodu
-    * launch files
-   3. Obsługa symulatora:
-    * podstawy budowania modelów
-    * integracja Gazebo z ROSem
-    * wizualizacja danych w Rviz
-   4. Zaawansowane ćwiczenia:
-    * programowanie symulowanego robota:
-      * obsługa sensorów
-      * obsługa napędu
-    * (bonus) zaawansowane algorytmu mapowania i planowania ścieżki
+        1. zastosowania
+        2. zasada działania:
+            1. master
+            2. nodes
+            3. topics
+            4. messages
+            5. pozostałe
+   1. Pisanie własnego kodu:
+        1. minimalny przykład C++,
+        2. minimalny przykład Python,
+        3. rola CMakeLists.txt i package.xml
+        4. catkin - kompilator ROSa
+        5. ćwiczenie - samodzielne pisanie kodu
+        6. launch files
+   1. Obsługa symulatora:
+        1. podstawy budowania modelów
+        2. integracja Gazebo z ROSem
+        3. wizualizacja danych w Rviz
+   1. Zaawansowane ćwiczenia:
+        1. programowanie symulowanego robota:
+            1. obsługa sensorów
+            2. obsługa napędu
+        2. (bonus) zaawansowane algorytmu mapowania i planowania ścieżki
 
 
   uwaga: |
