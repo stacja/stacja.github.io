@@ -11,7 +11,6 @@ prowadzacy: krainski
 slideshare:
 opis:
   informacje: |
-
     Cele warsztatu:
      * zapoznanie uczestników z podstawami Robot Operating System:
        * Przedstawienie ogólnej idei systemu
