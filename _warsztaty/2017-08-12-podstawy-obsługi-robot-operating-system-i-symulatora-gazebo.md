@@ -16,7 +16,7 @@ opis:
       - nauka pisania własnych aplikacji we frameworku ROS (przykłady w C++, przykłady w Pythonie)
       - omówienie podstaw symulatora Gazebo (omówienie struktury plików URDF (Universal Robot Description Format),dodawanie wtyczek łączących Gazebo z ROSem)
       - nauka obsługi narzędzi wizualizacyjnych ROSa (podstawy rqt_plot, podstawy rviz, nagrywanie i odtwarzanie sesji za pomocą narzędzia bag).
-
+    
     Uczestnicy będą pracowali indywidualnie, każdy nad swoim projektem. Podczas warsztatu uczestnicy będą mogli nauczyć się jak zaprojektować prostego robota w symulatorze Gazebo, a następnie oprogramować jego ruch z wykorzystaniem bibliotek ROSa. 
 
     Podczas warsztatu zapewniemy pizzę w porze lunchu oraz nielimitowany dostęp do kawy, herbaty i wody.
