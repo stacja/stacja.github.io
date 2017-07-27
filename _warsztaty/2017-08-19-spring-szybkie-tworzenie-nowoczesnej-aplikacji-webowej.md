@@ -20,7 +20,7 @@ opis:
  
     Podczas warsztatu zbudujemy od podstaw w pełni funkcjonalną aplikację webową, korzystając z różnych projektów/modułów platformy Spring – Spring Boot, Spring MVC, Spring Data oraz Spring Security. Celem warsztatu jest również zaprezentowanie możliwości platformy Spring na bazie rzeczywistych przypadków użycia, omówienie jej wad, zalet oraz wniosków płynących z codziennej pracy.
 
-    **Od uczestników wymagane jest swobodne posługiwanie się językiem Java.*
+    **Od uczestników wymagane jest swobodne posługiwanie się językiem Java.**
 
     Podczas warsztatu zapewniamy dostęp do kawy, herbaty, wody oraz pizzę w porze obiadowej.
  
