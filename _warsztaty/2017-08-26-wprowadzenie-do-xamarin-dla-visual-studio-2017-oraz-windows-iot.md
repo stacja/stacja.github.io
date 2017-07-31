@@ -9,7 +9,6 @@ prowadzacy: kiezynski
 cena: 96 PLN
 evenea_link: "https://xamarin2.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 9:00-17:00
-slideshare:
 opis:
   informacje: |
     Jesteś programistą? Zastanawiasz się nad dalszym rozwojem w kierunku aplikacji mobilnych? Zrób pierwszy krok w kierunku poznania technologii Xamarin oraz systemu Windows IoT i weź udział w 8-godzinnych warsztatach.
@@ -17,12 +16,12 @@ opis:
     Program warsztatu oferuje szybki przegląd technologii Xamarin oraz programowania aplikacji uniwersalnych na system Windows IoT. Oprócz prezentacji, dla uczestników jest przygotowany warsztat, gdzie w praktyce będą mieli okazję samodzielnie wykonać przygotowane zadania.
 
     Podczas warsztatów:
-	  - zdobędziesz podstawową wiedzę, dotyczącą tworzenia aplikacji mobilnych,
-	  - wykonasz własny projekt w Xamarin Forms oraz Xamarin Native,
-	  - zapoznasz się z oprogramowaniem Windows IoT,
-	  - poznasz zalety i wady omawianych technologii.
+      - zdobędziesz podstawową wiedzę, dotyczącą tworzenia aplikacji mobilnych,
+      -  wykonasz własny projekt w Xamarin Forms oraz Xamarin Native,
+      - zapoznasz się z oprogramowaniem Windows IoT,
+      - poznasz zalety i wady omawianych technologii.
 
-	Od uczestników wymagana jest podstawowa wiedza z C#. Uczestnicy w trakcie zajęć korzystają z własnego sprzętu (wymagany komputer z min. 8GB RAM i procesorem Intel i5 lub nowszym/podobnym).
+    Od uczestników wymagana jest podstawowa wiedza z C#. Uczestnicy w trakcie zajęć korzystają z własnego sprzętu (wymagany komputer z min. 8GB RAM i procesorem Intel i5 lub nowszym/podobnym).
 
     Zapewniamy nielimitowany dostęp do kawy oraz pizzę w porze obiadowej ☺
     
