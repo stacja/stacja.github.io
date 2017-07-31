@@ -2,11 +2,12 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-07-07
 # Data wydarzenia
-event_date: 2017-08-19
+event_date: 2017-08-26
 title: "Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
 lokalizacja: COWorKING
 prowadzacy: stolecki
-type: planowane
+evenea_link: "https://machinelodz.evenea.pl/?out=1&source=event_iframe"
+cena: 96 PLN
 dlugosc: 09:00-17:00
 slideshare:
 opis:
@@ -20,7 +21,7 @@ opis:
 
     Podczas warsztatu uczestnicy korzystają z własnych komputerów.
 
-    Zapewniamy kawę oraz pizzę. ☺
+    Podczas warsztatu zapewniamy pizzę w porze obiadowej.
 
   program: |
     1. Wstęp.
@@ -36,6 +37,6 @@ opis:
        4. Algorytmy grupowania.
 
   uwaga: |
-    W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. **Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
+    Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
 
 ---

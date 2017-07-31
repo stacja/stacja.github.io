@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-07-07
 # Data wydarzenia
-event_date: 2017-08-25
+event_date: 2017-09-09
 title: "Wprowadzenie do Big Data i Apache Spark"
 lokalizacja: GrzegorzkiPark
 prowadzacy: nowacki
