@@ -25,10 +25,11 @@ opis:
     Wymagania: podstawy programowania w C/C++ lub Pythonie, podstawowe ogarnięcie systemu Linux (poruszanie się po katalogach, modyfikowanie plików z wykorzystaniem terminala). 
 
 
-    Każdy użytkownik szkolenia musi mieć własny komputer, na którym zainstalowany jest system Ubuntu i biblioteki ROSa. Linux może być zainstalowany jako system wirtualny, na przykład przez Virtual Boxa. Polecany jest system Ubuntu 16.04 (ROS Kinetic) lub Ubuntu 14.04 (ROS Jade). Instalacja Linuxa z wykorzystaniem Virtual Boxa: https://askubuntu.com/questions/142549/how-to-install-ubuntu-on-virtualbox
-    Instalacja systemu ROS Kinetic: http://wiki.ros.org/kinetic/Installation/Ubuntu
-    Instalacja Gazebo: http://gazebosim.org/tutorials?tut=install_ubuntu
-    Instalacja bibliotek łączących Gazebo z ROSem: sudo apt-get install ros-kinetic-gazebo-ros-pkgs ros-kinetic-gazebo-ros-control
+    Każdy użytkownik szkolenia musi mieć własny komputer, na którym zainstalowany jest system Ubuntu i biblioteki ROSa. Linux może być zainstalowany jako system wirtualny, na przykład przez Virtual Boxa. Polecany jest system Ubuntu 16.04 (ROS Kinetic) lub Ubuntu 14.04 (ROS Jade). 
+      - Instalacja Linuxa z wykorzystaniem Virtual Boxa: https://askubuntu.com/questions/142549/how-to-install-ubuntu-on-virtualbox
+      - Instalacja systemu ROS Kinetic: http://wiki.ros.org/kinetic/Installation/Ubuntu
+      - Instalacja Gazebo: http://gazebosim.org/tutorials?tut=install_ubuntu
+      - Instalacja bibliotek łączących Gazebo z ROSem: sudo apt-get install ros-kinetic-gazebo-ros-pkgs ros-kinetic-gazebo-ros-control
 
   program: |
 
