@@ -197,4 +197,7 @@ laskawiec:
   name: Piotr Łaskawiec
   img: /img/portfolio/plaskawiec.jpg
   desc: "pasjonat technologii bazujących na Java Virtual Machine. Obecnie pracuje jako architekt oprogramowania, opracowując oraz implementując rozwiązania dla największych instytucji finansowych na świecie. W projektach kładzie nacisk na kwestie wydajnościowe, jakość kodu oraz wykorzystanie narzędzi usprawniających proces tworzenia oprogramowania. Autor licznych publikacji technicznych, prelegent (J-Day, SEConference, InfoMEET, OWASP), trener. Uzależniony od dzielenia się wiedzą."
- 
+starobrat:
+  name: Piotr Łaskawiec
+  img: /img/portfolio/starobrat.jpg
+  desc: "pasjonat technologii"
