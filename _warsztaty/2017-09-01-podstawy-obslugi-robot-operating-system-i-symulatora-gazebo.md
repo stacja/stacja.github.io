@@ -2,9 +2,9 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-07-24
 # Data wydarzenia
-event_date: 2017-08-12
+event_date: 2017-09-01
 title: "Podstawy obsługi Robot Operating System i symulatora Gazebo"
-evenea_link: "https://roboty.evenea.pl/?out=1&source=event_iframe"
+type: planowane
 lokalizacja: Sages
 dlugosc: 10:00-18:00
 prowadzacy: krainski
