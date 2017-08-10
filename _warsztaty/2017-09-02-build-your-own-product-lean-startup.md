@@ -13,13 +13,13 @@ slideshare:
 opis:
   informacje: |
 
-  Kto powiedział, że budowanie produktu nie może być zabawą? Oczywiście, gdy inwestujesz własne pieniądze, jest to poważniejsza inicjatywa niż tyko zabawa. Z tego powodu, możliwość budowy produktu w środowisku, w którym można ponieść porażkę, jest bardzo istotne, ponieważ jest pozbawione ryzyka prawdziwego bankructwa. W ciągu jednodniowego warsztatu chcielibymy Cię zabrać w podróż, podczas której poznasz następujące koncepcje:
+    Kto powiedział, że budowanie produktu nie może być zabawą? Oczywiście, gdy inwestujesz własne pieniądze, jest to poważniejsza inicjatywa niż tyko zabawa. Z tego powodu, możliwość budowy produktu w środowisku, w którym można ponieść porażkę, jest bardzo istotne, ponieważ jest pozbawione ryzyka prawdziwego bankructwa. W ciągu jednodniowego warsztatu chcielibymy Cię zabrać w podróż, podczas której poznasz następujące koncepcje:
 
-     - podstawy podejścia Lean Startup,
-     - dopasowanie produktu do rynku jest często wynikiem ewolucyjnego procesu a nie świetnego pomysłu od samego początku,
-     - jak szybko się uczyć poprzez częstą weryfikację hipotez na temat klientów,
-     - popularne narzędzia używane podczas rozwoju produktu, np. Lean Canvas, techniki eksperymentowania (Wizard of Oz, Concierge, Dry-Wallet),
-     - jak połączyć Lean Startup i Scrum.
+      - podstawy podejścia Lean Startup,
+      - dopasowanie produktu do rynku jest często wynikiem ewolucyjnego procesu a nie świetnego pomysłu od samego początku,
+      - jak szybko się uczyć poprzez częstą weryfikację hipotez na temat klientów,
+      - popularne narzędzia używane podczas rozwoju produktu, np. Lean Canvas, techniki eksperymentowania (Wizard of Oz, Concierge, Dry-Wallet),
+      - jak połączyć Lean Startup i Scrum.
 
     Podczas warsztatu zapewniemy kawę, herbatę oraz lunch w porze obiadowej.
 
