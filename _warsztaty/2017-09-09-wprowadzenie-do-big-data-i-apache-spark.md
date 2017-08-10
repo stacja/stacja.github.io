@@ -4,13 +4,14 @@ date: 2017-07-07
 # Data wydarzenia
 event_date: 2017-09-09
 title: "Wprowadzenie do Big Data i Apache Spark"
-lokalizacja: GrzegorzkiPark
+lokalizacja: niewiadomokrakow
+cena: Rejestracja bezpłatna
+evenea_link: "https://sparkkrakow.evenea.pl/?out=1&source=event_iframe"
+sponsor: /img/logos/metrosoft.png
 prowadzacy: nowacki
 type: planowane
 opis:
   informacje: |
-    Stało się: Stacja IT zawitała do Trójmiasta! Na dobry początek ruszamy ze Sparkiem, wkrótce kolejne tematy. W ramach inauguracji #stacja3city warsztaty są bezpłatne.
-
     Poznaj Apache Spark - najszybciej rozwijający się projekt Big Data ostatnich lat - podczas jednodniowych warsztatów z ekspertem! Program oferuje szybki start w świecie przetwarzania Big Data wraz z Apache Spark. Oprócz prezentacji, dla uczestników jest przygotowany warsztat, gdzie w praktyce będą mieli okazję samodzielnie eksplorować zbiory danych.
 
     Podczas warsztatów:
@@ -20,7 +21,7 @@ opis:
      - poznasz największą rewolucję w Big Data od czasów Hadoop: Apache Spark,
      - poznasz zalety i wady omawianych technologii.
 
-    Od uczestników wymagana jest podstawowa wiedza z SQLa, basha, Pythona (lub innego języka skryptowego) oraz Javy. Uczestnicy w trakcie zajęć korzystają z własnego sprzętu (wymagany komputer z min. 6GB RAM i procesorem Intel i5 lub nowszym/podobnym).
+    Podczas warsztatu będziemy pracować w Pythonie. Od uczestników wymagana jest podstawowa wiedza z SQLa, basha, Pythona (lub innego języka skryptowego) oraz Javy. Uczestnicy w trakcie zajęć korzystają z własnego sprzętu (wymagany komputer z min. 6GB RAM i procesorem Intel i5 lub nowszym/podobnym).
           
   program: |
     1. Wstęp do Big Data.
