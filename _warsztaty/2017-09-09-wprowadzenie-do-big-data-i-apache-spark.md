@@ -9,7 +9,6 @@ cena: Rejestracja bezpłatna
 evenea_link: "https://sparkkrakow.evenea.pl/?out=1&source=event_iframe"
 sponsor: /img/logos/metrosoft.png
 prowadzacy: nowacki
-type: planowane
 opis:
   informacje: |
     Poznaj Apache Spark - najszybciej rozwijający się projekt Big Data ostatnich lat - podczas jednodniowych warsztatów z ekspertem! Program oferuje szybki start w świecie przetwarzania Big Data wraz z Apache Spark. Oprócz prezentacji, dla uczestników jest przygotowany warsztat, gdzie w praktyce będą mieli okazję samodzielnie eksplorować zbiory danych.

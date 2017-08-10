@@ -9,7 +9,6 @@ type: planowane
 prowadzacy: nazimek
 dlugosc: 2 dni
 cena: Rejestracja bezpłatna
-sponsor: /img/logo.png
 slideshare:
 opis:
   informacje: |
