@@ -6,7 +6,7 @@ event_date: 2017-09-16
 title: "Akademia Trenera - Train The Trainer"
 lokalizacja: niewiadomokrakow
 prowadzacy: nazimek
-sponsor: Metrosoft
+sponsor: /img/logos/metrosoft.png
 evenea_link: "https://trainthetrainer16092017.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 2 dni
 cena: Rejestracja bezpłatna
