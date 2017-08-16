@@ -4,9 +4,10 @@ date: 2017-07-07
 # Data wydarzenia
 event_date: 2017-09-16
 title: "Akademia Trenera - Train The Trainer"
-lokalizacja: GrzegorzkiPark
-type: planowane
+lokalizacja: niewiadomokrakow
 prowadzacy: nazimek
+sponsor: Metrosoft
+evenea_link: "https://trainthetrainer16092017.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 2 dni
 cena: Rejestracja bezpłatna
 slideshare:
@@ -113,6 +114,6 @@ opis:
        7. Działania poszkoleniowe mające na celu ugruntowanie zdobytej wiedzy.
 
   uwaga: |
-    Wysyłając zgłoszenie, masz szansę rozpocząć współpracę z Sages w zakresie prowadzenia szkoleń (autorskich bądź istniejących już w naszej ofercie). Mamy nadzieję poznać Was bliżej podczas szkolenia. Z wybranymi kandydatami skontaktujemy się drogą mailową lub telefonicznie. Liczba miejsc na szkoleniu jest ograniczona. Wybór uczestników będzie dokonywany na podstawie podanego profilu LinkedIn / Goldenline.
+    Wysyłając zgłoszenie, masz szansę rozpocząć współpracę ze Stacją IT i Sages w zakresie prowadzenia warsztatów i szkoleń (autorskich bądź istniejących już w naszej ofercie). Z wybranymi kandydatami skontaktujemy się drogą mailową lub telefonicznie. Liczba miejsc na szkoleniu jest ograniczona. Wybór uczestników będzie dokonywany na podstawie podanego profilu LinkedIn / Goldenline.
 
 ---
