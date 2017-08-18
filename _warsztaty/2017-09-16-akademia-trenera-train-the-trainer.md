@@ -4,7 +4,7 @@ date: 2017-07-07
 # Data wydarzenia
 event_date: 2017-09-16
 title: "Akademia Trenera - Train The Trainer"
-lokalizacja: niewiadomokrakow
+lokalizacja: NiewiadomoKrakow
 prowadzacy: nazimek
 sponsor: /img/logos/metrosoft.png
 evenea_link: "https://trainthetrainer16092017.evenea.pl/?out=1&source=event_iframe"

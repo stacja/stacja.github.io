@@ -4,7 +4,7 @@ date: 2017-07-07
 # Data wydarzenia
 event_date: 2017-09-09
 title: "Wprowadzenie do Big Data i Apache Spark"
-lokalizacja: niewiadomokrakow
+lokalizacja: NiewiadomoKrakow
 cena: Rejestracja bezpłatna
 evenea_link: "https://sparkkrakow.evenea.pl/?out=1&source=event_iframe"
 sponsor: /img/logos/metrosoft.png
