@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-07-07
 # Data wydarzenia
-event_date: 2017-08-26
+event_date: 2017-09-30
 title: "Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
 lokalizacja: Sages
 prowadzacy: stolecki
