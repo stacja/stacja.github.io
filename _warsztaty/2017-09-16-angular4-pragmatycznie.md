@@ -6,6 +6,7 @@ event_date: 2017-09-16
 title: "Angular 2 pragmatycznie"
 lokalizacja: Sages
 prowadzacy: sulkowski
+cena: 96 PLN
 dlugosc: 9:00-17:00
 evenea_link: "https://angular4.evenea.pl/?out=1&source=event_iframe"
 slideshare:
@@ -35,8 +36,7 @@ opis:
     1. Angular a alternatywy.
    
   uwaga: |
-
-    W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. **Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
+    Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
  
 
 ---
