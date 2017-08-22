@@ -3,7 +3,7 @@
 date: 2017-06-21
 # Data wydarzenia
 event_date: 2017-09-16
-title: "Angular 2 pragmatycznie"
+title: "Angular 4 pragmatycznie"
 lokalizacja: Sages
 prowadzacy: sulkowski
 cena: 96 PLN
