@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-07-07
 # Data wydarzenia
-event_date: 2017-10-01
+event_date: 2017-10-14
 title: "Docker - praktyczne podstawy"
 lokalizacja: SaleOmega
 prowadzacy: starobrat

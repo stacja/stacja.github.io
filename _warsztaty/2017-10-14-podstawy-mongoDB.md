@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-01-03
 # Data wydarzenia
-event_date: 2017-10-15
+event_date: 2017-10-14
 title: "Podstawy MongoDB"
 lokalizacja: Workband
 type: planowane
