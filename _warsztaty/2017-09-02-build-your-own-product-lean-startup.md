@@ -38,7 +38,7 @@ opis:
        1. Weryfikacja zainteresowania,
        2. Weryfikacja rozwiązania,
        3. Weryfikacja płatności,
-    1. Gra 'Scrum + Lean Startup'
+    1. Scrum + Lean Startup
     1. Minimum Lovable Product (MLP)
 
   uwaga: |
