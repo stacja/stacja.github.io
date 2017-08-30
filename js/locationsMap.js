@@ -37,22 +37,27 @@ function initialize() {
         map: map,
         title:"Warszawa - Sages"
     });
-	var marker2 = new google.maps.Marker({
+    var marker2 = new google.maps.Marker({
+        position: new google.maps.LatLng(51.102976,17.0391063),
+        map: map,
+        title:"Wrocław - Workband"
+    });
+	var marker3 = new google.maps.Marker({
         position: new google.maps.LatLng(50.0773869,19.8947266),
         map: map,
         title:"Kraków - Creative Coworking"
     });
-	var marker3 = new google.maps.Marker({
+	var marker4 = new google.maps.Marker({
         position: new google.maps.LatLng(51.7823491,19.4528603),
         map: map,
         title:"Łódź - COWorKING Kościelna 6"
     });
-	var marker4 = new google.maps.Marker({
+	var marker5 = new google.maps.Marker({
         position: new google.maps.LatLng(54.3699114,18.6300791),
         map: map,
         title:"Gdańsk"
     });
-    	var marker5 = new google.maps.Marker({
+    	var marker6 = new google.maps.Marker({
         position: new google.maps.LatLng(52.4331275,16.7608965),
         map: map,
         title:"Poznań"
