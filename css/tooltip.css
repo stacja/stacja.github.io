@@ -1,0 +1,215 @@
+.easytooltip {
+	position: relative;
+	display: inline-block;
+}
+
+.easytooltip__trigger {
+	cursor: pointer;
+	position: relative;
+}
+
+.easytooltip__base {
+	position: absolute;
+	bottom: 2em;
+	left: 50%;
+	margin-left: -150px;
+	width: 300px;
+	height: 230px;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+	opacity: 0;
+	pointer-events: none;
+}
+
+.easytooltip__content {
+	color: white;
+	display: flex;
+	position: relative;
+	align-items: center;
+	justify-content: center;
+	width: 65%;
+	padding: 0 1em;
+	opacity: 0;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.easytooltip__shape,
+.easytooltip__deco {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+
+.easytooltip__shape {
+	fill: #fed136;
+}
+
+/* Indivudual styles */
+
+/* Cora */
+.easytooltip--cora .easytooltip__base{
+	transform-origin: 50% 100%;
+}
+
+.easytooltip--cora .easytooltip__content {
+	margin-bottom: 1em;
+}
+
+/* Smaug */
+.easytooltip--smaug .easytooltip__base {
+	bottom: -0.5em;
+	transform-origin: 50% 100%;
+}
+
+.easytooltip--smaug .easytooltip__content {
+	padding: 0;
+}
+
+/* Dori */
+.easytooltip--dori .easytooltip__base {
+	bottom: -0.5em;
+}
+
+.easytooltip--dori .easytooltip__content {
+	margin: 0 0 1em;
+}
+
+/* Walda */
+.easytooltip--walda .easytooltip__base {
+	left: 0;
+	bottom: 0.75em;
+	position: absolute;
+	margin-left: 0;
+	width: 250px;
+	height: 100px;
+	padding: 0 0 0 0.25em;
+}
+
+.easytooltip--walda .easytooltip__trigger-text {
+	padding: 1em;
+}
+
+.easytooltip--walda .easytooltip__content {
+	margin: 0;
+	width: 100%;
+	height: 100%;
+	align-items: flex-start;
+	text-align: left;
+	font-size: 0.85em;
+	line-height: 2;
+	opacity: 1;
+	justify-content: flex-start;
+}
+
+.easytooltip--walda .easytooltip__letters span {
+	display: inline-block;
+	white-space: pre;
+	opacity: 0;
+}
+
+.easytooltip--walda .easytooltip__deco {
+	width: 4px;
+	height: 100%;
+	background: #141514;
+	transform-origin: 50% 100%;
+}
+
+/* Gram */
+.easytooltip--gram .easytooltip__base {
+	bottom: -0.5em;
+}
+
+/* Narvi */
+.path-narvi {
+	transform-origin: 200px 150px;
+}
+
+.easytooltip--narvi .easytooltip__content {
+	width: 80%;
+}
+
+/* Amras */
+.path-amras-1 {
+	transform-origin: 115px 111px;
+}
+
+.path-amras-2 {
+	transform-origin: 204px 107px;
+}
+
+.path-amras-3 {
+	transform-origin: 279px 66px;
+}
+
+.path-amras-4 {
+	transform-origin: 320px 99px;
+}
+
+.path-amras-5 {
+	transform-origin: 137px 199px;
+}
+
+.path-amras-6 {
+	transform-origin: 222px 217px;
+}
+
+.path-amras-7 {
+	transform-origin: 80px 168px;
+}
+
+.path-amras-8 {
+	transform-origin: 296px 211px;
+}
+
+.path-amras-9 {
+	transform-origin: 310px 167px;
+}
+
+/* Hador */
+.easytooltip--hador .easytooltip__base {
+	bottom: 2.25em;
+	margin-left: -115px;
+}
+
+.path-hador-1 {
+	transform-origin: 148px 284px;
+}
+
+.path-hador-2 {
+	transform-origin: 160px 268px;
+}
+
+.path-hador-3 {
+	transform-origin: 171px 246px;
+}
+
+.path-hador-4 {
+	transform-origin: 200px 120px;
+}
+
+.easytooltip--hador .easytooltip__content {
+	width: 50%;
+	margin: 0 0 2.5em;
+}
+
+/* Malva */
+.easytooltip--malva .easytooltip__content {
+	width: 50%;
+}
+
+/* Sadoc */
+.easytooltip--sadoc .easytooltip__base {
+	bottom: 2.5em;
+}
+
+.easytooltip--sadoc .easytooltip__shape path {
+	fill: #1d1f1e;
+	stroke: #5a5c5b;
+	stroke-width: 3px;
+}
+
+
