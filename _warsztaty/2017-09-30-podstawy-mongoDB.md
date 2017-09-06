@@ -5,9 +5,8 @@ date: 2017-01-03
 event_date: 2017-09-30
 title: "Podstawy MongoDB"
 lokalizacja: NiewiadomoKrakow
-type: planowane
 prowadzacy: sztajerowski
-evenea_link: "https://mongodb2.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://bazamongodb.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
 opis:
   informacje: |
