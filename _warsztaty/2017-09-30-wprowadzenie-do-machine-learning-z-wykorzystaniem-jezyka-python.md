@@ -6,7 +6,7 @@ event_date: 2017-09-30
 title: "Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
 lokalizacja: Sages
 prowadzacy: stolecki
-type: planowane
+evenea_link: "https://mlpythonwaw.evenea.pl/?out=1&source=event_iframe"
 cena: 96 PLN
 dlugosc: 09:00-17:00
 slideshare:
