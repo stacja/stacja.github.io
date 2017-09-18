@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-07-24
 # Data wydarzenia
-event_date: 2017-09-30
+event_date: 2017-11-30
 title: "Podstawy obsługi Robot Operating System i symulatora Gazebo"
 type: planowane
 lokalizacja: Sages
