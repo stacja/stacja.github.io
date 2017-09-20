@@ -6,7 +6,7 @@ event_date: 2017-10-21
 title: "Akademia Trenera - Train The Trainer"
 lokalizacja: Sages
 prowadzacy: nazimek
-sponsor: /img/sages.png
+sponsor: /img/logo.png
 evenea_link: "https://trainthetrainer21102017.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 2 dni
 cena: Rejestracja bezpłatna
