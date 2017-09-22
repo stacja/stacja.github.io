@@ -7,7 +7,7 @@ title: "Podstawy MongoDB"
 lokalizacja: Workband
 type: planowane
 prowadzacy: sztajerowski
-evenea_link: "https://mongodb2.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://mongodbwroc.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
 opis:
   informacje: |
