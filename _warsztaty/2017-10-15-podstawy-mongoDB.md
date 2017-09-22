@@ -5,10 +5,10 @@ date: 2017-01-03
 event_date: 2017-10-15
 title: "Podstawy MongoDB"
 lokalizacja: Workband
-type: planowane
+cena: 96 PLN
 prowadzacy: sztajerowski
 evenea_link: "https://mongodbwroc.evenea.pl/?out=1&source=event_iframe"
-dlugosc: 09:00-17:00
+dlugosc: 09:00-17:00 (8h)
 opis:
   informacje: |
     Istnieje kilka przesłanek dlaczego w ogóle warto poznać i zastanowić się nad użyciem MongoDB w projekcie. Głównym z nich jest potrzeba skalowania horyzontalnego (moment gdy dodawanie kolejnych dysków do serwera przestaje być możliwe do realizacji), ale nie tylko dlatego warto zwrócić uwagę na tę bazę. Jest ona również alternatywą dla baz relacyjnych, gdy schemat danych ulega ciągłym zmianom, bądź - co gorsza - nie ma go w ogóle lub sytuacja, w której to na czym najbardziej nam zależy to stała dostępność danych.
