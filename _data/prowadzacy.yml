@@ -201,3 +201,7 @@ starobrat:
   name: Piotr Starobrat
   img: /img/portfolio/starobrat.jpg
   desc: "Jestem inżynierem oprogramowania, w branży IT pełniący role architekta, programisty, administratora oraz twórcy procesów - w zależności od aktualnej potrzeby. Do swojej pracy podchodzę praktycznie, starając się zawsze dobierać odpowiednie technologie i rozwiązania do problemów, jakie trzeba rozwiązać oraz ograniczeń jakie występują. Interesują mnie w szczególności zagadnienia dotyczące architektur systemów klasy enterprise oraz procesów wspomagających tworzenie rozwiązań informatycznych."
+dzierzak:
+  name: Marcin Dzierżak
+  img: /img/portfolio/mdzierzak.jpg
+  desc: "Specjalista w technologiach Java Enterprise Edition. Doświadczony w rolach programisty, Scrum Mastera, architekta i trenera. Kilkunastoletnie doświadczenie zdobywał przy rozwoju systemów m.in. z branży administracyjnej, finansowej, rekrutacyjnej oraz platform korporacyjnych. Posiada certyfikacje z zakresu technologii Java. Prywatnie - amator żeglarstwa i gitary basowej."
