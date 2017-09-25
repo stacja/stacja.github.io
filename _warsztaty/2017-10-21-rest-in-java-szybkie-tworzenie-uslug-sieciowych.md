@@ -8,6 +8,8 @@ lokalizacja: NiewiadomoKrakow
 prowadzacy: dzierzak
 evenea_link: "https://rest.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
+cena: Rejestracja bezpłatna
+sponsor: /img/logos/metrosoft.png
 opis:
   informacje: |
     
