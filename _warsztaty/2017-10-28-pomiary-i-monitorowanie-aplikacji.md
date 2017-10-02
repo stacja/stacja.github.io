@@ -2,11 +2,12 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-08-16
 # Data wydarzenia
-event_date: 2017-10-15
+event_date: 2017-10-28
 title: "Pomiary i monitorowanie aplikacji"
 lokalizacja: Sages
 prowadzacy: dubiel
-type: planowane
+cena: Rejestracja bezpłatna
+evenea_link: "https://pomiaryaplikacji.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 9:00-17:00
 slideshare:
 opis:
