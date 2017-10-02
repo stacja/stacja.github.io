@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-06-27
 # Data wydarzenia
-event_date: 2017-10-18
+event_date: 2017-11-18
 title: "Automatyzacja testów funkcjonalnych (end-to-end)"
 lokalizacja: Sages
 type: planowane
