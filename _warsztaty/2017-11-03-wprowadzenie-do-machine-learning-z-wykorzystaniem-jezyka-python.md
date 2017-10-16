@@ -7,7 +7,8 @@ title: "Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
 lokalizacja: NiewiadomoKrakow
 prowadzacy: stolecki
 evenea_link: "https://mlpythonwaw.evenea.pl/?out=1&source=event_iframe"
-cena: 96 PLN
+cena: Rejestracja bezpłatna
+sponsor: /img/logos/metrosoft.png
 dlugosc: 09:00-17:00
 slideshare:
 opis:
@@ -37,6 +38,6 @@ opis:
        4. Algorytmy grupowania.
 
   uwaga: |
-    Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
+    W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. **Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
 
 ---
