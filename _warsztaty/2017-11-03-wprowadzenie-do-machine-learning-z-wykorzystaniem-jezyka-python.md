@@ -6,7 +6,7 @@ event_date: 2017-11-03
 title: "Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
 lokalizacja: NiewiadomoKrakow
 prowadzacy: stolecki
-evenea_link: "https://mlpythonwaw.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://mlpythonkrk.evenea.pl/?out=1&source=event_iframe"
 cena: Rejestracja bezpłatna
 sponsor: /img/logos/metrosoft.png
 dlugosc: 09:00-17:00
