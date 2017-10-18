@@ -5,8 +5,9 @@ date: 2017-04-12
 event_date: 2017-11-18
 title: "Lean UX - skuteczne rozwijanie produktu"
 lokalizacja: SaleOmega
+evenea_link: "https://leanuxpoznan.evenea.pl/?out=1&source=event_iframe"
 prowadzacy: szadkowski
-type: planowane
+cena: 96 PLN
 dlugosc: 9:00-17:00
 slideshare:
 opis:
