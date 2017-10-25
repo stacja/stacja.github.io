@@ -8,7 +8,6 @@ type: planowane
 lokalizacja: Sages
 dlugosc: 10:00-18:00
 prowadzacy: krainski
-cena: bezpłatnie
 slideshare:
 opis:
   informacje: |

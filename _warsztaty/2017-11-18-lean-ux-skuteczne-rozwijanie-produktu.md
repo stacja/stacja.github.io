@@ -7,7 +7,7 @@ title: "Lean UX - skuteczne rozwijanie produktu"
 lokalizacja: SaleOmega
 evenea_link: "https://leanuxpoznan.evenea.pl/?out=1&source=event_iframe"
 prowadzacy: szadkowski
-cena: 96 PLN
+cena: Warsztat płatny - 96 PLN
 dlugosc: 9:00-17:00
 slideshare:
 opis:

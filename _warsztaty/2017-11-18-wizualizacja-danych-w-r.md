@@ -8,7 +8,7 @@ lokalizacja: Workband
 evenea_link: "https://wizualizacjadanychwroclaw.evenea.pl/?out=1&source=event_iframe"
 prowadzacy: detko
 dlugosc: 9:00-17:00
-cena: 96 PLN
+cena: Warsztat płatny - 96 PLN
 slideshare:
 opis:
   informacje: |

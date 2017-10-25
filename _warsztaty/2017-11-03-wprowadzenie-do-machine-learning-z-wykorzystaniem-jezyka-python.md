@@ -7,7 +7,7 @@ title: "Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
 lokalizacja: NiewiadomoKrakow
 prowadzacy: stolecki
 evenea_link: "https://mlpythonkrk.evenea.pl/?out=1&source=event_iframe"
-cena: Rejestracja bezpłatna
+cena: Warsztat bezpłatny
 sponsor: /img/logos/metrosoft.png
 dlugosc: 09:00-17:00
 slideshare:

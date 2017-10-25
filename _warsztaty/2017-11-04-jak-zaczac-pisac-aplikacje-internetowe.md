@@ -8,7 +8,7 @@ evenea_link: "https://aplikacjeint.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: Sages
 dlugosc: 9:00-17:00
 prowadzacy: konior
-cena: Rejestracja bezpłatna 
+cena: Warsztat bezpłatny
 slideshare:
 opis:
   informacje: |
