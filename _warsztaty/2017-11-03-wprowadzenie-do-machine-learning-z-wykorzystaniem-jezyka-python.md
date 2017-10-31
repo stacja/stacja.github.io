@@ -4,7 +4,7 @@ date: 2017-07-07
 # Data wydarzenia
 event_date: 2017-11-03
 title: "Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
-lokalizacja: NiewiadomoKrakow
+lokalizacja: GrzegorzkiPark
 prowadzacy: stolecki
 evenea_link: "https://mlpythonkrk.evenea.pl/?out=1&source=event_iframe"
 cena: Warsztat bezpłatny
