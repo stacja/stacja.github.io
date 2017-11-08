@@ -4,11 +4,11 @@ date: 2017-07-07
 # Data wydarzenia
 event_date: 2017-12-02
 title: "Docker - praktyczne podstawy"
-lokalizacja: COWorKING
+lokalizacja: Faktoria
 prowadzacy: starobrat
 dlugosc: 9:00-17:00
-evenea_link: "https://dockerpodstawy.evenea.pl/?out=1&source=event_iframe"
-type: planowane
+cena: Warsztat płatny - 96 PLN
+evenea_link: "https://dockerpodstawylodz.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
@@ -19,9 +19,9 @@ opis:
 
     Po zakończeniu warsztatów uczestnicy będą posiadali podstawową wiedzę oraz umiejętności dotyczące szeregu narzędzi w ekosystemie Dockera. Jest to bardzo dobry punkt wyjścia do zaprojektowania i implementacji procesów opartych o kontenery we własnym środowisku.
 
-    Najważniejszym wymogiem stawianym przed uczestnikami warsztatu jest znajomość Linuxa i umiejętność korzystania z lini poleceń, m. in. poruszanie się po dysku, operacje na plikach i katalogach, edycja plików tekstowych, archiwizowanie i rozpakowywanie plików. Poza tym przydatna jest podstawowa znajomość działania sposobu aplikacji webowych, natomiast nie jest to wymóg konieczny. Ćwiczenia zostaną przygotowane w taki sposób, żeby osoby bez umiejętności programowania również sobie poradziły.
+    Najważniejszym wymogiem jest znajomość Linuxa i umiejętność korzystania z lini poleceń, m. in. poruszanie się po dysku, operacje na plikach i katalogach, edycja plików tekstowych, archiwizowanie i rozpakowywanie plików. Poza tym przydatna jest podstawowa znajomość działania sposobu aplikacji webowych, natomiast nie jest to wymóg konieczny. Ćwiczenia są przygotowane w taki sposób, żeby osoby bez umiejętności programowania również sobie poradziły.
 
-    Podczas warsztatu uczestnicy pracują na własnych komputerach. Zapewniamy lunch dla uczestników oraz dostęp do kawy i herbaty.
+    Podczas warsztatu uczestnicy pracują na własnych komputerach. Zapewniamy pizzę dla uczestników oraz dostęp do kawy i herbaty.
 
   program: |
 
@@ -45,6 +45,6 @@ opis:
   
   uwaga: |
  
-    W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. **Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
+    Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
  
 ---
