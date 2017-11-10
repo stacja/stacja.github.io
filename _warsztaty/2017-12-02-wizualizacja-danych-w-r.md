@@ -5,7 +5,6 @@ date: 2016-10-14
 event_date: 2017-12-02
 title: "Wizualizacja danych w R"
 lokalizacja: Sages
-type: planowane
 evenea_link: "https://wizualizacjadanychwaw.evenea.pl/?out=1&source=event_iframe"
 prowadzacy: detko
 dlugosc: 9:00-17:00
