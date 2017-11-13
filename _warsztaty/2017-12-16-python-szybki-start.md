@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-06-13
 # Data wydarzenia
-event_date: 2017-12-02
+event_date: 2017-12-16
 title: "Python - szybki start"
 lokalizacja: SaleOmega
 prowadzacy: galka
