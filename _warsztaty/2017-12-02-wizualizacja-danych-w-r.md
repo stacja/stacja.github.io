@@ -7,6 +7,7 @@ title: "Wizualizacja danych w R"
 lokalizacja: Sages
 evenea_link: "https://wizualizacjadanychwaw.evenea.pl/?out=1&source=event_iframe"
 prowadzacy: detko
+cena: warsztat płatny - 96 PLN
 dlugosc: 9:00-17:00
 slideshare:
 opis:

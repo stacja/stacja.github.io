@@ -5,42 +5,37 @@ date: 2017-04-12
 event_date: 2017-12-16
 title: "Projektowanie interfejsów głosowych (VUI)"
 lokalizacja: Sages
-evenea_link: "https://leanuxpoznan.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://vui.evenea.pl/?out=1&source=event_iframe"
 prowadzacy: szadkowski
-type: planowane
+cena: Warsztat płatny - 96 PLN
 dlugosc: 9:00-17:00
 slideshare:
 opis:
   informacje: |
    
-    Naucz się projektować aplikacje i usługi koncentrując się zarówno na potrzebach Twoich użytkowników, jak i na zarządzaniu strategicznym rozwoju produktu. Maksymalizuj szanse na jego sukces wykorzystując narzędzia Lean UX.
+    Interfejsy głosowe do tej pory kojarzyły się nam z automatami, które wypełniają proste rozkazy. Rozwój technologii związany z rozpoznawaniem i przetwarzaniem ludzkiego głosu (Natural Language Processing) znacznie rozszerzył możliwości interakcji na linii człowiek - maszyna, tak że możliwe stało się konstruowanie rozbudowanych dialogów i tworzenie skomplikowanych asystentów głosowych. Włączanie i wyłączanie światła czy zwijanie rolet w domu to tylko proste interakcje. A gdyby tak rozszerzyć te interakcje o bardziej skomplikowane zagadnienia? Kiedy interfejs głosowy jest użytecznym rozwiązaniem? Jaka jest jego przewaga nad aplikacją mobilną czy webową? Kiedy nie należy z interfejsu głosowego korzystać? Czy asystent posiada osobowość? Czy na pewno nas rozumie?
 
-    Warsztat przeznaczony jest dla wszystkich pracujących w obszarze IT, zarówno po stronie biznesowej (Product Owners, Product Managers, Project Managers, UX/UI Designers, Business Analysts), jak i technicznej (Software Developers, Quality Assurance Engineers, Operators). Podczas zajęć będziemy poruszać przede wszystkim tematy strategiczne i koncepcyjne, więc wiedza dotycząca konkretnej technologii nie jest wymagana.
+    Na te pytanie znajdziesz odpowiedzi podczas tego warsztatu. **Podczas pierwszej części poznasz podstawowe pojęcia z dziedziny VUI.** Dowiesz się, w jaki sposób przetwarzany jest głos użytkownika i w jaki sposób interpretowany jest przez interfejs głosowy. Dzięki temu zrozumiesz mechanikę działania takich systemów i będziesz wiedział od kuchni, jakie są ich możliwości i ograniczenia. **Następnie zaprojektujesz własnego asystenta głosowego.** Dowiesz się, dlaczego warto analizować interfejs głosowy jako personę, która posiada określony zestaw cech osobowościowych, jakiego słownictwa używa i jak reaguje na emocje użytkownika.
 
-    Podczas rozwoju produktów IT powstaje ponad 60% funkcjonalności, które są nieużywane lub prawie nieużywane przez użytkowników. Zatem większość pracochłonności poświęcana jest zadaniom, które nie mają uzasadnienia biznesowego, lub takim, które podczas konfrontacji z użytkownikami końcowymi, nie spełniają ich oczekiwań i przez to nie zapewniają zwrotów z inwestycji.
+    Kolejnym etapem będzie **przygotowanie szkicu dialogów.** Zdobędziesz wiedzę, jak robić to efektywnie i szybko oraz w jaki sposób analizować możliwe rozgałęzienia rozmowy i jak naprowadzać z powrotem użytkownika na główny wątek. Jak konstruować wypowiedzi? Jak zarządzić hierarchą ważności informacji i kolejności fraz? Kto odpowiedzialny jest za kontekst rozmowy? Czego użytkownik może oczekiwać w trakcie rozmowy z asystentem? Jak zarządzać takimi oczekiwaniami? Jak reagować na błędy?
 
-    Jaki proces projektowania aplikacji i usług z obszaru IT maksymalizuje szanse na opłacalność inwestycji? Zderzenie ze sobą kilku modeli pracy, czyli Agile, Design Thinking wraz z podejściem typu Lean zaowocowało stworzeniem skutecznego sposobu opracowywania i weryfikacji efektywności rynkowej produktu przy jednoczesnej minimalizacji nakładów na rozwój i jego wdrożenie.
+    Na koniec **przetestujesz swoje rozwiązanie** przy użyciu jednej z dwóch technik: Wizard of Oz lub SaySpring z użytkownikami i zdobędziesz informację zwrotną do dalszej pracy nad swoim interfejsem głosowym.
 
-    Podczas warsztatów poznasz model projektowania Minimum Viable Product przy użyciu metody Customer Journey. Dzięki temu: 
-     - zapoznasz się z podstawami projektowania UX, 
-     - nauczysz się patrzeć na produkty i usługi z obszaru IT z punktu widzenia Klienta końcowego, 
-     - opanujesz podstawy metod weryfikacji biznesowej wizji i pomysłów na nowe funkcjonalności i usługi.
+    Warsztat jest bardzo praktyczny, prowadzony przy użyciu metodyki Design Thinking. Uczestnicy powinni dysponować własnymi laptopami oraz opcjonalnie zestawem słuchawek z mikrofonem.
     
-    Podczas warsztatu zapewniamy dostęp do kawy i herbaty oraz lunch. 
+    Podczas warsztatu zapewniamy dostęp do kawy i herbaty oraz pizze w porze obiadowej. 
 
   program: |
    
-    1. Wprowadzenie.
-    1. Sesja generowania kreatywnych pomysłów.
-    1. Definiowanie głównego celu produktu.
-    1. Opracowanie podstawowych procesów.
-    1. Zdefiniowanie najważniejszych funkcjonalności.
-    1. Definiowanie MVP.
-    1. Zaaplikowanie KPIs z perspektywy UX.
-    1. Prezentacja i omówienie projektów.
-    1. Podsumowanie warsztatów.
+    1. Podstawy interfejsów głosowych
+    1. Omówienie pojęć wykorzystywanych w projektach z dziedziny VUI
+    1. Analiza persony VUI
+    1. Ścieżki dialogów
+    1. Testy z użytkownikami
+    1. Podsumowanie
 
   uwaga: |
+  
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
 
 ---
