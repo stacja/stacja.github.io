@@ -6,7 +6,8 @@ event_date: 2017-12-16
 title: "Jak zacząć pisać aplikacje internetowe?"
 evenea_link: "https://aplikacjeint2.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: ClusterOrange
-type: planowane
+cena: Warsztat bezpłatny
+sponsor: /img/logos/metrosoft.png
 dlugosc: 9:00-17:00
 prowadzacy: konior
 slideshare:
