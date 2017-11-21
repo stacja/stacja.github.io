@@ -4,11 +4,10 @@ date: 2017-07-07
 # Data wydarzenia
 event_date: 2017-12-16
 title: "Docker - praktyczne podstawy"
-lokalizacja: Workband
-type: planowane
+lokalizacja: Dabie
 prowadzacy: starobrat
 dlugosc: 9:00-17:00
-evenea_link: "https://dockerpodstawylodz.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://dockerpodstawywroclaw.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |

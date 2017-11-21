@@ -64,4 +64,8 @@ Faktoria:
 ClusterOrange:
   adres: Kraków, Orange Office Park, Klimeckiego 1
   miasto: Kraków 
-  mapa: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12544.5921374924!2d19.94362589899883!3d50.04695074938445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47165b4b72b5d133%3A0xb94d8f3a9a237ad9!2sStanis%C5%82awa+Klimeckiego+1%2C+30-705+Krak%C3%B3w!5e0!3m2!1spl!2spl!4v1510217588274"  
+  mapa: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12544.5921374924!2d19.94362589899883!3d50.04695074938445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47165b4b72b5d133%3A0xb94d8f3a9a237ad9!2sStanis%C5%82awa+Klimeckiego+1%2C+30-705+Krak%C3%B3w!5e0!3m2!1spl!2spl!4v1510217588274"
+Dabie:
+  adres: Wrocław, Centrum Przedsiębiorczości i Biznesu, Wróblewskiego 38
+  miasto: Wrocław
+  mapa: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4336.753545411423!2d17.082722119218396!3d51.10403253119346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470fe82004aa9c49%3A0xcc9eb3a4dfee3961!2sWr%C3%B3blewskiego+38%2C+51-627+Wroc%C5%82aw!5e0!3m2!1spl!2spl!4v1511258333793"
