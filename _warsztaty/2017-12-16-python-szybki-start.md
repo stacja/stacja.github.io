@@ -6,13 +6,12 @@ event_date: 2017-12-16
 title: "Python - szybki start"
 lokalizacja: SaleOmega
 prowadzacy: galka
-type: planowane
 dlugosc: 9:00-17:00
-evenea_link: "https://startpython2.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://pythonszybkistartpoznan.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
-    Jesteś programistą, testerem, administratorem, albo analitykiem? Chciałbyś poznać język skryptowy, który jest łatwy i przejrzysty, ale i wyposażony w obszerną bibliotekę standardową? Skorzystaj, z możliwości wzięcia udziału w warsztacie "Python - szybki start".
+    Jesteś programistą, testerem, administratorem, albo analitykiem? Chciałbyś poznać język skryptowy, który jest łatwy i przejrzysty, ale i wyposażony w obszerną bibliotekę standardową? Skorzystaj, z możliwości wzięcia udziału w warsztacie “Python - szybki start”.
 
     Program warsztatu obejmuje zapoznanie się z językiem Python w stopniu pozwalającym na samodzielne pisanie skryptów. Program warsztatu oprócz niezbędnej teorii zawiera także zestaw ćwiczeń pozwalających zastosować w praktyce poznawane zagadnienia.
 
@@ -23,8 +22,8 @@ opis:
      - poznasz typowe dla Pythona typy danych i nauczysz się manipulować nimi,
      - nauczysz się wykorzystywać w pracy moduły biblioteki standardowej oraz moduły zewnętrzne.
 
-    Od uczestników wymagana jest umiejętność obsługi komputera wyposażonego w wybrany system operacyjny: Windows, macOS/OS X, Linux. W trakcie zajęć uczesnicy wykorzystywać będą własne komputery. 
-    Umiejętność programowania w innych językach będzie pomocna, ale nie stanowi warunku koniecznego.
+    Od uczestników wymagana jest umiejętność obsługi komputera wyposażonego w wybrany system operacyjny: Windows, macOS/OS X, Linux. Wymagane jest rozumienie podstawowych koncepcji programistycznych (zmienna, funkcja, pętla itp.). Znajomość dowolnego języka programowania nie jest konieczna, ale bardzo pomocna dla uczestników warsztatu.
+    W trakcie zajęć uczesnicy wykorzystywać będą własne komputery. Organizator zapewnia serwis kawowy oraz lunch w porze obiadowej. 
 
   program: |
 
@@ -56,23 +55,18 @@ opis:
        1. Definiowanie i wywoływanie funkcji.
        2. Parametry pozycyjne i nazwane funkcji.
        3. Wartości domyślne parametrów.
-       4. Funkcje o zmiennej ilości parametrów.*
     1. Obsługa plików.
        1. Bliki binarne i tekstowe.
-       2. Kodowanie znaków w plikach tekstowych.*
     1. Struktura programów Python.
        1. Moduły i pakiey.
        2. Zakres widoczności zmiennych.
        3. Co to jest __main__()?
+    1. Obsługa modułów zewnętrznych na podstawie requests *
     1. Podstawy programowania obiektowego.*
        1. Koncepcja programowania obiektowego.
        2. Klasy i ich struktura.
        3. Dzedziczenie. 
-    1. Obsługa wyjątków w języku Python.
-    1. Przydatne moduły. 
-       1. logging.
-       2. unittest.*
-       3. requests.
+
 
     *Zagadnienie dodatkowe, które zostanie omówione podczas warsztatu, pod warunkiem, że wystarczy na nie czasu.   
   
