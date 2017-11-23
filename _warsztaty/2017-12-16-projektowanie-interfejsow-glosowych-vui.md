@@ -7,7 +7,7 @@ title: "Projektowanie interfejsów głosowych (VUI)"
 lokalizacja: Sages
 evenea_link: "https://vui.evenea.pl/?out=1&source=event_iframe"
 prowadzacy: szadkowski
-cena: Warsztat płatny - 96 PLN
+cena: 96 PLN
 dlugosc: 9:00-17:00
 slideshare:
 opis:

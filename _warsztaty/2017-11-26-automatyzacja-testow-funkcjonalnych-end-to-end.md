@@ -5,7 +5,7 @@ date: 2017-10-25
 event_date: 2017-11-26
 title: "Automatyzacja testów funkcjonalnych (end-to-end)"
 lokalizacja: Sages
-cena: Warsztat płatny - 96 PLN
+cena: 96 PLN
 evenea_link: "https://testowanie181117.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 8h, 09:00-17:00
 prowadzacy: barankiewicz

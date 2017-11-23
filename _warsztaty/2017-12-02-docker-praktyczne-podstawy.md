@@ -7,7 +7,7 @@ title: "Docker - praktyczne podstawy"
 lokalizacja: Faktoria
 prowadzacy: starobrat
 dlugosc: 9:00-17:00
-cena: Warsztat płatny - 96 PLN
+cena: 96 PLN
 evenea_link: "https://dockerpodstawylodz.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:

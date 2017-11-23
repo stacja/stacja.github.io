@@ -6,7 +6,7 @@ event_date: 2017-12-16
 title: "Python - szybki start"
 lokalizacja: SaleOmega
 prowadzacy: galka
-cena: Warsztat płatny - 96 PLN
+cena: 96 PLN
 dlugosc: 9:00-17:00
 evenea_link: "https://pythonszybkistartpoznan.evenea.pl/?out=1&source=event_iframe"
 slideshare:
