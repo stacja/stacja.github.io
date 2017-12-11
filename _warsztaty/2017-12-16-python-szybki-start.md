@@ -17,7 +17,6 @@ opis:
     Program warsztatu obejmuje zapoznanie się z językiem Python w stopniu pozwalającym na samodzielne pisanie skryptów. Program warsztatu oprócz niezbędnej teorii zawiera także zestaw ćwiczeń pozwalających zastosować w praktyce poznawane zagadnienia.
 
     Podczas warsztatu:
-
      - poznasz składnię języka Python,
      - nauczysz się instalować zewnętrzne moduły,
      - poznasz typowe dla Pythona typy danych i nauczysz się manipulować nimi,
