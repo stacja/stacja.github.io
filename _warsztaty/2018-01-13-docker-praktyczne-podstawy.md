@@ -28,18 +28,18 @@ opis:
     1. Czym jest Docker? Dlaczego warto go używać?
     1. Instalacja i konfiguracja Dockera.
     1. Kontenery.
-       - Definiowanie kontenerów za pomocą Dockerfile.
-       - Tworzenie i uruchamianie kontenerów.
-       - Uruchamianie aplikacji wewnątrz kontenerów.
+       - Definiowanie kontenerów za pomocą Dockerfile,
+       - Tworzenie i uruchamianie kontenerów,
+       - Uruchamianie aplikacji wewnątrz kontenerów,
        - Wykonywanie poleceń wewnątrz kontenerów.
     1. Obrazy kontenerów.
-       - Pobieranie przygotowanych obrazów z DockerHub.
-       - Tworzenie obrazów z istniejących kontenerów.
+       - Pobieranie przygotowanych obrazów z DockerHub,
+       - Tworzenie obrazów z istniejących kontenerów,
        - Eksport zapisanych obrazów.
     1. Wolumeny - w jaki sposób zarządzać danymi w kontenerach.
     1. Komunikacja pomiędzy kontenerami i światem zewnętrznym.
-       - Linki pomiędzy kontenerami.
-       - Mapowanie portów.
+       - Linki pomiędzy kontenerami,
+       - Mapowanie portów,
        - Docker Networks.
     1. Przedstawienie dodatkowych narzędzi wspomagających pracę z Dockerem.
   
