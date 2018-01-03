@@ -5,7 +5,7 @@ date: 2018-01-03
 event_date: 2018-01-20
 title: "Budowanie rozwiązań serverlessFaaS w chmurze Azure"
 lokalizacja: Sages
-prowadzacy: mzyglod
+prowadzacy: mrzyglod
 dlugosc: 9:00-17:00
 cena: Warsztat bezpłatny
 evenea_link: "https://azure.evenea.pl/?out=1&source=event_iframe"
