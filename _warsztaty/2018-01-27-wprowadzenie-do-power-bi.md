@@ -1,14 +1,14 @@
 ---
 # Data dodania informacji o wydarzeniu
-date: 2016-10-14
+date: 2017-01-05
 # Data wydarzenia
 event_date: 2018-01-27
 title: "Analiza danych w Power BI"
 lokalizacja: Sages
-evenea_link: "https://powerbi.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://powerbiwaw.evenea.pl/?out=1&source=event_iframe"
 prowadzacy: detko
 dlugosc: 9:00-17:00
-type: planowane
+cena: 96 PLN
 slideshare:
 opis:
   informacje: |
