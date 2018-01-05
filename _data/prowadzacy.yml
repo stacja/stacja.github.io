@@ -221,3 +221,7 @@ mrzyglod:
   name: Kamil Mrzygłód
   img: /img/portfolio/kmrzyglod.jpg
   desc: "Software developer, certyfikowany specjalista Azure, aspirujący eksper chmurowy oraz Big Data. Obecnie pracownik Demant Technology Centre, gdzie tworzone są projekty pomagające osobom z wadami słuchu. Bloger(http://blog.codenova.pl/), kontrybutor OSS, ćwierkacz(@Kamil_Mrzyglod), generał armii w Warhammer Fantasy."
+markowski:
+  name: Marcin Markowski
+  img: /img/portfolio/mmarkowski.jpg
+  desc: "Lider techniczny oraz deweloper z ponad 7-letnim doświadczeniem. Zafascynowany tym, co dzieje się na styku biznesu i IT. Wierzy, że otwartość, orientacja na człowieka i wymiana wiedzy mogą pomóc zbliżyć się tym dwóm, pozornie odległym, światom. Próbował własnego start-up-u, ale uznał, że bardziej przyda się w IT. Doświadczony w branżach usługowej, finansowej i medycznej. Jego ulubionymi tematami są architektura i DDD. Propagator rzemieślniczego podejścia do rozwoju oprogramowania stojącego za ruchem Software Craftsmanship."
