@@ -2,9 +2,9 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-12-14
 # Data wydarzenia
-event_date: 2018-01-20
+event_date: 2018-02-24
 title: "Docker - praktyczne podstawy"
-lokalizacja: Dabie
+lokalizacja: SaleOmega
 prowadzacy: starobrat
 dlugosc: 9:00-17:00
 type: planowane
