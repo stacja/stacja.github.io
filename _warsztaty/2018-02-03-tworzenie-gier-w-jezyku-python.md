@@ -4,7 +4,7 @@ date: 2017-10-12
 # Data wydarzenia
 event_date: 2018-02-03
 title: "Tworzenie gier w języku Python"
-lokalizacja: NiewadomoTrojmiasto
+lokalizacja: NiewiadomoTrojmiasto
 type: planowane
 dlugosc: 9:00-17:00
 prowadzacy: tomczyk
