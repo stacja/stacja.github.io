@@ -41,7 +41,7 @@ opis:
        1. Przypomnienie fundamentów: SOLID, OOP, GRASP
        2. Rozwarstwienie logiki na aplikacyjną i domenową
        3. Podstawowe Building Blocki: Application Service, Aggregate, Value Object, Domain Service
-    1 Wyjaśnienie domeny.
+    1. Wyjaśnienie domeny.
        1. Szerszy kontekst
        2. Szczegóły wycinka, na którym oparte będą ćwiczenia
     1. Ćwiczenie 1: Wyodrębnianie typów i nagłówków metod.
