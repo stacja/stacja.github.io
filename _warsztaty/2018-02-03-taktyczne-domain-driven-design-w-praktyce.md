@@ -13,11 +13,11 @@ slideshare:
 opis:
   informacje: |
 
-    **Jak tworzyć systemy, które już przy pierwszym wdrożeniu nie są standardowym spaghetti? 
+    **Jak tworzyć systemy, które już przy pierwszym wdrożeniu nie są standardowym spaghetti?** 
 
-    Jak projektować model, który da się później utrzymywać? 
+    **Jak projektować model, który da się później utrzymywać?**
 
-    Jak programować obiektowo, a nie tylko wykorzystywać obiektowe języki programowania?**
+    **Jak programować obiektowo, a nie tylko wykorzystywać obiektowe języki programowania?**
 
     Warsztaty przeznaczone są dla wszystkich, którzy chcieliby poznać alternatywę dla anemicznych encji i rozrastających się w nieskończoność serwisów. Spojrzymy z lotu ptaka na to, co oferuje DDD i do czego może się to przydać. Bardziej szczegółowo zapoznamy się z podstawowymi „wzorcami taktycznymi” i przećwiczymy ich implementację w praktyce. Dla tych, którzy nie zetknęli się jeszcze z DDD będzie to duża dawka teorii podana w formie ćwiczeń i gotowych rozwiązań implementacyjnych. Dla tych, którzy teorię mają już opanowaną, będzie to okazja, żeby sprawdzić i pogłębić swoje umiejętności na realistycznym i nietrywialnym przykładzie.
 
