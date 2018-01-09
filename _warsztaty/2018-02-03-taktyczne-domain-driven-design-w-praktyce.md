@@ -49,15 +49,13 @@ opis:
        2. Wydzielanie procesu
        3. Identyfikowanie zachowań
        4. Wyznaczanie granic agregatów
-       5. Zadania dodatkowe
-       6. Napisanie testów jednostkowych
+       5. Napisanie testów jednostkowych
     1. Omówienie wyników.
     1. Ćwiczenie 2: Implementacja procesu i reguł biznesowych.
        1. Ćwiczone umiejętności
        2. Sprawdzanie reguł biznesowych
        3. Pisanie czytelnego kodu – „proza”
-       4. Zadania dodatkowe
-       5. Dodanie dodatkowej, prostej funkcjonalności
+       4. Dodanie dodatkowej, prostej funkcjonalności
     1. Życie w cieniu legacy.
        1. Wpływ zastanego kodu na zastosowanie DDD
        2. Co da się zrobić i jakim kosztem
