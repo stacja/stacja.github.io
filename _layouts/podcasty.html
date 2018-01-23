@@ -1,0 +1,24 @@
+---
+layout: podcasty
+---
+<section>
+
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <div class="modal-body">
+                    <!-- Project Details Go Here -->
+                    <h1 class="workshop-title">{{ page.title }}</h2>
+                    <hr/>
+                    <h4 style="color:#fed136">OPIS</h4>
+                    <hr/>
+                    {{ page.opis['informacje'] | markdownify }}
+                    <hr/>
+                    <h4 style="color:#fed136">Komentarze</h4>
+                    <hr/>
+                    <a class="btn btn-primary" href="../index.html"><i class="fa fa-times"></i> Wróć</a>
+            </div>
+        </div>
+    </div>
+</section>
