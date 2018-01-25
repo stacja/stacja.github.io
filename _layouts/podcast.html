@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<section>
+
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <div class="modal-body">
+                    <!-- Project Details Go Here -->
+                    <h1 class="workshop-title">Podcast Stacja.IT<br/>Odcinek <b>#{{ page.episode }}</b>: {{ page.title }}</h2>
+                    <hr/>
+                    <!--<button type="button" class="btn btn-primary btn-s"><i class="fa fa-headphones" aria-hidden="true"></i> Słuchaj</button>-->
+                    {% include podcast-embed.html id = page.libsyn_id %}
+                    <hr/>
+                    <h4 style="color:#fed136">OPIS</h4>
+                    <hr/>
+                    {{ page.opis['informacje'] | markdownify }}
+                    <hr/>
+                    <h4 style="color:#fed136">STRESZCZENIE ODCINKA</h4>
+                    <hr/>
+                    {{ page.opis['konspekt'] | markdownify }}
+                    <hr/>
+                    <!--<h4 style="color:#fed136">Komentarze</h4>
+                    <hr/>-->
+                    <a class="btn btn-primary" href="../index.html"><i class="fa fa-times"></i> Wróć</a>
+            </div>
+        </div>
+    </div>
+</section>

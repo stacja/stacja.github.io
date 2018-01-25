@@ -1017,3 +1017,30 @@ h4 .fa {
 .item-bootcamp .text-muted {
     color: #fff !important;
 }
+.nex-list-line {
+  margin-bottom: 20px;
+  position: relative;
+}
+.nex-list-line h4 {
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 400;
+  color: #333;
+  border-bottom: 1px dotted #333;
+  margin: 0 0 5px;
+}
+.nex-list-line p {
+  font-weight: 300;
+  color: #999;
+  font-size: 13px;
+}
+.nex-list-line h4 span {
+  float: none;
+  padding: 2px 5px 2px 0;
+}
+.nex-list-line span {
+  float: right;
+  padding: 2px 0 2px 5px;
+  font-size: 16px;
+  line-height: 1em;
+}
