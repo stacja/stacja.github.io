@@ -28,6 +28,8 @@ markdown: kramdown
 collections:
   warsztaty:
     output: true
+  podcast:
+    output: true
 
 defaults:
  - scope:
@@ -35,6 +37,11 @@ defaults:
       type: warsztaty
    values:
       layout: event
+ - scope:
+      path: ""
+      type: podcast
+   values:
+      layout: podcast
 
 exclude:
     - node_modules

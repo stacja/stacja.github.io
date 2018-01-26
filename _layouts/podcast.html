@@ -1,0 +1,48 @@
+---
+layout: default
+---
+<section>
+
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <div class="modal-body">
+                    <!-- Project Details Go Here -->
+                    <h1 class="workshop-title">Podcast Stacja.IT<br/>Odcinek <b>#{{ page.episode }}</b>: {{ page.title }}</h2>
+                    <hr/>
+                    <!--<button type="button" class="btn btn-primary btn-s"><i class="fa fa-headphones" aria-hidden="true"></i> Słuchaj</button>-->
+                    {% include podcast-embed.html id = page.libsyn_id %}
+                    <hr/>
+                    <h4 style="color:#fed136">OPIS</h4>
+                    <hr/>
+                    {{ page.opis['informacje'] | markdownify }}
+                    <hr/>
+                    <h4 style="color:#fed136">STRESZCZENIE ODCINKA</h4>
+                    <hr/>
+                    {{ page.opis['konspekt'] | markdownify }}
+                    <hr/>
+
+                    <h4 style="color:#fed136">Komentarze</h4>
+                      <div id="disqus_thread"></div>
+                      <script>
+
+                      var disqus_config = function () {
+                      this.page.url = "{{ page.url | prepend: site.url }}";  // Replace PAGE_URL with your page's canonical URL variable
+                      this.page.identifier = "{{ page.libsyn_id }}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                      };
+                      (function() { // DON'T EDIT BELOW THIS LINE
+                      var d = document, s = d.createElement('script');
+                      s.src = 'https://stacja-it.disqus.com/embed.js';
+                      s.setAttribute('data-timestamp', +new Date());
+                      (d.head || d.body).appendChild(s);
+                      })();
+                      </script>
+                      <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                    <hr/>
+
+                    <a class="btn btn-primary" href="../index.html"><i class="fa fa-times"></i> Wróć</a>
+            </div>
+        </div>
+    </div>
+</section>
