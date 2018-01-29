@@ -1,10 +1,10 @@
 ---
 # Data dodania informacji o wydarzeniu
-date: 2017-10-12
+date: 2018-01-29
 # Data wydarzenia
-event_date: 2018-02-03
-title: "Tworzenie gier w języku Python"
-lokalizacja: NiewiadomoTrojmiasto
+event_date: 2018-03-03
+title: "Let's play the game, czyli wprowadzenie do Pygame"
+lokalizacja: Sages
 type: planowane
 dlugosc: 9:00-17:00
 prowadzacy: tomczyk
