@@ -6,6 +6,7 @@ event_date: 2018-03-03
 title: "Let's play the game, czyli wprowadzenie do Pygame"
 lokalizacja: Sages
 dlugosc: 9:00-17:00
+evenea_link: "https://pygamewaw.evenea.pl/?out=1&source=event_iframe"
 cena: 96 PLN
 prowadzacy: tomczyk
 slideshare:
