@@ -3,7 +3,7 @@
 date: 2017-01-08
 # Data wydarzenia
 event_date: 2018-02-03
-title: "Taktyczne Domian Driven Design w praktyce"
+title: "Taktyczne Domain Driven Design w praktyce"
 lokalizacja: Sages
 evenea_link: "https://ddd.evenea.pl/?out=1&source=event_iframe"
 prowadzacy: markowski
