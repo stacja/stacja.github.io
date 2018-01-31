@@ -12,8 +12,13 @@
                         {% assign sorted_podcasty = site.podcast | sort: 'date' | reverse %}
                         {% for podcast in sorted_podcasty %}
                         <div class="nex-list-line">
+                            {% if podcast.workshop_url %}
+                            <span><a href="{{ podcast.workshop_url }}"><button type="button" class="btn btn-primary btn-s">PRZEJDŹ DO ODCINKA</button></a></span>
+                            <h4><span>{{ podcast.title }}</span></h4>
+                            {% else %}
                             <span><a href="{{ podcast.url }}"><button type="button" class="btn btn-primary btn-s">PRZEJDŹ DO ODCINKA</button></a></span>
-                            <h4><span><b>#{{ podcast.episode }}</b> {{ podcast.title }}</span></h4>
+                            <h4><span><b>PODCAST #{{ podcast.episode }}</b> {{ podcast.title }}</span></h4>
+                            {% endif %}
                             <p>{{ podcast.opis["informacje"] }}</p>
                         </div>
                         {% endfor %}

@@ -36,7 +36,10 @@ layout: default
                       <p class="text-muted">Sponsor:
                       <img src="{{ page.sponsor | prepend: site.baseurl }}"></a></p>
                     {% endif %}
-
+                    {% if page.podcast_id %}
+                      <hr/>
+                      {% include podcast-embed.html id = page.podcast_id %}
+                    {% endif %}
                     <hr/>
                     <h4 style="color:#fed136">INFORMACJE</h4>
                     <hr/>
