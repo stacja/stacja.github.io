@@ -9,6 +9,7 @@ prowadzacy: starobrat
 dlugosc: 9:00-17:00
 cena: 96 PLN
 evenea_link: "https://dockerpodstawywaw2.evenea.pl/?out=1&source=event_iframe"
+podcast_id: 6217489
 slideshare:
 opis:
   informacje: |
@@ -42,9 +43,9 @@ opis:
        - Mapowanie portów,
        - Docker Networks.
     1. Przedstawienie dodatkowych narzędzi wspomagających pracę z Dockerem.
-  
+
   uwaga: |
- 
+
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
- 
+
 ---
