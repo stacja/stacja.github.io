@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2018-01-03
 # Data wydarzenia
-event_date: 2018-01-20
+event_date: 2018-03-17
 title: "Python - szybki start"
 lokalizacja: Sages
 type: planowane

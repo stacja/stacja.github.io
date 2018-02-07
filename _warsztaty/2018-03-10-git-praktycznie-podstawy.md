@@ -6,7 +6,7 @@ event_date: 2018-03-10
 title: "Git praktycznie - podstawy"
 lokalizacja: Workband
 prowadzacy: kociubinski
-type: planowany
+type: planowane
 dlugosc: 9:00-17:00
 evenea_link: "https://gitnastepnykrok.evenea.pl/?out=1&source=event_iframe"
 slideshare:
