@@ -92,7 +92,7 @@ opis:
 
   partner: |
 
-    Sponsorem warsztatu jest firma [Metrosoft](https://https://metrosoft.com/#/).
+    Sponsorem warsztatu jest firma [Metrosoft](https://metrosoft.com/#/).
 
     [![alt](/img/logos/Metrosoft.png)](https://www.metrosoft.com)
 
