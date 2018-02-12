@@ -8,7 +8,6 @@ evenea_link: "https://bootstrapkrk.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: ClusterOrange
 sponsor: /img/logos/metrosoft.png
 dlugosc: 9:00-17:00
-cena: Warsztat bezpłatny
 prowadzacy: scira
 slideshare:
 opis:
@@ -95,7 +94,7 @@ opis:
 
     Sponsorem warsztatu jest firma [Metrosoft](https://https://metrosoft.com/#/).
 
-    [![alt](/img/logos/Metrosoft.png)](https://https://www.metrosoft.com)
+    [![alt](/img/logos/Metrosoft.png)](https://www.metrosoft.com)
 
     We are changing how information is accessed in the Fund Industry value chain. By combining applicable leading edge technology with our knowledge and creativity, we are simplifying and automating business processes to reduce cost of investing and increase transparency. We are adding value globally.
 
