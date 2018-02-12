@@ -94,7 +94,7 @@ opis:
 
     Sponsorem warsztatu jest firma [Metrosoft](https://metrosoft.com/#/).
 
-    [![alt](/img/logos/Metrosoft.png)](https://www.metrosoft.com)
+    [![alt](/img/logos/metrosoft.png)](https://www.metrosoft.com)
 
     We are changing how information is accessed in the Fund Industry value chain. By combining applicable leading edge technology with our knowledge and creativity, we are simplifying and automating business processes to reduce cost of investing and increase transparency. We are adding value globally.
 
