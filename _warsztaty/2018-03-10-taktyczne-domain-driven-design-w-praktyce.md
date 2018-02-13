@@ -2,12 +2,13 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-01-08
 # Data wydarzenia
-event_date: 2018-02-24
+event_date: 2018-03-10
 title: "Taktyczne Domain Driven Design w praktyce"
-lokalizacja: Workband
-evenea_link: "https://dddwroc.evenea.pl/?out=1&source=event_iframe"
+lokalizacja: Sages
+evenea_link: "https://dddwaw.evenea.pl/?out=1&source=event_iframe"
 prowadzacy: markowski
 dlugosc: 9:00-17:00
+cena: 129 PLN 
 slideshare:
 opis:
   informacje: |
@@ -59,6 +60,7 @@ opis:
        2. Zastosowanie Single Responsibility i Open-Close Principle w rzeczywistym świecie
  
   uwaga: |
- 
+    **NA TYM WARSZTACIE PRACUJEMY W MNIEJSZEJ GRUPIE! Maksymalna liczba uczestników tego wydarzenia to 17 osób. Uczenie się w takiej grupie, zapewni większy komfort pracy każdemu z uczestników.**
+
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
 ---
