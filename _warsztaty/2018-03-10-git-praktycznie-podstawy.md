@@ -13,8 +13,6 @@ slideshare:
 opis:
   informacje: |
 
-    Zmiany
-
     **Warsztat przeznaczony jest dla programistów, analityków, testerów, oraz innych osób chcących w maksymalnym stopniu wykorzystać możliwości oferowanych przez system kontroli wersji Git.**
 
     Podczas tego warsztatu uczestnicy poznają historię, architekturę, podstawową konfigurację, komendy, przepływy pracy oraz inne ważne zagadnienia związane z tym narzędziem.
