@@ -4,31 +4,45 @@ date: 2017-10-12
 # Data wydarzenia
 event_date: 2018-03-10
 title: "Kotlin praktycznie"
-evenea_link: "https://aplikacjeint3.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://kotlinpzn.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: SaleOmega
-type: planowane
+cena: 79 PLN
 dlugosc: 9:00-17:00
 prowadzacy: andrzejewski
 slideshare:
 opis:
   informacje: |
 
-    Warsztat "Jak zaczać pisać aplikacje internetowe?" ma na celu poznanie najlepszych metod nauki oraz narzędzi, których używa się na codzień do developmentu komercyjnych aplikacji. W czasie warsztatu stworzymy wspólnie aplikację "Lottomat", czyli symulator gry w dużego lotka. Uczestnicy naucza się w jaki sposób pracować w zespole nad jednym projektem, co jest niezbędne podczas komercyjnej pracy, skorzystaja z narzędzi automatyzujacych prace, aby móc skupić się tylko na celu, który musza osiagnać, czyli tworzeniu aplikacji internetowych. Warsztat jest przygotowany w taki sposób, aby bioracy udział mogli użyć własnej kreatywności tworzac strukture interfejsu, jego wyglad oraz działanie. Do wzięcia udziału w warsztacie nie jest wymagana żadna wiedza programistyczna, pamiętaj tylko, że laptop, myszka z podkładka to narzędzia niezbędne do pracy. 
+    Słyszałeś o coraz bardziej popularnym języku Kotlin, ale nie wiesz jak zacząć? Chcesz gruntownie poznać język Kotlin oraz nauczyć się jego praktycznego wykorzystania?
+    Dobrze trafiłeś! Na tym szkoleniu nie tylko poznasz język Kotlin, ale także zrozumiesz jego najważniejsze mechanizmy oraz nauczysz się jak praktycznie go wykorzystywać. 
 
-    Podczas warsztatu zapewniemy pizzę w porze lunchu.
+    Kotlin to nowoczesny, silnie typowany język przeznaczony do tworzenia rozwiązań na wiele platform (desktop, web, mobile). W czasie warsztatu uczestnicy poznają najważniejsze elementy języka oraz zdobędą praktyczną wiedzę z zakresu jego wykorzystania w codziennej pracy. Większość czasu na zajęciach poświęcone zostanie na pisanie kodu wspólnie z prowadzącym. Poznamy dostępne narzędzia, dowiemy się jak testować i debuggować kod Kotlina, ale przede wszystkim w jaki sposób wykorzystać język do zwiększenia efektywności codziennej pracy.
+
+    Dzięki szkoleniu
+     - skonfigurujesz środowisko do pracy z Kotlinem,
+     - zbudujesz aplikację od zera,
+     - dowiesz jak integrować się z Javą i zew. bibliotekami,
+     - poznasz składnie oraz najważniejsze elementy języka,
+     - nauczysz się testować i debuggować kod,
+     - zrozumiesz bardziej zaawansowane elementy języka jak programowanie funkcyjne czy DSL. 
+
+    Podczas warsztatu zapewniamy lunch, a także serwis kawowy ;)
 
   program: |
 
-    1. System kontroli wersji - tworzenie nowego repozytorium kodu.
-    1. Gulp, Bower, Yeoman - automatyzacja pracy.
-    1. HTML rocks - przygotowanie struktury aplikacji.
-    1. CSS/SCSS - interfejs użytkownika musi być ładny.
-    1. Javascript - pisanie i debugowanie kodu.
-    1. Tworzenie algorytmów opisujacych działanie naszej aplikacji.
-    1. Js - funkcje wszędzie.
-    1. Biblioteka jQuery oraz inne przydatne narzędzia w dalszej nauce.
+    1. Szybkie wprowadzenie do języka Kotlin.
+    1. Narzędzia developeskie.
+    1. Podstawy składni języka.
+    1. Programowanie obiektowe.
+    1. Funkcje i wyrażenia lambda w praktyce.
+    1. Typy generyczne.
+    1. DSL. 
+    1. Testowanie.
+    1. Wykorzystanie zewnętrznych bibliotek.
+    1. Desktop programming.
+    1. Kotlin na platformie Android. 
 
   uwaga: |
+    
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
-
 ---
