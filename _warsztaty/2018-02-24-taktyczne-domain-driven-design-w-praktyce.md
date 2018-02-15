@@ -26,8 +26,6 @@ opis:
 
     W trakcie warsztatów zajmiemy się również problemami codziennego życia w cieniu legacy. Zastanowimy się jak wykroić sobie obszar, w którym można zrobić naprawdę dobry model oraz jak łączyć go z zastanym kodem. Omówimy jedną z technik separowania kontekstów oraz zalety i koszty związane z jej stosowaniem.
 
-    **Warsztat skierowany jest WYŁĄCZNIE DO OSÓB, KTÓRE ZNAJĄ .NET. Wszystkie ćwiczenia będą wykonywane w tej technologii, więc osoby, które jej nie znają, nie poradzą sobie na warsztacie.**
-
     Podczas warsztatu zapewniemy serwis kawowy. W porze obiadowej zapewniamy pizzę.
 
   program: |
