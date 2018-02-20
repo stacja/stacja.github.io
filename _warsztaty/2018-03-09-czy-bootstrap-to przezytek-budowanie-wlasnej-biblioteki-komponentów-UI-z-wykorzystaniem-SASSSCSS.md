@@ -5,7 +5,7 @@ date: 2017-10-12
 event_date: 2018-03-09
 title: "Czy Bootstrap to przeżytek? - Budowanie własnej biblioteki komponentów UI z wykorzystaniem SASS/SCSS"
 evenea_link: "https://bootstrapkrk.evenea.pl/?out=1&source=event_iframe"
-lokalizacja: ClusterOrange
+lokalizacja: GrzegorzkiPark
 sponsor: /img/logos/metrosoft.png
 dlugosc: 9:00-17:00
 prowadzacy: scira
