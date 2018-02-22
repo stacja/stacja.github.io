@@ -9,6 +9,7 @@ prowadzacy: kociubinski
 cena: 79 PLN
 dlugosc: 9:00-17:00
 evenea_link: "https://gitpraktycznie.evenea.pl/?out=1&source=event_iframe"
+podcast_id: 6288907
 slideshare:
 opis:
   informacje: |
@@ -17,7 +18,7 @@ opis:
 
     Podczas tego warsztatu uczestnicy poznają historię, architekturę, podstawową konfigurację, komendy, przepływy pracy oraz inne ważne zagadnienia związane z tym narzędziem.
 
-    Bardzo praktyczny charakter warsztatu pozwoli uczestnikom uczestnikom na przećwiczenie nowo nabytych umiejętności oraz swobodnie korzystać z systemem kontroli wersji Git w swojej codziennej pracy. 
+    Bardzo praktyczny charakter warsztatu pozwoli uczestnikom uczestnikom na przećwiczenie nowo nabytych umiejętności oraz swobodnie korzystać z systemem kontroli wersji Git w swojej codziennej pracy.
 
     Podczas warsztatu zapewniamy pizzę w porze obiadowej oraz serwis kawowy :)
 
@@ -48,9 +49,9 @@ opis:
        - rodzaje gałęzi,
        - merge,
        - Rebase.
-  
+
   uwaga: |
- 
+
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
- 
+
 ---
