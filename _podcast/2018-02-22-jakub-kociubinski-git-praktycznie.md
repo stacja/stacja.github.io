@@ -1,6 +1,6 @@
 ---
 # Data dodania informacji o wydarzeniu
-date: 2018-02-22
+date: 2018-02-21
 episode: 1
 title: "Krótko o warsztacie - Jakub Kociuniński - Git praktycznie - podstawy"
 mp3_link: "http://traffic.libsyn.com/stacjait/Krotko_o_warsztacie_-_Jakub_Kociubinski_-_Git_praktycznie_-_podstawy.mp3"
