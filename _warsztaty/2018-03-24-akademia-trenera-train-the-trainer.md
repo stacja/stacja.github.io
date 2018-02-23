@@ -5,9 +5,8 @@ date: 2017-07-07
 event_date: 2018-03-24
 title: "Akademia Trenera - Train The Trainer"
 lokalizacja: Sages
-prowadzacy: nazimek
-type: planowane
-evenea_link: "https://trainthetrainer21102017.evenea.pl/?out=1&source=event_iframe"
+sponsor: Sages
+evenea_link: "https://trainthetrainer24032018.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 2 dni
 slideshare:
 opis:
@@ -115,4 +114,10 @@ opis:
   uwaga: |
     Wysyłając zgłoszenie, masz szansę rozpocząć współpracę ze Stacją IT i Sages w zakresie prowadzenia warsztatów i szkoleń (autorskich bądź istniejących już w naszej ofercie). Z wybranymi kandydatami skontaktujemy się drogą mailową lub telefonicznie. Liczba miejsc na szkoleniu jest ograniczona. Wybór uczestników będzie dokonywany na podstawie podanego profilu LinkedIn / Goldenline.
 
+  partner: |
+
+    Firma Sages sp. z o.o. posiadająca 10-letnie doświadczenie w kształceniu kadr w branży IT. Specjalizuje się w prowadzeniu szkoleń technologicznych otwartych i dedykowanych, których cechą wspólną niezależnie od tematyki szkolenia jest warsztatowa formuła zajęć koncentrująca się na przekazaniu praktycznych umiejętności uczestnikom. Prowadzi także dedykowane projekty reedukacyjne oraz współpracuje z uczelniami wyższymi wspierając realizację zaawansowanych przedmiotów programistycznych, a także prowadząc studia podyplomowe (Politechnika Warszawska, studia z obszaru Big Data). Sages jest stałym organizatorem eventów branżowych dla profesjonalistów IT w ramach inicjatywy Stacja.IT.
+
+    ![logo](/img/logo.png)
+    
 ---
