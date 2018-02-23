@@ -5,9 +5,12 @@ date: 2017-07-07
 event_date: 2018-03-24
 title: "Akademia Trenera - Train The Trainer"
 lokalizacja: Sages
+prowadzacy: nazimek
 sponsor: Sages
 evenea_link: "https://trainthetrainer24032018.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 2 dni
+dlugosc: 9:00-17:00
+cena: Warsztat bezpłatny
 slideshare:
 opis:
   informacje: |
