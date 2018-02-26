@@ -9,6 +9,7 @@ lokalizacja: GrzegorzkiPark
 sponsor: /img/logos/metrosoft.png
 dlugosc: 9:00-17:00
 prowadzacy: scira
+podcast_id: 6301880
 slideshare:
 opis:
   informacje: |

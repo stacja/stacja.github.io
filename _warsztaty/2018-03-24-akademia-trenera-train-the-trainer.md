@@ -10,6 +10,7 @@ sponsor: img/logo.png
 evenea_link: "https://trainthetrainer24032018.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 2 dni, 9:00-17:00
 cena: Warsztat bezpłatny
+podcast_id: 6301924
 slideshare:
 opis:
   informacje: |
@@ -121,5 +122,5 @@ opis:
     Firma Sages sp. z o.o. posiadająca 10-letnie doświadczenie w kształceniu kadr w branży IT. Specjalizuje się w prowadzeniu szkoleń technologicznych otwartych i dedykowanych, których cechą wspólną niezależnie od tematyki szkolenia jest warsztatowa formuła zajęć koncentrująca się na przekazaniu praktycznych umiejętności uczestnikom. Prowadzi także dedykowane projekty reedukacyjne oraz współpracuje z uczelniami wyższymi wspierając realizację zaawansowanych przedmiotów programistycznych, a także prowadząc studia podyplomowe (Politechnika Warszawska, studia z obszaru Big Data). Sages jest stałym organizatorem eventów branżowych dla profesjonalistów IT w ramach inicjatywy Stacja.IT.
 
     ![logo](/img/logo.png)
-    
+
 ---
