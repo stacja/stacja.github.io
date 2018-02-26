@@ -80,4 +80,8 @@ BAE:
 NiewiadomoLodz:
   adres: Łódź, Dokładny adres zostanie podany bliżej terminu warsztatu 
   miasto: Łódź
+SamiSwoi:
+  adres: Łódź, Sami Swoi/Hostel Molo, ul. Okopowa 70/106 (wjazd od ul. Marysińskiej)
+  miasto: Łódź
+  mapa: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4525.281702370176!2d19.463853634343888!3d51.79835170972859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471bcafb11a7ec81%3A0xc6656bc8faf93ee!2zT2tvcG93YSA3MC8xMDYsIMWBw7Nkxbo!5e0!3m2!1spl!2spl!4v1519649568911"
   
