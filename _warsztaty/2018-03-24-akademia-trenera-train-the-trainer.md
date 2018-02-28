@@ -6,12 +6,11 @@ event_date: 2018-03-24
 title: "Akademia Trenera - Train The Trainer"
 lokalizacja: Sages
 prowadzacy: nazimek
-sponsor: img/logo.PNG
+sponsor: img/logo.png
 evenea_link: "https://trainthetrainer24032018.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 2 dni, 9:00-17:00
 cena: Warsztat bezpłatny
 podcast_id: 6301924
-slideshare:
 opis:
   informacje: |
     Jesteś specjalistą IT i czujesz powołanie (lub przymus sytuacyjny) do edukacji swoich kolegów? Stwórz swój niepowtarzalny wizerunek trenerski oraz zdobądź wiedzę i umiejętności w zakresie prowadzenia i projektowania szkoleń, ze szczególnym uwzględnieniem specyfiki szkoleń IT podczas **bezpłatnego, 2-dniowego szkolenia Train The Trainer!**
