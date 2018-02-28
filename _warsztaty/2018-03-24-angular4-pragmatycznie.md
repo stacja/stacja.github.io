@@ -6,10 +6,9 @@ event_date: 2018-03-24
 title: "Angular 4 pragmatycznie"
 lokalizacja: Sages
 prowadzacy: sulkowski
-type: planowane
-cena: 96 PLN
+cena: Warsztat płatny - 79 PLN
 dlugosc: 9:00-17:00
-evenea_link: "https://angular4.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://angular4waw.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |

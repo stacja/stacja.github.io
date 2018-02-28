@@ -6,7 +6,7 @@ event_date: 2018-03-10
 title: "Git praktycznie - podstawy"
 lokalizacja: Workband
 prowadzacy: kociubinski
-cena: 79 PLN
+cena: Warsztat płatny - 79 PLN
 dlugosc: 9:00-17:00
 evenea_link: "https://gitpraktycznie.evenea.pl/?out=1&source=event_iframe"
 podcast_id: 6288907

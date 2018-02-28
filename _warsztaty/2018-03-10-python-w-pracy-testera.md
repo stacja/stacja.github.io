@@ -7,7 +7,7 @@ title: "Python w pracy testera"
 lokalizacja: Sages
 prowadzacy: topolski
 dlugosc: 9:00-17:00
-cena: 79 PLN
+cena: Warsztat płatny - 79 PLN
 evenea_link: "https://pythontest.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:

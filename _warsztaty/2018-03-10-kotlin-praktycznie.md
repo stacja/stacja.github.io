@@ -6,7 +6,7 @@ event_date: 2018-03-10
 title: "Kotlin praktycznie"
 evenea_link: "https://kotlinpzn.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: SaleOmega
-cena: 79 PLN
+cena: Warsztat płatny - 79 PLN
 dlugosc: 9:00-17:00
 prowadzacy: andrzejewski
 podcast_id: 6301902
