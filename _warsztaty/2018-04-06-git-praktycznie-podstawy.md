@@ -7,8 +7,9 @@ title: "Git praktycznie - podstawy"
 lokalizacja: NiewiadomoKrakow
 prowadzacy: kociubinski
 dlugosc: 9:00-17:00
-type: planowane
-evenea_link: "https://gitpraktycznie.evenea.pl/?out=1&source=event_iframe"
+cena: Warsztat bezpłatny
+sponsor: /img/logos/metrosoft.png
+evenea_link: "https://gitpraktyczniekrk.evenea.pl/?out=1&source=event_iframe"
 podcast_id: 6288907
 slideshare:
 opis:
@@ -52,6 +53,16 @@ opis:
 
   uwaga: |
 
-    Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
+    W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. **Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
+
+  partner: |
+
+    Sponsorem warsztatu jest firma [Metrosoft](https://metrosoft.com/#/).
+
+    [![alt](/img/logos/metrosoft.png)](https://www.metrosoft.com)
+
+    We are changing how information is accessed in the Fund Industry value chain. By combining applicable leading edge technology with our knowledge and creativity, we are simplifying and automating business processes to reduce cost of investing and increase transparency. We are adding value globally.
+
+    Metrosoft is a tight-knit group of curious, passionate, and creative professionals. We are open and collaborative. We use our collective industry experience and superior technical expertise to create compelling solutions on the Fundsphere® platform. We question everything.
 
 ---
