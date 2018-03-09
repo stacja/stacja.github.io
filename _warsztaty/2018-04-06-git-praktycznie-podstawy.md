@@ -8,7 +8,7 @@ lokalizacja: NiewiadomoKrakow
 prowadzacy: kociubinski
 dlugosc: 9:00-17:00
 cena: Warsztat bezpłatny
-sponsor: /img/logos/metrosoft.png
+sponsor: /img/logos/metrosoft.jpg
 evenea_link: "https://gitpraktyczniekrk.evenea.pl/?out=1&source=event_iframe"
 podcast_id: 6288907
 slideshare:
