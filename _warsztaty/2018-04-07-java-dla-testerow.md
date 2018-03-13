@@ -12,7 +12,6 @@ evenea_link: "https://javadlatesterow.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
-
     Jesteś testerem/ką? Nie umiesz jeszcze programować? Chcesz zacząć stawiać pierwsze kroki w automatyzacji testów, ale nie wiesz od czego zacząć? Skorzystaj z warsztatu "Java dla testerów".
 
     **Czego dowiesz się na kursie?**
@@ -26,19 +25,19 @@ opis:
   program: |
 
     1. Wprowadzenie.
-	2. Pierwsze kroki:
-	   - typy danych i operatory
-	   - zmienne
-	   - instrukcje sterujące
-	   - tablice jednowymiarowe i wielowymiarowe 
-	3. Podstawy programowania obiektowego cz.1 - Obiekty, metody i klasy
-	4. Wprowadzenie do Clean Code
-	5. Podstawy programowania obiektowego cz.2 - cztery filary programowania obiektowego*
-	6. Obsługa wyjątków*
-	7. Biblioteki i frameworki*
-	8. Kilka słów na zakończenie
+    2. Pierwsze kroki:
+       - typy danych i operatory
+       - zmienne
+       - instrukcje sterujące
+       - tablice jednowymiarowe i wielowymiarowe 
+    3. Podstawy programowania obiektowego cz.1 - Obiekty, metody i klasy.
+    4. Wprowadzenie do Clean Code.
+    5. Podstawy programowania obiektowego cz.2 - cztery filary programowania obiektowego*
+    6. Obsługa wyjątków*
+    7. Biblioteki i frameworki*
+    8. Kilka słów na zakończenie.
 	
-	**Ze zwglęgu na ograniczony czas trwania warsztatu wskazane punkty mogą zostać zrealizowane w okrojonej wersji, lub pominięte.**
+    **Ze zwglęgu na ograniczony czas trwania warsztatu wskazane punkty mogą zostać zrealizowane w okrojonej wersji, lub pominięte.**
 	
    
   uwaga: |
