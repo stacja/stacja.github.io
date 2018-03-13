@@ -233,3 +233,7 @@ topolski:
   name: Jakub Topolski
   img: /img/portfolio/jtopolski.jpg
   desc: "Związany z Quality Assurance od 2012 roku. Na różnych etapach swojej pracy zajmował się testami manualnymi, automatycznymi, wydajnościowymi oraz programowaniem. Doświadczenie zdobywał pracując zarówno z aplikacjami dopiero co powstającymi jak i legacy. Obecnie konsultant i trener. Fan Pythona i ułatwiania sobie pracy."
+andrzejczyk:
+  name: Maciej Andrzejczyk
+  img: /img/portfolio/mandrzejczyk.jpg
+  desc: "Tester, programista, trener, wyznawca czystego kodu. W swojej niezbyt długiej karierze testera miał przyjemność dwukrotnie zaprojektować i wdrożyć rozwiązania do automatyzacji testów E2E."
