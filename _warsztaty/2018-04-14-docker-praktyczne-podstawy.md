@@ -20,7 +20,7 @@ opis:
 
     Jeżeli dodatkowo chcesz przekazać dowolną sumę na leczenie Tomka, mozesz to zrobić [TUTAJ](http://www.gwiazdanadziei.pl/podopieczni-fundacji/518-pomoc-dla-tomasza-chichlowskiego)
 
-    
+
 
     Współczesne oprogramowanie składa się z bardzo wielu elementów. Aplikacja, serwery aplikacji, kanały komunikacji, bazy danych, silniki przetwarzania danych, systemy przetwarzania logów - to tylko część z elementów układanki, która składa się na oczekiwany efekt końcowy. Złożoność uruchomienia całego środowiska jest odczuwalna przez wszystkie zaangażowane osoby - programistów, testerów, sprzedawców, analityków, administratorów, support. Na ratunek przychodzą nam technologie kontenerów, których wiodącym przedstawicielem jest Docker.
 
@@ -62,7 +62,7 @@ opis:
 
   partner: |
 
-    Sponsorem warsztatu jest firma [BAE Systems Applied Intelligence](https://www.baesystems.com/en/home), która pokrywa koszty sali i cateringu. Dzięki temu możemy cały dochód ze sprzedaży biletów przekazać 
+    Sponsorem warsztatu jest firma [BAE Systems Applied Intelligence](https://www.baesystems.com/en/home), która pokrywa koszty sali i cateringu. Dzięki temu możemy cały dochód ze sprzedaży biletów przekazać na leczenie Tomka.
 
     [![alt](/img/logos/BAE.png)](https://www.baesystems.com/en/home)
 
