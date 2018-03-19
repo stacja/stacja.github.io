@@ -20,6 +20,8 @@ opis:
 
     Jeżeli dodatkowo chcesz przekazać dowolną sumę na leczenie Tomka, mozesz to zrobić [TUTAJ](http://www.gwiazdanadziei.pl/podopieczni-fundacji/518-pomoc-dla-tomasza-chichlowskiego)
 
+    
+
     Współczesne oprogramowanie składa się z bardzo wielu elementów. Aplikacja, serwery aplikacji, kanały komunikacji, bazy danych, silniki przetwarzania danych, systemy przetwarzania logów - to tylko część z elementów układanki, która składa się na oczekiwany efekt końcowy. Złożoność uruchomienia całego środowiska jest odczuwalna przez wszystkie zaangażowane osoby - programistów, testerów, sprzedawców, analityków, administratorów, support. Na ratunek przychodzą nam technologie kontenerów, których wiodącym przedstawicielem jest Docker.
 
     Docker pozwala na zbudowanie spójnej definicji środowiska, która w łatwy sposób może być wykorzystana przez wszystkich uczestników procesu dostarczania oprogramowania. Jako lider tego typu rozwiązań jest dojrzałym i rozbudowanym systemem, wykorzystywanym przez wiele przedsiębiorstw o różnej skali. Docker jest obecnie całym ekosystemem składającym się z wielu narzędzi pozwalających na tworzenie, dystrybucję, uruchamianie i orkiestrację kontenerów w złożonych środowiskach. Metodyki zwinne oraz nowoczesna architektura mikroserwisów są miejscami, w których kontenery zyskują specjalne znaczenie.
