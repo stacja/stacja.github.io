@@ -6,9 +6,9 @@ event_date: 2018-04-14
 title: "Clean Architecture aka Ports and Adapters"
 lokalizacja: Sages
 prowadzacy: janikowski
-type: planowane
+cena: Warsztat bezpłatny
 dlugosc: 9:00-17:00
-evenea_link: "https://azurewroc.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://cleanarch.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
@@ -37,14 +37,11 @@ opis:
     1. Współistniejący CRUD - koncepcja Modularnego monolitu
     1. Ćwiczenie - generowanie modelu CRUD i umieszczenie w projekcie
     1. Integracja z CRUD - możliwości
-    1. Integracja z CRUD - możliwości
     1. Ćwiczenie - integracja z CRUD
     1. Podsumowanie - pytania, ankieta
   
   uwaga: |
 
-    **NA TYM WARSZTACIE PRACUJEMY W MNIEJSZEJ GRUPIE! Maksymalna liczba uczestników tego wydarzenia to 17 osób. Uczenie się w takiej grupie, zapewni większy komfort pracy każdemu z uczestników.**
- 
-    Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
+    W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. **Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
 
 ---
