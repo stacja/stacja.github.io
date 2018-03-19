@@ -5,7 +5,7 @@ date: 2018-03-14
 event_date: 2018-04-14
 title: "Blockchain - dlaczego wszyscy o tym mówią?"
 lokalizacja: Sages
-cena: 129 PLN
+cena: Warsztat płatny - 129 PLN
 prowadzacy: nazimek
 dlugosc: 9:00-17:00
 evenea_link: "https://blockchainwaw.evenea.pl/?out=1&source=event_iframe"
