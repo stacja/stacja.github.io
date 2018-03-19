@@ -7,7 +7,7 @@ title: "Docker - praktyczne podstawy"
 lokalizacja: BAE
 prowadzacy: charitystarobrat
 dlugosc: 9:00-17:00
-cena: Warsztaty płatny - 129 PLN
+cena: Warsztat płatny - 129 PLN
 evenea_link: "https://dockerpodstawypzn.evenea.pl/?out=1&source=event_iframe"
 podcast_id: 6217489
 slideshare:
