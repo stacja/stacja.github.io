@@ -7,15 +7,18 @@ title: "Docker - praktyczne podstawy"
 lokalizacja: BAE
 prowadzacy: charitystarobrat
 dlugosc: 9:00-17:00
-cena: 129 PLN
-sponsor: /img/logos/BAE.png
+cena: Warsztaty płatny - 129 PLN
 evenea_link: "https://dockerpodstawypzn.evenea.pl/?out=1&source=event_iframe"
 podcast_id: 6217489
 slideshare:
 opis:
   informacje: |
 
-    **Tym razem ucząc się podstaw Dockera, będziemy także pomagać! Cały dochód ze sprzedaży biletów, zostanie przekazany na leczenie Tomka, który bardzo potrzebuje naszej pomocy. Koszt jednego biletu to standardowe 129 PLN (pracujemy w mniejszej grupie). Jeśli jednak chcesz i jesteś w stanie przekazać na leczenie Tomka większą sumę, możesz wykupić wielokrotność jednego biletu. Oznacza to, że kupując dla siebie bilet na warsztat, możesz zapłacić za niego 129 PLN, 258 PLN, 387 PLN i tak dalej. Każda złotówka jest ważna, ale jeśli nie możesz zapłacić więcej niż 129 PLN to też serdecznie zparaszamy! Jeżeli dodatkowo chcesz przekazać dowolną sumę na leczenie Tomka, mozesz to zrobić [TUTAJ](http://www.gwiazdanadziei.pl/podopieczni-fundacji/518-pomoc-dla-tomasza-chichlowskiego)** 
+    **Tym razem ucząc się podstaw Dockera, będziemy także pomagać! Cały dochód ze sprzedaży biletów, zostanie przekazany na leczenie Tomka, który bardzo potrzebuje pomocy.**
+
+    **Koszt jednego biletu to standardowe 129 PLN (pracujemy w mniejszej grupie). Jeśli jednak chcesz i jesteś w stanie przekazać na leczenie Tomka większą sumę, możesz wykupić wielokrotność jednego biletu. Oznacza to, że kupując dla siebie bilet na warsztat, możesz zapłacić za niego 129 PLN, 258 PLN, 387 PLN i tak dalej. Każda złotówka jest ważna, ale jeśli nie możesz zapłacić więcej niż 129 PLN to też serdecznie zparaszamy!** 
+
+    Jeżeli dodatkowo chcesz przekazać dowolną sumę na leczenie Tomka, mozesz to zrobić [TUTAJ](http://www.gwiazdanadziei.pl/podopieczni-fundacji/518-pomoc-dla-tomasza-chichlowskiego)
 
     Współczesne oprogramowanie składa się z bardzo wielu elementów. Aplikacja, serwery aplikacji, kanały komunikacji, bazy danych, silniki przetwarzania danych, systemy przetwarzania logów - to tylko część z elementów układanki, która składa się na oczekiwany efekt końcowy. Złożoność uruchomienia całego środowiska jest odczuwalna przez wszystkie zaangażowane osoby - programistów, testerów, sprzedawców, analityków, administratorów, support. Na ratunek przychodzą nam technologie kontenerów, których wiodącym przedstawicielem jest Docker.
 
