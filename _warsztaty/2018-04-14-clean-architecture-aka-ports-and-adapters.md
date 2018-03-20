@@ -3,7 +3,7 @@
 date: 2018-03-16
 # Data wydarzenia
 event_date: 2018-04-14
-title: "Clean Architecture aka Ports and Adapters"
+title: "Clean Architecture aka Ports and Adapters (Java)"
 lokalizacja: Sages
 prowadzacy: janikowski
 cena: Warsztat bezpłatny
