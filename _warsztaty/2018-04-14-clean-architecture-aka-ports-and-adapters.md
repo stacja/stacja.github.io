@@ -17,7 +17,7 @@ opis:
 
     **Warsztat przeznaczony jest dla każdego, kto bierze udział w podejmowaniu decyzji architektonicznych - na przykład dla członków zespołów Scrumowych mających możliwość decydowania jak będzie wyglądał ich mikroserwis albo dla kogoś kto chce zbudować efektywny modularny monolit.**
 
-    Podczas warsztatu opowiem Wam czym jest dokładnie architektura portów i adapterów, również znana jako Clean Architecture. Dowiecie się co o niej mówią Alastair Cockburn, Vaugh Vernon, Wujek Bob i inni. Oprócz tego będzie bardzo praktycznie. Pochylimy się nad wycinkiem domeny rezerwacji lotów. Wyłowimy z niej fragment, który warto umieścić w architekturze Clean. Przejdziemy przez kolejne koncentryczne warstwy  i dla każdej z nich określimy poziom abstrakcji. Następnie użyjemy go do rozwiązania konkretnych, realistycznych problemów. Na koniec połączymy wynik z wygenerowanym CRUD-em. a za darmo chociażby tutaj: https://azure.microsoft.com/en-us/free/ bądź przyznawana automatycznie dla posiadaczy subskrypcji MSDN). **Wymagane Visual Studio w wersji 2017 15.4 lub nowszej wraz z zainstalowanym Workload "Azure development".**
+    Podczas warsztatu opowiem Wam czym jest dokładnie architektura portów i adapterów, również znana jako Clean Architecture. Dowiecie się co o niej mówią Alastair Cockburn, Vaugh Vernon, Wujek Bob i inni. Oprócz tego będzie bardzo praktycznie. Pochylimy się nad wycinkiem domeny rezerwacji lotów. Wyłowimy z niej fragment, który warto umieścić w architekturze Clean. Przejdziemy przez kolejne koncentryczne warstwy  i dla każdej z nich określimy poziom abstrakcji. Następnie użyjemy go do rozwiązania konkretnych, realistycznych problemów. Na koniec połączymy wynik z wygenerowanym CRUD-em. 
 
     Podczas warsztatu uczestnicy pracują na własnych komputerach. Zapewniamy pizzę dla uczestników oraz dostęp do kawy i herbaty.
 
@@ -26,7 +26,6 @@ opis:
     1. Wstęp o tym po co stosuje się Clean Architecture i tym co w niej umieszczamy (Bounded Context DDD).
     1. Przedstawienie domeny - lista wymagań.
     1. Ćwiczenie - Próba wyłonienia skomplikowanych fragmentów które warto umieścić w architekturze Clean.
-    1. Flow vs Logic Apps oraz WebJobs vs Functions - co wybrać?
     1. Demonstracja - jak wygląda start projektu w architekturze Clean - układ paczek, dostępy pakietowe
     1. Ćwiczenie - set-up zaczątku projektu w architekturze clean 
     1. Demonstracja - jak umieszczać model w architekturze clean (różnica pomiędzy warstwami UseCase i Domain Model). Co jest portem
