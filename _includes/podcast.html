@@ -19,7 +19,7 @@
                             <span><a href="{{ podcast.url }}"><button type="button" class="btn btn-primary btn-s">PRZEJDŹ DO ODCINKA</button></a></span>
                             <h4><span><b>PODCAST #{{ podcast.episode }}</b> {{ podcast.title }}</span></h4>
                             {% endif %}
-                            <p>{{ podcast.opis["informacje"] }}</p>
+                            <p>{{ podcast.opis["informacje"] | markdownify }}</p>
                         </div>
                         {% endfor %}
                     </div>
