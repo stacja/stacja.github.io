@@ -7,6 +7,7 @@ title: "Automatyzacja testów funkcjonalnych (end-to-end)"
 lokalizacja: NiewiadomoKrakow
 evenea_link: "https://testowanie2004.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
+cena: Warsztat płatny - 129 PLN
 prowadzacy: barankiewicz
 podcast_id: 6208959
 slideshare:
