@@ -1,14 +1,13 @@
 ---
 # Data dodania informacji o wydarzeniu
-date: 2017-10-25
+date: 2018-03-22
 # Data wydarzenia
 event_date: 2018-04-20
 title: "Automatyzacja testów funkcjonalnych (end-to-end)"
 lokalizacja: NiewiadomoKrakow
-evenea_link: "https://testowanie100218.evenea.pl/?out=1&source=event_iframe"
-dlugosc: 8h, 09:00-17:00
+evenea_link: "https://testowanie2004.evenea.pl/?out=1&source=event_iframe"
+dlugosc: 09:00-17:00
 prowadzacy: barankiewicz
-type: planowane
 podcast_id: 6208959
 slideshare:
 opis:
@@ -23,14 +22,16 @@ opis:
   program: |
 
     1. Wstęp.
-    1. Omówienie narzędzi
-    1. Wzorce projektowe pomocne w automatyzacji
-    1. Warsztat - pisanie testów
-    1. Dobre praktyki
-    1. Kierunki rozwoju, możliwości
-    1. Sesja Q&A
+    1. Omówienie narzędzi.
+    1. Wzorce projektowe pomocne w automatyzacji.
+    1. Warsztat - pisanie testów.
+    1. Dobre praktyki.
+    1. Kierunki rozwoju, możliwości.
+    1. Sesja Q&A.
 
   uwaga: |
+
+    **NA TYM WARSZTACIE PRACUJEMY W MNIEJSZEJ GRUPIE! Maksymalna liczba uczestników tego wydarzenia to 17 osób. Uczenie się w takiej grupie, zapewni większy komfort pracy każdemu z uczestników.**
 
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
 ---
