@@ -8,6 +8,6 @@ libsyn_id: 6301924
 workshop_url: "http://stacja.it/warsztaty/2018-03-24-akademia-trenera-train-the-trainer.html"
 opis:
   informacje: |
-    W rozmowie z Piotrem Nazimkiem prowadzący warsztatu Train the Trainer - Piotr Nazimek - opowie dlaczego warto zapisać się na jego zajęcia.
+    W rozmowie z Marią Świdniak prowadzący warsztatu Train the Trainer - Piotr Nazimek - opowie dlaczego warto zapisać się na jego zajęcia.
 
 ---
