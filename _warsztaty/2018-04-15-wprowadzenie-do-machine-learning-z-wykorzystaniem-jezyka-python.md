@@ -7,7 +7,7 @@ title: "Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
 lokalizacja: Sages
 prowadzacy: stolecki
 evenea_link: "https://machinewaw.evenea.pl/?out=1&source=event_iframe"
-cena: 79 PLN
+cena: Warsztat płatny - 79 PLN
 dlugosc: 09:00-17:00
 slideshare:
 opis:

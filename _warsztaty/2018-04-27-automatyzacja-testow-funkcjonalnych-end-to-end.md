@@ -5,10 +5,10 @@ date: 2017-10-25
 event_date: 2018-04-27
 title: "Automatyzacja testów funkcjonalnych (end-to-end)"
 lokalizacja: SaleOmega
-evenea_link: "https://testowanie100218.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://testowaniepzn.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 8h, 09:00-17:00
-type: planowane
 prowadzacy: barankiewicz
+cena: Warsztat płatny - 129 PLN
 podcast_id: 6208959
 slideshare:
 opis:
@@ -31,6 +31,8 @@ opis:
     1. Sesja Q&A
 
   uwaga: |
+
+    **NA TYM WARSZTACIE PRACUJEMY W MNIEJSZEJ GRUPIE! Maksymalna liczba uczestników tego wydarzenia to 17 osób. Uczenie się w takiej grupie, zapewni większy komfort pracy każdemu z uczestników.**
 
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
 ---

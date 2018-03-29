@@ -8,6 +8,7 @@ lokalizacja: Sages
 evenea_link: "https://vuiwaw.evenea.pl/?out=1&source=event_iframe"
 prowadzacy: szadkowski
 dlugosc: 9:00-17:00
+cena: Warsztat płatny - 129 PLN
 slideshare:
 opis:
   informacje: |
