@@ -12,7 +12,7 @@ opis:
   konspekt: |
     1. Kiedy warto stosować bazy NoSQL?
     1. Jak dobrać bazę typu NoSQL do danego zastosowania?
-    1. Jakie typy danych najczęściej lepiej przechowywać w klasycznych bazach danych.
+    1. Jakie typy danych najczęściej lepiej przechowywać w klasycznych bazach danych?
     1. Dlaczego warto zainteresować się MongoDB?
     1. Jakimi cechami charakteryzuje się ekosystem MongoDB?
     1. Jaka jest rola MongoDB w świecie Big Data?
