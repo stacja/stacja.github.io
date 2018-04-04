@@ -5,10 +5,10 @@ date: 2017-12-14
 event_date: 2018-04-22
 title: "Projektowanie interfejsów głosowych (VUI)"
 lokalizacja: Sages
-evenea_link: "https://vuiwroc.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://vuiwaw.evenea.pl/?out=1&source=event_iframe"
 prowadzacy: szadkowski
-type: planowane
 dlugosc: 9:00-17:00
+cena: Warsztat płatny - 129 PLN
 slideshare:
 opis:
   informacje: |
@@ -37,6 +37,8 @@ opis:
 
   uwaga: |
   
+    **NA TYM WARSZTACIE PRACUJEMY W MNIEJSZEJ GRUPIE! Maksymalna liczba uczestników tego wydarzenia to 17 osób. Uczenie się w takiej grupie, zapewni większy komfort pracy każdemu z uczestników.**
+    
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
 
 ---
