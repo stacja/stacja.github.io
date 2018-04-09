@@ -34,6 +34,7 @@ opis:
     1. Monitoring działania kontenerów.
     1. Planowanie uruchamiania kontenerów na hostach.
     1. Automatyzacja: upgradów wersji kontenera, dodawania hostów oraz skalowania serwisów.
+    1. Kubernetes.
     1. Rancher 2.0.
   
   uwaga: |
