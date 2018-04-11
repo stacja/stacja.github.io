@@ -249,4 +249,7 @@ lach:
   name: Andrzej Łach  
   img: /img/portfolio/alach.jpg
   desc: "Technical Lead/Lead Developer z ponad 12-letnim doświadczeniem. Zajmujący się systemami backendowymi, głównie programując w języku Java. Doświadczenie zdobywał pracując w międzynarodowym środowisku dostarczając systemy informatyczne dla branży loteryjnej oraz finansowej. W swojej pracy zwraca szczególną uwagę na narzędzia i metodyki zwiększające produktywność developerów oraz jakość dostarczanego oprogramowania."
-  
+bialas:
+  name: Kaj Białas  
+  img: /img/portfolio/kbialas.jpg
+  desc: "JavaScript Developer z 6 letnim doświadczeniem, trener front-end. Jego doświadczenie obejmuje budowanie aplikacji mobilnych i internetowych oraz zagadnienia związane z bezpieczeństwem systemów informatycznych."
