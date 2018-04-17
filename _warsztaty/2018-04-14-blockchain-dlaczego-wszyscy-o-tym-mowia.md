@@ -9,6 +9,7 @@ cena: Warsztat płatny - 129 PLN
 prowadzacy: nazimek
 dlugosc: 9:00-17:00
 evenea_link: "https://blockchainwaw.evenea.pl/?out=1&source=event_iframe"
+podcast_id: 6469069
 slideshare:
 opis:
   informacje: |
@@ -22,9 +23,9 @@ opis:
      - zrealizujesz aplikację działającą w przeglądarce i wykorzystującą Twój blockchain jako bazę danych
      - dowiesz się czym są ÐApps, rozproszony system plików oraz rozproszona komunikacja
 
-    
+
     **Warsztat przeznaczony jest dla osób zainteresowanych tematyką blockchain i znających podstawowe zasady programowania. Nie musisz być programistą na co dzień, aby wziąć w nim udział.**
-    W trakcie zajęć uczesnicy wykorzystywać będą własne komputery. Organizator zapewnia serwis kawowy oraz pizzę w porze obiadowej. 
+    W trakcie zajęć uczesnicy wykorzystywać będą własne komputery. Organizator zapewnia serwis kawowy oraz pizzę w porze obiadowej.
 
   program: |
 
@@ -34,7 +35,7 @@ opis:
     1. Aplikacje w blockchain, czyli do czego służą inteligentne kontrakty.
     1. Interakcja z blockchain za pomocą web3.js.
     1. ÐApps i idea zdecentrelizowanego Internetu: blockchain, rozporoszone systemy plików i rozproszona komunikacja.
-  
+
   uwaga: |
 
     **NA TYM WARSZTACIE PRACUJEMY W MNIEJSZEJ GRUPIE! Maksymalna liczba uczestników tego wydarzenia to 17 osób. Uczenie się w takiej grupie, zapewni większy komfort pracy każdemu z uczestników.**
