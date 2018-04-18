@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2018-02-01
 # Data wydarzenia
-event_date: 2018-03-10
+event_date: 2018-05-12
 title: "Python w pracy testera"
 lokalizacja: Sages
 prowadzacy: topolski
