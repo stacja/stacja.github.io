@@ -36,8 +36,6 @@ opis:
        3. Algorytm SVM - maszyna wektorów nośnych.
        4. Algorytmy grupowania.
 
-  banners: |
-  
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
 ---
