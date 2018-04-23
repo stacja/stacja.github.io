@@ -2,12 +2,12 @@
 # Data dodania informacji o wydarzeniu
 date: 2018-03-27
 # Data wydarzenia
-event_date: 2018-05-12
+event_date: 2018-05-19
 title: "Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
 lokalizacja: SaleOmega
-type: planowane
 prowadzacy: stolecki
-evenea_link: "https://machinekrk.evenea.pl/?out=1&source=event_iframe"
+cena: Warsztat płatny - od 96 PLN
+evenea_link: "https://machinepzn.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
 slideshare:
 opis:
@@ -21,7 +21,7 @@ opis:
 
     Podczas warsztatu uczestnicy korzystają z własnych komputerów.
 
-    Podczas warsztatu zapewniamy pizzę w porze obiadowej, a także serwis kawowy.
+    Podczas warsztatu zapewniamy lunch w porze obiadowej, a także serwis kawowy.
 
   program: |
     1. Wstęp.
