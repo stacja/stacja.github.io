@@ -3,7 +3,7 @@
 date: 2018-05-19
 # Data wydarzenia
 event_date: 2018-05-19
-title: "Wzorce projektowe w języku C++"
+title: "Idiomy Modern C++"
 lokalizacja: Sages
 cena: Warsztat płatny - od 129 PLN
 prowadzacy: pusz
