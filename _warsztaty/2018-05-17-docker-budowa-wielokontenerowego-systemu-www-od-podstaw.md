@@ -5,6 +5,7 @@ date: 2017-06-23
 event_date: 2018-05-18
 title: "Docker - budowa wielokontenerowego systemu WWW od podstaw"
 lokalizacja: Sages
+type: planowane
 prowadzacy: murawski
 sponsor: /img/logos/epoint.png
 evenea_link: "https://dockerwaw.evenea.pl/?out=1&source=event_iframe"
