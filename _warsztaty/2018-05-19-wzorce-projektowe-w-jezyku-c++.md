@@ -6,6 +6,7 @@ event_date: 2018-05-19
 title: "Wzorce projektowe w języku C++"
 lokalizacja: Sages
 cena: Warsztat płatny - od 129 PLN
+prowadzący: pusz
 dlugosc: 9:00-17:00
 evenea_link: "https://cplusplus.evenea.pl/?out=1&source=event_iframe"
 slideshare:
