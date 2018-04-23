@@ -12,12 +12,9 @@ evenea_link: "https://cplusplus.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
-    Język programowania C++ już od dawna nie jest C z klasami i nigdy nie był wyłącznie językiem programowania obiektowego. C++ jest językiem ogólnego przeznaczenia. Udostępnia imperatywne, obiektowe i generyczne funkcje programistyczne, 
-    apewniając jednocześnie bezpośredni dostęp i możliwość manipulacji pamięcią komputera. Prawidłowo użyty dostarcza trudną do przebicia wydajność. Wymaga to jednak dobrej znajomości szablonów C++ i idiomów Modern C++. Nie należy ich mylić z 
-    popularnie znanymi wzorcami projektowymi z kultowej książki GoF, które to zostały wynalezione do zaadresowania problemów typowych dla języków wyłącznie obiektowych takich jak Java czy C#.
+    Język programowania C++ już od dawna nie jest C z klasami i nigdy nie był wyłącznie językiem programowania obiektowego. C++ jest językiem ogólnego przeznaczenia. Udostępnia imperatywne, obiektowe i generyczne funkcje programistyczne, zapewniając jednocześnie bezpośredni dostęp i możliwość manipulacji pamięcią komputera. Prawidłowo użyty dostarcza trudną do przebicia wydajność. Wymaga to jednak dobrej znajomości szablonów C++ i idiomów Modern C++. Nie należy ich mylić z popularnie znanymi wzorcami projektowymi z kultowej książki GoF, które to zostały wynalezione do zaadresowania problemów typowych dla języków wyłącznie obiektowych takich jak Java czy C#.
 
-    W czasie warsztatu odświeżymy i poszerzymy naszą wiedzę na temat szablonów C++ i nauczymy się idiomów Modern C++. Opanowanie tych umiejętności umożliwi nam tworzenie bardzo przydatnych narzędzi, które będą potem używane w codziennej pracy 
-    każdego programisty C++.
+    W czasie warsztatu odświeżymy i poszerzymy naszą wiedzę na temat szablonów C++ i nauczymy się idiomów Modern C++. Opanowanie tych umiejętności umożliwi nam tworzenie bardzo przydatnych narzędzi, które będą potem używane codziennej pracy każdego programisty C++.
 
     **Od uczestników szkolenia wymaga się bieżącej praktyki z językiem C++ oraz rekomendowane jest doświadczenie w tworzeniu prostych szablonów C++. Wiedza w zakresie C++11/14 jest mile widziana ale nie jest obowiązkowa. Każdy uczestnik 
     powinien posiadać komputer z zainstalowaną świeżą wersją dowolnego kompilatora C++ (Visual Studio, gcc, clang).**
@@ -29,14 +26,14 @@ opis:
     1. Wstęp.
     1. Odświeżenie i ugruntowanie wiedzy o szablonach C++.
     1. Omówienie i przećwiczenie idiomów C++.  
-       1. Non-Copyable.
-       2. RAII.
-       3. Copy-and-swap.
-       4. Smart Pointer.
-       5. Type Traits.
-       6. Tag dispatch.
-       7. Policy-based design.
-       8. EBO.
+       1. Non-Copyable
+       2. RAII
+       3. Copy-and-swap
+       4. Smart Pointer
+       5. Type Traits
+       6. Tag dispatch
+       7. Policy-based design
+       8. EBO
        9. Type Erasure
        10. Copy-on-write
        11. CRTP
