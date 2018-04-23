@@ -1,6 +1,6 @@
 ---
 # Data dodania informacji o wydarzeniu
-date: 2018-04-23
+date: 2018-05-19
 # Data wydarzenia
 event_date: 2018-05-19
 title: "Wzorce projektowe w języku C++"
