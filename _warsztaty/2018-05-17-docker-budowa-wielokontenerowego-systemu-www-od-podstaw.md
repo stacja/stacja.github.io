@@ -2,10 +2,9 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-06-23
 # Data wydarzenia
-event_date: 2018-05-18
+event_date: 2018-05-17
 title: "Docker - budowa wielokontenerowego systemu WWW od podstaw"
 lokalizacja: Sages
-type: planowane
 prowadzacy: murawski
 sponsor: /img/logos/epoint.png
 evenea_link: "https://dockerwaw.evenea.pl/?out=1&source=event_iframe"
@@ -41,5 +40,11 @@ opis:
 
   uwaga: |
     W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. **Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
+
+  partner: |
+
+    Sponsorem warsztatu jest firma [e-point](http://www.e-point.pl/).
+
+    [![alt](/img/logos/epoint.png)](http://www.e-point.pl/)
 
 ---
