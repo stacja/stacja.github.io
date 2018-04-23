@@ -172,11 +172,11 @@ zmitrowicz:
 smyk:
   name: Rafał Smyk
   img: /img/portfolio/rsmyk.png
-  desc: "Specjalista w dziedzinie Systemów Informacji Geograficznej (GIS) oraz kartografii. Absolwent geoinformacji na UAM w Poznaniu oraz gospodarki przestrzennej na UP Poznaniu. Pracuje w projektach tworzenia przestrzennych baz danych tematycznych dotyczących środowiska przyrodniczego (mapy hydrograficzne, sozologiczne, geomorfologiczne). Prowadzi analizy GIS dotyczące danych środowiskowych i społeczno-ekonomicznych.  W pracy wykorzystuje oprogramowanie QGIS i język Python. Prowadzi szkolenia z programu QGIS oraz kursy z wizualizacji danych przestrzennych dla studentów UAM w Poznaniu i UMSC w Lublinie. Pasjonat kartografii, wędrówek górskich i jazdy na rowerze." 
+  desc: "Specjalista w dziedzinie Systemów Informacji Geograficznej (GIS) oraz kartografii. Absolwent geoinformacji na UAM w Poznaniu oraz gospodarki przestrzennej na UP Poznaniu. Pracuje w projektach tworzenia przestrzennych baz danych tematycznych dotyczących środowiska przyrodniczego (mapy hydrograficzne, sozologiczne, geomorfologiczne). Prowadzi analizy GIS dotyczące danych środowiskowych i społeczno-ekonomicznych.  W pracy wykorzystuje oprogramowanie QGIS i język Python. Prowadzi szkolenia z programu QGIS oraz kursy z wizualizacji danych przestrzennych dla studentów UAM w Poznaniu i UMSC w Lublinie. Pasjonat kartografii, wędrówek górskich i jazdy na rowerze."
 kosik:
   name: Amadeusz Kosik
   img: /img/portfolio/akosik.jpg
-  desc: "Software architekt i developer specjalizujący się w tworzeniu aplikacji rozproszonych w języku Scala oraz trener w zakresie rozwiązań przetwarzania Big Data (Apache Cassandra, Apache Spark). W pracy zawodowej zajmuje się projektowaniem, tworzeniem i wdrażaniem rozwiązań przetwarzania strumieniowego danych oraz uczenia maszynowego." 
+  desc: "Software architekt i developer specjalizujący się w tworzeniu aplikacji rozproszonych w języku Scala oraz trener w zakresie rozwiązań przetwarzania Big Data (Apache Cassandra, Apache Spark). W pracy zawodowej zajmuje się projektowaniem, tworzeniem i wdrażaniem rozwiązań przetwarzania strumieniowego danych oraz uczenia maszynowego."
 murawski:
   name: Kamil Murawski
   img: /img/portfolio/kmurawski.jpg
@@ -208,7 +208,7 @@ dzierzak:
 konior:
   name: Paweł Konior
   img: /img/portfolio/pkonior.jpeg
-  desc: "Pasjonat technologii i nowinek webowych, nie śpi, bo trzyma komputer. Na codzień techlead w HSBC GSC, trener w SAGES, po pracy zwycięzca kilku hackhatonów, nauczyciel programowania, prelegent, zaangażowany w takie projekty jak ITKamp, Stacja.it, Angular Kraków, KrakowJS."   
+  desc: "Pasjonat technologii i nowinek webowych, nie śpi, bo trzyma komputer. Na codzień techlead w HSBC GSC, trener w SAGES, po pracy zwycięzca kilku hackhatonów, nauczyciel programowania, prelegent, zaangażowany w takie projekty jak ITKamp, Stacja.it, Angular Kraków, KrakowJS."
 piwowarek:
   name: Grzegorz Piwowarek
   img: /img/portfolio/gpiwowarek.jpg
@@ -246,15 +246,14 @@ charitystarobrat:
   img: /img/portfolio/charitystarobrat.jpg
   desc: "Jestem inżynierem oprogramowania, w branży IT pełniący role architekta, programisty, administratora oraz twórcy procesów - w zależności od aktualnej potrzeby. Do swojej pracy podchodzę praktycznie, starając się zawsze dobierać odpowiednie technologie i rozwiązania do problemów, jakie trzeba rozwiązać oraz ograniczeń jakie występują. Interesują mnie w szczególności zagadnienia dotyczące architektur systemów klasy enterprise oraz procesów wspomagających tworzenie rozwiązań informatycznych."
 lach:
-  name: Andrzej Łach  
+  name: Andrzej Łach
   img: /img/portfolio/alach.jpg
   desc: "Technical Lead/Lead Developer z ponad 12-letnim doświadczeniem. Zajmujący się systemami backendowymi, głównie programując w języku Java. Doświadczenie zdobywał pracując w międzynarodowym środowisku dostarczając systemy informatyczne dla branży loteryjnej oraz finansowej. W swojej pracy zwraca szczególną uwagę na narzędzia i metodyki zwiększające produktywność developerów oraz jakość dostarczanego oprogramowania."
 bialas:
-  name: Kaj Białas  
+  name: Kaj Białas
   img: /img/portfolio/kbialas.jpg
   desc: "JavaScript Developer z 6 letnim doświadczeniem, trener front-end. Jego doświadczenie obejmuje budowanie aplikacji mobilnych i internetowych oraz zagadnienia związane z bezpieczeństwem systemów informatycznych."
 pusz:
-  name: Mateusz Pusz  
+  name: Mateusz Pusz
   img: /img/portfolio/mpusz.jpg
-  desc: "Mateusz Pusz - Architekt oprogramowania, programista, ekspert w dziedzinie bezpieczeństwa kodu. Posiada ponad 13-letnie doświadczenie w projektowaniu, tworzeniu i utrzymaniu kodu C++. Konsultant i trener języka C++ oraz ewangelista skupiający się na tematyce Modern C++. Głównym obszarem jego zainteresowań i doświadczenia są wydajność, low latency, stabilność i bezpieczeństwo kodu C++. Mateusz przez 13 lat pracował dla firmy Intel a teraz przewodzi globalnej społeczności C++ w Epam Systems. Jest także założycielem Train IT, która dostarcza szkolenia C++ dla inżynierów korporacji. Mateusz jest aktywnym, posiadającym prawo głosu, członkiem komitetu ISO C++ (WG21) gdzie razem z największymi ekspertami na świecie pracuje nad stworzeniem kolejnej wersji standardu języka C++. Jest on także członkiem WG21 Study Group 14 (SG14) odpowiedzialnej w komitecie za tematy związane z wydajnością i low latency. W 2013 roku Mateusz wygrał ogólnoświatowy konkurs wiedzy o języku C++ "Bench Games 2013"."
-  
+  desc: "Mateusz Pusz - Architekt oprogramowania, programista, ekspert w dziedzinie bezpieczeństwa kodu. Posiada ponad 13-letnie doświadczenie w projektowaniu, tworzeniu i utrzymaniu kodu C++. Konsultant i trener języka C++ oraz ewangelista skupiający się na tematyce Modern C++. Głównym obszarem jego zainteresowań i doświadczenia są wydajność, low latency, stabilność i bezpieczeństwo kodu C++. Mateusz przez 13 lat pracował dla firmy Intel a teraz przewodzi globalnej społeczności C++ w Epam Systems. Jest także założycielem Train IT, która dostarcza szkolenia C++ dla inżynierów korporacji. Mateusz jest aktywnym, posiadającym prawo głosu, członkiem komitetu ISO C++ (WG21) gdzie razem z największymi ekspertami na świecie pracuje nad stworzeniem kolejnej wersji standardu języka C++. Jest on także członkiem WG21 Study Group 14 (SG14) odpowiedzialnej w komitecie za tematy związane z wydajnością i low latency. W 2013 roku Mateusz wygrał ogólnoświatowy konkurs wiedzy o języku C++ - Bench Games 2013."
