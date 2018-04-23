@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-06-23
 # Data wydarzenia
-event_date: 2018-05-2018
+event_date: 2018-05-18
 title: "Docker - budowa wielokontenerowego systemu WWW od podstaw"
 lokalizacja: Sages
 prowadzacy: murawski
@@ -26,7 +26,7 @@ opis:
        4. Eskperymenty z kontenerami i obrazami.
     1. Tworzenie własnych obrazów.
        1. Podstawowe składniku Dockerfile.
-       2. Postać "shellowa", kontra "executable".
+       2. Postać \"shellowa\", kontra \"executable\".
        3. ENTRYPOINT vs CMD.
        4. Budowanie obrazów za pomovą narzędzia Gradle.
     1. Tworzenie kompletnego systemu WWW w kontenerach.
