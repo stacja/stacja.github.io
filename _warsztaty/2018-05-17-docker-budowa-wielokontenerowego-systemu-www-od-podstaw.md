@@ -47,4 +47,6 @@ opis:
 
     [![alt](/img/logos/epoint.png)](http://www.e-point.pl/)
 
+    Od 1996 roku tworzymy pełnowymiarowe systemy internetowe. Konsekwentnie rozbudowujemy kompetencje w zakresie technologii, projektowania i prowadzenia dużych projektów informatycznych w metodykach zwinnych. Budujemy wieloletnie relacje z klientami oparte na merytoryce i wzajemnym zaufaniu. Z ING Bankiem Śląskim współpracujemy od 1998 roku, z Amway Europe - od 2005, z Raiffeisen Bank - od 2000. Jesteśmy srebrnym partnerem SAP w zakresie produktów SAP Hybris Commerce oraz SAP Hybris Marketing.
+
 ---
