@@ -3,12 +3,12 @@
 date: 2018-01-03
 # Data wydarzenia
 event_date: 2018-05-19
-type: planowane
+cena: Warsztat płatny - od 96 PLN
 title: "Python - szybki start"
 lokalizacja: Workband
 prowadzacy: galka
 dlugosc: 9:00-17:00
-evenea_link: "https://pythonszybkistartwroc.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://pythonwroc.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
