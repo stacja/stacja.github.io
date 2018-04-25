@@ -7,7 +7,7 @@ title: "QGIS - szybki start"
 lokalizacja: Sages
 cena: Warsztat płatny - od 129 PLN
 prowadzacy: brol
-dlugosc: 9:00-17:00
+dlugosc: 10:00-18:00
 evenea_link: "https://qgis.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
