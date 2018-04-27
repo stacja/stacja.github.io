@@ -3,9 +3,9 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2018-05-18
-title: "Julia - jak zakochac się w analizie danych"
+title: "Julia - jak zakochać się w analizie danych?"
 lokalizacja: Sages
-type: planowane
+cena: Warsztat bezpłatny
 prowadzacy: klimczewski
 evenea_link: "https://julia.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
@@ -29,11 +29,17 @@ opis:
 
   program: |
 
-    1. Wprowadzenie do narzędzia Docker.
-       1. Omówienie idei wirtualizacji z wykorzystaniem kontenerów.
+    1. Wprowadzenie do Juli - praca w konsoli , podstawowe komendy, nawigacja.
+    1. Biblioteki Julii, przegląd i sposób korzystania.
+    1. Instalacja i korzystanie z pakietów.
+    1. Uruchamianie kodu z konsoli i z pliku : przykładowy algorytm genetyczny krok po kroku.
+    1. Przewiadywania sprzedaży o dużej zmienność sezonowej implementacja algorytmów odwybranej metody.
+    1. Wykresy i prezentacja wyników. Wykresy dynamiczne , animacje w Julii.
+    1. Porównanie wielu różnych algorytmów , implementacja i zastosowanie pakietu.
+    1. Import danych o aktywności słońca, implementacja napisanych wcześniej algorytmów do predykcji zachowań słońca.
+    1. Analiza sygnałów, wykorzystanie biblioteki FTT (Szybka Transformata Fouriera ) do obliczania składowych widma cyklu aktywności słońca.
+    1. Dekompozycja macierzy , analiza PCA (ang. principal component analysis), obliczanie głównych składowych i ich interpretacja , segmentacja zbioru w wielowymiarowej przestrzeniu.
       
-
-
   uwaga: |
     W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. **Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
 
