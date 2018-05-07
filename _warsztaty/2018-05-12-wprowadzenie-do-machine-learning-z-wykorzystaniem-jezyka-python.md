@@ -4,7 +4,7 @@ date: 2018-03-27
 # Data wydarzenia
 event_date: 2018-05-12
 title: "Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
-lokalizacja: NiewiadomoKrakow
+lokalizacja: BiurowiecCystersow
 prowadzacy: stolecki
 evenea_link: "https://machinekrk.evenea.pl/?out=1&source=event_iframe"
 cena: Warsztat płatny - od 79 PLN
