@@ -15,7 +15,7 @@ opis:
 
     Podczas warsztatów dowiesz się jak przygotować kompletny system WWW wraz z monitoringiem i komponentami towarzyszącymi oraz jak za pomocą dockera i programu docker-compose zorganizować sprawny proces jego dystrybucji.
 
-    Od uczestników wymagana jest znajomość podstaw konsoli systemu Linux, podstawowa znajomość języka Java oraz protokołu HTTP, środowisko programistyczne Idea IntelliJ. Na warsztat konieczne jest zabranie własnego laptopa z zainstalowanym systemem operacyjnym Linux (rekomenduję Ubuntu 16.04 LTS). Dla uczestników przewidziany jest lunch oraz przerwy kawowe.
+    Od uczestników wymagana jest znajomość podstaw konsoli systemu Linux, podstawowa znajomość języka Java oraz protokołu HTTP, środowisko programistyczne Idea IntelliJ. Na warsztat konieczne jest zabranie własnego laptopa z zainstalowanym systemem operacyjnym Linux (rekomenduję Ubuntu 16.04 LTS). 
 
   program: |
 
