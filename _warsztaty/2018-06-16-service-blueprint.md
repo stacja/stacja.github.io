@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-10-12
 # Data wydarzenia
-event_date: 2018-06-09
+event_date: 2018-06-16
 title: "Service Blueprint"
 evenea_link: "https://blueprint.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: Sages
