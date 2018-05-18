@@ -7,7 +7,7 @@ mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_008_-_Michal_Gal
 libsyn_id: 6608220
 opis:
   informacje: |
-    W tym odcinku Łukasz Kobyliński rozmawia z Michałek Gałką o Pythonie - dlaczego wciąż zyskuje popularność, gdzie dobrze się sprawdza i jaka jest przyszłość tego języka programowania. 
+    W tym odcinku Łukasz Kobyliński rozmawia z Michałem Gałką o Pythonie - dlaczego wciąż zyskuje popularność, gdzie dobrze się sprawdza i jaka jest przyszłość tego języka programowania. 
 
   konspekt: |
     1. Jak wyglądała Twoja droga do zostania programistą?
