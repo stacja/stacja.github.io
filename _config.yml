@@ -14,7 +14,7 @@ description: >
   podnoszą swoje kompetencje, trenerów, przedsiębiorców i twórców startupów,
   a także osób wchodzących na rynek pracy.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://stacja.it" # the base hostname & protocol for your site
+url: "https://stacja.it" # the base hostname & protocol for your site
 
 gems:
   - jekyll-seo-tag
