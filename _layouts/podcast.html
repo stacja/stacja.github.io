@@ -22,6 +22,12 @@ layout: default
                     <hr/>
                     {{ page.opis['konspekt'] | markdownify }}
                     <hr/>
+                    {% if page.opis['dodatkowe'] %}
+                    <h4 style="color:#fed136">MATERIAŁY POWIĄZANE Z ODCINKIEM</h4>
+                    <hr/>
+                    {{ page.opis['dodatkowe'] | markdownify }}
+                    <hr/>
+                    {% endif %}
 
                     <h4 style="color:#fed136">Komentarze</h4>
                       <div id="disqus_thread"></div>
