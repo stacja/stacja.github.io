@@ -3,7 +3,7 @@
 date: 2016-07-20
 # Data wydarzenia
 event_date: 2015-10-10
-title: "Vert.x 3 - wydajna i skalowalna platforma aplikacyjna"
+title: "#8 Vert.x 3 - wydajna i skalowalna platforma aplikacyjna"
 lokalizacja: Sages
 prowadzacy: zdanowski
 evenea_link: "https://vertx.evenea.pl?out=1&source=event_iframe"

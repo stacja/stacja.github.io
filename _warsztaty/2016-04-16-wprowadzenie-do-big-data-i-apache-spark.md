@@ -3,7 +3,7 @@
 date: 2016-07-19
 # Data wydarzenia
 event_date: 2016-04-16
-title: "Wprowadzenie do Big Data i Apache Spark"
+title: " #18 Wprowadzenie do Big Data i Apache Spark"
 lokalizacja: COWorKING
 prowadzacy: nowacki
 evenea_link: "https://apachespark3.evenea.pl?out=1&source=event_iframe"

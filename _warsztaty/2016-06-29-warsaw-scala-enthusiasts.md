@@ -3,7 +3,7 @@
 date: 2016-06-28
 # Data wydarzenia
 event_date: 2016-06-29
-title: "Warsaw Scala Enthusiasts"
+title: "#29 Warsaw Scala Enthusiasts"
 lokalizacja: Sages
 prowadzacy: wse
 evenea_link:

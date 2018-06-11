@@ -3,7 +3,7 @@
 date: 2016-06-27
 # Data wydarzenia
 event_date: 2015-10-10
-title: "Akademia Trenera - Train The Trainer"
+title: "#7 Akademia Trenera - Train The Trainer"
 lokalizacja: Sages
 prowadzacy: nazimek
 type: akademia

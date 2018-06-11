@@ -3,7 +3,7 @@
 date: 2016-06-11
 # Data wydarzenia
 event_date: 2016-06-18
-title: "Wprowadzenie do Ruby i Ruby on Rails"
+title: "#25 Wprowadzenie do Ruby i Ruby on Rails"
 lokalizacja: COWorKING
 prowadzacy: niedzielski
 evenea_link: "https://WprowadzeniedoRuby.evenea.pl?out=1&source=event_iframe"

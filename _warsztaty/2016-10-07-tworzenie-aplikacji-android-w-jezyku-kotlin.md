@@ -3,7 +3,7 @@
 date: 2016-09-21
 # Data wydarzenia
 event_date: 2016-10-07
-title: "Tworzenie aplikacji Android w języku Kotlin - szybki start"
+title: "#45 Tworzenie aplikacji Android w języku Kotlin - szybki start"
 lokalizacja: Sages
 prowadzacy: andrzejewski
 dlugosc: 9:00-17:00

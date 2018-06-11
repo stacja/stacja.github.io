@@ -3,7 +3,7 @@
 date: 2016-07-19
 # Data wydarzenia
 event_date: 2015-07-11
-title: "Wprowadzenie do Big Data i Apache Hadoop"
+title: "#8 Wprowadzenie do Big Data i Apache Hadoop"
 lokalizacja: Sages
 prowadzacy: nowacki
 evenea_link: "https://hadoop3.evenea.pl?out=1&source=event_iframe"

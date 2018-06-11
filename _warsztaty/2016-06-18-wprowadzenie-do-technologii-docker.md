@@ -3,7 +3,7 @@
 date: 2016-06-11
 # Data wydarzenia
 event_date: 2016-06-18
-title: "Wprowadzenie do technologii Docker"
+title: "#26 Wprowadzenie do technologii Docker"
 lokalizacja: Sages
 prowadzacy: suszynski
 evenea_link: "https://docker.evenea.pl?out=1&source=event_iframe"

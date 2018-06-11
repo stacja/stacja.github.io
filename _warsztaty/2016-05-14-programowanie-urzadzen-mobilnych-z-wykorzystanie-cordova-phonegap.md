@@ -3,7 +3,7 @@
 date: 2016-07-18
 # Data wydarzenia
 event_date: 2016-05-14
-title: "Zrób dobrze swojej komórce - Programowanie urządzeń mobilnych z wykorzystaniem Cordova / Phonegap"
+title: "#20 Zrób dobrze swojej komórce - Programowanie urządzeń mobilnych z wykorzystaniem Cordova / Phonegap"
 lokalizacja: CreativeCoworking
 prowadzacy: scira
 dlugosc: 9:00-17:00

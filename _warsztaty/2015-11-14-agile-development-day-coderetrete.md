@@ -3,7 +3,7 @@
 date: 2015-06-13
 # Data wydarzenia
 event_date: 2015-11-14
-title: "Agile Development Day, Coderetreat 2015"
+title: "#9 Agile Development Day, Coderetreat 2015"
 lokalizacja: Sages
 prowadzacy: jelski
 evenea_link: "https://coderetreat15.evenea.pl?out=1&source=event_iframe"

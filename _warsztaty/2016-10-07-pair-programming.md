@@ -3,7 +3,7 @@
 date: 2016-09-12
 # Data wydarzenia
 event_date: 2016-10-07
-title: "Pair Programming"
+title: "#44 Pair Programming"
 lokalizacja: Sages
 prowadzacy: jelskipierzchala
 dlugosc: 18:00-21:00

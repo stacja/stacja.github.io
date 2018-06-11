@@ -3,7 +3,7 @@
 date: 2016-06-27
 # Data wydarzenia
 event_date: 2015-08-01
-title: "Akademia Trenera Sages Wystąpienia Publiczne dla Specjalistów IT"
+title: "#5 Akademia Trenera Sages Wystąpienia Publiczne dla Specjalistów IT"
 lokalizacja: Sages
 prowadzacy: nazimek
 evenea_link: https://trainthetrainer102016.evenea.pl/?out=1&source=event_iframe

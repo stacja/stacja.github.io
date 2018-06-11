@@ -3,7 +3,7 @@
 date: 2016-07-19
 # Data wydarzenia
 event_date: 2016-10-01
-title: "Wprowadzenie do technologii Cloud (Heroku, Google App Engine, Amazon AWS)"
+title: "#43 Wprowadzenie do technologii Cloud (Heroku, Google App Engine, Amazon AWS)"
 lokalizacja: Sages
 prowadzacy: harasymczuk
 dlugosc: 9:00-17:00

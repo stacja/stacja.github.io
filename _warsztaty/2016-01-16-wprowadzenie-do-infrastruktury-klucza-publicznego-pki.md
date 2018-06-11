@@ -3,7 +3,7 @@
 date: 2016-07-20
 # Data wydarzenia
 event_date: 2016-01-16
-title: "Wprowadzenie do Infrastruktury Klucza Publicznego (PKI)"
+title: "#12 Wprowadzenie do Infrastruktury Klucza Publicznego (PKI)"
 lokalizacja: Sages
 prowadzacy: nazimek
 dlugosc: 9:00-17:00

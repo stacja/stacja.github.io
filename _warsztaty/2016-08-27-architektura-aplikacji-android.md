@@ -3,7 +3,7 @@
 date: 2016-07-16
 # Data wydarzenia
 event_date: 2016-08-27
-title: "Architektura aplikacji Android"
+title: "#35 Architektura aplikacji Android"
 lokalizacja: SaleOmega
 prowadzacy: andrzejewski
 dlugosc: 9:00-17:00

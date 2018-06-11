@@ -3,7 +3,7 @@
 date: 2016-06-22
 # Data wydarzenia
 event_date: 2016-07-09
-title: "Wprowadzenie do Big Data i Apache Hadoop"
+title: "#30 Wprowadzenie do Big Data i Apache Hadoop"
 lokalizacja: Sages
 prowadzacy: nowacki
 dlugosc: 9:00-17:00

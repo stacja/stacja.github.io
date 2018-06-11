@@ -3,7 +3,7 @@
 date: 2016-09-20
 # Data wydarzenia
 event_date: 2016-10-15
-title: "Python - szybki start"
+title: "#47 Python - szybki start"
 lokalizacja: Sages
 prowadzacy: galka
 dlugosc: 9:00-17:00

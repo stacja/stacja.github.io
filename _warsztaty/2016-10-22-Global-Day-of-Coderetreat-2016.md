@@ -3,7 +3,7 @@
 date: 2016-09-22
 # Data wydarzenia
 event_date: 2016-10-22
-title: "Global Day of Coderetreat 2016"
+title: "#50 Global Day of Coderetreat 2016"
 lokalizacja: Sages
 prowadzacy: jelskipachowski
 dlugosc: 09:00-17:00

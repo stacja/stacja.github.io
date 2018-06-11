@@ -3,7 +3,7 @@
 date: 2016-07-13
 # Data wydarzenia
 event_date: 2016-08-19
-title: "Od SASSa do LESSa - czyli ulepszanie CSSa"
+title: "#33 Od SASSa do LESSa - czyli ulepszanie CSSa"
 lokalizacja: SkladKreatywny
 prowadzacy: scira
 dlugosc: 9:00-17:00

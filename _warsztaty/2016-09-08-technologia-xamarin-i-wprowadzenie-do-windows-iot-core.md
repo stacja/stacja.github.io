@@ -3,7 +3,7 @@
 date: 2016-07-25
 # Data wydarzenia
 event_date: 2016-09-08
-title: "Technologia Xamarin i wprowadzenie do Windows IoT core"
+title: "#36 Technologia Xamarin i wprowadzenie do Windows IoT core"
 lokalizacja: Sages
 prowadzacy: kiezynski
 dlugosc: 18:00-21:00

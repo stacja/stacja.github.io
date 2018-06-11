@@ -3,7 +3,7 @@
 date: 2016-07-20
 # Data wydarzenia
 event_date: 2016-09-17
-title: "Wprowadzenie do Big Data i Apache Hadoop"
+title: "#39 Wprowadzenie do Big Data i Apache Hadoop"
 lokalizacja: SaleOmega
 prowadzacy: stankiewicz
 dlugosc: 9:00-17:00

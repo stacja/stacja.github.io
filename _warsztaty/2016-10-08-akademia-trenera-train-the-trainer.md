@@ -3,7 +3,7 @@
 date: 2016-06-27
 # Data wydarzenia
 event_date: 2016-10-08
-title: "Akademia Trenera - Train The Trainer"
+title: "#46 Akademia Trenera - Train The Trainer"
 lokalizacja: Sages
 prowadzacy: nazimek
 type: akademia

@@ -3,7 +3,7 @@
 date: 2016-08-25
 # Data wydarzenia
 event_date: 2016-09-23
-title: "Od SASSa do LESSa - czyli ulepszanie CSSa"
+title: "#40 Od SASSa do LESSa - czyli ulepszanie CSSa"
 lokalizacja: CreativeCoworking
 prowadzacy: scira
 dlugosc: 9:00-17:00

@@ -3,7 +3,7 @@
 date: 2016-06-15
 # Data wydarzenia
 event_date: 2016-06-25
-title: "Własna wyszukiwarka w oparciu o Apache Solr"
+title: "#28 Własna wyszukiwarka w oparciu o Apache Solr"
 lokalizacja: Sages
 prowadzacy: sobczak
 evenea_link: "https://solr.evenea.pl/?out=1&source=event_iframe"

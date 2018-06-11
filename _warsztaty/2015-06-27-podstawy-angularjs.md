@@ -3,7 +3,7 @@
 date: 2016-07-20
 # Data wydarzenia
 event_date: 2015-06-27
-title: "Podstawy AngularJS"
+title: "#4 Podstawy AngularJS"
 lokalizacja: Sages
 prowadzacy: sulkowski
 evenea_link: "https://angularjs.evenea.pl?out=1&source=event_iframe"

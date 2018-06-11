@@ -3,7 +3,7 @@
 date: 2016-07-20
 # Data wydarzenia
 event_date: 2016-04-09
-title: "Agile - Scrum - XP"
+title: "#17 Agile - Scrum - XP"
 lokalizacja: COWorKING
 prowadzacy: lont
 dlugosc: 9:00-17:00

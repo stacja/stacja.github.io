@@ -3,7 +3,7 @@
 date: 2015-06-13
 # Data wydarzenia
 event_date: 2015-06-13
-title: "Agile Development Day 2015"
+title: "#2 Agile Development Day 2015"
 lokalizacja: Sages
 prowadzacy: jelski
 evenea_link: "https://add15.evenea.pl?out=1&source=event_iframe"

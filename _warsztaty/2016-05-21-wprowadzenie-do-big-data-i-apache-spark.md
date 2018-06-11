@@ -3,7 +3,7 @@
 date: 2016-07-04
 # Data wydarzenia
 event_date: 2016-05-21
-title: "Wprowadzenie do Big Data i Apache Spark"
+title: "#23 Wprowadzenie do Big Data i Apache Spark"
 lokalizacja: PierwszePietro
 prowadzacy: nowacki
 evenea_link: "https://apachespark4.evenea.pl?out=1&source=event_iframe"

@@ -3,7 +3,7 @@
 date: 2016-06-17
 # Data wydarzenia
 event_date: 2016-06-25
-title: "Pipeline as a code: automatyzacja tworzenia pipelinów przy użyciu Jenkins Job DSL"
+title: "#27 Pipeline as a code: automatyzacja tworzenia pipelinów przy użyciu Jenkins Job DSL"
 lokalizacja: Sages
 prowadzacy: szymanski
 evenea_link: "https://pipelineasacode.evenea.pl/?out=1&source=event_iframe"

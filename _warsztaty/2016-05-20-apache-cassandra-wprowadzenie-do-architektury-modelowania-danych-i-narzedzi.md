@@ -3,7 +3,7 @@
 date: 2016-06-12
 # Data wydarzenia
 event_date: 2016-05-20
-title: "Apache Cassandra - wprowadzenie do architektury, modelowania danych i narzędzi"
+title: "#21 Apache Cassandra - wprowadzenie do architektury, modelowania danych i narzędzi"
 lokalizacja: Sages
 prowadzacy: migacz
 evenea_link: https://docker.evenea.pl?out=1&source=event_iframe

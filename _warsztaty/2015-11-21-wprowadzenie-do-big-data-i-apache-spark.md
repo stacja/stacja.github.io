@@ -3,7 +3,7 @@
 date: 2016-07-19
 # Data wydarzenia
 event_date: 2015-11-21
-title: "Wprowadzenie do Big Data i Apache Spark"
+title: "#10 Wprowadzenie do Big Data i Apache Spark"
 lokalizacja: Sages
 prowadzacy: nowacki
 evenea_link: "https://apachespark.evenea.pl?out=1&source=event_iframe"

@@ -3,7 +3,7 @@
 date: 2016-07-04
 # Data wydarzenia
 event_date: 2016-06-11
-title: "User Experience: Metody projektowania i weryfikacji MVP"
+title: "#24 User Experience: Metody projektowania i weryfikacji MVP"
 lokalizacja: COWorKING
 prowadzacy: szadkowski
 evenea_link: "https://userexperiencemvp.evenea.pl/?out=1&source=event_iframe"

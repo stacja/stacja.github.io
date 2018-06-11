@@ -3,7 +3,7 @@
 date: 2016-07-15
 # Data wydarzenia
 event_date: 2016-09-10
-title: "Architektura aplikacji Android"
+title: "#37 Architektura aplikacji Android"
 lokalizacja: COWorKING
 prowadzacy: andrzejewski
 dlugosc: 9:00-17:00

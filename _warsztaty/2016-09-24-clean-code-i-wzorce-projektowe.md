@@ -3,7 +3,7 @@
 date: 2016-07-14
 # Data wydarzenia
 event_date: 2016-09-24
-title: "Clean Code + Wzorce Projektowe"
+title: "#41 Clean Code + Wzorce Projektowe"
 lokalizacja: COWorKING
 prowadzacy: pajak
 dlugosc: 9:00-17:00

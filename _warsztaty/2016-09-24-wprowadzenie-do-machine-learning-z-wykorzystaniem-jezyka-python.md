@@ -3,7 +3,7 @@
 date: 2016-08-29
 # Data wydarzenia
 event_date: 2016-09-24
-title: "Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
+title: "#42 Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
 lokalizacja: Sages
 prowadzacy: stolecki
 cena: Rejestracja bezpłatna

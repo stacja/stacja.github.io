@@ -3,7 +3,7 @@
 date: 2016-07-19
 # Data wydarzenia
 event_date: 2016-05-20
-title: "Bezpieczne dane w aplikacjach Java"
+title: "#22 Bezpieczne dane w aplikacjach Java"
 lokalizacja: Sages
 prowadzacy: nazimek
 dlugosc: 9:00-17:00

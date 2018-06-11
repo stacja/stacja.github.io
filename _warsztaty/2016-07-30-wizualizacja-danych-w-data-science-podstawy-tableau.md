@@ -3,7 +3,7 @@
 date: 2016-06-27
 # Data wydarzenia
 event_date: 2016-07-30
-title: "Wizualizacja danych w Data Science: Podstawy Tableau"
+title: "#32 Wizualizacja danych w Data Science: Podstawy Tableau"
 lokalizacja: Sages
 prowadzacy: reszka
 dlugosc: 9:00-13:00

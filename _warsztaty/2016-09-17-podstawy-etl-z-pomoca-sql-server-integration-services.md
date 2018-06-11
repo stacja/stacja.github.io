@@ -3,7 +3,7 @@
 date: 2016-07-18
 # Data wydarzenia
 event_date: 2016-09-17
-title: "Podstawy ETL z pomocą SQL Server Integration Services"
+title: "#38 Podstawy ETL z pomocą SQL Server Integration Services"
 lokalizacja: Sages
 prowadzacy: ratajczyk
 dlugosc: 9:00-17:00

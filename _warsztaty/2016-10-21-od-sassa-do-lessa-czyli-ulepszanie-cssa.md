@@ -3,7 +3,7 @@
 date: 2016-09-21
 # Data wydarzenia
 event_date: 2016-10-21
-title: "Od SASSa do LESSa - czyli ulepszanie CSSa"
+title: "#49 Od SASSa do LESSa - czyli ulepszanie CSSa"
 lokalizacja: COWorKING
 prowadzacy: scira
 dlugosc: 10:00-18:00

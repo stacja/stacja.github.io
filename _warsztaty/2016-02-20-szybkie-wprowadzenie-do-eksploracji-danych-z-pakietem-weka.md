@@ -3,7 +3,7 @@
 date: 2016-07-15
 # Data wydarzenia
 event_date: 2016-02-20
-title: "Szybkie wprowadzenie do eksploracji danych z pakietem Weka"
+title: "#15 Szybkie wprowadzenie do eksploracji danych z pakietem Weka"
 lokalizacja: Sages
 prowadzacy: kobylinski
 evenea_link: "https://weka.evenea.pl/?out=1&source=event_iframe"

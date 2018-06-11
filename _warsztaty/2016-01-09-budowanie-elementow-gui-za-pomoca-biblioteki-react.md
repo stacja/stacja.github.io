@@ -3,7 +3,7 @@
 date: 2016-07-20
 # Data wydarzenia
 event_date: 2016-01-09
-title: "Budowa elementów GUI za pomocą biblioteki React"
+title: "#11 Budowa elementów GUI za pomocą biblioteki React"
 lokalizacja: Sages
 prowadzacy: sulkowski
 evenea_link: "https://react.evenea.pl?out=1&source=event_iframe"

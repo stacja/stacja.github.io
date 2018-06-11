@@ -3,7 +3,7 @@
 date: 2016-06-29
 # Data wydarzenia
 event_date: 2016-02-13
-title: "Wprowadzenie do technologii Puppet"
+title: "#14 Wprowadzenie do technologii Puppet"
 lokalizacja: Sages
 prowadzacy: suszynski
 evenea_link: "https://puppet.evenea.pl?out=1&source=event_iframe"
