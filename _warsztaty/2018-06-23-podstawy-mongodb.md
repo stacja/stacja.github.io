@@ -21,6 +21,8 @@ opis:
     
     Podczas warsztatu uczestnicy korzystają z własnych laptopów, na których powinni mieć zainstalowaną bazę MongoDB (przed warsztatem pojawi się dokładna informacja o instalacji).
 
+    W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegeteriańskiej.
+
   program: |
 
     1. Wstęp.

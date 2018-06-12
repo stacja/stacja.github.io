@@ -17,7 +17,7 @@ opis:
 
     Po warsztacie, będziesz gotowy do używania PowerBI w swojej codzinnej pracy, a także wykorzystując go do własnych potrzeb. Będziesz w stanie dobrać odpowiednie funkcjonalności dla postawionych wymagań, przygotowywać rozwiązania w świetle dobrych praktyk. 
 
-    Podczas warsztatu zapewniemy nielimitowany dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę.
+    Podczas warsztatu zapewniemy nielimitowany dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegeteriańskiej.
 
   program: |
 
