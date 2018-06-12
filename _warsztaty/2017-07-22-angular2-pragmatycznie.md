@@ -3,7 +3,7 @@
 date: 2017-06-21
 # Data wydarzenia
 event_date: 2017-07-22
-title: "Angular 2 pragmatycznie"
+title: "#93 Angular 2 pragmatycznie"
 lokalizacja: GrzegorzkiPark
 prowadzacy: sulkowski
 dlugosc: 9:00-17:00

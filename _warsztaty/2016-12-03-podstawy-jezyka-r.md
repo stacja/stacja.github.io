@@ -3,7 +3,7 @@
 date: 2016-10-14
 # Data wydarzenia
 event_date: 2016-12-03
-title: "Podstawy języka R"
+title: " #56 Podstawy języka R"
 lokalizacja: Sages
 prowadzacy: detko
 cena: Rejestracja bezpłatna

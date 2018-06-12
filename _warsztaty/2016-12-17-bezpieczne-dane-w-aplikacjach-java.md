@@ -3,7 +3,7 @@
 date: 2016-07-18
 # Data wydarzenia
 event_date: 2016-12-17
-title: "Bezpieczne dane w aplikacjach Java"
+title: "#60 Bezpieczne dane w aplikacjach Java"
 lokalizacja: Sages
 prowadzacy: nazimek
 cena: Rejestracja bezpłatna

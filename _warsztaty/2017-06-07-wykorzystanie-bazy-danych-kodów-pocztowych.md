@@ -3,7 +3,7 @@
 date: 2017-05-22
 # Data wydarzenia
 event_date: 2017-06-07
-title: "Wykorzystanie Bazy Danych Kodów Pocztowych do Analiz Geomarketingowych w QGIS"
+title: "#84 Wykorzystanie Bazy Danych Kodów Pocztowych do Analiz Geomarketingowych w QGIS"
 dlugosc: 17:00-21:00
 lokalizacja: SaleOmega
 prowadzacy: smyk

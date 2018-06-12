@@ -3,7 +3,7 @@
 date: 2017-04-19
 # Data wydarzenia
 event_date: 2017-07-15
-title: "Build Your Own Product (z Lean Startup)"
+title: "#91 Build Your Own Product (z Lean Startup)"
 evenea_link: "https://leanstartupworkshop.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: Sages
 cena: 96 PLN

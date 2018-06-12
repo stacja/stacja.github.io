@@ -3,7 +3,7 @@
 date: 2017-02-03
 # Data wydarzenia
 event_date: 2017-02-25
-title: "Ochrona danych osobowych w praktyce"
+title: "#70 Ochrona danych osobowych w praktyce"
 lokalizacja: Sages
 prowadzacy: lapierre
 cena: Rejestracja bezpłatna

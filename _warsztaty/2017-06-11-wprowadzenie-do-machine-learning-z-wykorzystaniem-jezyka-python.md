@@ -3,7 +3,7 @@
 date: 2016-09-23
 # Data wydarzenia
 event_date: 2017-06-11
-title: "Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
+title: "#85 Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
 lokalizacja: Workband
 prowadzacy: stolecki
 cena: Rejestracja bezpłatna

@@ -3,7 +3,7 @@
 date: 2016-12-15
 # Data wydarzenia
 event_date: 2017-01-14
-title: "Podstawy języka R"
+title: "#63 Podstawy języka R"
 lokalizacja: Sages
 prowadzacy: detko
 cena: 96 PLN

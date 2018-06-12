@@ -3,7 +3,7 @@
 date: 2017-01-03
 # Data wydarzenia
 event_date: 2017-01-21
-title: "Podstawy MongoDB"
+title: "#64 Podstawy MongoDB"
 lokalizacja: COWorKING
 prowadzacy: sztajerowski
 dlugosc: 09:00-17:00

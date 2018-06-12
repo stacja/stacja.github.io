@@ -3,7 +3,7 @@
 date: 2016-12-19
 # Data wydarzenia
 event_date: 2017-01-21
-title: "User Experience: Metody projektowania i weryfikacji MVP"
+title: "#62 User Experience: Metody projektowania i weryfikacji MVP"
 lokalizacja: Sages
 prowadzacy: szadkowski
 cena: 96 PLN

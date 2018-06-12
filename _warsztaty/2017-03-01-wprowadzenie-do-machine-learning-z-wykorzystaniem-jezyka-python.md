@@ -3,7 +3,7 @@
 date: 2016-09-23
 # Data wydarzenia
 event_date: 2017-03-01
-title: "Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
+title: "#71 Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
 lokalizacja: PSkarga
 prowadzacy: stolecki
 dlugosc: 09:00-17:00

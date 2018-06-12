@@ -3,7 +3,7 @@
 date: 2017-04-06
 # Data wydarzenia
 event_date: 2017-05-27
-title: "Quo vadis, analizo?"
+title: "#83 Quo vadis, analizo?"
 dlugosc: 9:00-17:00
 lokalizacja: Sages
 prowadzacy: zmitrowicz

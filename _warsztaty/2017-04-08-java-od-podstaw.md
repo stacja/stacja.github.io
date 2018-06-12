@@ -3,7 +3,7 @@
 date: 2017-03-13
 # Data wydarzenia
 event_date: 2017-04-08
-title: "Java od podstaw"
+title: "#79 Java od podstaw"
 lokalizacja: ClusterCowork
 prowadzacy: labuz
 dlugosc: 9:00-17:00

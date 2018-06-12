@@ -3,7 +3,7 @@
 date: 2017-05-22
 # Data wydarzenia
 event_date: 2017-06-24
-title: "Wprowadzenie do języka Swift 3"
+title: "#86 Wprowadzenie do języka Swift 3"
 lokalizacja: ClusterCowork
 prowadzacy: dziadkowiec
 dlugosc: 9:00-17:00

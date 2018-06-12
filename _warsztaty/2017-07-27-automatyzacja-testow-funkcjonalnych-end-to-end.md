@@ -3,7 +3,7 @@
 date: 2017-06-27
 # Data wydarzenia
 event_date: 2017-07-27
-title: "Automatyzacja testów funkcjonalnych (end-to-end)"
+title: "#94 Automatyzacja testów funkcjonalnych (end-to-end)"
 evenea_link: "https://automatyzacjatestow.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: Sages
 cena: Rejestracja bezpłatna

@@ -3,7 +3,7 @@
 date: 2016-09-21
 # Data wydarzenia
 event_date: 2016-11-05
-title: "Tworzenie aplikacji Android w języku Kotlin - szybki start"
+title: "#54 Tworzenie aplikacji Android w języku Kotlin - szybki start"
 lokalizacja: SaleOmega
 prowadzacy: andrzejewski
 cena: Rejestracja bezpłatna

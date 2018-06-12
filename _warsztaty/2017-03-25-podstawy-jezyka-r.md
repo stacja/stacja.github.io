@@ -3,7 +3,7 @@
 date: 2016-12-15
 # Data wydarzenia
 event_date: 2017-03-25
-title: "Podstawy języka R"
+title: "#75 Podstawy języka R"
 lokalizacja: COWorKING
 prowadzacy: detko
 cena: 96 PLN

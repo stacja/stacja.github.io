@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2017-07-21
-title: "Docker - budowa wielokontenerowego systemu WWW od podstaw"
+title: "#92 Docker - budowa wielokontenerowego systemu WWW od podstaw"
 lokalizacja: GoldenFloor
 prowadzacy: murawski
 sponsor: /img/logos/epoint.png

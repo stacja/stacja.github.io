@@ -3,7 +3,7 @@
 date: 2017-01-18
 # Data wydarzenia
 event_date: 2017-03-04
-title: "Python - szybki start"
+title: "#72 Python - szybki start"
 lokalizacja: Sages
 prowadzacy: galka
 dlugosc: 9:00-17:00

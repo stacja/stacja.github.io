@@ -3,7 +3,7 @@
 date: 2017-06-13
 # Data wydarzenia
 event_date: 2017-07-08
-title: "Python - szybki start"
+title: "#88 Python - szybki start"
 lokalizacja: Workband
 prowadzacy: galka
 dlugosc: 9:00-17:00

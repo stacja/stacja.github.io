@@ -3,7 +3,7 @@
 date: 2016-07-20
 # Data wydarzenia
 event_date: 2016-12-17
-title: "Mobile web dla każdego - jak tworzyć mobilne strony i aplikacje działające w przeglądarce"
+title: "#61 Mobile web dla każdego - jak tworzyć mobilne strony i aplikacje działające w przeglądarce"
 lokalizacja: ClusterCowork
 prowadzacy: scira
 dlugosc: 9:00-17:00

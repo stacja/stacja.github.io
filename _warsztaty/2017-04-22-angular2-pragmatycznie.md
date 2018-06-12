@@ -3,7 +3,7 @@
 date: 2017-03-20
 # Data wydarzenia
 event_date: 2017-04-22
-title: "Angular 2 pragmatycznie"
+title: "#80 Angular 2 pragmatycznie"
 lokalizacja: Focus
 prowadzacy: sulkowski
 cena: Rejestracja bezpłatna

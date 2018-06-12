@@ -3,7 +3,7 @@
 date: 2016-07-18
 # Data wydarzenia
 event_date: 2016-10-29
-title: "Wprowadzenie do Big Data i Apache Hadoop"
+title: "#52 Wprowadzenie do Big Data i Apache Hadoop"
 lokalizacja: Sages
 prowadzacy: stankiewicz
 dlugosc: 9:00-17:00

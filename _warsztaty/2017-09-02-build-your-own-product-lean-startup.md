@@ -3,7 +3,7 @@
 date: 2017-04-19
 # Data wydarzenia
 event_date: 2017-09-02
-title: "Build your own product (z Lean Startup)"
+title: "#99 Build your own product (z Lean Startup)"
 lokalizacja: Workband
 prowadzacy: pajak
 cena: 96 PLN

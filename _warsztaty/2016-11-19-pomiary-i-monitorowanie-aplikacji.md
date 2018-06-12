@@ -3,7 +3,7 @@
 date: 2016-10-07
 # Data wydarzenia
 event_date: 2016-11-19
-title: "Pomiary i monitorowanie aplikacji"
+title: "#55 Pomiary i monitorowanie aplikacji"
 lokalizacja: Sages
 prowadzacy: dubiel
 cena: Rejestracja bezpłatna

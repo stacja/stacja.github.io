@@ -3,7 +3,7 @@
 date: 2016-11-02
 # Data wydarzenia
 event_date: 2016-12-03
-title: "Podstawy MongoDB"
+title: "#57 Podstawy MongoDB"
 lokalizacja: COWorKING
 prowadzacy: sztajerowski
 dlugosc: 09:00-17:00

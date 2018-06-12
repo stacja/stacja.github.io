@@ -3,7 +3,7 @@
 date: 2017-06-21
 # Data wydarzenia
 event_date: 2017-08-19
-title: "Spring – szybkie tworzenie nowoczesnej aplikacji webowej"
+title: "#97 Spring – szybkie tworzenie nowoczesnej aplikacji webowej"
 lokalizacja: Ilabplus
 prowadzacy: laskawiec
 dlugosc: 9:00-17:00

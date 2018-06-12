@@ -3,7 +3,7 @@
 date: 2017-07-07
 # Data wydarzenia
 event_date: 2017-08-26
-title: "Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
+title: "#98 Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
 lokalizacja: COWorKING
 prowadzacy: stolecki
 evenea_link: "https://machinelodz.evenea.pl/?out=1&source=event_iframe"

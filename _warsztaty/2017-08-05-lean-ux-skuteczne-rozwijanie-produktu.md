@@ -3,7 +3,7 @@
 date: 2017-04-12
 # Data wydarzenia
 event_date: 2017-08-05
-title: "Lean UX - skuteczne rozwijanie produktu"
+title: "#96 Lean UX - skuteczne rozwijanie produktu"
 lokalizacja: Sages
 prowadzacy: szadkowski
 evenea_link: "https://leanux.evenea.pl/?out=1&source=event_iframe"

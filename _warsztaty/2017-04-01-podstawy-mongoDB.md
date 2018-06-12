@@ -3,7 +3,7 @@
 date: 2017-01-03
 # Data wydarzenia
 event_date: 2017-04-01
-title: "Podstawy MongoDB"
+title: "#77 Podstawy MongoDB"
 lokalizacja: Sages
 prowadzacy: sztajerowski
 evenea_link: "https://mongodb2.evenea.pl/?out=1&source=event_iframe"

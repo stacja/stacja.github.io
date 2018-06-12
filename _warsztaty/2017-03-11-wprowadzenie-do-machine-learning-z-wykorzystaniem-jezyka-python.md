@@ -3,7 +3,7 @@
 date: 2016-09-23
 # Data wydarzenia
 event_date: 2017-03-11
-title: "Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
+title: "#73 Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
 lokalizacja: Sages
 prowadzacy: stolecki
 dlugosc: 09:30-17:30

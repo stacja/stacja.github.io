@@ -3,7 +3,7 @@
 date: 2016-09-30
 # Data wydarzenia
 event_date: 2016-11-05
-title: "Analizy geomarketingowe w QGIS"
+title: "#53 Analizy geomarketingowe w QGIS"
 lokalizacja: Sages
 prowadzacy: wojdynskaigorka
 cena: Rejestracja bezpłatna

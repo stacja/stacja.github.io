@@ -3,7 +3,7 @@
 date: 2016-10-07
 # Data wydarzenia
 event_date: 2016-10-29
-title: "Python - szybki start"
+title: "#100 Python - szybki start"
 lokalizacja: COWorKING
 prowadzacy: galka
 dlugosc: 9:00-17:00

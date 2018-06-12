@@ -3,7 +3,7 @@
 date: 2016-10-14
 # Data wydarzenia
 event_date: 2017-07-08
-title: "Analiza danych w Power BI"
+title: "#90 Analiza danych w Power BI"
 lokalizacja: Sages
 evenea_link: "https://powerbi.evenea.pl/?out=1&source=event_iframe"
 prowadzacy: detko

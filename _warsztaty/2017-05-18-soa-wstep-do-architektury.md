@@ -3,7 +3,7 @@
 date: 2017-04-12
 # Data wydarzenia
 event_date: 2017-05-18
-title: "SOA - wstęp do architektury"
+title: "#81 SOA - wstęp do architektury"
 dlugosc: 18:00-21:00
 lokalizacja: Sages
 prowadzacy: chmielarski
