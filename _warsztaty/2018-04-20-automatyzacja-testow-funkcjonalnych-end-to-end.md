@@ -3,7 +3,7 @@
 date: 2018-03-22
 # Data wydarzenia
 event_date: 2018-04-20
-title: "Automatyzacja testów funkcjonalnych (end-to-end)"
+title: "#151 Automatyzacja testów funkcjonalnych (end-to-end)"
 lokalizacja: WyzszaSzkolaEkonomii
 evenea_link: "https://testowanie2004.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 09:00-17:00

@@ -4,7 +4,7 @@ date: 2018-01-03
 # Data wydarzenia
 event_date: 2018-05-19
 cena: Warsztat płatny - od 96 PLN
-title: "Python - szybki start"
+title: "#159 Python - szybki start"
 lokalizacja: Workband
 prowadzacy: galka
 dlugosc: 9:00-17:00

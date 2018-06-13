@@ -3,7 +3,7 @@
 date: 2017-10-12
 # Data wydarzenia
 event_date: 2018-06-03
-title: "RWD - kruczki myczki, aby Twoja strona wyglądała perfekcyjnie na każdym urządzeniu"
+title: "#164 RWD - kruczki myczki, aby Twoja strona wyglądała perfekcyjnie na każdym urządzeniu"
 evenea_link: "https://rwdkrk.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN

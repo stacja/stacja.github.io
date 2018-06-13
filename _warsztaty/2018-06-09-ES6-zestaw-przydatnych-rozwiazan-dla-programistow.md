@@ -3,7 +3,7 @@
 date: 2017-10-12
 # Data wydarzenia
 event_date: 2018-06-09
-title: "ES6+ - zestaw przydatnych rozwiązań dla programistów"
+title: "#165 ES6+ - zestaw przydatnych rozwiązań dla programistów"
 evenea_link: "https://es6.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: NiewiadomoKrakow
 cena: Warsztat płatny - od 79 PLN

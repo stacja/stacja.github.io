@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2018-05-18
-title: "Julia - jak zakochać się w analizie danych?"
+title: "#157 Julia - jak zakochać się w analizie danych?"
 lokalizacja: Sages
 cena: Warsztat bezpłatny
 prowadzacy: klimczewski

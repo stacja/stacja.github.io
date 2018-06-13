@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2018-05-17
-title: "Docker - budowa wielokontenerowego systemu WWW od podstaw"
+title: "#156 Docker - budowa wielokontenerowego systemu WWW od podstaw"
 lokalizacja: Sages
 prowadzacy: murawski
 sponsor: /img/logos/epoint.png

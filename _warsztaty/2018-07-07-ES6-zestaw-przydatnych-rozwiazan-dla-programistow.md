@@ -3,7 +3,7 @@
 date: 2017-10-12
 # Data wydarzenia
 event_date: 2018-07-07
-title: "ES6+ - zestaw przydatnych rozwiązań dla programistów"
+title: "#171 ES6+ - zestaw przydatnych rozwiązań dla programistów"
 evenea_link: "https://es6wroc.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: Workband
 cena: Warsztat płatny - od 79 PLN

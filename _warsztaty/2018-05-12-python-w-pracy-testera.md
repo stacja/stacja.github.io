@@ -3,7 +3,7 @@
 date: 2018-02-01
 # Data wydarzenia
 event_date: 2018-05-12
-title: "Python w pracy testera"
+title: "#154 Python w pracy testera"
 lokalizacja: Sages
 prowadzacy: topolski
 dlugosc: 9:00-17:00

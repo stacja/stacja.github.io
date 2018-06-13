@@ -3,7 +3,7 @@
 date: 2018-03-27
 # Data wydarzenia
 event_date: 2018-05-19
-title: "Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
+title: "#161 Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
 lokalizacja: SaleOmega
 prowadzacy: stolecki
 cena: Warsztat płatny - od 96 PLN

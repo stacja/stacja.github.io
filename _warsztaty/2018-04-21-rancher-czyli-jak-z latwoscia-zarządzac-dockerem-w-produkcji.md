@@ -3,7 +3,7 @@
 date: 2018-03-22
 # Data wydarzenia
 event_date: 2018-04-21
-title: "Rancher - czyli jak z łatwością zarządzać Dockerem w produkcji"
+title: "#152 Rancher - czyli jak z łatwością zarządzać Dockerem w produkcji"
 lokalizacja: Sages
 prowadzacy: lach
 cena: Warsztat bezpłatny

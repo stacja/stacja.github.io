@@ -3,7 +3,7 @@
 date: 2017-01-03
 # Data wydarzenia
 event_date: 2018-05-19
-title: "REST in Java – szybkie tworzenie usług sieciowych"
+title: "#160 REST in Java – szybkie tworzenie usług sieciowych"
 lokalizacja: Europrofes
 prowadzacy: dzierzak
 evenea_link: "https://restjava.evenea.pl/?out=1&source=event_iframe"

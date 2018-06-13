@@ -3,7 +3,7 @@
 date: 2017-01-05
 # Data wydarzenia
 event_date: 2018-06-23
-title: "Analiza danych w Power BI"
+title: "#169 Analiza danych w Power BI"
 lokalizacja: Sages
 evenea_link: "https://powerbi0618.evenea.pl/?out=1&source=event_iframe"
 prowadzacy: detko

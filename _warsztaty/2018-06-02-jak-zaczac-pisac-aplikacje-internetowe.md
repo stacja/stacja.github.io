@@ -3,7 +3,7 @@
 date: 2017-10-12
 # Data wydarzenia
 event_date: 2018-06-02
-title: "Jak zacząć pisać aplikacje internetowe?"
+title: "#162 Jak zacząć pisać aplikacje internetowe?"
 evenea_link: "https://aplikacjeint4.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN

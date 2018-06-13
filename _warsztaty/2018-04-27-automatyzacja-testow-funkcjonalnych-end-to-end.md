@@ -3,7 +3,7 @@
 date: 2017-10-25
 # Data wydarzenia
 event_date: 2018-04-27
-title: "Automatyzacja testów funkcjonalnych (end-to-end)"
+title: "#153 Automatyzacja testów funkcjonalnych (end-to-end)"
 lokalizacja: SaleOmega
 evenea_link: "https://testowaniepzn.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 8h, 09:00-17:00
