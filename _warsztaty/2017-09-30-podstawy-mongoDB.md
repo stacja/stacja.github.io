@@ -3,7 +3,7 @@
 date: 2017-01-03
 # Data wydarzenia
 event_date: 2017-09-30
-title: "Podstawy MongoDB"
+title: "#104 Podstawy MongoDB"
 lokalizacja: GrzegorzkiPark
 prowadzacy: sztajerowski
 evenea_link: "https://bazamongodb.evenea.pl/?out=1&source=event_iframe"

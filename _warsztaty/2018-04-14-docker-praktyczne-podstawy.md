@@ -3,7 +3,7 @@
 date: 2018-02-01
 # Data wydarzenia
 event_date: 2018-04-14
-title: "Docker - praktyczne podstawy"
+title: "#149 Docker - praktyczne podstawy"
 lokalizacja: BAE
 prowadzacy: charitystarobrat
 dlugosc: 9:00-17:00

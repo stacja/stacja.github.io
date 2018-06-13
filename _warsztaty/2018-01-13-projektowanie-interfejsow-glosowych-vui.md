@@ -3,7 +3,7 @@
 date: 2017-12-14
 # Data wydarzenia
 event_date: 2018-01-13
-title: "Projektowanie interfejsów głosowych (VUI)"
+title: "#126 Projektowanie interfejsów głosowych (VUI)"
 lokalizacja: Dabie
 evenea_link: "https://vuiwroc.evenea.pl/?out=1&source=event_iframe"
 prowadzacy: szadkowski

@@ -3,7 +3,7 @@
 date: 2018-01-03
 # Data wydarzenia
 event_date: 2018-03-17
-title: "Python - szybki start"
+title: "#142 Python - szybki start"
 lokalizacja: Sages
 cena: Warsztat płatny - 79 PLN
 prowadzacy: galka

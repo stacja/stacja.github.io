@@ -3,7 +3,7 @@
 date: 2017-10-12
 # Data wydarzenia
 event_date: 2017-12-16
-title: "Jak zacząć pisać aplikacje internetowe?"
+title: "#122 Jak zacząć pisać aplikacje internetowe?"
 evenea_link: "https://aplikacjeint2.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: ClusterOrange
 cena: Warsztat bezpłatny

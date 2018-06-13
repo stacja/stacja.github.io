@@ -3,7 +3,7 @@
 date: 2018-02-06
 # Data wydarzenia
 event_date: 2018-03-03
-title: "Lean UX - skuteczne rozwijanie produktu"
+title: "#137 Lean UX - skuteczne rozwijanie produktu"
 lokalizacja: SamiSwoi
 evenea_link: "https://leanuxlodz.evenea.pl/?out=1&source=event_iframe"
 prowadzacy: szadkowski

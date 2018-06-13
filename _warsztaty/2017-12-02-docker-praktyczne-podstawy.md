@@ -3,7 +3,7 @@
 date: 2017-07-07
 # Data wydarzenia
 event_date: 2017-12-02
-title: "Docker - praktyczne podstawy"
+title: "#118 Docker - praktyczne podstawy"
 lokalizacja: Faktoria
 prowadzacy: starobrat
 dlugosc: 9:00-17:00

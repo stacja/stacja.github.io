@@ -3,7 +3,7 @@
 date: 2017-07-07
 # Data wydarzenia
 event_date: 2017-12-16
-title: "Docker - praktyczne podstawy"
+title: "#121 Docker - praktyczne podstawy"
 lokalizacja: Dabie
 prowadzacy: starobrat
 dlugosc: 9:00-17:00

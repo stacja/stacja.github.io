@@ -3,7 +3,7 @@
 date: 2017-05-29
 # Data wydarzenia
 event_date: 2017-10-07
-title: "Tworzenie aplikacji Java z Apache Cassandra"
+title: "#106 Tworzenie aplikacji Java z Apache Cassandra"
 lokalizacja: Sages
 prowadzacy: kosik
 dlugosc: 9:00-17:00

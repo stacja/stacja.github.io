@@ -3,7 +3,7 @@
 date: 2018-03-14
 # Data wydarzenia
 event_date: 2018-04-14
-title: "Blockchain - dlaczego wszyscy o tym mówią?"
+title: "#147 Blockchain - dlaczego wszyscy o tym mówią?"
 lokalizacja: Sages
 cena: Warsztat płatny - 129 PLN
 prowadzacy: nazimek

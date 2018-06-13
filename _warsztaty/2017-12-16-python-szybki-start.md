@@ -3,7 +3,7 @@
 date: 2017-06-13
 # Data wydarzenia
 event_date: 2017-12-16
-title: "Python - szybki start"
+title: "#124 Python - szybki start"
 lokalizacja: SaleOmega
 prowadzacy: galka
 cena: 96 PLN

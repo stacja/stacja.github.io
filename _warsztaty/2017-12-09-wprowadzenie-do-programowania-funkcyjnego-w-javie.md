@@ -3,7 +3,7 @@
 date: 2017-10-19
 # Data wydarzenia
 event_date: 2017-12-09
-title: "Wprowadzenie do programowania funkcyjnego w Javie"
+title: "#120 Wprowadzenie do programowania funkcyjnego w Javie"
 cena: 96 PLN
 lokalizacja: Sages
 evenea_link: "https://progfunkcyjne.evenea.pl/?out=1&source=event_iframe"

@@ -3,7 +3,7 @@
 date: 2017-10-12
 # Data wydarzenia
 event_date: 2018-02-10
-title: "Jak zacząć pisać aplikacje internetowe?"
+title: "#133 Jak zacząć pisać aplikacje internetowe?"
 evenea_link: "https://aplikacjeint3.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: SaleOmega
 cena: 96 PLN

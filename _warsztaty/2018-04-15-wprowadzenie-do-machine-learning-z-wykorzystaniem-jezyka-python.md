@@ -3,7 +3,7 @@
 date: 2018-03-27
 # Data wydarzenia
 event_date: 2018-04-15
-title: "Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
+title: "#150 Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
 lokalizacja: Sages
 prowadzacy: stolecki
 evenea_link: "https://machinewaw.evenea.pl/?out=1&source=event_iframe"

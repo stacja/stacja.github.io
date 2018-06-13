@@ -3,7 +3,7 @@
 date: 2017-10-30
 # Data wydarzenia
 event_date: 2018-03-10
-title: "Git praktycznie - podstawy"
+title: "#139 Git praktycznie - podstawy"
 lokalizacja: Workband
 prowadzacy: kociubinski
 cena: Warsztat płatny - 79 PLN

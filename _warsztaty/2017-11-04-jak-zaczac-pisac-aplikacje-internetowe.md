@@ -3,7 +3,7 @@
 date: 2017-10-12
 # Data wydarzenia
 event_date: 2017-11-04
-title: "Jak zacząć pisać aplikacje internetowe?"
+title: "#112 Jak zacząć pisać aplikacje internetowe?"
 evenea_link: "https://aplikacjeint.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: Sages
 dlugosc: 9:00-17:00

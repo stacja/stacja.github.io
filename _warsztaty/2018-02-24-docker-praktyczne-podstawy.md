@@ -3,7 +3,7 @@
 date: 2018-02-01
 # Data wydarzenia
 event_date: 2018-02-24
-title: "Docker - praktyczne podstawy"
+title: "#135 Docker - praktyczne podstawy"
 lokalizacja: Sages
 prowadzacy: starobrat
 dlugosc: 9:00-17:00

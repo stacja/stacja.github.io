@@ -3,7 +3,7 @@
 date: 2017-10-30
 # Data wydarzenia
 event_date: 2018-04-06
-title: "Git praktycznie - podstawy"
+title: "#145 Git praktycznie - podstawy"
 lokalizacja: NiewiadomoKrakow
 prowadzacy: kociubinski
 dlugosc: 9:00-17:00

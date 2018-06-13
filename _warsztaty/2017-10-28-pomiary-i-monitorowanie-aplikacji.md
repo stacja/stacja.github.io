@@ -3,7 +3,7 @@
 date: 2017-08-16
 # Data wydarzenia
 event_date: 2017-10-28
-title: "Pomiary i monitorowanie aplikacji"
+title: "#110 Pomiary i monitorowanie aplikacji"
 lokalizacja: Sages
 prowadzacy: dubiel
 cena: Warsztat bezpłatny

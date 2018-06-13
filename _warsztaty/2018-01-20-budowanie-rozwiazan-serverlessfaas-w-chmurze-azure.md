@@ -3,7 +3,7 @@
 date: 2018-01-03
 # Data wydarzenia
 event_date: 2018-01-20
-title: "Budowanie rozwiązań serverlessFaaS w chmurze Azure"
+title: "#127 Budowanie rozwiązań serverlessFaaS w chmurze Azure"
 lokalizacja: Sages
 prowadzacy: mrzyglod
 dlugosc: 9:00-17:00

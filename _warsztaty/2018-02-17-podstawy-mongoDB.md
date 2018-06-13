@@ -3,7 +3,7 @@
 date: 2017-01-03
 # Data wydarzenia
 event_date: 2018-02-17
-title: "Podstawy MongoDB"
+title: "#134 Podstawy MongoDB"
 lokalizacja: Sages
 cena: 96 PLN
 prowadzacy: sztajerowski

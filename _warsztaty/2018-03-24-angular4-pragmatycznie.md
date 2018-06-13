@@ -3,7 +3,7 @@
 date: 2017-06-21
 # Data wydarzenia
 event_date: 2018-03-24
-title: "Angular 4 pragmatycznie"
+title: "#144 Angular 4 pragmatycznie"
 lokalizacja: Sages
 prowadzacy: sulkowski
 cena: Warsztat płatny - 79 PLN

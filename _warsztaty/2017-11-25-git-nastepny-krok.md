@@ -3,7 +3,7 @@
 date: 2017-10-30
 # Data wydarzenia
 event_date: 2017-11-25
-title: "Git - następny krok"
+title: "#115 Git - następny krok"
 lokalizacja: Sages
 cena: Warsztat bezpłatny
 prowadzacy: kociubinski

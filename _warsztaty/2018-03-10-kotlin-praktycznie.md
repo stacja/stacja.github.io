@@ -3,7 +3,7 @@
 date: 2017-10-12
 # Data wydarzenia
 event_date: 2018-03-10
-title: "Kotlin praktycznie"
+title: "#140 Kotlin praktycznie"
 evenea_link: "https://kotlinpzn.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: SaleOmega
 cena: Warsztat płatny - 79 PLN

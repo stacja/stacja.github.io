@@ -3,7 +3,7 @@
 date: 2017-07-07
 # Data wydarzenia
 event_date: 2017-09-30
-title: "Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
+title: "#105 Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
 lokalizacja: Sages
 prowadzacy: stolecki
 evenea_link: "https://mlpythonwaw.evenea.pl/?out=1&source=event_iframe"

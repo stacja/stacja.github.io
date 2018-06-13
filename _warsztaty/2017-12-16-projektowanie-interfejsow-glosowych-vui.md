@@ -3,7 +3,7 @@
 date: 2017-04-12
 # Data wydarzenia
 event_date: 2017-12-16
-title: "Projektowanie interfejsów głosowych (VUI)"
+title: "#123 Projektowanie interfejsów głosowych (VUI)"
 lokalizacja: Sages
 evenea_link: "https://vui.evenea.pl/?out=1&source=event_iframe"
 prowadzacy: szadkowski

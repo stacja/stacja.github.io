@@ -3,7 +3,7 @@
 date: 2018-03-14
 # Data wydarzenia
 event_date: 2018-04-07
-title: "Java dla testerów"
+title: "#146 Java dla testerów"
 lokalizacja: Sages
 cena: Warsztat płatny - 79 PLN
 prowadzacy: andrzejczyk

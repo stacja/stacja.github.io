@@ -3,7 +3,7 @@
 date: 2017-12-14
 # Data wydarzenia
 event_date: 2018-02-03
-title: "Docker - praktyczne podstawy"
+title: "#130 Docker - praktyczne podstawy"
 lokalizacja: BAE
 sponsor: /img/logos/BAE.png
 prowadzacy: starobrat

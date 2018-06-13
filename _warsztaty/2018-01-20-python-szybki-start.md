@@ -3,7 +3,7 @@
 date: 2018-01-03
 # Data wydarzenia
 event_date: 2018-01-20
-title: "Python - szybki start"
+title: "#128 Python - szybki start"
 lokalizacja: Dabie
 prowadzacy: galka
 cena: 96 PLN

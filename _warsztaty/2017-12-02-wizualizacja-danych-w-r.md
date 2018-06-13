@@ -3,7 +3,7 @@
 date: 2016-10-14
 # Data wydarzenia
 event_date: 2017-12-02
-title: "Wizualizacja danych w R"
+title: "#119 Wizualizacja danych w R"
 lokalizacja: Sages
 evenea_link: "https://wizualizacjadanychwaw.evenea.pl/?out=1&source=event_iframe"
 prowadzacy: detko

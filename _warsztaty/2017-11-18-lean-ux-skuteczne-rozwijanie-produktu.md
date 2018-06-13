@@ -3,7 +3,7 @@
 date: 2017-04-12
 # Data wydarzenia
 event_date: 2017-11-18
-title: "Lean UX - skuteczne rozwijanie produktu"
+title: "#113 Lean UX - skuteczne rozwijanie produktu"
 lokalizacja: SaleOmega
 evenea_link: "https://leanuxpoznan.evenea.pl/?out=1&source=event_iframe"
 prowadzacy: szadkowski

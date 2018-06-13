@@ -3,7 +3,7 @@
 date: 2017-07-07
 # Data wydarzenia
 event_date: 2017-09-16
-title: "Akademia Trenera - Train The Trainer"
+title: "#102 Akademia Trenera - Train The Trainer"
 lokalizacja: NowaPsychologia
 prowadzacy: nazimek
 sponsor: /img/logos/metrosoft.png

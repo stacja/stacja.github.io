@@ -3,7 +3,7 @@
 date: 2016-10-14
 # Data wydarzenia
 event_date: 2017-11-18
-title: "Wizualizacja danych w R"
+title: "#114 Wizualizacja danych w R"
 lokalizacja: Workband
 evenea_link: "https://wizualizacjadanychwroclaw.evenea.pl/?out=1&source=event_iframe"
 prowadzacy: detko

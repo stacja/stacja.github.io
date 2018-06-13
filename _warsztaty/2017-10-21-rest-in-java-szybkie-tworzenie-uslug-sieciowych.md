@@ -3,7 +3,7 @@
 date: 2017-01-03
 # Data wydarzenia
 event_date: 2017-10-21
-title: "REST in Java – szybkie tworzenie usług sieciowych"
+title: "#109 REST in Java – szybkie tworzenie usług sieciowych"
 lokalizacja: Nawojka
 prowadzacy: dzierzak
 evenea_link: "https://rest.evenea.pl/?out=1&source=event_iframe"
