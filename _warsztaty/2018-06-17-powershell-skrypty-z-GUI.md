@@ -23,8 +23,6 @@ opis:
     Od uczestników wymagana jest podstawowa znajomość obsługi komputera z systemem Windows. Warsztaty są skierowane do osób, które chciałyby poznać możliwości PowerShell i pogłębiać wiedzę we własnym zakresie.
     Uczestnicy w trakcie zajęć korzystają z własnego sprzętu z systemem Windows (wersje 7 , 8.1 , 10) z zainstalowanym Windows Management Framework (WMF) 5.1 https://docs.microsoft.com/en-us/powershell/wmf/5.1/install-configure
 
-    W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegeteriańskiej.
-
   program: |
 
     1. Początek pracy z Windows PowerShell.
