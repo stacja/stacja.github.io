@@ -3,7 +3,7 @@
 date: 2018-05-25
 # Data wydarzenia
 event_date: 2018-06-23
-title: "#168 Podstawy MongoDB"
+title: "#169 Podstawy MongoDB"
 evenea_link: "https://mongolodz.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: NiewiadomoLodz
 cena: Warsztat płatny - od 79 PLN
