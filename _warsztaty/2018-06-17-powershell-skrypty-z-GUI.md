@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2018-06-17
-title: "#167 PowerShell skrypty z GUI"
+title: "Warsztat #167 - PowerShell skrypty z GUI"
 lokalizacja: Sages
 cena: Warsztat bezpłatny
 prowadzacy: dremel
