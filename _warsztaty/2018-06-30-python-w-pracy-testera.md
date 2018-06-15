@@ -3,7 +3,7 @@
 date: 2018-02-01
 # Data wydarzenia
 event_date: 2018-06-30
-title: "Warsztat #170 - Python w pracy testera"
+title: "Warsztat #179 - Python w pracy testera"
 lokalizacja: SaleOmega
 prowadzacy: topolski
 dlugosc: 9:00-17:00
