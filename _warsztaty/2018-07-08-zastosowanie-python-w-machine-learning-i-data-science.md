@@ -4,30 +4,29 @@ date: 2017-10-12
 # Data wydarzenia
 event_date: 2018-07-08
 title: "Warsztat #173 - Zastosowanie Python w Machine Learning i Data Science"
-evenea_link: "https://es6.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://pythonml.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: NiewiadomoKrakow
-type: planowane
+cena: Warsztat płatny - od 79 PLN
 dlugosc: 9:00-17:00
 prowadzacy: harasymczuk
 slideshare:
 opis:
   informacje: |
 
-    Javascript to prężnie rozwijający się język. Dzięki filozofii osób rozwijających ten język możemy używać nowych funkcjonalności nawet kiedy one nie są zaimplementowane do środowisk uruchomieniowych takich jak przeglądarki czy Nodejs. Warsztat poprowadzi nas przez nowości języka (wersje ES6, ES7, ES8), ale pod kątem ich przydatności i optymalizacji czasu pracy. Bo, jeżeli coś możemy zrobić szybciej, wydajniej, oraz w sposób, który łatwiej pozwoli nam i innym programistom zrozumienie intencji kodu, to nie powinniśmy się w ogóle zastanawiać czy jest nam to potrzebne. Jednocześnie poznamy kierunek, w którym Javascript oraz inne nowoczesne języki się rozwijają. Dalej, w związku z tym, że to Javascript to wszystkie rozwiązania będzie można użyć w takich bibliotekach jak React, Angular, Vuejs. Do czerpania pełnych korzyści z tego warsztatu niezbędna będzie znajomość podstaw Javascriptu (deklarowanie zmiennych, funkcji, tablic, obiektów, pętli). 
+    Temat Machine Learning i Data Science staje się coraz bardziej popularny a Python stał się de facto standardem w tych dziedzinach. Zapraszam na szkolenie wprowadzające do technik analizy danych, dostosowywania modelu matematycznego oraz wykorzystania narzędzi tj. scikit-learn, numpy, pandas i jupyter. Uczestnik również zapozna się z różnymi algorytmami wykorzystywanymi w ML i DS łącznie z tematami konstrukcji sieci neuronowych.
 
-    Podczas warsztatu zapewniemy pizzę w porze lunchu.
+    Podczas warsztatu zapewniemy dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegeteriańskiej.
 
   program: |
 
-    1. ES5 vs ES6
-    1. Syntactic sugar, Babeljs
-    1. ES6 - Object Oriented Programming
-    1. ES6 - asynchroniczność
-    1. ES6 - operacje na danych
-    1. ES6 - sztuczki
-    1. ES7 - async/await, dekoratory i inne nowości
-    1. ES7 - sztuczki
-    1. ES8 - przyszłość dzisiaj.
+    1. Tworzenie i korzystanie ze struktur danych.
+    1. Biblioteki do zastosowań naukowych i inżynieryjnych: scipy i inne.
+    1. Biblioteki do zastosowań numerycznych: numpy, pandas.
+    1. Biblioteki do wizualizacji danych: plotly, matplotlib, jupyter, superset.
+    1. Przegląd algorytmów ML z i bez nadzoru.
+    1. Wykorzystanie scikit-learn przy: Decision Tree, k Nearest Neighbors, Bayes, Linear Regression, Logistic Regression, Support Vector Machines, Clustering, Principal Component Analysis (PCA).
+    1. Wykorzystanie keras oraz tensor-flow przy Neural Network, Convolutional Neural Network.
+
 
 
   uwaga: |
