@@ -20,7 +20,7 @@ opis:
     Wymagana jest subskrypcja Azure (do otrzymania za darmo chociażby tutaj: https://azure.microsoft.com/en-us/free/, bądź przyznawana automatycznie dla posiadaczy subskrypcji MSDN). Wymagane Visual Studio w wersji 2017 15.6 lub nowszej wraz z zainstalowanym Workload “Azure development”. Dodatkowo wymagana jest podstawowa znajomość Azure Functions.
  
 
-    Podczas warsztatu zapewniamy nielimitowany dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegeteriańskiej.
+    Podczas warsztatu zapewniamy nielimitowany dostęp do kawy, herbaty, wody. 
 
   program: |
 
