@@ -3,9 +3,9 @@
 date: 2017-10-12
 # Data wydarzenia
 event_date: 2018-07-07
-title: "Warsztat #171 - Wprowadzenie do Pythona - tworzenie aplikacji w języku Python"
+title: "Warsztat #172 - Wprowadzenie do Pythona - tworzenie aplikacji w języku Python"
 evenea_link: "https://pythonapl.evenea.pl/?out=1&source=event_iframe"
-lokalizacja: NiewiadomoKrakow
+lokalizacja: BiurowiecCystersow
 cena: Warsztat płatny - od 79 PLN
 dlugosc: 9:00-17:00
 prowadzacy: harasymczuk
