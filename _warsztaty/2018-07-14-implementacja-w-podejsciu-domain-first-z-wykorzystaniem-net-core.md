@@ -32,13 +32,13 @@ opis:
        - Jako technika modelowania
        - Sposoby implementacji
     4. Implementacja Building Blocków
-      - Agregat
-      - ValueObject
-      - Polityka
-      - Fabryka
-      - Serwis domenowy
-      - Serwis aplikacyjny
-   5. Techniki testowania modelu
+       - Agregat
+       - ValueObject
+       - Polityka
+       - Fabryka
+       - Serwis domenowy
+       - Serwis aplikacyjny
+    5. Techniki testowania modelu
 
   uwaga: |
  
