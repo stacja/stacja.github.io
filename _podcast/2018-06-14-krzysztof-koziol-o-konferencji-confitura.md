@@ -1,6 +1,6 @@
 ---
 # Data dodania informacji o wydarzeniu
-date: 2018-05-30
+date: 2018-06-14
 episode: 10
 title: "Krzysztof Kozioł o konferencji Confitura"
 mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_010_-_Krzysztof_Koziol_o_konferencji_Confitura.mp3"
