@@ -3,7 +3,7 @@
 date: 2017-01-05
 # Data wydarzenia
 event_date: 2018-07-07
-title: "Warsztat #171 - Tworzenie stanowych funkcji z Durable Functions w Azure"
+title: "Warsztat #170 - Tworzenie stanowych funkcji z Durable Functions w Azure"
 lokalizacja: Sages
 evenea_link: "https://dfazure.evenea.pl/?out=1&source=event_iframe"
 prowadzacy: mrzyglod

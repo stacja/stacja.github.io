@@ -3,7 +3,7 @@
 date: 2017-10-12
 # Data wydarzenia
 event_date: 2018-07-08
-title: "Warsztat #173 - Zastosowanie Python w Machine Learning i Data Science"
+title: "Warsztat #172 - Zastosowanie Python w Machine Learning i Data Science"
 evenea_link: "https://pythonml.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: BiurowiecCystersow
 cena: Warsztat płatny - od 79 PLN

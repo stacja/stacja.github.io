@@ -3,7 +3,7 @@
 date: 2017-01-05
 # Data wydarzenia
 event_date: 2018-07-14
-title: "Warsztat #174 - Implementacja w podejściu Domain First z wykorzystaniem .net core"
+title: "Warsztat #173 - Implementacja w podejściu Domain First z wykorzystaniem .net core"
 lokalizacja: Sages
 evenea_link: "https://domainfirst.evenea.pl/?out=1&source=event_iframe"
 prowadzacy: markowski
