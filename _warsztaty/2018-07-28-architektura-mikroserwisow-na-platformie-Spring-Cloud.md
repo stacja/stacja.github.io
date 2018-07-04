@@ -53,5 +53,5 @@ opis:
 
   uwaga: |
  
-    Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników. Maksymalna liczba osób w grupie to 40.
+    Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
 ---
