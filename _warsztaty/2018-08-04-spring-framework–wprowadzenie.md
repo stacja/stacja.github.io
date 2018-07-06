@@ -6,7 +6,6 @@ event_date: 2018-08-04
 title: "Warsztat #177 - Spring Framework – wprowadzenie"
 evenea_link: "https://springframework.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: NiewiadomoKrakow
-type: planowane
 cena: Warsztat płatny - od 79 PLN
 dlugosc: 9:00-17:00
 prowadzacy: labuz
@@ -21,10 +20,10 @@ opis:
     Podczas warsztatu poznamy jeden z takich frameworków ułatwiających codzienne życie. Spring (spring.io) jest jedną z najczęściej wybieranych technologii do tworzenia nowoczesnych aplikacji w języku Java. Realizuje jedną z ważniejszych zasad programowania obiektowego – Dependency Injection. Do tego cała masa wspierających bibliotek i świetne narzędzie do codziennej pracy mamy gotowe. A do tego za darmo...
 
     Od uczestników wymagana jest:
-     - podstawowa znajomość języka Java
-     - podstawowa znajomość programowania obiektowego
+     - podstawowa znajomość języka Java,
+     - podstawowa znajomość programowania obiektowego.
 
-    Podczas warsztatu zapewniemy dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegeteriańskiej.
+    Podczas warsztatu zapewniamy dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegetariańskiej.
 
   program: |
 
