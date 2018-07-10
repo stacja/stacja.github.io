@@ -6,7 +6,6 @@ event_date: 2018-08-11
 title: "Warsztat #178 - Spring Boot - szybki start"
 evenea_link: "https://springboot.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: SaleOmega
-type: planowane
 cena: Warsztat płatny - od 79 PLN
 dlugosc: 9:00-17:00
 prowadzacy: bykowski
