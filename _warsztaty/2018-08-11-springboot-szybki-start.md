@@ -18,6 +18,8 @@ opis:
 
     My programiści wiemy jak na proces devlopemntu ma dobór narzędzi. Wybierając rozwiązania production ready skracamy czas developmentu i minimalizujemy  ryzyko błędu. Spring Boot - szybki start to warsztat dla osób chcących szybko zbudować aplikacje internetową napisaną w języku Java. Minimum konfiguracji, sprawny proces tworzenia.
 
+    Warsztat skierowany jest do osób ze średnio-zaawansowaną znajomością języka Java.
+
     Podczas warsztatu uczestnicy pracują na własnych komputerach. Zapewniamy lunch dla uczestników w formie zupa + kanapka oraz nielimitowany serwis kawowy. Istnieje możliwość zamówienia lunchu w wersji mięsnej lub wegeteriańskiej.
 
   program: |
