@@ -3,7 +3,7 @@
 date: 2018-07-16
 # Data wydarzenia
 event_date: 2018-08-11
-title: "Warsztat #178 - Intro to UX: Quick Research and Rapid Prototyping Methods"
+title: "Warsztat #179 - Intro to UX: Quick Research and Rapid Prototyping Methods"
 evenea_link: "https://introux.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN
