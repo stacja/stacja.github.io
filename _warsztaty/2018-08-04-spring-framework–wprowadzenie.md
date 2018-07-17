@@ -25,6 +25,8 @@ opis:
 
     Podczas warsztatu zapewniamy dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegetariańskiej.
 
+    W trakcie zajęć uczesnicy korzystają z własnych laptopów.
+
   program: |
 
     1. Spring – wprowadzenie, architektura

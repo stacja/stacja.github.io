@@ -26,6 +26,8 @@ opis:
 
     Podczas warsztatu zapewniamy dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegetariańskiej.
 
+    **W trakcie zajęć uczesnicy korzystają z własnych laptopów. Prosimy o zainstalowanie Adobe XD na komputarze oraz komórce.**
+
   program: |
 
     1. Wprowadzenie
