@@ -36,9 +36,6 @@ opis:
        - Repozytoria
        - Tworzenie zależności między encjami
     1. Tworzenie interfejsu graficznego.
-       - Klasy encji
-       - Repozytoria
-       - Tworzenie zależności między encjami
     1. Aspect Oriented Programming.
     1. Przygotowanie aplikacji do produkcji.
        - Wczytywanie danych konfiguracyjnych
