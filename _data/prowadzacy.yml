@@ -273,3 +273,8 @@ bykowski:
   name: Przemysław Bykowski
   img: /img/portfolio/bykowski.jpg
   desc: "Wykładowca i trener programowania specjalizujący się w technologiach webowych. Zawsze pełen pozytywnej energii do działania. Zwolennik szczupłego zarządzania projektami informatycznymi - Lean IT."
+malaca:
+  name: Sebastian Malaca
+  img: /img/portfolio/smalaca.jpg
+  desc: "Sebastian jest doświadczonym progamistą specjalizującym się w programowaniu i projektowaniu obiektowym oraz technikach i praktykach pozwalających tworzyć kod wysokiej jakości. Interesuje się testowaniem, programowaniem obiektowym, inżynierią oprogramowania oraz zwinnym podejściem do wytwarzania oprogramowania. Ponadto jest prelegentem (JDD, GeeCon, Confitura, Devoxx, etc.), blogerem (Let's talk about Java) oraz jednym z autorów na blogach dotyczących programowania (DZone, JavaCodeGeeks)."
+  
