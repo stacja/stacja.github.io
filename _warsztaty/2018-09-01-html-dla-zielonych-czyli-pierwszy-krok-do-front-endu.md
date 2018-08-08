@@ -33,50 +33,50 @@ opis:
        1. Czym jest język HTML i w jakim celu się go stosuje
        2. Wersje i standaryzacja języka HTML
        3. Przestarzale i nie zalecane znaczniki (font, center)
-   1. Pierwsze kroki
+    1. Pierwsze kroki
        1. Struktura dokumentu
        2. Elementy blokowe
        3. Najważniejsze znaczniki HTMLa: HTML, HEAD, BODY
        4. Semantyka bloków: ASIDE, MAIN, ARTICLE, SECTION
-   1. Wyświetlanie treści
+    1. Wyświetlanie treści
        1. Elementy tekstowe - paragrafy, nagłówki, wyróżnianie treści na różne sposoby
        2. Tabele (wiersze, kolumny, komórki, łączenie komórek)
        3. Listy (wypunktowania, numeracje, zagnieżdżanie)
        4. Linki (nawigacja oparta o anchory, linki zewnętrzne)
        5. Przełamania linii, linie horyzontalne
-   1. Obrazki i inne cuda
+    1. Obrazki i inne cuda
        1. img
        2. figure, figcaption, picture
        3. Atrybuty src i srcset
        4. Wymiarowanie obrazków w HTML
-   1. Formularze
+    1. Formularze
        1. Przyciski, pola edycyjne, checkboxy, radiobuttony
        2. date picker, color picker, camera
        3. Natywna walidacja formularzy
        4. progress
-   1. Nie widać, ale działa!
+    1. Nie widać, ale działa!
        1. Atrybuty dla konkretnych znaczników
        2. Znaczniki META - kodowanie znaków, viewport, tytuł i opis strony
        3. Semantyka znaczników - UX i DX, dostępność dla osób niepełnosprawnych
        4. Atrybuty WAI-ARIA
-   1. Spojrzenie na dodatkowe możliwości
+    1. Spojrzenie na dodatkowe możliwości
        1. Łączenie HTML z CSS (nadawanie koloru, formatowanie tekstu i inne podstawy)
        2. Operacja JavaScript na drzewie DOM
        3. iframe
-   1. Layouty
+    1. Layouty
        1. Tworzenie prostych layoutów z minimalnym wykorzystaniem CSSa
        2. Znaczniki semantyczne: HEADER, FOOTER. NAV
-   1. Zagadnienia niszowe
+    1. Zagadnienia niszowe
        1. Własne znaczniki
        2. Trzymanie danych w atrybutach data-*
        3. Białe znaki a HTML, znaki specjalne - encje
        4. Mało popularne znaczki: np. pre, cite, mark
-   1. Zagadnienia zaawansowane
+    1. Zagadnienia zaawansowane
        1. Poprawki w drzewie DOM wykonywane przez przeglądarkę
        2. Tworzenie layoutu a reprezentacja danych
        3. Osadzanie multimediów: dźwięk, filmy, CANVAS
        4. Shadow DOM
-   1. Warsztat programisty
+    1. Warsztat programisty
        1. Sprawdzanie poprawności syntaktycznej HTMLa
        2. Formatowanie kodu, radzenie sobie z większymi strukturami HTML
        3. Komentarze w kodzie
