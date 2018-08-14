@@ -13,6 +13,7 @@ slideshare:
 opis:
   informacje: |
 
+    **UWAGA! WARSZTAT ODBYWA SIĘ W PIĄTEK!**
     Chcesz zacząć tworzyć strony internetowe? Próbowałeś robić coś z wykorzystaniem Wordpressa, ale chciałbyś w pełni zapanować na kodem? Twarde programowanie wydaje Ci się zbyt skomplikowane? Zacznij tworzyć strony internetowe z wykorzystaniem języka HTML! Język znaczników HTML to wstęp i zarazem drzwi do świata front-endu. Obecnie szeroko stosowany zarówno w przypadku tworzenia stron internetowych, aplikacji webowych, a nawet aplikacji desktopowych czy mobilnych. Warsztaty składać się będą w przeważającej części z zadań praktycznych, aby każdy uczestnik mógł stworzyć swoją pierwszą stronę WWW.
 
     Podczas warsztatów:
