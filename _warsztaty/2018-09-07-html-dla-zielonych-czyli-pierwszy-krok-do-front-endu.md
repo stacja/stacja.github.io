@@ -3,7 +3,7 @@
 date: 2018-08-07
 # Data wydarzenia
 event_date: 2018-09-07
-title: "Warsztat #183 - HTML dla zielonych - czyli pierwszy krok do front-endu"
+title: "Warsztat #184 - HTML dla zielonych - czyli pierwszy krok do front-endu"
 evenea_link: "https://html2.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN
