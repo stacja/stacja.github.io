@@ -7,7 +7,7 @@ title: "#180 Automatyzacja testów funkcjonalnych (end-to-end)"
 lokalizacja: Sages
 evenea_link: "https://testowanie0109.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
-cena: Warsztat płatny - od 79 PLN
+cena: Warsztat płatny - od 79 PLN, 5 edycja warsztatu
 prowadzacy: barankiewicz
 podcast_id: 6208959
 slideshare:

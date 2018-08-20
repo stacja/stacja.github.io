@@ -6,7 +6,7 @@ event_date: 2018-09-01
 title: "Warsztat #181 - HTML dla zielonych - czyli pierwszy krok do front-endu"
 evenea_link: "https://html.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: NiewiadomoKrakow
-cena: Warsztat płatny - od 79 PLN
+cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 dlugosc: 9:00-17:00
 prowadzacy: scira
 slideshare:

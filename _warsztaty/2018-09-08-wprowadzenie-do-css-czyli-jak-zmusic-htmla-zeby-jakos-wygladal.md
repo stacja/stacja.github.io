@@ -8,7 +8,7 @@ lokalizacja: Sages
 prowadzacy: scira
 dlugosc: 9:00-17:00
 evenea_link: "https://csspodstawy2.evenea.pl/?out=1&source=event_iframe"
-cena: Warsztat płatny - od 79 PLN
+cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
 slideshare:
 opis:
   informacje: |
