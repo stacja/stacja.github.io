@@ -3,7 +3,7 @@
 date: 2017-10-12
 # Data wydarzenia
 event_date: 2018-09-08
-title: "Warsztat #186 - Spring od podstaw"
+title: "Warsztat #184 - Spring od podstaw"
 evenea_link: "https://springpzn.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: SaleOmega
 cena: Warsztat płatny - od 79 PLN

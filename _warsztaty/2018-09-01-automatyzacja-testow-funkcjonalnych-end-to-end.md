@@ -3,7 +3,7 @@
 date: 2018-03-22
 # Data wydarzenia
 event_date: 2018-09-01
-title: "#182 Automatyzacja testów funkcjonalnych (end-to-end)"
+title: "#180 Automatyzacja testów funkcjonalnych (end-to-end)"
 lokalizacja: Sages
 evenea_link: "https://testowanie0109.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
