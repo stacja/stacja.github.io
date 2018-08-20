@@ -6,7 +6,7 @@ event_date: 2018-09-16
 title: "#187 Wprowadzenie do Machine Learning z wykorzystaniem języka Python"
 lokalizacja: Workband
 prowadzacy: stolecki
-cena: Warsztat płatny - od 79 PLN, 
+cena: Warsztat płatny - od 79 PLN, 10 edycja warsztatu
 evenea_link: "https://machinewroc.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
 slideshare:
