@@ -17,7 +17,7 @@ opis:
 
     Warsztat przeznaczony jest dla programistów, testerów, devopsów jak również dla osób pracujących przy wytwarzaniu oprogramowania. 
 
-    Podczas warsztatu zapewniemy dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegeteriańskiej.
+    Podczas warsztatu zapewniemy dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegetariańskiej.
 
   program: |
 
