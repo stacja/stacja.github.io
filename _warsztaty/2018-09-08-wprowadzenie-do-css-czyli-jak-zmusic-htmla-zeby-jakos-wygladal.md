@@ -3,7 +3,7 @@
 date: 2017-03-02
 # Data wydarzenia
 event_date: 2018-09-08
-title: "#183 Wprowadzenie do CSS - czyli jak zmusić HTMLa, żeby jakoś wyglądał"
+title: "#182 Wprowadzenie do CSS - czyli jak zmusić HTMLa, żeby jakoś wyglądał"
 lokalizacja: Sages
 prowadzacy: scira
 dlugosc: 9:00-17:00
