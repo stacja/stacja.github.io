@@ -6,7 +6,7 @@ event_date: 2018-09-30
 title: "Warsztat #188 - Zastosowanie Python w Machine Learning i Data Science"
 evenea_link: "https://pythonmlpzn.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: SaleOmega
-cena: Warsztat płatny - od 79 PLN
+cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
 dlugosc: 9:00-17:00
 prowadzacy: harasymczuk
 slideshare:
