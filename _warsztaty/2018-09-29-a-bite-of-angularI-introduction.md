@@ -3,13 +3,13 @@
 date: 2017-10-12
 # Data wydarzenia
 event_date: 2018-09-29
-title: "Warsztat #188 - A bite of Angular I - Introduction"
+title: "Warsztat #187 - A bite of Angular I - Introduction"
 evenea_link: "https://pythonpzn.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: BiurowiecCystersow
 type: planowane
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 dlugosc: 9:00-17:00
-prowadzacy: harasymczuk
+prowadzacy: kaspera
 slideshare:
 opis:
   informacje: |

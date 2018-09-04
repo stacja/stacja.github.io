@@ -3,7 +3,7 @@
 date: 2017-10-12
 # Data wydarzenia
 event_date: 2018-09-29
-title: "Warsztat #187 - Wprowadzenie do Pythona - tworzenie aplikacji w języku Python"
+title: "Warsztat #188 - Wprowadzenie do Pythona - tworzenie aplikacji w języku Python"
 evenea_link: "https://pythonpzn.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: SaleOmega
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
