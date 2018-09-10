@@ -4,9 +4,8 @@ date: 2017-10-12
 # Data wydarzenia
 event_date: 2018-09-29
 title: "Warsztat #187 - A bite of Angular I - Introduction"
-evenea_link: "https://pythonpzn.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://angular1.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: BiurowiecCystersow
-type: planowane
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 dlugosc: 9:00-17:00
 prowadzacy: kaspera
@@ -14,21 +13,32 @@ slideshare:
 opis:
   informacje: |
 
-    Wg. rankingów Python jest trzecim językiem programowania na świecie. Stał się lingua franca w Data Science i Machine Learning, ale również zyskuje coraz większą popularność w Security gdzie pisze się w nim exploity, Quality Engineering (testy) oraz w zastosowaniach naukowych i inżynieryjnych. Zanim zaczniemy analizę numeryczną czy dostosowywanie modeli ML, konieczne jest poznanie języka, jego składni i bibliotek. Uczestnik podczas warsztatu zapozna się ze składnią, idiomami oraz modułami. Nauczy się korzystać z venv i pozna dobre praktyki programowania i konwencje przyjęte w języku.
+    Angular jest najpopularniejszym frameworkiem wykorzystującym Javascript/Typescript do budowania aplikacji webowych oraz na urządzenia mobilne. Chciałbyś szybko ugryźć nieco technologii? Wystartować z podstawami, żeby móc wgryźć się głębiej?
 
-    **Wymagana umiejętność podstaw programowania w dowolnym języku i znajomość zagadnień związanych ze zmiennymi, stałymi, podstawowymi strukturami danych (listy, zbiory), pętle, funkcje i instrukcje warunkowe.**
+    Warsztat kierowany przede wszystkim do osób, które o Angularze słyszały, ale nigdy z nim nie pracowały, a chciałyby wiedzieć z czym to się je. Celem warsztatu jest zapoznanie uczestników z głównymi założeniami Angulara i podstawowymi umiejętnościami wymaganymi do projektowania i tworzenia aplikacji webowych. A nie ma przecież lepszego sposobu na naukę jak praktyka!
+    Na warsztatach mniej czasu poświęcimy tłumaczeniu jak to wszystko działa (to pokazywać będziemy w kolejnych edycjach), a raczej damy uczestnikom możliwość samodzielnego “poskładania" (szybko, bo w jeden dzień) prostej aplikacji webowej z dostarczonych "klocków".
 
-    Podczas warsztatu uczestnicy pracują na własnych komputerach. Zapewniamy lunch dla uczestników w formie zupa + kanapka oraz nielimitowany serwis kawowy. Istnieje możliwość zamówienia lunchu w wersji mięsnej lub wegetariańskiej.
+    Wieczorem, na koniec spotkania, uczestnicy będą:
+     - Rozumieć główne benefity płynące z wykorzystywania Angulara 5,
+     - Umieć projektować podstawową strukturę prostych aplikacji Angularowych,
+     - Umieć łączyć moduły i komponenty w aplikację.
+
+    Wymagania: znajomość Javascriptu (nie jest wymagany zaawansowany poziom).
+
+    Podczas warsztatu zapewniamy dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegetariańskiej.
 
   program: |
 
-    1. Tworzenie i korzystanie ze struktur danych.
-    1. Tworzenie klas i obiektów.
-    1. Modularyzacja oprogramowania.
-    1. Użycie wywołań biblioteki standardowej.
-    1. Tworzenie testów do pisanych funkcji.
-    1. Korzystanie z funkcji refaktoringu w środowisku IDE.
-    1. Dobre praktyki i standardy kodowania. 
+    1. Wstęp.
+       1. Architektura aplikacji Angularowych
+       2. Komunikacja między komponentami
+       3. Najważniejsze dyrektywy
+       4. Angular CLI
+    1. Działanie.
+       1. Zaprojektowanie aplikacji
+       2. Stworzenie komponentu, modułu, serwisu
+       3. Integracja stworzonych i dostarczonych modułów w aplikację
+    1. Podsumowanie.
 
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
