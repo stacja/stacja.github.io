@@ -14,11 +14,13 @@ podcast_id: 6301924
 opis:
   informacje: |
     
-    **Chciałbyś nawiązać współpracę trenerską z Sages - firmą prowadzącą specjalistyczne szkolenia technologiczne od ponad 10 lat?**
+    **Chciał(a)byś nawiązać współpracę trenerską z Sages - firmą prowadzącą specjalistyczne szkolenia technologiczne od ponad 10 lat?**
 
-    **Zapraszamy na udziału w bezpłatnym, 2-dniowym szkoleniu Train The Trainer!**
+    **Zapraszamy do udziału w bezpłatnym, 2-dniowym szkoleniu Train The Trainer!**
 
     Warsztaty okażą się szczególnie wartosciowe dla specjalistów IT, którzy chcieliby spróbować swoich sił w prowadzeniu szkoleń, oraz tych, którzy posiadają juz doświadczenie trenerskie, ale czują że powinni podszkolić swoje umiejętności. Pozwolą bowiem stworzyć niepowtarzalny wizerunek trenerski oraz zdobyć wiedzę i umiejętności w zakresie prowadzenia i projektowania szkoleń, ze szczególnym uwzględnieniem specyfiki szkoleń IT. 
+
+    Podczas szkolenia uczestnicy mają zapewniony lunch typu pizza.
 
     Podczas szkolenia:
 
