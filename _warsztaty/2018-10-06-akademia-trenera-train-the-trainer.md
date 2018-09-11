@@ -9,7 +9,7 @@ prowadzacy: nazimek
 sponsor: /img/logo.png
 evenea_link: "https://trainthetrainer061018.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 2 dni, 9:00-17:00
-cena: Warsztat bezpłatny
+cena: Warsztat bezpłatny, 9 edycja warsztatu
 podcast_id: 6301924
 opis:
   informacje: |
