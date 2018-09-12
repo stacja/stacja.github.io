@@ -23,5 +23,5 @@ opis:
 
   dodatkowe: |
      Gdzie można znaleźć informacje o studiach?
-     - [http://geoinformatyka.uksw.edu.pl/](Studia podyplomowe Geoinformatyka i geostatystyka)
+     - [Studia podyplomowe Geoinformatyka i geostatystyka](http://geoinformatyka.uksw.edu.pl/)
 ---
