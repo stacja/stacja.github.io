@@ -3,7 +3,7 @@
 date: 2017-10-12
 # Data wydarzenia
 event_date: 2018-10-13
-title: "Warsztat #192 - Start by Java"
+title: "Warsztat #190 - Start by Java"
 evenea_link: "https://startbyjava.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: BiurowiecCystersow
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu

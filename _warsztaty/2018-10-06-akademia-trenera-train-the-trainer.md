@@ -3,7 +3,7 @@
 date: 2017-07-07
 # Data wydarzenia
 event_date: 2018-10-06
-title: "#191 Akademia Trenera - Train The Trainer"
+title: "#189 Akademia Trenera - Train The Trainer"
 lokalizacja: Sages
 prowadzacy: nazimek
 sponsor: /img/logo.png

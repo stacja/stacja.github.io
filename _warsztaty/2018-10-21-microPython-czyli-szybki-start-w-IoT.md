@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2018-10-21
 cena: Warsztat płatny - 159 PLN, 2 edycja warsztatu
-title: "#195 MicroPython, czyli szybki start w IoT"
+title: "#193 MicroPython, czyli szybki start w IoT"
 lokalizacja: Workband
 prowadzacy: galka
 dlugosc: 9:00-17:00
@@ -57,6 +57,6 @@ opis:
     *Uczestnicy otrzymają instrukcję krok po kroku opisującą przygotowanie nowego zestawu. W przypadku braku wystarczającej ilości czasu temat może nie zostać przećwiczony "na żywo". 
   
   uwaga: |
-    Liczba miejsc ograniczona! Na tym warsztacie pracujemy w mniejszej grupie, max. 15 osób. Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
+    Liczba miejsc ograniczona! Na tym warsztacie pracujemy w mniejszej grupie, max. 20 osób. Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
 
 ---
