@@ -284,3 +284,7 @@ kaspera:
 nlpai:
   name: AI & NLP WORKSHOP DAY
   img: /img/portfolio/nlpai.png
+debski:
+  name: Krzysztof Dębski
+  img: /img/portfolio/kdebski.jpg
+  desc: "Krzysztof to inżynier oprogramowania, architekt oraz techniczny właściciel produktów. Pracował w Allegro i w Onet.pl. Posiada eksperckie doświadczenie w budowaniu wysokowydajnych, rozproszonych aplikacji a także transformacjach technologicznych monolitycznych aplikacji w duchu Domain Driven Design."

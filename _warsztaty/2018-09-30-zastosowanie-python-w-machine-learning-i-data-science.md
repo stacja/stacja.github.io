@@ -8,7 +8,7 @@ evenea_link: "https://pythonmlpzn.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: SaleOmega
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
 dlugosc: 9:00-17:00
-prowadzacy: harasymczuk
+prowadzacy: debski
 slideshare:
 opis:
   informacje: |
