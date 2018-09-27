@@ -33,4 +33,15 @@ opis:
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
 
+
+  partner: |
+
+    Partnerem warsztatu jest [Kodołamacz](https://kodolamacz.pl/).
+
+    [![alt](/img/logos/kodolamacz.png)](https://kodolamacz.pl/)
+
+    Kodołamacz jest szkołą programowania. Oferujemy bootcampy zarówno dla osób początkujących jak i posiadających doświadczenie w programowaniu. Program i formuła bootcampów Kodołamacz opracowana została na bazie naszych wieloletnich obserwacji potrzeb rynku IT. Zaprosiliśmy do ich współtworzenia ekspertów z proponowanych przez nas ścieżek. Wspólnie z nimi opracowaliśmy program obejmujący optymalny zestaw technologii oraz formułę pracy projektowej, która pozwala zdobyć doświadczenie odpowiadające realiom pracy w działach programistycznych.
+
+    Jeżeli chcesz sprawdzić naszą ofertę dotyczącą bootcampu Java zajrzyj [tutaj](https://kodolamacz.pl/bootcamp-java/).  
+
 ---
