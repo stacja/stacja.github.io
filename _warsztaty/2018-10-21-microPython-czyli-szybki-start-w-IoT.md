@@ -51,7 +51,7 @@ opis:
     1. Komunikacja przez Internet.
        1. Konfiguracja WiFi.
        2. Komunikcja z serwisami sieci Web.
-    1. Przygotowanie nowego zestawu deweloperskiego do pracy z MicroPython*
+    1. Przygotowanie nowego zestawu deweloperskiego do pracy z MicroPython.*
 
   
     *Uczestnicy otrzymają instrukcję krok po kroku opisującą przygotowanie nowego zestawu. W przypadku braku wystarczającej ilości czasu temat może nie zostać przećwiczony "na żywo". 

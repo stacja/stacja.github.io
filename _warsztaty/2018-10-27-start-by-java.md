@@ -5,7 +5,7 @@ date: 2018-09-27
 event_date: 2018-10-27
 title: "Warsztat #195 - Start by Java"
 evenea_link: "https://startbyjava2710waw.evenea.pl/?out=1&source=event_iframe"
-lokalizacja: sages
+lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 3 edycja warsztatu
 dlugosc: 9:00-17:00
 prowadzacy: labuz
@@ -13,7 +13,7 @@ slideshare:
 opis:
   informacje: |
 
-    Nie programujesz, ale chciałbyś dowiedzieć się nieco o co tyle hałasu? Piszesz na co dzień po polsku, angielsku lub niemiecku i chciałbyś poznać jeszcze jeden język? Zapraszamy na warsztaty, na których poznasz podstawowe elementy związane z tworzeniem oprogramowania. Jako bazę wybraliśmy platformę Java. Znany, prosty język obiektowy (co to oznacza dowiesz się również z warsztatów), duża ilość dodatkowych bibliotek, ogromna społeczność daje podstawy sądzić iż nie jest to najgorszy wybór dla początkujących ;). 
+    Nie programujesz, ale chciałbyś dowiedzieć się nieco o co tyle hałasu? Piszesz na co dzień po polsku, angielsku lub niemiecku i chciałbyś poznać jeszcze jeden język? Zapraszamy na warsztaty, na których poznasz podstawowe elementy związane z tworzeniem oprogramowania. Jako bazę wybraliśmy platformę Java. Znany, prosty język obiektowy (co to oznacza dowiesz się również z warsztatów), duża ilość dodatkowych bibliotek, ogromna społeczność daje podstawy sądzić iż nie jest to najgorszy wybór dla początkujących ;) 
 
     Program spotkania to zrównoważona dawka teorii i praktyki. Podczas warsztatów uczestnicy dowiedzą się podstawowych informacji na temat jezyka Java oraz stworzą proste przykłady pod okiem prowadzącego. Skoro warsztaty to praktyka. Skoro praktyka to poprogramować trzeba. Po krótkim wstępie teoretycznym przejdziemy do realizacji ćwiczeń w ramach których stworzymy podstawowe struktury programu w Java, wykorzystamy struktury danych takie jak kolekcje, wzorce projektowe, nauczymy się korzystać z zewnętrznych bibliotek oraz narzędzi do automatycznego budowania projektu. Czasu jest niewiele, więc i nasze przykłady będą proste, ale postaramy się aby były bazą do dalszej nauki zgłębiania sztuki programowania.
     Uczestnicy w trakcie zajęć korzystają z własnego sprzętu. Zalecany laptop z min. 4gb  ram.
