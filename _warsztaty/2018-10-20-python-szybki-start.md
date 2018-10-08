@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2018-10-20
 cena: Warsztat płatny - od 79 PLN, 10 edycja warsztatu
-title: "Warsztat #192 Python - szybki start"
+title: "Warsztat #191 Python - szybki start"
 lokalizacja: Workband
 prowadzacy: galka
 dlugosc: 9:00-17:00

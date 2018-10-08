@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2018-10-21
 cena: Warsztat płatny - 159 PLN, 2 edycja warsztatu
-title: "Warsztat #193 MicroPython, czyli szybki start w IoT"
+title: "Warsztat #192 MicroPython, czyli szybki start w IoT"
 lokalizacja: Workband
 prowadzacy: galka
 dlugosc: 9:00-17:00

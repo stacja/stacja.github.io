@@ -4,7 +4,7 @@ date: 2018-05-02
 # Data wydarzenia
 event_date: 2018-10-20
 cena: Warsztat płatny - od 64 PLN, 1 edycja warsztatu
-title: "Warsztat #191 W poszukiwaniu dobrych wymagań - ujęcie praktyczne"
+title: "Warsztat #190 W poszukiwaniu dobrych wymagań - ujęcie praktyczne"
 lokalizacja: Sages
 prowadzacy: zmitrowicz
 dlugosc: 9:00-13:00
