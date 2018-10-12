@@ -3,7 +3,7 @@
 date: 2017-09-27
 # Data wydarzenia
 event_date: 2018-10-28
-title: "Warsztat #195 - Spring Framework – wprowadzenie"
+title: "Warsztat #194 - Spring Framework – wprowadzenie"
 evenea_link: "https://springframework2810waw.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu

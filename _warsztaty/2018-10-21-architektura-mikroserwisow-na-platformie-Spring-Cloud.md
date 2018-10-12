@@ -3,7 +3,7 @@
 date: 2018-09-27
 # Data wydarzenia
 event_date: 2018-10-21
-title: "Warsztat #193 - Architektura mikroserwisów na platformie Spring Cloud"
+title: "Warsztat #192 - Architektura mikroserwisów na platformie Spring Cloud"
 lokalizacja: Sages
 prowadzacy: andrzejewski
 evenea_link: "https://springcloudwaw.evenea.pl/?out=1&source=event_iframe"
