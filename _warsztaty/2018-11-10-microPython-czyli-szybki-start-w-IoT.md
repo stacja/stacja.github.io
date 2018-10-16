@@ -8,7 +8,7 @@ title: "#195 MicroPython, czyli szybki start w IoT"
 lokalizacja: Sages
 prowadzacy: galka
 dlugosc: 9:00-17:00
-evenea_link: "https://micropythonwaw10.11.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://micropythonwaw1011.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
