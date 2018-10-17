@@ -3,7 +3,7 @@
 date: 2018-05-02
 # Data wydarzenia
 event_date: 2018-11-10
-cena: Warsztat płatny - 159 PLN, 1 edycja warsztatu
+cena: Warsztat płatny - 159 PLN, 2 edycja warsztatu
 title: "#195 MicroPython, czyli szybki start w IoT"
 lokalizacja: Sages
 prowadzacy: galka
@@ -21,7 +21,7 @@ opis:
 
     Podczas warsztatu uczestnicy korzystają z własnych komputerów.
 
-    **W cenę biletu wliczony jest koszt zestawu deweloperskiego: płytka, czujnik, kable, kabel USB. Po zakończeniu warsztatu, zestaw ten jest własnością uczestnika. Podczas tego warsztatu, ze względu na jego specyfikę, pracujemy w mniejszej grupie - max. 15 osób.**
+    **W cenę biletu wliczony jest koszt zestawu deweloperskiego: płytka, czujnik, kable, kabel USB. Po zakończeniu warsztatu, zestaw ten jest własnością uczestnika. Podczas tego warsztatu, ze względu na jego specyfikę, pracujemy w mniejszej grupie - max. 20 osób.**
   
     Podczas warsztatu zapewniemy dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegatariańskiej.
 
