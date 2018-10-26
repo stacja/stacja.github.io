@@ -39,7 +39,7 @@ opis:
        3. Spotkania
        4. Artefakty Scruma
     1. Narzędzie Scrum w odniesieniu do
-       1. MKomunikacji.
+       1. Komunikacji.
        2. Szacowania.
        3. Cel działania: Why?
        4. Opracowywanie wymagań klienta
