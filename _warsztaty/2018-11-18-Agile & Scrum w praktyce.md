@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2018-11-18
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
-title: "Warsztat #199 Agile & Scrum w praktyce"
+title: "Warsztat #200 Agile & Scrum w praktyce"
 lokalizacja: Sages
 prowadzacy: zeromski
 dlugosc: 9:00-17:00

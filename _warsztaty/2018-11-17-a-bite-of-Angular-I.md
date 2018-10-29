@@ -3,7 +3,7 @@
 date: 2018-09-27
 # Data wydarzenia
 event_date: 2018-11-17
-title: "Warsztat #197 - A bite of Angular I - Introduction"
+title: "Warsztat #198 - A bite of Angular I - Introduction"
 evenea_link: "https://angular1711.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: BiurowiecCystersow
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
