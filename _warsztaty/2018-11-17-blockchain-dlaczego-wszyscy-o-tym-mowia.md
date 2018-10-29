@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2018-03-14
 # Data wydarzenia
-event_date: 2018-04-14
+event_date: 2018-11-17
 title: "#197 Blockchain - dlaczego wszyscy o tym mówią?"
 lokalizacja: SaleOmega
 cena: Warsztat płatny - 129 PLN, 2 edycja warsztatu
