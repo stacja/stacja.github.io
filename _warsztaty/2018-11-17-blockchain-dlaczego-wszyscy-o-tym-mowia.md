@@ -5,7 +5,7 @@ date: 2018-03-14
 event_date: 2018-11-17
 title: "#197 Blockchain - dlaczego wszyscy o tym mówią?"
 lokalizacja: SaleOmega
-cena: Warsztat płatny - 129 PLN, 2 edycja warsztatu
+cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
 prowadzacy: nazimek
 dlugosc: 9:00-17:00
 evenea_link: "https://blockchainpzn.evenea.pl/?out=1&source=event_iframe"
@@ -25,7 +25,7 @@ opis:
 
 
     **Warsztat przeznaczony jest dla osób zainteresowanych tematyką blockchain i znających podstawowe zasady programowania. Nie musisz być programistą na co dzień, aby wziąć w nim udział.**
-    W trakcie zajęć uczesnicy wykorzystywać będą własne komputery. Organizator zapewnia serwis kawowy oraz pizzę w porze obiadowej.
+    W trakcie zajęć uczesnicy wykorzystywać będą własne komputery. Zapewniamy lunch dla uczestników w formie zupa + kanapka oraz nielimitowany serwis kawowy. Istnieje możliwość zamówienia lunchu w wersji mięsnej lub wegetariańskiej.
 
   program: |
 
