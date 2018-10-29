@@ -1,6 +1,6 @@
 ---
 # Data dodania informacji o wydarzeniu
-date: 2018-04-11
+date: 2018-10-29
 episode: 1
 title: "Krótko o warsztacie - Mateusz Żeromski - Agile i Scrum w praktyce"
 mp3_link: "http://traffic.libsyn.com/stacjait/Krotko_o_warsztacie_-_Mateusz_Zeromski_-_Agile_i_Scrum_w_praktyce.mp3"
