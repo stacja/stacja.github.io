@@ -6,7 +6,7 @@ event_date: 2018-10-27
 title: "Warsztat #193 - Start by Java"
 evenea_link: "https://startbyjava2710waw.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: Sages
-cena: Warsztat płatny - od 79 PLN, 3 edycja warsztatu
+cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 dlugosc: 9:00-17:00
 prowadzacy: labuz
 slideshare:
