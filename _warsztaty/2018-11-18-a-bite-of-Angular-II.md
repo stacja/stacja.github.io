@@ -3,7 +3,7 @@
 date: 2018-09-27
 # Data wydarzenia
 event_date: 2018-11-18
-title: "Warsztat #199 - A bite of Angular II - Reactive Forms"
+title: "Warsztat #198 - A bite of Angular II - Reactive Forms"
 evenea_link: "https://angularII1811.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: BiurowiecCystersow
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
