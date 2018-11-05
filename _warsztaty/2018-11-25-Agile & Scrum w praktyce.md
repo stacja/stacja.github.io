@@ -13,7 +13,7 @@ podcast_id: 7353053
 slideshare:
 opis:
   informacje: |
-    Agile & Scrum w praktyce jest skierowane głównie do osób biorących czynny udział w procesie tworzenia oprogramowania. Jeżeli masz wpływ na proces - to szkolenie jest dla Ciebie. Na szkoleniu poznasz prawdziwie praktyczne podejście do Agile & Scrum. To nie jest szkolenie “po certyfikat” ale po wiedzę, omawiam aspekty zwinnego zarządzania pod kątem wytwarzania oprogramowania wskazując co i kiedy można najlepiej zastosować.
+    Agile & Scrum w praktyce jest skierowane głównie do osób biorących czynny udział w procesie tworzenia oprogramowania. Jeżeli masz wpływ na proces - to szkolenie jest dla Ciebie. Na szkoleniu poznasz prawdziwie praktyczne podejście do Agile & Scrum. To nie jest szkolenie “po certyfikat” ale po wiedzę. Omawiam aspekty zwinnego zarządzania pod kątem wytwarzania oprogramowania wskazując co i kiedy można najlepiej zastosować.
 
     Scrum to wyższa szkoła jazdy, implementacja wymaga transformacji całego przedsiębiorstwa, natomiast narzędzia które są wykorzystywane w tej metodyce możesz zastosować wszędzie. Oczywiście tylko pełne wdrożenie tych zasad pozwoli realizować dwa razy więcej dwa razy szybciej.
 
