@@ -13,6 +13,7 @@ slideshare:
 opis:
   informacje: |
 
+    Podczas zajęć uczestnicy poznają zarówno ogólny zarys paradygmatu programowania reaktywnego, jak też jego realizację w języku Java przy wykorzystaniu platformy Spring Reactor. W trakcie trwania warsztatu uczestnicy zapoznają się z podstawowymi technikami używanymi na tej platformie i poprzez rozwiązywanie przykładów będą mogli wypróbować je w praktyce. Zdobyte umiejętności pozwolą na swobodne korzystanie nie tylko z platformy Spring Reactor, ale także innych środowisk bazujących na wspomnianym paradygmacie programowania reaktywnego - które to środowiska coraz bardziej przecierają sobie drogę we współczesnym stosie technologicznym, zarówno w aplikacjach webowych, jak też i mobilnych.
 
     **Od uczestników oczekiwana jest znajomość Javy w stopniu średnio zaawansowanym, ze szczególnym naciskiem na elementy wprowadzone w Javie 8 (strumienie i lambdy)**
 
