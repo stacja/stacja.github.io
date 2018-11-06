@@ -3,7 +3,7 @@
 date: 2018-05-02
 # Data wydarzenia
 event_date: 2018-12-08
-cena: Warsztat płatny - od 64 PLN, 1 edycja warsztatu
+cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
 title: "Warsztat #204 W poszukiwaniu dobrych wymagań - ujęcie praktyczne"
 lokalizacja: Sages
 prowadzacy: zmitrowicz
@@ -13,7 +13,7 @@ slideshare:
 opis:
   informacje: |
     
-    **Uwaga! Warsztat 4-godzinny!**
+ 
 
     Nie trzeba powtarzać, jak ważne są wymagania dla sukcesu przedsięwzięć. Nie trzeba przypominać, jakie problemy wynikają ze słabej jakości wymagań. Zamiast rozmawiać o problemach, skupmy się na rozwiązaniach - jak sprawić, by wymagania były lepsze, precyzyjne i odpowiednio dobrze odzwierciedlały potrzeby interesariuszy. 
 
@@ -21,7 +21,7 @@ opis:
     
     Podczas warsztatu uczestnicy korzystają z własnych komputerów.
 
-    Podczas warsztatu zapewniemy dostęp do kawy, herbaty, wody. Nie zapewniamy lunchu.
+    Podczas warsztatu zapewniemy dostęp do kawy, herbaty, wody. Zapewniamy lunch w formie pizzy.
 
   program: |
 
