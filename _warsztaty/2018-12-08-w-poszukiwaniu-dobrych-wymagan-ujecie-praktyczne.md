@@ -13,7 +13,7 @@ slideshare:
 opis:
   informacje: |
     
-
+        
     Nie trzeba powtarzać, jak ważne są wymagania dla sukcesu przedsięwzięć. Nie trzeba przypominać, jakie problemy wynikają ze słabej jakości wymagań. Zamiast rozmawiać o problemach, skupmy się na rozwiązaniach - jak sprawić, by wymagania były lepsze, precyzyjne i odpowiednio dobrze odzwierciedlały potrzeby interesariuszy. 
 
     Przećwiczmy pisanie dobrych wymagań i wyciągnijmy wspólnie wnioski dotyczące tego, jakich usprawnień potrzeba w naszych organizacjach.
