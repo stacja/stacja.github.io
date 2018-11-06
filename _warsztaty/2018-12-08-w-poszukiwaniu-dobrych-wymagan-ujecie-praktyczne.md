@@ -1,6 +1,6 @@
 ---
 # Data dodania informacji o wydarzeniu
-date: 2018-05-02
+date: 2018-04-02
 # Data wydarzenia
 event_date: 2018-12-08
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
