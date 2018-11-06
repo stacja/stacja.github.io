@@ -7,7 +7,7 @@ cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
 title: "Warsztat #204 W poszukiwaniu dobrych wymagań - ujęcie praktyczne"
 lokalizacja: Sages
 prowadzacy: zmitrowicz
-dlugosc: 9:00-13:00
+dlugosc: 9:00-17:00
 evenea_link: "https://dobrewymagania081218.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
