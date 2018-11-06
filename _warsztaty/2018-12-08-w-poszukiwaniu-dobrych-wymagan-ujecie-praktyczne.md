@@ -20,7 +20,6 @@ opis:
     
     Podczas warsztatu uczestnicy korzystają z własnych komputerów.
 
-    Podczas warsztatu zapewniemy dostęp do kawy, herbaty, wody. Zapewniamy lunch w formie pizzy, w wersji mięsnej oraz wegetariańskiej.
     Podczas warsztatu zapewniemy dostęp do kawy, herbaty, wody. Zapewniamy lunch w formie pizzy, w wersji mięsnej oraz
     wegetariańskiej
 
