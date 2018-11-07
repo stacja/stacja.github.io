@@ -5,7 +5,7 @@ date: 2018-09-27
 event_date: 2018-11-18
 title: "Warsztat #198 - A bite of Angular II - Reactive Forms"
 evenea_link: "https://angularII1811.evenea.pl/?out=1&source=event_iframe"
-lokalizacja: BiurowiecCystersow
+lokalizacja: TMTart
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 dlugosc: 9:00-17:00
 prowadzacy: kaspera

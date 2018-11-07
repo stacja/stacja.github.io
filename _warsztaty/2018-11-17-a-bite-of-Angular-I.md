@@ -5,7 +5,7 @@ date: 2018-09-27
 event_date: 2018-11-17
 title: "Warsztat #197 - A bite of Angular I - Introduction"
 evenea_link: "https://angular1711.evenea.pl/?out=1&source=event_iframe"
-lokalizacja: BiurowiecCystersow
+lokalizacja: TMTart
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 dlugosc: 9:00-17:00
 prowadzacy: kaspera
