@@ -26,6 +26,12 @@ opis:
       -dokonamy segmentacji tysięcy produktów poprzez analizę PCA wykonując dekompozycję macierzy.
       -napiszemy algorytm genetyczny do szukania optymalnych parametrów równania z wieloma parametrami, wykorzystamy ten algorytm do przewiadywania sprzedaży o dużej zmienności sezonowej
 
+    **Algorytm genetyczny w 10 minut ? Big Data na komputerze PC ? Transformaty Fouriera i
+    przewidywanie przyszłości ? W Julii to bardzo proste!**
+    Julia to wysokopoziomowy, dynamiczny język programowania do obliczeń numerycznych.
+    Zapewnia wyrafinowany kompilator, rozproszone wykonywanie równoległe, dokładność numeryczną
+    i obszerną bibliotekę funkcji matematycznych. Julia jest bardzo szybka. Bywa, że identyczne zadania wykonuje tysiące razy szybciej od konkurencyjnych rozwiązań. Wyjątkowo szybko przetwarza zarówno liczby jak i tekst.
+
 
        **Podczas warsztatu uczestnicy korzystają z własnych komputerów.**
        Przed warsztatem należy zainstalować Julię w wersji 0.7.0 https://julialang-s3.julialang.org/bin/winnt/x64/0.7/julia-0.7.0-win64.exe na maszynę 64 bitową lub odpowiednią wersję na maszyny 32 bitowe oraz zainstalować kilka pakietów zgodnie z dostarczoną instrukcją.
