@@ -27,7 +27,7 @@ opis:
       -napiszemy algorytm genetyczny do szukania optymalnych parametrów równania z wieloma parametrami, wykorzystamy ten algorytm do przewiadywania sprzedaży o dużej zmienności sezonowej
 
 
-       Podczas warsztatu uczestnicy korzystają z własnych komputerów.
+       **Podczas warsztatu uczestnicy korzystają z własnych komputerów.**
        Przed warsztatem należy zainstalować Julię w wersji 0.7.0 https://julialang-s3.julialang.org/bin/winnt/x64/0.7/julia-0.7.0-win64.exe na maszynę 64 bitową lub odpowiednią wersję na maszyny 32 bitowe oraz zainstalować kilka pakietów zgodnie z dostarczoną instrukcją.
 
 
@@ -41,7 +41,7 @@ opis:
     1. Uruchamianie kodu z konsoli i z pliku : przykładowy algorytm genetyczny krok po kroku.
     1. Przewiadywania sprzedaży o dużej zmienność sezonowej implementacja algorytmów odwybranej metody.
     1. Wykresy i prezentacja wyników. Wykresy dynamiczne , animacje w Julii.
-    1. Dekompozycja macierzy , analiza PCA, obliczanie głównych składowych i ich interpretacja, segmentacja zbioru w wielowymiarowej przestrzeni.
+    1. Dekompozycja macierzy, analiza PCA, obliczanie głównych składowych i ich interpretacja, segmentacja zbioru w przestrzeni.
     1.Analiza danych o aktywności słońca z ostatnich 300 lat.
     1.Analiza sygnałów, wykorzystanie biblioteki FTT (Szybka Transformata Fouriera ) do obliczania składowych widma cyklu aktywności słońca. 
 
