@@ -41,9 +41,9 @@ opis:
     1. Uruchamianie kodu z konsoli i z pliku : przykładowy algorytm genetyczny krok po kroku.
     1. Przewiadywania sprzedaży o dużej zmienność sezonowej implementacja algorytmów odwybranej metody.
     1. Wykresy i prezentacja wyników. Wykresy dynamiczne , animacje w Julii.
-    1. Dekompozycja macierzy, analiza PCA, obliczanie głównych składowych i ich interpretacja, segmentacja zbioru w przestrzeni.
-    1.Analiza danych o aktywności słońca z ostatnich 300 lat.
-    1.Analiza sygnałów, wykorzystanie biblioteki FTT (Szybka Transformata Fouriera ) do obliczania składowych widma cyklu aktywności słońca. 
+    1. Dekompozycja macierzy, analiza PCA, obliczanie głównych składowych i ich interpretacja, segmentacja zbioru w wielowymiarowej przestrzeni.
+    1. Analiza danych o aktywności słońca z ostatnich 300 lat.
+    1. Analiza sygnałów, wykorzystanie biblioteki FTT (Szybka Transformata Fouriera ) do obliczania składowych widma cyklu aktywności słońca. 
 
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
