@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2018-12-08
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
-title: "Warsztat #205 Agile & Scrum w praktyce"
+title: "Warsztat #206 Agile & Scrum w praktyce"
 lokalizacja: AkCreator
 prowadzacy: zeromski
 dlugosc: 9:00-17:00
