@@ -22,9 +22,9 @@ opis:
     bibliotek do tego przeznaczonych. 
 
     Podczas warsztatów:
-      -dowiemy się, jak korzystać ze środowiska Julia
-      -dokonamy segmentacji tysięcy produktów poprzez analizę PCA wykonując dekompozycję macierzy.
-      -napiszemy algorytm genetyczny do szukania optymalnych parametrów równania z wieloma parametrami, wykorzystamy ten algorytm do przewiadywania sprzedaży o dużej zmienności sezonowej
+      1.dowiemy się, jak korzystać ze środowiska Julia
+      1.dokonamy segmentacji tysięcy produktów poprzez analizę PCA wykonując dekompozycję macierzy.
+      1.napiszemy algorytm genetyczny do szukania optymalnych parametrów równania z wieloma parametrami, wykorzystamy ten algorytm do przewiadywania sprzedaży o dużej zmienności sezonowej
 
     **Algorytm genetyczny w 10 minut ? Big Data na komputerze PC ? Transformaty Fouriera i
     przewidywanie przyszłości ? W Julii to bardzo proste!**
