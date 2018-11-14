@@ -20,7 +20,11 @@ opis:
     Na warsztatach przedstawione zostaną możliwości (prostota, szybkość, uniwersalność), jakie daje zastosowanie Reactive Forms. Uczestnicy na własnej skórze (opuszkach palców?) przekonają się o nich samodzielnie tworząc formularze z wykorzystaniem dostarczonej oraz samodzielnie napisanej na warsztatach walidacji. 
 
     Po zajęciach uczestnicy warsztatu będę potrafili samodzielnie utworzyć dowolny formularz z zastosowaniem odpowiedniej walidacji.
-     
+
+
+    W trakcie zajęć uczesnicy korzystają z własnych laptopów.
+
+
 
     Wymagania:
      - Znajomość Javascriptu (nie jest wymagany zaawansowany poziom)
