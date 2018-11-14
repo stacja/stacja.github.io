@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2018-12-09
-title: "Warsztat #207 Analizy wielowymiarowe (PCA) i obliczenia równoległe w środowisku Julia"
+title: "Warsztat #208 Analizy wielowymiarowe (PCA) i obliczenia równoległe w środowisku Julia"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
 prowadzacy: klimczewski
