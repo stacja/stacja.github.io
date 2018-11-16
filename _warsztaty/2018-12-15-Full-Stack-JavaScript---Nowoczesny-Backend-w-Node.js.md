@@ -17,15 +17,15 @@ opis:
     JavaScript pojawił się ponad 20 lat temu jako język skryptowy w przeglądarkach internetowych, czyli po stronie klienta. Później zawitał też po stronie serwera jako Node.js, a dalszy jego rozwój pozwala nam dziś budować aplikacje mobilne czy desktopowe, programować bazy danych a nawet roboty.
 
     Idea Full Stack JavaScript opiera się na wykorzystaniu technologii webowych, HTML, CSS i JavaScript we wszystkich etapach budowy aplikacji:
-    • Strony internetowe (Czysty HTML+CSS+JavaScript, Angular, React, Vue)
-    • Aplikacje mobilne (Cordova, Capacitor, Ionic, NativeScript)
-    • Aplikacje desktopowe (Electron)
-    • Serwer (Node.js)
-    • Bazy danych (MongoDB Shell)
-    • IoT (Cylon.js, Johnny-five)
+     Strony internetowe (Czysty HTML+CSS+JavaScript, Angular, React, Vue)
+     Aplikacje mobilne (Cordova, Capacitor, Ionic, NativeScript)
+     Aplikacje desktopowe (Electron)
+     Serwer (Node.js)
+     Bazy danych (MongoDB Shell)
+     IoT (Cylon.js, Johnny-five)
 
     **Czego się nauczysz**
-    
+
     Na warsztacie stworzymy nowoczesny serwer w Node.js wykorzystując framework NestJS.
     Poznamy Express.js, na którym opiera się NestJS i jest jego silną podstawą.
     Będziemy pisali w TypeScript gdyż pozwala on nam na zastosowanie najnowszej wersji ECMAScript, a statyczne typowanie pomoże nam w utrzymaniu aplikacji na wysokim poziomie niezawodności.
