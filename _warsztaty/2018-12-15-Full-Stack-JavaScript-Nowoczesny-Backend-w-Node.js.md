@@ -12,17 +12,15 @@ dlugosc: 09:00-17:00
 opis:
   informacje: 
   
-    
-
     JavaScript pojawił się ponad 20 lat temu jako język skryptowy w przeglądarkach internetowych, czyli po stronie klienta. Później zawitał też po stronie serwera jako Node.js, a dalszy jego rozwój pozwala nam dziś budować aplikacje mobilne czy desktopowe, programować bazy danych a nawet roboty.
 
     Idea Full Stack JavaScript opiera się na wykorzystaniu technologii webowych, HTML, CSS i JavaScript we wszystkich etapach budowy aplikacji:
-     Strony internetowe (Czysty HTML+CSS+JavaScript, Angular, React, Vue)
-     Aplikacje mobilne (Cordova, Capacitor, Ionic, NativeScript)
-     Aplikacje desktopowe (Electron)
-     Serwer (Node.js)
-     Bazy danych (MongoDB Shell)
-     IoT (Cylon.js, Johnny-five)
+     - strony internetowe (Czysty HTML+CSS+JavaScript, Angular, React, Vue),
+     - aplikacje mobilne (Cordova, Capacitor, Ionic, NativeScript),
+     - aplikacje desktopowe (Electron,
+     - serwer (Node.js),
+     - bazy danych (MongoDB Shell),
+     - IoT (Cylon.js, Johnny-five).
 
     Czego się nauczysz?
 
@@ -33,7 +31,7 @@ opis:
     Stworzymy endpointy REST wraz z ich dokumentacją w formacie Swagger.
     Nauczymy się komunikować real-time przez WebSoket oraz stworzymy mikroserwisy komunikujące się ze sobą poprzez protokół TCP
 
-    Dla kogo jest ten warsztat
+    Dla kogo jest ten warsztat?
     Warsztat jest przeznaczone dla programistów ze znajomością JavaScript w zakresie podstawowym, lub z doświadczeniem w innym języku programowania np: Java, .Net, C, C++, Perl, Ruby, Python.
     Pomocna będzie znajomość TypeScript w zakresie podstawowym.
 
@@ -46,12 +44,12 @@ opis:
     1. TypeScript - podstawy.
     1. Express.js - podstawy.
     1. Architektura NestJS.
-         1. Nest CLI
-         1. Dependency Injection
-         1. Module
-         1. Controller
-         1. Gateway
-         1. Service
+       - Nest CLI
+       - Dependency Injection
+       - Module
+       - Controller
+       - Gateway
+       - Service
     
 
   uwaga: |
