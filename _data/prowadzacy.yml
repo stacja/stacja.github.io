@@ -300,3 +300,7 @@ zeromski:
   name: Mateusz Żeromski
   img: /img/portfolio/zeromski.png
   desc: "Mateusz, od zawsze (już od 18 lat) pracuje w trybie Agile. W swojej karierze tworzył ponad 10 startupów na różnych stanowiskach, od programisty do właściciela czy inwestora. W roku 2018 rozpoczął prowadzenie szkolenia Agile & Scrum. Zdobył certyfikaty PSM1, PSPO1 co pozwala mu udokumentować gruntowną wiedzę o całości zadań Scrum. Od września 2018 prowadzi bloga specjalistycznego www.zeromski.me. Aktualnie pracuje w Scrumie już od ponad 2 lat, jego duże doświadczenie zawodowe pozwala mu skutecznie przekazywać wiedzę na temat zwinnych metod."   
+blaszczak:
+  name: Piotr Błaszczak
+  img: /img/portfolio/blaszczak.png
+  desc: "Full Stack Web Developer od 2007, konsultant i szkoleniowiec. Zaczynał od PHP i MySQL lecz szybko dostrzegł potęgę JavaScript i NoSQL. Obecnie pisze backend w Node.js a front w Angular. Miłośnik RxJS oraz grafowej bazy danych OrientDB, ortodoksyjny ewangelista TypeScript :) Poza pracą zawodową, żongler i slackliner, jeden z organizatorów Urban Highline Festival w Lublinie."   
