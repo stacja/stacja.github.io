@@ -11,7 +11,7 @@ evenea_link: "https://FullStackJavaScript151218.evenea.pl/?out=1&source=event_if
 dlugosc: 09:00-17:00
 opis:
   informacje: 
-  |
+  
     
 
     JavaScript pojawił się ponad 20 lat temu jako język skryptowy w przeglądarkach internetowych, czyli po stronie klienta. Później zawitał też po stronie serwera jako Node.js, a dalszy jego rozwój pozwala nam dziś budować aplikacje mobilne czy desktopowe, programować bazy danych a nawet roboty.
@@ -25,6 +25,7 @@ opis:
     • IoT (Cylon.js, Johnny-five)
 
     **Czego się nauczysz**
+    
     Na warsztacie stworzymy nowoczesny serwer w Node.js wykorzystując framework NestJS.
     Poznamy Express.js, na którym opiera się NestJS i jest jego silną podstawą.
     Będziemy pisali w TypeScript gdyż pozwala on nam na zastosowanie najnowszej wersji ECMAScript, a statyczne typowanie pomoże nam w utrzymaniu aplikacji na wysokim poziomie niezawodności.
@@ -54,7 +55,6 @@ opis:
     
 
   uwaga: |
-    Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej li
-    czby uczestników.
+    Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
 
 
