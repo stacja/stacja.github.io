@@ -33,16 +33,16 @@ opis:
 
 
   program: |
-   1. Node.js i NPM - podstawy.
-   1. TypeScript - podstawy.
-   1. Express.js - podstawy.
-   1. Architektura NestJS.
-      1. Nest CLI
-      2. Dependency Injection
-      3. Module
-      4. Controller
-      5. Gateway
-      6. Service
+    1. Node.js i NPM - podstawy.
+    1. TypeScript - podstawy.
+    1. Express.js - podstawy.
+    1. Architektura NestJS.
+       1. Nest CLI
+       2. Dependency Injection
+       3. Module
+       4. Controller
+       5. Gateway
+       6. Service
     
 
   uwaga: |
