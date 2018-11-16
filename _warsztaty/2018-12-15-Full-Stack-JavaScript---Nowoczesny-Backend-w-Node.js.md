@@ -15,7 +15,7 @@ opis:
 
     JavaScript pojawił się ponad 20 lat temu jako język skryptowy w przeglądarkach internetowych, czyli po stronie klienta. Później zawitał też po stronie serwera jako Node.js, a dalszy jego rozwój pozwala nam dziś budować aplikacje mobilne czy desktopowe, programować bazy danych a nawet roboty.
 
-    Idea “Full Stack JavaScript” opiera się na wykorzystaniu technologii webowych, HTML, CSS i JavaScript we wszystkich etapach budowy aplikacji:
+    Idea Full Stack JavaScript opiera się na wykorzystaniu technologii webowych, HTML, CSS i JavaScript we wszystkich etapach budowy aplikacji:
     • Strony internetowe (Czysty HTML+CSS+JavaScript, Angular, React, Vue)
     • Aplikacje mobilne (Cordova, Capacitor, Ionic, NativeScript)
     • Aplikacje desktopowe (Electron)
@@ -55,4 +55,4 @@ opis:
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
 
-  
+
