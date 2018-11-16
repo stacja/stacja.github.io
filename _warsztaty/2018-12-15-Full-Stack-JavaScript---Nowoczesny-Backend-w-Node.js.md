@@ -46,12 +46,12 @@ opis:
     1. TypeScript - podstawy.
     1. Express.js - podstawy.
     1. Architektura NestJS.
-         a. Nest CLI
-         b. Dependency Injection
-         c. Module
-         d. Controller
-         e. Gateway
-         f. Service
+         1. Nest CLI
+         1. Dependency Injection
+         1. Module
+         1. Controller
+         1. Gateway
+         1. Service
     
 
   uwaga: |
