@@ -24,7 +24,7 @@ opis:
      Bazy danych (MongoDB Shell)
      IoT (Cylon.js, Johnny-five)
 
-    **Czego się nauczysz**
+    Czego się nauczysz?
 
     Na warsztacie stworzymy nowoczesny serwer w Node.js wykorzystując framework NestJS.
     Poznamy Express.js, na którym opiera się NestJS i jest jego silną podstawą.
