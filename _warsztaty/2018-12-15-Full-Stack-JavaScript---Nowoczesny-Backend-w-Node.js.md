@@ -34,7 +34,7 @@ opis:
     Nauczymy się komunikować real-time przez WebSoket oraz stworzymy mikroserwisy komunikujące się ze sobą poprzez protokół TCP
 
     Dla kogo jest ten warsztat
-    Warsztat jest przeznaczone dla programistów ze znajomością JavaScript w zakresie podstawowym, lub z doświadczeniem w innym języku programowania np: Java, .Net, C#, C++, Perl, Ruby, Python.
+    Warsztat jest przeznaczone dla programistów ze znajomością JavaScript w zakresie podstawowym, lub z doświadczeniem w innym języku programowania np: Java, .Net, C, C++, Perl, Ruby, Python.
     Pomocna będzie znajomość TypeScript w zakresie podstawowym.
 
     Podczas warsztatu zapewniemy dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegatariańskiej.
