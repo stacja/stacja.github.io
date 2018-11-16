@@ -10,8 +10,9 @@ prowadzacy: blaszczak
 evenea_link: "https://FullStackJavaScript151218.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
 opis:
-  informacje: |
-    **Na warsztacie zapoznamy się z serwerowym wykorzystaniem JavaScript.**
+  informacje: 
+  |
+    
 
     JavaScript pojawił się ponad 20 lat temu jako język skryptowy w przeglądarkach internetowych, czyli po stronie klienta. Później zawitał też po stronie serwera jako Node.js, a dalszy jego rozwój pozwala nam dziś budować aplikacje mobilne czy desktopowe, programować bazy danych a nawet roboty.
 
@@ -53,6 +54,7 @@ opis:
     
 
   uwaga: |
-    Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
+    Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej li
+    czby uczestników.
 
 
