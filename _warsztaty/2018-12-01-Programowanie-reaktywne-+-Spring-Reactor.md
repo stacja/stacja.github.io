@@ -3,7 +3,7 @@
 date: 2017-01-05
 # Data wydarzenia
 event_date: 2018-12-01
-title: "Warsztat #201 - Spring Reactor - programowanie reaktywne w Javie"
+title: "Warsztat #200 - Spring Reactor - programowanie reaktywne w Javie"
 lokalizacja: Sages
 prowadzacy: chrost
 evenea_link: "https://Springreactor011218.evenea.pl/?out=1&source=event_iframe"

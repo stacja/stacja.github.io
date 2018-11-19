@@ -4,7 +4,7 @@ date: 2018-05-02
 # Data wydarzenia
 event_date: 2018-12-08
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
-title: "Warsztat #206 W poszukiwaniu dobrych wymagań - ujęcie praktyczne"
+title: "Warsztat #204 W poszukiwaniu dobrych wymagań - ujęcie praktyczne"
 lokalizacja: Sages
 prowadzacy: zmitrowicz
 dlugosc: 9:00-17:00

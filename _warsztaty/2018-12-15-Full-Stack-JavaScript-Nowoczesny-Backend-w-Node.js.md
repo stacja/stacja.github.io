@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2018-12-15
-title: "Warsztat #209 Full Stack JavaScript - Nowoczesny Backend w Node.js"
+title: "Warsztat #207 Full Stack JavaScript - Nowoczesny Backend w Node.js"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: blaszczak
@@ -46,6 +46,6 @@ opis:
     
 
   uwaga: |
-    Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
-
+    Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.  
+    
 ---

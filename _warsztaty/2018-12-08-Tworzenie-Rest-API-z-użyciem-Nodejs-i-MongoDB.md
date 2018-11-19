@@ -4,7 +4,7 @@ date: 2018-05-02
 # Data wydarzenia
 event_date: 2018-12-08
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
-title: "Warsztat #205 Tworzenie Rest API z użyciem Nodejs i MongoDB"
+title: "Warsztat #203 Tworzenie Rest API z użyciem Nodejs i MongoDB"
 lokalizacja: BiurowiecCystersow
 prowadzacy: konior
 dlugosc: 9:00-17:00
