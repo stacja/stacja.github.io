@@ -19,7 +19,7 @@ opis:
 
     Kluczem do sukcesu w Agile jest praca iteracyjna, ciągła poprawa oparta na komunikacji i tworzeniu największej wartości dla Klienta. Na szkoleniu poznasz narzędzia i praktyczne zastosowania które mogą Ci pomóc w codziennej pracy.
 
-    Podczas warsztatu uczestnicy korzystają z własnych komputerów.
+  
 
     Podczas warsztatu zapewniemy dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegatariańskiej.
 
