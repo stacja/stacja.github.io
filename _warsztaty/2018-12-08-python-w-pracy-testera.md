@@ -3,7 +3,7 @@
 date: 2018-02-01
 # Data wydarzenia
 event_date: 2018-12-08
-title: "Warsztat #202 - Python w pracy testera"
+title: "Warsztat #203 - Python w pracy testera"
 lokalizacja: Lemar
 prowadzacy: topolski
 dlugosc: 9:00-17:00
