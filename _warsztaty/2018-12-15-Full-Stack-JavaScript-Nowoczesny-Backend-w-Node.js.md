@@ -24,6 +24,7 @@ opis:
       1. IoT (Cylon.js, Johnny-five).
 
     **Czego się nauczysz?**
+
     Na warsztacie stworzymy nowoczesny serwer w Node.js wykorzystując framework NestJS.
     Poznamy Express.js, na którym opiera się NestJS i jest jego silną podstawą.
     Będziemy pisali w TypeScript gdyż pozwala on nam na zastosowanie najnowszej wersji ECMAScript, a statyczne typowanie pomoże nam w utrzymaniu aplikacji na wysokim poziomie niezawodności.
@@ -32,6 +33,7 @@ opis:
     Nauczymy się komunikować real-time przez WebSoket oraz stworzymy mikroserwisy komunikujące się ze sobą poprzez protokół TCP
 
     **Dla kogo jest ten warsztat?**
+    
     Warsztat jest przeznaczone dla programistów ze znajomością JavaScript w zakresie podstawowym, lub z doświadczeniem w innym języku programowania np: Java, .Net, C#, C++, Perl, Ruby, Python.
     Pomocna będzie znajomość TypeScript w zakresie podstawowym.
 
