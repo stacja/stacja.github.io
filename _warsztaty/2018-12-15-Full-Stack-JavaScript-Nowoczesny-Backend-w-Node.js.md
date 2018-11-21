@@ -30,10 +30,10 @@ opis:
     Będziemy pisali w TypeScript gdyż pozwala on nam na zastosowanie najnowszej wersji ECMAScript, a statyczne typowanie pomoże nam w utrzymaniu aplikacji na wysokim poziomie niezawodności.
     Duży nacisk będzie kładziony na testy i Test Driven Development.
     Stworzymy endpointy REST wraz z ich dokumentacją w formacie Swagger.
-    Nauczymy się komunikować real-time przez WebSoket oraz stworzymy mikroserwisy komunikujące się ze sobą poprzez protokół TCP
+    Nauczymy się komunikować real-time przez WebSoket oraz stworzymy mikroserwisy komunikujące się ze sobą poprzez protokół TCP.
 
     **Dla kogo jest ten warsztat?**
-    
+
     Warsztat jest przeznaczone dla programistów ze znajomością JavaScript w zakresie podstawowym, lub z doświadczeniem w innym języku programowania np: Java, .Net, C#, C++, Perl, Ruby, Python.
     Pomocna będzie znajomość TypeScript w zakresie podstawowym.
 
