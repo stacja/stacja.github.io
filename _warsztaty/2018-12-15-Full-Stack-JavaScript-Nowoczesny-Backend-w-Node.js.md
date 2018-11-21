@@ -34,7 +34,7 @@ opis:
 
     **Dla kogo jest ten warsztat?**
 
-    Warsztat jest przeznaczone dla programistów ze znajomością JavaScript w zakresie podstawowym, lub z doświadczeniem w innym języku programowania np: Java, .Net, C#, C++, Perl, Ruby, Python.
+    Warsztat jest przeznaczony dla programistów ze znajomością JavaScript w zakresie podstawowym, lub z doświadczeniem w innym języku programowania np: Java, .Net, C#, C++, Perl, Ruby, Python.
     Pomocna będzie znajomość TypeScript w zakresie podstawowym.
 
 
