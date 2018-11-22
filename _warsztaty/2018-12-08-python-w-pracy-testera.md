@@ -7,7 +7,7 @@ title: "Warsztat #203 - Python w pracy testera"
 lokalizacja: Lemar
 prowadzacy: topolski
 dlugosc: 9:00-17:00
-cena: Warsztat bezpłatny, 4 edycja warsztatu
+cena: Warsztat płatny - od 79 PLN, 4 edycja warsztatu
 evenea_link: "https://pythontest091118.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
@@ -44,5 +44,5 @@ opis:
 
   uwaga: |
 
-    W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. **Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach wraz z instrukcją przygotowania środowiska otrzymasz najpóźniej na 7 dni przed planowaną datą wydarzenia.
+    Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
 ---
