@@ -12,7 +12,6 @@ dlugosc: 09:00-17:00
 opis:
   informacje: |
     
-
     JavaScript pojawił się ponad 20 lat temu jako język skryptowy w przeglądarkach internetowych, czyli po stronie klienta. Później zawitał też po stronie serwera jako Node.js, a dalszy jego rozwój pozwala nam dziś budować aplikacje mobilne czy desktopowe, programować bazy danych a nawet roboty.
 
     Idea “Full Stack JavaScript” opiera się na wykorzystaniu technologii webowych, HTML, CSS i JavaScript we wszystkich etapach budowy aplikacji::
