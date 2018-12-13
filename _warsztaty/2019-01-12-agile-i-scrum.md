@@ -16,7 +16,9 @@ opis:
 
     Pierwsza edycja warsztatów Agile&Scrum prowadzona przez Mateusza Żeromskiego zdobyła bardzo pozytywną ocenę uczestników.  Kolejna edycja została dostosowana do oczekiwań osób początkujących w zwinnych metodykach pracy.
 
-    Warsztat “Agile & Scrum podstawy” jest skierowany do osób które chcą poznać co naprawdę oznacza Agile, oraz co to jest Scrum. Aktualnie istnieje wiele mitów na temat tych metodyk - na warsztatach obalamy wszystkie znane mity co pozwala dokładnie poznać Agile Mindset, wartości i zasady pracy zespołowej.
+    Warsztat “Agile & Scrum” jest skierowany do osób które chcą poznać co naprawdę oznacza Agile, oraz co to jest Scrum. 50% czasu szkoleniowego jest poświęcone zasadom Agile. Druga połowa - podstawy Scrum.  Aktualnie istnieje wiele mitów na temat tych metodyk - na warsztatach obalamy wszystkie znane mity co pozwala dokładnie poznać Agile Mindset, wartości i zasady pracy zespołowej.
+
+    “Agile & Scrum” jest przeznaczony dla osób które zaczynają przygodę ze Scrum, lub chcą poznać podstawy wiedzy. Szersze omówienie zasad Scrum i roli Scrum Mastera jest omawiane w drugim dniu szkoleniowym, podczas kolejnych warsztatów.
 
     Na szkoleniu poznasz prawdziwie praktyczne podejście do Agile & Scrum. To nie jest szkolenie “po certyfikat” ale po wiedzę, omawiam aspekty zwinnego zarządzania pod kątem wytwarzania oprogramowania wskazując co i kiedy można najlepiej zastosować.
 
