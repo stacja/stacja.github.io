@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2018-09-24
 # Data wydarzenia
-event_date: 2018-11-25
+event_date: 2019-01-12
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 title: "Warsztat #207 Agile & Scrum w praktyce"
 lokalizacja: Sages
