@@ -9,7 +9,6 @@ lokalizacja: Sages
 prowadzacy: zeromski
 dlugosc: 9:00-17:00
 evenea_link: "https://ScrumScrumMaster.evenea.pl/?out=1&source=event_iframe"
-podcast_id: 7353053
 slideshare:
 opis:
   informacje: |
