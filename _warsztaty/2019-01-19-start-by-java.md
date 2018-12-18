@@ -6,7 +6,7 @@ event_date: 2019-01-19
 title: "Warsztat #209 - Start by Java"
 evenea_link: "https://startbyjava1901.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: Workband
-cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
+cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
 dlugosc: 9:00-17:00
 prowadzacy: labuz
 slideshare:
