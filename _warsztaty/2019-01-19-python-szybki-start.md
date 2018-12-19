@@ -3,8 +3,8 @@
 date: 2018-05-02
 # Data wydarzenia
 event_date: 2019-01-19
-cena: Warsztat płatny - od 79 PLN, 119 edycja warsztatu
-title: "#185 Python - szybki start"
+cena: Warsztat płatny - od 79 PLN, 11 edycja warsztatu
+title: "#211 Python - szybki start"
 lokalizacja: Sages
 prowadzacy: galka
 dlugosc: 9:00-17:00
@@ -63,7 +63,7 @@ opis:
        2. Parametry pozycyjne i nazwane funkcji.
        3. Wartości domyślne parametrów.
     1. Obsługa plików.
-       1. Bliki binarne i tekstowe.
+       1. Pliki binarne i tekstowe.
     1. Struktura programów Python.
        1. Moduły i pakiey.
        2. Zakres widoczności zmiennych.
