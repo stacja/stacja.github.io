@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-06-23
 # Data wydarzenia
-event_date: 2018-01-19
+event_date: 2019-01-19
 title: "Warsztat #213 Full Stack JavaScript - Nowoczesny Backend w Node.js"
 lokalizacja: BiurowiecCystersow
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
