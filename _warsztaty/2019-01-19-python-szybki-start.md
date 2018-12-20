@@ -4,7 +4,7 @@ date: 2018-05-02
 # Data wydarzenia
 event_date: 2019-01-19
 cena: Warsztat płatny - od 79 PLN, 11 edycja warsztatu
-title: "Warsztat #209 Python - szybki start"
+title: "Warsztat #210 Python - szybki start"
 lokalizacja: Sages
 prowadzacy: galka
 dlugosc: 9:00-17:00

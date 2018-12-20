@@ -3,7 +3,7 @@
 date: 2017-09-27
 # Data wydarzenia
 event_date: 2019-01-20
-title: "Warsztat #211 - Spring Framework – wprowadzenie"
+title: "Warsztat #213 - Spring Framework – wprowadzenie"
 evenea_link: "https://springframework1812.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: Workband
 cena: Warsztat płatny - od 79 PLN, 3 edycja warsztatu
