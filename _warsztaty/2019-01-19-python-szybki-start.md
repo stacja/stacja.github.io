@@ -67,7 +67,7 @@ opis:
     1. Struktura programów Python.
        1. Moduły i pakiey.
        2. Zakres widoczności zmiennych.
-       3. Co to jest __main__()?
+       3. Co to jest \_\_main\_\_()?
     
 
 
