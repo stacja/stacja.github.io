@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-01-05
 # Data wydarzenia
-event_date: 2018-02-09
+event_date: 2019-02-09
 title: "Warsztat #219 - Spring Reactor - programowanie reaktywne w Javie"
 lokalizacja: Workband
 prowadzacy: chrost
