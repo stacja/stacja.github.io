@@ -39,7 +39,7 @@ opis:
 
     **Dla kogo jest ten warsztat?**
 
-    WWarsztat jest przeznaczony dla programistów ze znajomością JavaScript/ES2015 w zakresie podstawowym. Zagadnienia, które będą używane, ale nie omawiane na warsztacie to:
+    Warsztat jest przeznaczony dla programistów ze znajomością JavaScript/ES2015 w zakresie podstawowym. Zagadnienia, które będą używane, ale nie omawiane na warsztacie to:
       - konstrukcje warunkowe,
       - pętle,
       - operatory logiczne,
