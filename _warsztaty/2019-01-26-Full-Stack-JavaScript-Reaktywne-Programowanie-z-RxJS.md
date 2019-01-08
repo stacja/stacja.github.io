@@ -51,6 +51,21 @@ opis:
       - Promise
       - callback
 
+      Dlaczego JavaScript?
+      
+      JavaScript pojawił się ponad 20 lat temu jako język skryptowy w przeglądarkach internetowych, czyli po stronie klienta. Później zawitał też po stronie serwera jako Node.js, a dalszy jego rozwój pozwala nam dziś budować aplikacje mobilne, desktopowe, programować bazy danych, a nawet roboty.
+
+      Czy wiedziałeś, że najbardziej popularne IDE dla web developerów Visual Studio Code jest napisane w TypeScript HTML i CSS ?
+
+      Idea “Full Stack JavaScript” opiera się na wykorzystaniu technologii webowych, HTML, CSS i JavaScript we wszystkich etapach budowy aplikacji:
+      - Strony internetowe (Czysty HTML+CSS+JavaScript, Angular, React, Vue)
+      - Aplikacje mobilne (Cordova, Capacitor, Ionic, NativeScript)
+      - Aplikacje desktopowe (Electron)
+      - Serwer (Node.js, Express, NestJS, Fastify)
+      - Bazy danych (MongoDB Shell)
+      - IoT (Cylon.js, Johnny-five)
+
+
 
 
        **Podczas warsztatu uczestnicy korzystają z własnych komputerów.**
