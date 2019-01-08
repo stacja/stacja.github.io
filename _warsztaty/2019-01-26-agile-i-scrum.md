@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-01-26
 cena: Warsztat płatny - od 79 PLN, 3 edycja warsztatu
-title: "Warsztat #215 Agile & Scrum"
+title: "Warsztat #216 Agile & Scrum"
 lokalizacja: BiurowiecCystersow
 prowadzacy: zeromski
 dlugosc: 9:00-17:00
