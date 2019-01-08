@@ -30,7 +30,5 @@ opis:
 
     [![alt](/img/logos/sjsi.png)](http://sjsi.org/)
 
-    [![alt](/img/logos/pw.png)](http://sjsi.org/)
-
     [![alt](/img/logos/weiti.jpg)](http://www.elka.pw.edu.pl/)
 ---
