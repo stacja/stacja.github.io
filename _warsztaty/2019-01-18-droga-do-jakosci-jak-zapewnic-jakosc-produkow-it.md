@@ -7,7 +7,6 @@ cena: Wydarzenie bezpłatne
 title: "Wykład: Droga do jakości - jak zapewnić jakość produków IT?"
 lokalizacja: Politechnika Warszawska
 prowadzacy: zmitrowicz
-type: bootcamp
 dlugosc: 18:00-21:00
 evenea_link: "https://drogadojakosci.evenea.pl/?out=1&source=event_iframe"
 slideshare:
