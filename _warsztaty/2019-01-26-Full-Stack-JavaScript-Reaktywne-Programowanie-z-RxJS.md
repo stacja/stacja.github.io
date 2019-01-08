@@ -12,7 +12,7 @@ dlugosc: 09:00-17:00
 opis:
   informacje: |
     
-    Przedstawiamy drugą część warsztatu z serii Full Stack JavaScript, w którym zapoznamy się z biblioteką RxJS oraz reaktywnym programowaniem w JavaScript.
+    Przedstawiamy kolejny warsztat z serii Full Stack JavaScript( po pierwszej części, którą był Full Stack JavaScript - Nowoczesny backend W Node.JS I TypeScript.), w którym zapoznamy się z biblioteką RxJS oraz reaktywnym programowaniem w JavaScript.
     RxJS to biblioteka wspierająca reaktywne programowanie przy użyciu Observables, pozwala na łatwiejsze programowanie operacji asynchronicznych opartych o promisy, czy funkcje zwrotne (callbacks). 
     RxJS to odpowiednik Lodash, jednakże skierowany do obsługi eventów.
 
@@ -39,7 +39,7 @@ opis:
 
     **Dla kogo jest ten warsztat?**
 
-    Warsztat jest przeznaczony dla programistów ze znajomością JavaScript/ES2015 w zakresie podstawowym. Zagadnienia, które będą używane, ale nie omawiane na warsztacie to:
+    Warsztat jest przeznaczony dla programistów ze znajomością JavaScript/ES2015 w zakresie podstawowym. Udział w pierwszej części serii nie jest obowiązkowy, pod warunkiem znajomości zagadnień, które będą używane, ale nie omawiane na warsztacie:
       - konstrukcje warunkowe,
       - pętle,
       - operatory logiczne,
@@ -51,7 +51,9 @@ opis:
       - Promise
       - callback
 
-      Dlaczego JavaScript?
+
+
+      **Dlaczego JavaScript?**
       
       JavaScript pojawił się ponad 20 lat temu jako język skryptowy w przeglądarkach internetowych, czyli po stronie klienta. Później zawitał też po stronie serwera jako Node.js, a dalszy jego rozwój pozwala nam dziś budować aplikacje mobilne, desktopowe, programować bazy danych, a nawet roboty.
 
