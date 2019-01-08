@@ -61,23 +61,23 @@ opis:
 
     1. Podstawy RxJS.
        - Podstawy działania strumieni
-          I. Observable
-          II. Observer
-          III. Subscription
-          IV. Callback vs Promise vs Observable
+          - Observable
+          - Observer
+          - Subscription
+          - Callback vs Promise vs Observable
         - Tworzenie strumieni
-          I. Własny strumień: Observable.create()
-          II. Wbudowane kreatory strumieni: of, from, fromEvent, timer...
+          - Własny strumień: Observable.create()
+          - Wbudowane kreatory strumieni: of, from, fromEvent, timer...
         - Jak działają operatory
-          I. Użycie metody pipe()
-          II. Podstawowe operatory: map, filter, reduce, switchMap
+          - Użycie metody pipe()
+          - Podstawowe operatory: map, filter, reduce, switchMap
         - Observable i Observer w jednym
-          I. Subject
-          II. Behavior Subject
-          III. Replay Subject
+          - Subject
+          - Behavior Subject
+          - Replay Subject
         - MultiCasting
-          I. Cold i Hot Observable
-          II. Operatory publish, share, multicast
+          - Cold i Hot Observable
+          - Operatory publish, share, multicast
      1. Praktyczne zastosowanie operatorów.
         - debounceTime
         - throttleTime
