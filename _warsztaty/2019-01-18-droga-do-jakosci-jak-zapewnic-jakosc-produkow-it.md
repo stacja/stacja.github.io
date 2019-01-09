@@ -4,7 +4,7 @@ date: 2019-01-08
 # Data wydarzenia
 event_date: 2019-01-18
 cena: Wydarzenie bezpłatne
-title: "Wykład: Droga do jakości - jak zapewnić jakość produków IT?"
+title: "Wykład: Droga do jakości - jak zapewnić jakość produktów IT?"
 lokalizacja: Politechnika Warszawska
 prowadzacy: zmitrowicz
 dlugosc: 18:00-21:00
