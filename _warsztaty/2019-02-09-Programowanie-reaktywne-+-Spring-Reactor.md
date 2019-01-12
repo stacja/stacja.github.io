@@ -3,7 +3,7 @@
 date: 2017-01-05
 # Data wydarzenia
 event_date: 2019-02-09
-title: "Warsztat #220 - Spring Reactor - programowanie reaktywne w Javie"
+title: "Warsztat #218 - Spring Reactor - programowanie reaktywne w Javie"
 lokalizacja: Workband
 prowadzacy: chrost
 evenea_link: "https://Springreactor0902.evenea.pl/?out=1&source=event_iframe"

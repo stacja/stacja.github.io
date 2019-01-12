@@ -3,7 +3,7 @@
 date: 2017-10-12
 # Data wydarzenia
 event_date: 2019-02-09
-title: "Warsztat #222 - GIT i GIT Flow w zespołach pracujących w CI/CD"
+title: "Warsztat #220 - GIT i GIT Flow w zespołach pracujących w CI/CD"
 evenea_link: "https://gitflowkrk.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: BiurowiecCystersow
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu

@@ -4,7 +4,7 @@ date: 2018-05-02
 # Data wydarzenia
 event_date: 2019-01-20
 cena: Warsztat płatny - 159 PLN, 3 edycja warsztatu
-title: "Warsztat #214 MicroPython, czyli szybki start w IoT"
+title: "Warsztat #212 MicroPython, czyli szybki start w IoT"
 lokalizacja: Sages
 prowadzacy: galka
 dlugosc: 9:00-17:00

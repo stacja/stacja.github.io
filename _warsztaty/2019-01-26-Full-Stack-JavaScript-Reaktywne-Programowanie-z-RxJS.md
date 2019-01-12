@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-01-26
-title: "Warsztat #215 Full Stack JavaScript - Reaktywne Programowanie z RxJS"
+title: "Warsztat #213 Full Stack JavaScript - Reaktywne Programowanie z RxJS"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: blaszczak

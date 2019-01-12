@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-01-20
-title: "Warsztat #212 Full Stack JavaScript - Nowoczesny Backend w Node.js i TypeScript cz.2"
+title: "Warsztat #211 Full Stack JavaScript - Nowoczesny Backend w Node.js i TypeScript cz.2"
 lokalizacja: BiurowiecCystersow
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
 prowadzacy: blaszczak
