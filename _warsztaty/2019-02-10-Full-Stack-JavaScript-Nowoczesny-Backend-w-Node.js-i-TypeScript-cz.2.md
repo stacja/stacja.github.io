@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-02-10
-title: "Warsztat #221 Full Stack JavaScript - Nowoczesny Backend w Node.js i TypeScript cz.2"
+title: "Warsztat #222 Full Stack JavaScript - Nowoczesny Backend w Node.js i TypeScript cz.2"
 lokalizacja: SaleOmega
 cena: Warsztat płatny - od 79 PLN, 4 edycja warsztatu
 prowadzacy: blaszczak
