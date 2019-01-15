@@ -2,54 +2,52 @@
 # Data dodania informacji o wydarzeniu
 date: 2018-09-24
 # Data wydarzenia
-event_date: 2019-02-02
-cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
-title: "Warsztat #216 Scrum & Scrum Master"
-lokalizacja: BiurowiecCystersow
-prowadzacy: zeromski
+event_date: 2019-02-09
+cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
+title: "Warsztat #221 Wprowadzenie do technologii Spring"
+lokalizacja: Sages
+prowadzacy: wyspianski
 dlugosc: 9:00-17:00
-evenea_link: "https://ScrumScrumMasterkrk.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://spring0902.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
 
-    Pierwsza edycja warsztatów Agile&Scrum prowadzona przez Mateusza Żeromskiego zdobyła bardzo pozytywną ocenę uczestników. Ten warsztat jest kontynuacją cyklu. Polecamy go osobom chcącym doskonalić pracę w zwinnych metodykach pracy.
+    Spring to najpopularniejszy framework aplikacji dla platformy Java. Rozwijany od 2002 - ‘zaczynał’ jako kontener implementujący wzorzec IoC - obecnie programiście bardzo wiele bibliotek do szybkiego tworzenia różnorodnych aplikacji.
 
-    Po warsztatach uczestnicy będa posiadali wiedzę pozwalającą na zdanie certyfikatu PSM1 po ok 5  dniach dodatkowej nauki. Materiały edukacyjne zostaną udostępnione, wraz możliwością wykupienia dostępu do platformy e-learningowej z testami PSM1 (około 500 różnych pytań).
+    **Czego się nauczysz?**
 
-    Scrum & Scrum Master - warsztaty są przeznaczone dla osób mających podstawy pracy w systemie Agile/Scrum i uczestników Agile & Scrum podstawy. W trakcie jest omawiany framework Scrum pod kątem osoby Scrum Mastera. 
+    Warsztat składa się z kilkunastu ćwiczeń, podczas których poznasz w praktyce działanie Spring’a. Oczywiście nie obejdzie się bez pisania testów ;) Zaczniemy od Hello World, na koniec dnia będziemy JSON’em przesyłać obiekt do aplikacji i zapisywać go w bazie danych. Poznamy, jak szybko można stworzyć prototyp aplikacji typu REST. Nauczymy się korzystać bogatej i przydatnej dokumentacji Spring’a. Wszystkie ćwiczenia z użyciem Spring Boot.
 
-    Zakładamy, że uczestnicy posiadają wiedzę na temat zwinnych metodyk lub pracują w firmach gdzie jest zaimplementowany Scrum. Od samego początku poruszamy się w środowisku Agile.
+    **Dla kogo ten warsztat?**
 
-    Każdy element składowy metodyki jest omawiany na przykładach praktycznych oraz również poprzez zadania szkoleniowe. Uczestnicy wcielają się w rolę Scrum Mastera i podejmują wyzwanie polegające na znalezieniu najlepszego rozwiązania dla problemów - zgodnie z zasadami Scrum.
+    Programiści chcący zrozumieć i poznać w praktyce działanie Spring’a. Potrzebna znajomość, któregokolwiek z języków: Java, Javascript, .Net, C#, C++, Perl, Ruby, Python etc.
 
-    Warsztaty zaczynają się od naprawdę krótkiego wprowadzenia w Scrum, a następnie poprzez kolejne zasady Scrum są omawiane możliwe problemy, oraz wypracowywanie najlepszych zachowań jakie może podjąć Scrum Master. 
-
-
-    Podczas warsztatu zapewniemy dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegatariańskiej.
 
   program: |
-
-    1. Wprowadzenie do Scrum (max 30 min w zależności od poziomu grupy). 
-    1. Scrum Framework.
-       Omówienie Scrum Framework od strony Scrum Mastera na podstawie praktyki. Realne i szkoleniowe sytuacje pozwolą poznać jakie są nalepsze zachowania w różnych sytuacjach.
-       1. Scrum Big Picture.
-       2. Product Backlog. 
-       3. Planning.
-       4. Sprint Backlog.
-       5. Sprint.
-       6. Daily.
-       7. Refinement.
-       8. Review.
-       9. Retrospective. 
-    1. Role w Scrum
-    1. Rola Scrum Master
-       1. Wspieranie zespołu.
-       2. Wspieranie PO.
-       3. Wspieranie przedsiębiorstwa.
-    1. Certyfikat PSM1 - omówienie i porady jak zdać egzamin.
-
-
+ 
+    1. Wprowadzenie 
+       1. Inversion of Control
+       1. Dependency Injection
+       1. Spring vs Spring Boot
+    1. Adnotacje (omówienie i użycie)
+       1. @SpringBootApplication
+       1. @Primary
+       1. @Qualifier
+       1. @Profile
+       1. @ConfigurationProperties
+       1. @Autowired
+       1. @WebMvcTest
+       1. @SpringBootTest
+       1. @AutoConfigureMockMvc
+       1. @TestPropertySource
+    1. Konfiguracja Spring
+       1. Java vs XML
+    1. Scope
+    1. Spring Initializr 
+       1. Szybkie generowanie projektów
+    1. Spring.io  
+       1. Korzystanie z oficjalnych przykładów
   
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
