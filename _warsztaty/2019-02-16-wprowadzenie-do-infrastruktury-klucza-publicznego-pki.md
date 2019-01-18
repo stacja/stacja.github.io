@@ -3,7 +3,7 @@
 date: 2017-01-20
 # Data wydarzenia
 event_date: 2019-02-16
-title: "Warsztat #224 Wprowadzenie do Infrastruktury Klucza Publicznego (PKI)"
+title: "Warsztat #223 Wprowadzenie do Infrastruktury Klucza Publicznego (PKI)"
 lokalizacja: BiurowiecCystersow
 prowadzacy: nazimek
 dlugosc: 9:30-17:30
