@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-02-16
-title: "Warsztat #226 Full Stack JavaScript - Nowoczesny Backend w Node.js i TypeScript cz.1"
+title: "Warsztat #224 Full Stack JavaScript - Nowoczesny Backend w Node.js i TypeScript cz.1"
 lokalizacja: Workband
 cena: Warsztat płatny - od 79 PLN, 5 edycja warsztatu
 prowadzacy: blaszczak
