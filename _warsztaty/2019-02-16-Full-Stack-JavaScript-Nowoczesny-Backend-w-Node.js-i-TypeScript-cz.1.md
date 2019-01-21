@@ -73,7 +73,7 @@ opis:
 
        **Podczas warsztatu uczestnicy korzystają z własnych komputerów.**
     
-    Podczas warsztatu zapewniemy dostęp do kawy, herbaty, wody oraz ciastek. W porze obiadowej zapewniamy zupę oraz kanapkę.
+    Podczas warsztatu zapewniemy dostęp do kawy, herbaty, wody oraz ciastek. W porze obiadowej zapewniamy lunch w formie pizzy.
 
   program: |
 
