@@ -29,6 +29,13 @@ layout: default
                     <hr/>
                     {% endif %}
 
+                    {% if page.opis['transkrypcja'] %}
+                    <h4 style="color:#fed136">TRANSKRYPCJA ODCINKA</h4>
+                    <hr/>
+                    {{ page.opis['transkrypcja'] | markdownify }}
+                    <hr/>
+                    {% endif %}
+
                     <h4 style="color:#fed136">Komentarze</h4>
                       <div id="disqus_thread"></div>
                       <script>
