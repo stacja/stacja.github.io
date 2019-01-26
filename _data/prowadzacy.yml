@@ -312,4 +312,8 @@ wyspianski:
   name: Łukasz Wyspiański
   img: /img/portfolio/lwyspianski.jpg
   desc: "Od 2012 Full Stack Developer (Java / Spring). Od 2017 także szkoleniowiec. Po pracy kontrabasista i bębniarz."
+kielbasa:
+  name: Kamil Kiełbasa
+  img: /img/portfolio/kielbasa.jpg
+  desc: "Programista, Architekt z ponad 8 letnim doświadczeniem w branży IT. Pracował zarówno jako Front-end jak i Back-end developer. Nie obce mu też tematy DevOps-owe. Obecnie programuje przy użyciu .NET Core, Vue.js, MongoDB, Docker oraz RabbitMQ. Wielki fan cloud computing, mikroserwisów, rozproszonych architektów i baz NoSQL. Po pracy, oprócz gier komputerowych i grania na gitarze, prowadzi bloga bd90.pl"
     
