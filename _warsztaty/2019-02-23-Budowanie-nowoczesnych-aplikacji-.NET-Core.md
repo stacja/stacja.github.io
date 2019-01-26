@@ -22,6 +22,8 @@ opis:
 
     Warsztat jest przeznaczony dla programistów ze znajomością C# w zakresie podstawowym lub z doświadczeniem w innych językach obiektowych np. Java. Znajomość platformy .NET nie jest wymagana, jednak będzie pomocna.
 
+    Dla uczestników przewidziana jest pizza, a także przerwy kawowe.
+
   program: |
 
     1. Wprowadzenie do platformy .NET Core.
