@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-02-23
-title: "Warsztat #227 Budowanie nowoczesnych aplikacji .NET Core"
+title: "Warsztat #224 Budowanie nowoczesnych aplikacji .NET Core"
 lokalizacja: Sages
 cena: Warsztat bezpłatny, 1 edycja warsztatu
 prowadzacy: kielbasa

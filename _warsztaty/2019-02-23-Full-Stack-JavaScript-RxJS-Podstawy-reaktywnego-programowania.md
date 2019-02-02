@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-02-23
-title: "Warsztat #230 Full Stack JavaScript - RxJS - podstawy reaktywnego programowania"
+title: "Warsztat #225 Full Stack JavaScript - RxJS - podstawy reaktywnego programowania"
 lokalizacja: BiurowiecCystersow
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
 prowadzacy: blaszczak

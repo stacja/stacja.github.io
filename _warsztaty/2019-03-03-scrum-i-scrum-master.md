@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-03-03
 cena: Warsztat płatny - od 79 PLN, 3 edycja warsztatu
-title: "Warsztat #208 Scrum & Scrum Master"
+title: "Warsztat #231 Scrum & Scrum Master"
 lokalizacja: Sages
 prowadzacy: zeromski
 dlugosc: 9:00-17:00

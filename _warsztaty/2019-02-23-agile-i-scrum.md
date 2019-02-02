@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-02-23
 cena: Warsztat płatny - od 79 PLN, 4 edycja warsztatu
-title: "Warsztat #228 Agile & Scrum"
+title: "Warsztat #226 Agile & Scrum"
 lokalizacja: SaleOmega
 prowadzacy: zeromski
 dlugosc: 9:00-17:00

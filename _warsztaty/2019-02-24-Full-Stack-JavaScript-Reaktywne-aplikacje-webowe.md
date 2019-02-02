@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-02-24
-title: "Warsztat #231 Full Stack JavaScript - NGRX - Reaktywne aplikacje webowe"
+title: "Warsztat #227 Full Stack JavaScript - NGRX - Reaktywne aplikacje webowe"
 lokalizacja: BiurowiecCystersow
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: blaszczak
