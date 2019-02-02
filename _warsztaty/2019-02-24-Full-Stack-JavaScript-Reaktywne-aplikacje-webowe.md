@@ -100,7 +100,7 @@ opis:
              - Wykonywanie asynchroniczne zadań
              - Pobieranie danych z serwera
              - Reagowanie na zmiany na store
-             - Transofmracje strumienia akcji
+             - Transformacje strumienia akcji
       5. Narzędzia
            - Redux DevTools - debugowanie
            - @ngrx/schematics - generowanie kodu
