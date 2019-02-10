@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2018-05-02
 # Data wydarzenia
-event_date: 2019-03-09
+event_date: 2019-03-23
 cena: Warsztat płatny - od 79 PLN, 12 edycja warsztatu
 title: "Warsztat #231 Python - szybki start"
 lokalizacja: BiurowiecCystersow
