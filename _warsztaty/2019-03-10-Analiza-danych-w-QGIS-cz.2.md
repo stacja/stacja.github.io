@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-03-10
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
-title: "Warsztat #231 Analiza danych w QGIS cz.2"
+title: "Warsztat #233 Analiza danych w QGIS cz.2"
 lokalizacja: Sages
 prowadzacy: brol
 dlugosc: 9:00-17:00
