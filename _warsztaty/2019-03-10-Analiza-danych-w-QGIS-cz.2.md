@@ -31,8 +31,6 @@ opis:
 
     Jeśli jesteś pracownikiem korporacji, urzędu czy każdej firmy, która wykorzystuje lub chce lepiej wykorzystywać informację przestrzenną, a nie wiesz jak to robić to szkolenie jest dla Ciebie. QGIS jest bardzo dobrym programem na rozpoczęcie przygody w środowisku GIS, który może stać się podstawowym narzędziem Twojej pracy w przyszłości.
 
-    Szkolenie zostanie przeprowadzone na wersji programu QGIS 3.4.
-    W tej części nie wymagana jest znajomość QGIS.
     Podczas warsztatu uczestnicy korzystają z własnych komputerów.
     QGIS jest do ściągnięcia na stronie: https://www.qgis.org/pl/site/forusers/download.html
 
