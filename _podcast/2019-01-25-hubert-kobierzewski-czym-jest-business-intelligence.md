@@ -28,11 +28,11 @@ opis:
     1. Jakie są najlepsze sposoby na rozwijanie się w tym kierunku?
 
   gosc: |
-    Hubert pracuje w firmie Codec jako BI Practice Lead i pomaga klientom zebrać ich dane oraz przekonwertować je w wartościowe informacje. Od lat związany z tematyką szeroko rozumianych rozwiązań Business Intelligence – od integracji, jakości danych, hurtowni danych, po zaawansowane systemy analityczne i raportowe.
+    Hubert pracuje w firmie [Codec](http://www.codec.pl/) jako BI Practice Lead i pomaga klientom zebrać ich dane oraz przekonwertować je w wartościowe informacje. Od lat związany z tematyką szeroko rozumianych rozwiązań Business Intelligence – od integracji, jakości danych, hurtowni danych, po zaawansowane systemy analityczne i raportowe.
 
     Realizował projekty dla wielu film w Polsce, Irlandii, UK, czy Szwajcarii.
 
-    Poza pracą Hubert prowadzi dwie grupy społecznościowe: warszawski oddział Data Community Poland oraz Warsaw Power BI User Group.
+    Poza pracą Hubert prowadzi dwie grupy społecznościowe: warszawski oddział [Data Community Poland](https://datacommunity.pl/) oraz Warsaw Power BI User Group.
   
   gosc_zdjecie: /img/podcast/hkobierzewski.jpg
 
