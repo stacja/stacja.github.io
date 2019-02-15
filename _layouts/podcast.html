@@ -28,6 +28,19 @@ layout: default
                     {{ page.opis['dodatkowe'] | markdownify }}
                     <hr/>
                     {% endif %}
+                    {% if page.opis['gosc'] %}
+                    <h4 style="color:#fed136">GOŚĆ ODCINKA</h4>
+                    <hr/>
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <img src="{{ page.opis['gosc_zdjecie'] | prepend: site.baseurl}}" class="img-responsive" alt="" />
+                        </div>
+                        <div class="col-lg-8">
+                            {{ page.opis['gosc'] | markdownify }}
+                        </div>
+                    </div>
+                    <hr/>
+                    {% endif %}
 
                     {% if page.opis['transkrypcja'] %}
                     <h4 style="color:#fed136">TRANSKRYPCJA ODCINKA</h4>
