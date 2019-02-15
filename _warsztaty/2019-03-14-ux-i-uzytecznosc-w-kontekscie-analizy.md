@@ -20,7 +20,7 @@ opis:
      - UX i inżyeria użyteczności - przegląd metod i technik wspierających prace analityczne,
      - podsumowanie i rekomendacje.
 
-     Na warsztat należy zabrać laptop. Nie ma potrzeby wykonywać żadnych instalacji.
+     Na warsztat należy zabrać laptop. Nie ma potrzeby wykonywania żadnych instalacji.
 
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
