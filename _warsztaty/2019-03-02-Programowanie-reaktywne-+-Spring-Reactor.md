@@ -3,7 +3,7 @@
 date: 2017-01-05
 # Data wydarzenia
 event_date: 2019-03-02
-title: "Warsztat #229 - Spring Reactor - programowanie reaktywne w Javie"
+title: "Warsztat #228 - Spring Reactor - programowanie reaktywne w Javie"
 lokalizacja: BiurowiecCystersow
 prowadzacy: chrost
 evenea_link: "https://Springreactor0203.evenea.pl/?out=1&source=event_iframe"

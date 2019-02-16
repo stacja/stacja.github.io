@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-02-24
 cena: Warsztat płatny - od 79 PLN, 3 edycja warsztatu
-title: "Warsztat #228 Scrum & Scrum Master"
+title: "Warsztat #227 Scrum & Scrum Master"
 lokalizacja: SaleOmega
 prowadzacy: zeromski
 dlugosc: 9:00-17:00

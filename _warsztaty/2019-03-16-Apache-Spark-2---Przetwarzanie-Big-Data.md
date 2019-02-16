@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-03-16
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
-title: "Warsztat #232 Apache Spark 2 - przetwarzanie Big Data"
+title: "Warsztat #233 Apache Spark 2 - przetwarzanie Big Data"
 lokalizacja: Sages
 prowadzacy: koszycki
 dlugosc: 9:00-17:00
