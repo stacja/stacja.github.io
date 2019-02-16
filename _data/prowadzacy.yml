@@ -316,4 +316,7 @@ kielbasa:
   name: Kamil Kiełbasa
   img: /img/portfolio/kielbasa.jpg
   desc: "Programista, Architekt z ponad 8 letnim doświadczeniem w branży IT. Pracował zarówno jako Front-end jak i Back-end developer. Nie obce mu też tematy DevOps-owe. Obecnie programuje przy użyciu .NET Core, Vue.js, MongoDB, Docker oraz RabbitMQ. Wielki fan cloud computing, mikroserwisów, rozproszonych architektów i baz NoSQL. Po pracy, oprócz gier komputerowych i grania na gitarze, prowadzi bloga bd90.pl"
-    
+koszycki:
+  name: Wojciech Koszycki
+  img: /img/portfolio/wkoszycki.jpg
+  desc: "Java, Scala software developer, tworzył i rozwijał Belgijskie żółte książki telefoniczne, ewidencje państwową CEPIK 2.0, platformę chmurową do przetwarzania "Big Data". Obecnie zajmuje się jedną z implementacji Blockchain 3.0. Wielki fan DevOps oraz infrastructure as a code. W wolnym czasie przemierza lasy i bezdroża motocyklem enduro."
