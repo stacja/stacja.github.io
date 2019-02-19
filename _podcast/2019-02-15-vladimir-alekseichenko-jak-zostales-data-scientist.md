@@ -20,6 +20,12 @@ opis:
     1. Skąd czerpiesz pewność siebie, aby prowadzić tak wiele różnych projektów?
     1. Czy masz jakiś określony cel, który chciałbyś osiągnąć?
 
+  gosc: |
+    Vladimir jest założycielem DataWorkshop, gdzie uczy ludzi jak zacząć stosować uczenie maszynowe w praktyce, między innymi tworzy [autorskie kursy online](http://www.dataworkshop.eu/pl/practical-machine-learning). Pomaga innym firmom zacząć stosować uczenie maszynowe we właściwy sposób, poszukując najpierw właściwy problem, a następnie rozwiązując go. Vladimir zdobywał doświadczenie zawodowe pracując w różnych obszarach informatyki, stykając się z różnorodnymi technologiami. Od 2008 pracuje w branży IT, od 2013 zajmuje się tematami związanymi z danymi i uczeniem maszynowym. Prowadzi podcast o sztucznej inteligencji - [BiznesMyśli](http://biznesmysli.pl/). Uczestniczy w konkursach Kaggle'a. Uwielbia pomagać innym, analizować dane i podróżować - odwiedził 30 krajów.
+
+  
+  gosc_zdjecie: /img/podcast/vladimir.jpeg
+
 
   transkrypcja: |
     Cześć, witam Was serdecznie w kolejnym odcinku podcastu „Stacja IT”. Dzisiaj mamy przyjemność porozmawiać z Vladimirem Alekseichenko.
