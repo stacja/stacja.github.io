@@ -5,6 +5,7 @@ episode: 3
 title: "Dawid Detko o Data Science, R i wizualizacji danych"
 mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_003_-_Dawid_Detko_o_Data_Science_R_i_wizualizacji_danych.mp3"
 libsyn_id: 6288954
+image: /img/podcast/okladka.png
 opis:
   informacje: |
     W tym odcinku Łukasz Kobyliński rozmawia z prowadzącym warsztaty na Stacji.IT Dawidem Detko o Data Science, języku R i wizualizacji danych.

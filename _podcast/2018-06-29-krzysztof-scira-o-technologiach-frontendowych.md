@@ -5,6 +5,7 @@ episode: 11
 title: "Krzysztof Ścira o technologiach frontendowych"
 mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_011_-_Krzysztof_Scira_o_technologiach_frontendowych.mp3"
 libsyn_id: 6758148
+image: /img/podcast/okladka.png
 opis:
   informacje: |
     W tym odcinku Łukasz Kobyliński rozmawia z Krzysztofem Ścirą o technologiach frontendowych - jaki jest ich obecny status i możliwości zastosowania w kontekście stron internetowych, aplikacji internetowych, mobilnych i desktopowych. 

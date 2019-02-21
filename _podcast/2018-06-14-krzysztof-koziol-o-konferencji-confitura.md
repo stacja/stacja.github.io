@@ -5,6 +5,7 @@ episode: 10
 title: "Krzysztof Kozioł o konferencji Confitura"
 mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_010_-_Krzysztof_Koziol_o_konferencji_Confitura.mp3"
 libsyn_id: 6705138
+image: /img/podcast/okladka.png
 opis:
   informacje: |
     W tym odcinku Łukasz Kobyliński rozmawia z Krzysztofem Koziołem o konferencji Confitura - jednej z największych w Polsce konferencji IT. 

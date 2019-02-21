@@ -5,6 +5,7 @@ episode: 19
 title: "Hubert Kobierzewski - Czym jest Business Intelligence"
 mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_019_-_Hubert_Kobierzewski_-_Czym_jest_Business_Intelligence.mp3"
 libsyn_id: 8392001
+image: /img/podcast/okladka.png
 opis:
   informacje: |
     W tym odcinku Łukasz Kobyliński rozmawia z Hubertem Kobierzewskim na temat Business Intelligence. Rozmawiamy o przebiegu wdrożenia BI w firmie, jego korzyściach oraz relacji w odniesieniu do analizy danych i Big Data. 

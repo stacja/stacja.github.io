@@ -5,6 +5,7 @@ episode: 18
 title: "Sebastian Chmielewski - O zapewnianiu jakości oprogramowania"
 mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_018_-_Sebastian_Chmielewski_-_O_zapewnianiu_jakosci_oprogramowania.mp3"
 libsyn_id: 7986902
+image: /img/podcast/okladka.png
 opis:
   informacje: |
     W tym odcinku Łukasz Kobyliński rozmawia z Sebastianem Chmielewskim o zapewnianiu jakości oprogramowania. Rozmawiamy o testowaniu manualnym, automatycznym oraz metodach zapewniania jakości oprogramowania.

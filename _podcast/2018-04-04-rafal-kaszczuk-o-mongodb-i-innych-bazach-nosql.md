@@ -5,6 +5,7 @@ episode: 6
 title: "Rafał Kaszczuk o MongoDB i innych bazach NoSQL"
 mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_006_-_Rafal_Kaszczuk_o_MongoDB_i_innych_bazach_NoSQL.mp3"
 libsyn_id: 6444108
+image: /img/podcast/okladka.png
 opis:
   informacje: |
     W tym odcinku Łukasz Kobyliński rozmawia z Rafałem Kaszczukiem o bazach NoSQL, o ich zastosowaniach, różnicach w stosunku do klasycznych baz danych, wadach, zaletach i związku z przetwarzaniem dużych danych. 

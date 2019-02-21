@@ -5,6 +5,7 @@ episode: 9
 title: "Tomek Sułkowski - Nie tylko Angular"
 mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_009_-_Tomek_Sulkowski_-_Nie_tylko_Angular.mp3"
 libsyn_id: 6649341
+image: /img/podcast/okladka.png
 opis:
   informacje: |
     W tym odcinku Łukasz Kobyliński rozmawia z Tomkiem Sułkowskim o technologiach frontendowych - czym charakteryzuje się praca programisty frontend, jakie są obecnie stosowane technologie i perspektywy na przyszłość. 

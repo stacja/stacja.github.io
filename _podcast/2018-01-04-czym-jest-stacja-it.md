@@ -5,6 +5,7 @@ episode: 1
 title: "Czym jest Stacja IT?"
 mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_001_-_Czym_jest_Stacja_IT.mp3"
 libsyn_id: 6188098
+image: /img/podcast/okladka.png
 opis:
   informacje: |
     W tym odcinku Jakub Nowacki i Łukasz Kobyliński rozmawiają o Stacji IT z Marią Świdniak i Jakubem Koperwasem.

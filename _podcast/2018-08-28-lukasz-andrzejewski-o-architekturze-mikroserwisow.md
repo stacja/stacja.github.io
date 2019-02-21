@@ -5,6 +5,7 @@ episode: 14
 title: "Łukasz Andrzejewski o architekturze mikroserwisów"
 mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_014_-_Lukasz_Andrzejewski_o_architekturze_mikroserwisow.mp3"
 libsyn_id: 6977757
+image: /img/podcast/okladka.png
 opis:
   informacje: |
     W tym odcinku Łukasz Kobyliński rozmawia z Łukaszem Andrzejewskim o architekturze mikroserwisów - kiedy warto stosować tego rodzaju architekturę, czym się charakteryzuje, jakie są wady i zalety. Łukasz opowiada też o swojej ścieżce rozwoju jako programista i o tym dlaczego spełnia się również jako trener.

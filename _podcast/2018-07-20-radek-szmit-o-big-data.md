@@ -5,6 +5,7 @@ episode: 12
 title: "Radek Szmit o Big Data"
 mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_012_-_Radek_Szmit_o_Big_Data.mp3"
 libsyn_id: 6833807
+image: /img/podcast/okladka.png
 opis:
   informacje: |
     W tym odcinku Łukasz Kobyliński rozmawia z Radkiem Szmitem o Big Data - czym jest, jakie korzyści daje organizacjom wykorzystującym analizę dużych danych, a także jak można zacząć zajmować się Big Data jako programista. 

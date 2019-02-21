@@ -5,6 +5,7 @@ episode: 16
 title: "Marcin Choiński - Jak wdrożyć Data Science w organizacji?"
 mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_016_-_Jak_wdrozyc_Data_Science_w_organizacji.mp3"
 libsyn_id: 7141697
+image: /img/podcast/okladka.png
 opis:
   informacje: |
     W tym odcinku Łukasz Kobyliński rozmawia z Marcinem Choińskim, kierownikiem studiów podyplomowych Data Science i Big Data w Zarządzaniu, o wdrażaniu podejścia zwanego "zarządzaniem w oparciu o dane" w organizacjach.

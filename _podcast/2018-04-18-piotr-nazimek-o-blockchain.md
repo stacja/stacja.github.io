@@ -5,6 +5,7 @@ episode: 7
 title: "Piotr Nazimek o Blockchain"
 mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_007_-_Piotr_Nazimek_o_Blockchain.mp3"
 libsyn_id: 6495454
+image: /img/podcast/okladka.png
 opis:
   informacje: |
     W tym odcinku Jakub Nowacki rozmawia z Piotrem Nazimkiem o tym czym jest Blockchain - jaki jest związek Blockchain z kryptowalutami i czy ta technologia jest rzeczywiście przyszłością Internetu? 

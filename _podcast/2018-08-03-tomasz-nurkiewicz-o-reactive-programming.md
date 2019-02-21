@@ -5,6 +5,7 @@ episode: 13
 title: "Tomasz Nurkiewicz o Reactive Programming"
 mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_013_-_Tomasz_Nurkiewicz_o_Reactive_Programming.mp3"
 libsyn_id: 6884538
+image: /img/podcast/okladka.png
 opis:
   informacje: |
     W tym odcinku Łukasz Kobyliński rozmawia z Tomaszem Nurkiewiczem o programowaniu reaktywnym - czym jest to podejście do programowania i kiedy warto je zastosować. Dlaczego Tomasz zdecydował się na napisanie książki o RxJava - bibliotece realizującej podejście Reactive Programming w Javie oraz o tym dlaczego udziela się w społeczności IT pisząc bloga, będąc prelegentem na konferencjach i pisząc odpowiedzi na Stack Overflow.

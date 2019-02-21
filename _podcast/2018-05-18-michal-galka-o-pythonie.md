@@ -5,6 +5,7 @@ episode: 8
 title: "Michał Gałka o Pythonie"
 mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_008_-_Michal_Galka_o_Pythonie.mp3"
 libsyn_id: 6608220
+image: /img/podcast/okladka.png
 opis:
   informacje: |
     W tym odcinku Łukasz Kobyliński rozmawia z Michałem Gałką o Pythonie - dlaczego wciąż zyskuje popularność, gdzie dobrze się sprawdza i jaka jest przyszłość tego języka programowania. 

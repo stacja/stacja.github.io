@@ -5,6 +5,7 @@ episode: 17
 title: "Witold Wysota - Jak współcześnie wygląda sytuacja programisty C++?"
 mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_017_-_Witold_Wysota_-_Jak_wspolczesnie_wyglada_sytuacja_programisty_CPP.mp3"
 libsyn_id: 7497806
+image: /img/podcast/okladka.png
 opis:
   informacje: |
     W tym odcinku Łukasz Kobyliński rozmawia z Witoldem Wysotą o języku C++ - jego rozwoju w ostatnich latach, zastosowaniach i rynku pracy, dostępnym dla programistów tego języka. Rozmawiamy również o obszarze systemów wbudowanych, a także o tym, czy trudno jest rozpocząć pracę jako programista w branży automotive.

@@ -5,6 +5,7 @@ episode: 15
 title: "Czym jest geoinformatyka?"
 mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_015_-_Czym_jest_geoinformatyka.mp3"
 libsyn_id: 7037158
+image: /img/podcast/okladka.png
 opis:
   informacje: |
     W tym odcinku Łukasz Kobyliński rozmawia z Rafałem Soleckim, kierownikiem studiów podyplomowych Geoinformatyka i geostatystyka, prowadzonych na Uniwersytecie Kardynała Stefana Wyszyńskiego w Warszawie, Pawłem Waligórą z Centrum Technologii Informacyjnych UKSW, a także z Robertem Bembenikiem z Politechniki Warszawskiej. Rozmawiamy o tym czym jest geoinformatyka - w jaki sposób pozyskiwać, przetwarzać, analizować i wykorzystywać dane przestrzenne w aplikacjach informatycznych. 

@@ -5,6 +5,7 @@ episode: 2
 title: "Dlaczego wszyscy mówią o Data Science?"
 mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_002_-_Dlaczego_wszyscy_mowia_o_Data_Science.mp3"
 libsyn_id: 6238724
+image: /img/podcast/okladka.png
 opis:
   informacje: |
     W tym odcinku Łukasz Kobyliński i Jakub Nowacki rozmawiają o Data Science.
