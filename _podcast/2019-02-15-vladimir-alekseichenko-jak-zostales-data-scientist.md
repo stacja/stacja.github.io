@@ -5,6 +5,7 @@ episode: 20
 title: "Vladimir Alekseichenko - Jak zostałeś Data Scientist"
 mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_020_-_Vladimir_Alekseichenko_-_Jak_zostae_Data_Scientist.mp3"
 libsyn_id: 8659994
+image: /img/podcast/okladka.png
 opis:
   informacje: |
     W tym odcinku Łukasz Kobyliński rozmawia z Vladimirem Alekseichenko na temat drogi, jaką przeszedł gość odcinka, aby zostać Data Scientist.
