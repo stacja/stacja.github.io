@@ -32,6 +32,7 @@ opis:
     Podczas warsztatu zapewniemy dostęp do kawy, herbaty, wody i ciastek. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegatariańskiej.
 
   program: 
+  
     1. Wprowadzenie(10 min)
        a. Omnie
        b. Jaki jest cel testów bezpieczeństwa?
