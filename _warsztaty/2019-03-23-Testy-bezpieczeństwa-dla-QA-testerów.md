@@ -26,13 +26,13 @@ opis:
      - znajomość obsługi systemu Linux lub Windows i podstawowa obsługa terminala
      - doświadczenie w przeprowadzaniu testów manualnych
 
-    Podczas warsztatu uczestnicy korzystają z własnych komputerów z systemem Linux, Windows lub MacOS. Wymagana jest instalacja wirtualnej maszyny z systemem Kali Linux w dowolnym menadżerze maszyn wirtualnych. Oprócz tego, każdy z użytkowników jest proszony o zainstalowanie aplikacji webowej „Web Goat”, która posłuży do przećwiczenia omawianych ataków. Instrukcja instalacji Web Goat oraz Kali Linux zostanie przekazana uczestnikom szkolenia drogą mailową.
+    Podczas warsztatu uczestnicy korzystają z własnych komputerów z systemem Linux, Windows lub MacOS. Wymagana jest instalacja wirtualnej maszyny z systemem Kali Linux w dowolnym menadżerze maszyn wirtualnych. Oprócz tego, każdy z użytkowników jest proszony o zainstalowanie aplikacji webowej Web Goat, która posłuży do przećwiczenia omawianych ataków. Instrukcja instalacji Web Goat oraz Kali Linux zostanie przekazana uczestnikom szkolenia drogą mailową.
   
 
     Podczas warsztatu zapewniemy dostęp do kawy, herbaty, wody i ciastek. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegatariańskiej.
 
   program: 
-  
+
     1. Wprowadzenie(10 min)
        a. Omnie
        b. Jaki jest cel testów bezpieczeństwa?
@@ -57,7 +57,7 @@ opis:
           skonfigurowanie Proxy http z użyciem Burp + Firefox, używanie Repeater’a
        c. Materiały dostarczane przez OWASP
        d. Narzędzia deweloperskie przeglądarki
-          Wykorzystywanie logów konsoli i zakładki „Network” jako źródła informacji
+          Wykorzystywanie logów konsoli i zakładki Network jako źródła informacji
     5. Etapy (fazy) przeprowadzenia testów bezpieczeństwa - teoretyczne omówienie (40 min)
        a. Rozpoznanie testowanego systemu (rekonesans / OSINT)
        b. Modelowanie i identyfikacja zagrożeń oraz podatności
