@@ -36,19 +36,19 @@ opis:
     1. Wprowadzenie(10 min)
        a. Omnie
        b. Jaki jest cel testów bezpieczeństwa?
-    2. Standardy w testach bezpieczeństwa (20 min)
+    1. Standardy w testach bezpieczeństwa (20 min)
        a. OWASP Top10 – na tym się skupiamy
        b. OWASP Testing Guide
        c. OWASP ASVS – minimum
        d. PTES – minimum
        e. OSSTMM – minimum
-    3. Przypomnienie niezbędnych wiadomości (30 min)
+    1. Przypomnienie niezbędnych wiadomości (30 min)
        a. http
           - metody http
           - nagłówki http
           - odpowiedzi http
           - demonstracja jak podglądać w przeglądarce żądania http
-    4. Narzędzia przydatne w testach bezpieczeństwa(1.5h)
+    1. Narzędzia przydatne w testach bezpieczeństwa(1.5h)
        a. Kali Linux jako system zawierający mnóstwo narzędzi przydatnych w testach (20 min)
           omówienie najważniejszych narzędzi: nmap, sqlmap, Metasploit.
           wykonanie prostego skanu przy użyciu nmap’a
@@ -58,17 +58,17 @@ opis:
        c. Materiały dostarczane przez OWASP
        d. Narzędzia deweloperskie przeglądarki
           Wykorzystywanie logów konsoli i zakładki Network jako źródła informacji
-    5. Etapy (fazy) przeprowadzenia testów bezpieczeństwa - teoretyczne omówienie (40 min)
+    1. Etapy (fazy) przeprowadzenia testów bezpieczeństwa - teoretyczne omówienie (40 min)
        a. Rozpoznanie testowanego systemu (rekonesans / OSINT)
        b. Modelowanie i identyfikacja zagrożeń oraz podatności
        c. Exploitacja
        d. Analiza ryzka
        e. Raportowanie
-    6. Podatności (20 min)
+    1. Podatności (20 min)
        a. Czym jest podatność?
        b. Klasyfikacja podatności.
        c. Bazy podatności.
-    7. Przegląd najważniejszych podatności: (3h)
+    1. Przegląd najważniejszych podatności: (3h)
        połączony z samodzielnym wykorzystaniem podatności przez uczestników szkolenia w aplikacji WebGoat
        a. Wstrzyknięcia (SQL Injection, XXE)
        b. Niepoprawna obsługa uwierzytelnienia
@@ -80,7 +80,7 @@ opis:
        h. Niepoprawna deserializacja
        i. Używanie komponentów ze znanymi podatnościami
        j. Niedostateczne monitorowanie i tworzenie logów
-    8. Tworzenie dobrego raportu z testów bezpieczeństwa
+    1. Tworzenie dobrego raportu z testów bezpieczeństwa
 
    
 
