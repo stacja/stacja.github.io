@@ -82,10 +82,6 @@ opis:
        j. Niedostateczne monitorowanie i tworzenie logów
     1. Tworzenie dobrego raportu z testów bezpieczeństwa
 
-   
-
-
-     
   
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
