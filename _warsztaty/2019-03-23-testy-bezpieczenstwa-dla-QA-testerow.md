@@ -31,7 +31,7 @@ opis:
 
     Podczas warsztatu zapewniemy dostęp do kawy, herbaty, wody i ciastek. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegatariańskiej.
 
-  program: 
+  program: |
 
     1. Wprowadzenie(10 min)
        1. Omnie
