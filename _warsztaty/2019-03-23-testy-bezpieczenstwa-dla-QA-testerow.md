@@ -1,6 +1,6 @@
 ---
 # Data dodania informacji o wydarzeniu
-date: 2018-09-24
+date: 2019-02-25
 # Data wydarzenia
 event_date: 2019-03-23
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
@@ -34,52 +34,51 @@ opis:
   program: 
 
     1. Wprowadzenie(10 min)
-       a. Omnie
-       b. Jaki jest cel testów bezpieczeństwa?
+       1. Omnie
+       2. Jaki jest cel testów bezpieczeństwa?
     1. Standardy w testach bezpieczeństwa (20 min)
-       a. OWASP Top10 – na tym się skupiamy
-       b. OWASP Testing Guide
-       c. OWASP ASVS – minimum
-       d. PTES – minimum
-       e. OSSTMM – minimum
+       1. OWASP Top10 – na tym się skupiamy
+       2. OWASP Testing Guide
+       3. OWASP ASVS – minimum
+       4. PTES – minimum
+       5. OSSTMM – minimum
     1. Przypomnienie niezbędnych wiadomości (30 min)
-       a. http
-          - metody http
-          - nagłówki http
-          - odpowiedzi http
-          - demonstracja jak podglądać w przeglądarce żądania http
+       1. Http
+          1. Metody http
+          2. Nagłówki http
+          3. Odpowiedzi http
+          4. Demonstracja jak podglądać w przeglądarce żądania http
     1. Narzędzia przydatne w testach bezpieczeństwa(1.5h)
-       a. Kali Linux jako system zawierający mnóstwo narzędzi przydatnych w testach (20 min)
-          omówienie najważniejszych narzędzi: nmap, sqlmap, Metasploit.
-          wykonanie prostego skanu przy użyciu nmap’a
-       b. Burp Suite
-          Burp Suite jako: Proxy, Repeater, narzędzie z możliwością wgrywania dużej ilości darmowych wtyczek
-          skonfigurowanie Proxy http z użyciem Burp + Firefox, używanie Repeater’a
-       c. Materiały dostarczane przez OWASP
-       d. Narzędzia deweloperskie przeglądarki
-          Wykorzystywanie logów konsoli i zakładki Network jako źródła informacji
+       1. Kali Linux jako system zawierający mnóstwo narzędzi przydatnych w testach (20 min)
+          1. Omówienie najważniejszych narzędzi: nmap, sqlmap, Metasploit.
+          2. Wykonanie prostego skanu przy użyciu nmap’a
+       2. Burp Suite
+          1. Burp Suite jako: Proxy, Repeater, narzędzie z możliwością wgrywania dużej ilości darmowych wtyczek
+          2. Skonfigurowanie Proxy http z użyciem Burp + Firefox, używanie Repeater’a
+       3. Materiały dostarczane przez OWASP
+       4. Narzędzia deweloperskie przeglądarki
+          1. Wykorzystywanie logów konsoli i zakładki Network jako źródła informacji
     1. Etapy (fazy) przeprowadzenia testów bezpieczeństwa - teoretyczne omówienie (40 min)
-       a. Rozpoznanie testowanego systemu (rekonesans / OSINT)
-       b. Modelowanie i identyfikacja zagrożeń oraz podatności
-       c. Exploitacja
-       d. Analiza ryzka
-       e. Raportowanie
+       1. Rozpoznanie testowanego systemu (rekonesans / OSINT)
+       2. Modelowanie i identyfikacja zagrożeń oraz podatności
+       3. Exploitacja
+       4. Analiza ryzka
+       5. Raportowanie
     1. Podatności (20 min)
-       a. Czym jest podatność?
-       b. Klasyfikacja podatności.
-       c. Bazy podatności.
-    1. Przegląd najważniejszych podatności: (3h)
-       połączony z samodzielnym wykorzystaniem podatności przez uczestników szkolenia w aplikacji WebGoat
-       a. Wstrzyknięcia (SQL Injection, XXE)
-       b. Niepoprawna obsługa uwierzytelnienia
-       c. Ujawnienie danych wrażliwych
-       d. XXE
-       e. Nieprawidłowa kontrola dostępu
-       f. Niepoprawna konfiguracja mechanizmów bezpieczeństwa
-       g. XSS
-       h. Niepoprawna deserializacja
-       i. Używanie komponentów ze znanymi podatnościami
-       j. Niedostateczne monitorowanie i tworzenie logów
+       1. Czym jest podatność?
+       2. Klasyfikacja podatności.
+       3. Bazy podatności.
+    1. Przegląd najważniejszych podatności: (3h) (połączony z samodzielnym wykorzystaniem podatności przez uczestników szkolenia w aplikacji WebGoat)
+       1. Wstrzyknięcia (SQL Injection, XXE)
+       2. Niepoprawna obsługa uwierzytelnienia
+       3. Ujawnienie danych wrażliwych
+       4. XXE
+       5. Nieprawidłowa kontrola dostępu
+       6. Niepoprawna konfiguracja mechanizmów bezpieczeństwa
+       7. XSS
+       8. Niepoprawna deserializacja
+       9. Używanie komponentów ze znanymi podatnościami
+       10. Niedostateczne monitorowanie i tworzenie logów
     1. Tworzenie dobrego raportu z testów bezpieczeństwa
 
   
