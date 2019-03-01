@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-03-16
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
-title: "Warsztat #234 Wprowadzenie do technologii Spring"
+title: "Warsztat #232 Wprowadzenie do technologii Spring"
 lokalizacja: BiurowiecCystersow
 prowadzacy: wyspianski
 dlugosc: 9:00-17:00

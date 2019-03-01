@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-03-30
-title: "Warsztat #240 Full Stack JavaScript - RxJS - podstawy reaktywnego programowania"
+title: "Warsztat #239 Full Stack JavaScript - RxJS - podstawy reaktywnego programowania"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 4 edycja warsztatu
 prowadzacy: blaszczak

@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-03-23
-title: "Warsztat #235 Full Stack JavaScript - RxJS - podstawy reaktywnego programowania"
+title: "Warsztat #233 Full Stack JavaScript - RxJS - podstawy reaktywnego programowania"
 lokalizacja: Workband
 cena: Warsztat płatny - od 79 PLN, 3 edycja warsztatu
 prowadzacy: blaszczak
