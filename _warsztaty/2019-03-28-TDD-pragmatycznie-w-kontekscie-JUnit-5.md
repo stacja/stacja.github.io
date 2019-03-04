@@ -13,6 +13,8 @@ slideshare:
 opis:
   informacje: |
 
+  UWAGA: Warsztat odbywa się w czwartek.
+
     Pragmatyczne wprowadzenie do Test-driven development. Podczas tego warsztatu skupimy się na procesie wytwarzania oprogramowania sterowanego przez testy. Wytłumaczymy także, że TDD to nie jest jedynie praktyka pisania testów jednostkowych. Warsztat dedykowany jest dla programistów języka Java, którzy chcą nauczyć się, jak wytwarzać najwyższej jakości oprogramowanie zgodnie z wymaganiami biznesowymi.
 
 
