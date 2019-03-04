@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2019-01-08
 # Data wydarzenia
-event_date: 2019-03-14
+event_date: 2019-03-28
 cena: Wydarzenie bezpłatne
 title: "Spotkanie warsztatowe: UX i użyteczność w kontekście Analizy"
 lokalizacja: Sages
