@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-03-28
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
-title: "Warsztat #242 TDD - pragmatycznie w kontekście JUnit 5"
+title: "Warsztat #239 TDD - pragmatycznie w kontekście JUnit 5"
 lokalizacja: Sages
 prowadzacy: wojtyna
 dlugosc: 9:00-17:00
