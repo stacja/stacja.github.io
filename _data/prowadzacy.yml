@@ -324,6 +324,10 @@ kowalczyk:
   name: Mikołaj Kowalczyk
   img: /img/portfolio/kowalczyk.png
   desc: "Tester z doświadczeniem w zakresie testów bezpieczeństwa aplikacji webowych. Wykonywał testy bezpieczeństwa dużych aplikacji bankowych, sklepów internetowych, systemów SCADA oraz oprogramowania open-source. Entuzjasta wolnego oprogramowania oraz prywatności w sieci."
+wojtyna:
+  name: Michał Wojtyna
+  img: /img/portfolio/wojtyna.png
+  desc: "Pasjonat dobrych praktyk programistycznych, od lat związany z technologiami JVM. Domain-driven design i Test-driven development to jedne z jego ulubionych technik wytwarzania oprogramowania. W przeszłości prowadził własny startup, pracował jako freelancer a później założyciel własnego małego software house’u. Oprócz programowania zajmuje się również szkoleniami, konsultacjami i pisze artykuły na temat inżynierii oprogramowania."
   
 
 --- 
