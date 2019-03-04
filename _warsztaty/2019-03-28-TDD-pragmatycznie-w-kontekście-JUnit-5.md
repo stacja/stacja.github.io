@@ -8,7 +8,7 @@ title: "Warsztat #242 TDD - pragmatycznie w kontekście JUnit 5"
 lokalizacja: Sages
 prowadzacy: wojtyna
 dlugosc: 9:00-17:00
-evenea_link: "https://spring0902.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://JUnit5.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
@@ -30,7 +30,7 @@ opis:
   program: |
  
     1. TDD vs testy jednostkowe.
-    1.Trzy zasady TDD - interpretacja pragmatyczna.
+    1. Trzy zasady TDD - interpretacja pragmatyczna.
     1. Wprowadzenie do podstaw JUnit 5.
     1. Ćwiczenia TDD (TDD Kata) i programowanie w parach.
     1. Ćwiczenia z modelowania logiki biznesowej za pomocą TDD.
