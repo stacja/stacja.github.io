@@ -11,7 +11,6 @@ opis:
     W tym odcinku Łukasz Kobyliński rozmawia z Kamilem Mrzygłodem na temat rozwiązań chmurowych, w szczególności o ich zastosowaniach, możliwościach oraz kosztach.
 
   konspekt: |
-    1. W tym odcinku Łukasz Kobyliński rozmawia z Kamilem Mrzygłodem na temat rozwiązań chmurowych, w szczególności o ich zastosowaniach, możliwościach oraz kosztach.
     1. Czy według Ciebie rozwiązania chmurowe to temat już dobrze znanany, czy jest duża świadomość korzystania z tego, czy wręcz przeciwnie?
     2. Jakie są korzyści używania chmury?
     3. W jakich zastowoaniach ma sens korzystanie z rozwiązań chmurowych?
@@ -20,7 +19,9 @@ opis:
     6. Jakie są koszty chmury?
 
   gosc: |
-    Kamil - Software Developer w Demant Technology Centre. W wolnych chwilach konsultant, trener, architekt oraz Microsoft Azure MVP.
+    Kamil - Software Developer w Demant Technology Centre. Programista, konsultant, architekt oraz aspirujący ekspert od chmury Azure oraz Big Data. Doświadczenie zdobywał w międzynarodowych projektach z sektora finansowego oraz medycznego. 
+
+    W wolnych chwilach prelegent, autor bloga oraz właściciel buldoga francuskiego.
 
   
   gosc_zdjecie: /img/podcast/kmrzyglod.jpg
