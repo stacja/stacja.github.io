@@ -328,6 +328,9 @@ wojtyna:
   name: Michał Wojtyna
   img: /img/portfolio/wojtyna.png
   desc: "Pasjonat dobrych praktyk programistycznych, od lat związany z technologiami JVM. Domain-driven design i Test-driven development to jedne z jego ulubionych technik wytwarzania oprogramowania. W przeszłości prowadził własny startup, pracował jako freelancer a później założyciel własnego małego software house’u. Oprócz programowania zajmuje się również szkoleniami, konsultacjami i pisze artykuły na temat inżynierii oprogramowania."
-  
+  lewinski:
+  name: Paweł Lewiński
+  img: /img/portfolio/lewinski.png
+  desc: "Później mówiono, że człowiek ten nadszedł od północy. Scrum Master w Binarapps, gdzie razem ze wspaniałymi zespołami tworzy aplikacje i portale dla międzynarodowych klientów. Zwolennik zmian, ciągłego doskonalenia i wychodzenia ze strefy komfortu. W wolnych chwilach wydaje własne aplikacje na Androida, tworzy historyczne infografiki lub obrazkowe przepisy kulinarne cookentials. "
 
 --- 
