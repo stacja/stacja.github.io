@@ -19,6 +19,12 @@ opis:
 
     Podczas warsztatu zapewniemy dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegetariańskiej.
 
+    **Opinie uczestników poprzednich edycji:**
+
+     - na plus zróżnicowany warsztat i świetny prowadzący:)
+     - Praktyczne przykłady pokazane na szkoleniu
+     - Dałem ocenę 5, ponieważ potrafi skupić uwagę słuchacza, mówi w ciekawy sposób oraz przekazuje fajnie wiedzę.
+
   program: |
 
     1. Jak działają systemy kontroli wersji
