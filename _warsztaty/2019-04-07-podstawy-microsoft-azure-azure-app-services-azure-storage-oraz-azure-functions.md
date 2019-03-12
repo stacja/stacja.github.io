@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-04-07
-title: "Warsztat #245 Podstawy Microsoft Azure - Azure App Services, Azure Storage oraz Azure Functions"
+title: "Warsztat #243 Podstawy Microsoft Azure - Azure App Services, Azure Storage oraz Azure Functions"
 lokalizacja: Sages
 cena: od 79 zł, 2 edycja warsztatu
 prowadzacy: mrzyglod

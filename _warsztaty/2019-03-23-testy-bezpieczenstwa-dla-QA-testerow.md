@@ -4,7 +4,7 @@ date: 2019-02-25
 # Data wydarzenia
 event_date: 2019-03-23
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
-title: "Warsztat #235 Testy bezpieczeństwa dla QA/testerów"
+title: "Warsztat #234 Testy bezpieczeństwa dla QA/testerów"
 lokalizacja: Sages
 prowadzacy: kowalczyk
 dlugosc: 9:00-17:00

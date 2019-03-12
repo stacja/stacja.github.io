@@ -4,7 +4,7 @@ date: 2018-05-02
 # Data wydarzenia
 event_date: 2019-03-24
 cena: Warsztat płatny - 169 PLN, 4 edycja warsztatu
-title: "Warsztat #238 MicroPython, czyli szybki start w IoT"
+title: "Warsztat #237 MicroPython, czyli szybki start w IoT"
 lokalizacja: BiurowiecCystersow
 prowadzacy: galka
 dlugosc: 9:00-17:00

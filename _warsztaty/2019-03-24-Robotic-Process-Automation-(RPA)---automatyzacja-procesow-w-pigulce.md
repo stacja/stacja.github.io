@@ -3,7 +3,7 @@
 date: 2017-01-05
 # Data wydarzenia
 event_date: 2019-03-24
-title: "Warsztat #236 - Robotic Process Automation (RPA) - automatyzacja procesów w pigułce"
+title: "Warsztat #235 - Robotic Process Automation (RPA) - automatyzacja procesów w pigułce"
 lokalizacja: Sages
 prowadzacy: chmielarski
 evenea_link: "https://rpa2403.evenea.pl/?out=1&source=event_iframe"

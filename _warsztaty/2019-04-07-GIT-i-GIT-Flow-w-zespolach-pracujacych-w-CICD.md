@@ -3,7 +3,7 @@
 date: 2017-10-12
 # Data wydarzenia
 event_date: 2019-04-07
-title: "Warsztat #243 - GIT i GIT Flow w zespołach pracujących w CI/CD"
+title: "Warsztat #244 - GIT i GIT Flow w zespołach pracujących w CI/CD"
 evenea_link: "https://gitflowwroc.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: Workband
 cena: Warsztat płatny - od 79 PLN, 3 edycja warsztatu
