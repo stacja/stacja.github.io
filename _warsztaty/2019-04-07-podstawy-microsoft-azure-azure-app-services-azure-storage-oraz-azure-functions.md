@@ -26,6 +26,11 @@ opis:
 
     Dla uczestników przewidziana jest pizza, a także przerwy kawowe.
 
+
+    **Opinie uczestników poprzednich edycji:**
+        - Ogólnie wszystko super
+        - Na duży plus część o Storage
+
   program: |
 
     1. Wprowadzenie do usług Azure App Services, Azure Functions oraz Azure Storage.
@@ -42,11 +47,6 @@ opis:
           - Tworzenie API dzięki HttpTrigger
           - Integracja Azure Functions z Azure Storage
           - Testowanie, debuggowanie, lokalny development
-
-
-      ** Opinie uczestników poprzednich edycji: **
-        - Ogólnie wszystko super
-        - Na duży plus część o Storage
 
 
   uwaga: |
