@@ -44,6 +44,11 @@ opis:
           - Testowanie, debuggowanie, lokalny development
 
 
+      **Opinie uczestników poprzednich edycji:**
+        - Ogólnie wszystko super
+        - Na duży plus część o Storage
+
+
   uwaga: |
     Liczba miejsc ograniczona. Organizator zastrzega sobie prawo do odwołania wydarzenia w przypadku nie zebrania wystarczającej liczby uczestników
 
