@@ -44,7 +44,7 @@ opis:
           - Testowanie, debuggowanie, lokalny development
 
 
-      **Opinie uczestników poprzednich edycji:**
+      ** Opinie uczestników poprzednich edycji: **
         - Ogólnie wszystko super
         - Na duży plus część o Storage
 
