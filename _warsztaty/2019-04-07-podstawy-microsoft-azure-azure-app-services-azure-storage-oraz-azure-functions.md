@@ -28,8 +28,8 @@ opis:
 
 
     **Opinie uczestników poprzednich edycji:**
-        1. Ogólnie wszystko super
-        1. Na duży plus część o Storage
+        - Ogólnie wszystko super
+        - Na duży plus część o Storage
 
   program: |
 
