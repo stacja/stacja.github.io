@@ -8,7 +8,7 @@ lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: lewinski
 evenea_link: "https://houseofscrum.evenea.pl/?out=1&source=event_iframe"
-dlugosc: 09:00-17:00
+dlugosc: 10:00-18:00
 opis:
   informacje: |
     
