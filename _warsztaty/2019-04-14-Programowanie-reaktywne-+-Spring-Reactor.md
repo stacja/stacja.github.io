@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-01-05
 # Data wydarzenia
-event_date: 2019-04-14
+event_date: 2019-04-13
 title: "Warsztat #247 - Spring Reactor - programowanie reaktywne w Javie"
 lokalizacja: Sages
 prowadzacy: chrost
