@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2018-09-24
 # Data wydarzenia
-event_date: 2019-03-02
+event_date: 2019-04-13
 cena: Warsztat płatny - od 79 PLN, 5 edycja warsztatu
 title: "Warsztat #244 Agile & Scrum"
 lokalizacja: Workband
