@@ -6,7 +6,7 @@ event_date: 2019-04-14
 title: "Warsztat #248 Wprowadzenie do ReactJS"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
-prowadzacy: Bialas
+prowadzacy: bialas
 evenea_link: "https://ReactJS2.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
 opis:
