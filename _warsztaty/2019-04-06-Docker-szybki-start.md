@@ -5,7 +5,7 @@ date: 2018-09-24
 event_date: 2019-04-06
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 title: "Warsztat #245 Docker - szybki start"
-lokalizacja: BiurowiecCystersów
+lokalizacja: BiurowiecCystersow
 prowadzacy: wyspianski
 dlugosc: 9:00-17:00
 evenea_link: "https://Dockerstart.evenea.pl/?out=1&source=event_iframe"
