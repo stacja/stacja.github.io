@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-04-06
-title: "Warsztat #241 House of Scrum"
+title: "Warsztat #242 House of Scrum"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: lewinski
