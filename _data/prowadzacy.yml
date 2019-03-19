@@ -332,5 +332,8 @@ lewinski:
   name: Paweł Lewiński
   img: /img/portfolio/lewinski.png
   desc: "Później mówiono, że człowiek ten nadszedł od północy. Scrum Master w Binarapps, gdzie razem ze wspaniałymi zespołami tworzy aplikacje i portale dla międzynarodowych klientów. Zwolennik zmian, ciągłego doskonalenia i wychodzenia ze strefy komfortu. W wolnych chwilach wydaje własne aplikacje na Androida, tworzy historyczne infografiki lub obrazkowe przepisy kulinarne cookentials. "
-
+pilarski:
+  name: Patryk Pilarski
+  img: /img/portfolio/ppilarski.png
+  desc: "Data scientist, trener. Zawodowo pracuje z danymi od ponad dwóch lat. Pasjonat technologii i przetwarzania danych w każdej skali. Mól książkowy. Uwielbia pisać opisy do wszelkiego rodzaju sekcji o sobie :)"
 --- 
