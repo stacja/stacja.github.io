@@ -5,7 +5,7 @@ date: 2018-05-02
 event_date: 2019-03-23
 cena: Warsztat płatny - od 79 PLN, 12 edycja warsztatu
 title: "Warsztat #233 Python - szybki start"
-lokalizacja: BiurowiecCystersow
+lokalizacja: 
 prowadzacy: galka
 dlugosc: 9:00-17:00
 evenea_link: "https://pythonstartkrk.evenea.pl/?out=1&source=event_iframe"
