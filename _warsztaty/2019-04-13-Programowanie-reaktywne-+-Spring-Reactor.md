@@ -3,7 +3,7 @@
 date: 2017-01-05
 # Data wydarzenia
 event_date: 2019-04-13
-title: "Warsztat #245 - Reactor i programowanie reaktywne w języku Java"
+title: "Warsztat #246 - Reactor i programowanie reaktywne w języku Java"
 lokalizacja: Sages
 prowadzacy: chrost
 evenea_link: "https://Springreactor3.evenea.pl/?out=1&source=event_iframe"

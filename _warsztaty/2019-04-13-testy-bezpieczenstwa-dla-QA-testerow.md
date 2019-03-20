@@ -4,7 +4,7 @@ date: 2019-02-25
 # Data wydarzenia
 event_date: 2019-04-13
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
-title: "Warsztat #234 Testy bezpieczeństwa dla QA/testerów"
+title: "Warsztat #250 Testy bezpieczeństwa dla QA/testerów"
 lokalizacja: SaleOmega
 prowadzacy: kowalczyk
 dlugosc: 9:00-17:00

@@ -3,7 +3,7 @@
 date: 2018-09-27
 # Data wydarzenia
 event_date: 2019-04-13
-title: "Warsztat #251 - Start by Java"
+title: "Warsztat #249 - Start by Java"
 evenea_link: "https://startbyjava2.evenea.pl/?out=1&source=event_iframe"
 lokalizacja: BiurowiecCystersow
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu

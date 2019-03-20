@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-03-31
-title: "Warsztat #240 Full Stack JavaScript - NGRX - Reaktywne aplikacje webowe"
+title: "Warsztat #239 Full Stack JavaScript - NGRX - Reaktywne aplikacje webowe"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
 prowadzacy: blaszczak

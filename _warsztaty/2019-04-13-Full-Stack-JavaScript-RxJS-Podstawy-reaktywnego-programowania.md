@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-04-13
-title: "Warsztat #239 Full Stack JavaScript - RxJS - podstawy reaktywnego programowania"
+title: "Warsztat #247 Full Stack JavaScript - RxJS - podstawy reaktywnego programowania"
 lokalizacja: Lemar
 cena: Warsztat bezpłatny, 5 edycja warsztatu
 prowadzacy: blaszczak
