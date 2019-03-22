@@ -5,7 +5,7 @@ date: 2018-09-24
 event_date: 2019-03-28
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 title: "Warsztat #237 TDD - pragmatycznie w kontekście JUnit 5"
-lokalizacja: Sages
+lokalizacja: Cube Centre
 prowadzacy: wojtyna
 dlugosc: 9:00-17:00
 evenea_link: "https://JUnit5.evenea.pl/?out=1&source=event_iframe"
