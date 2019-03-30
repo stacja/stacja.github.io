@@ -27,7 +27,7 @@ opis:
     1. Czy można osiągnąć stan, w którym uznamy, że aplikacja jest całkowicie pozbawiona błędów?
 
     gosc: |
-    Sebastian swój kontakt z komputerami zaczął od C64 i pierwszych dem pisanych w asemblerze. Obecnie zajmuje się techniczną stroną testowania - testami wydajności, bezpieczeństwa i automatyzacją. Wykonywał testy penetracyjne systemów bankowości internetowej, rozwiązań Big Data używanych przez instytucje finansowe i hydroelektrownie, klastra HPC, chmury AWS, platformy do budowy programowych robotów i aplikacji mobilnych Android i iOS. Miłośnik systemu FreeBSD, prostych rozwiązań i lekkich narzędzi.
+      Sebastian swój kontakt z komputerami zaczął od C64 i pierwszych dem pisanych w asemblerze. Obecnie zajmuje się techniczną stroną testowania - testami wydajności, bezpieczeństwa i automatyzacją. Wykonywał testy penetracyjne systemów bankowości internetowej, rozwiązań Big Data używanych przez instytucje finansowe i hydroelektrownie, klastra HPC, chmury AWS, platformy do budowy programowych robotów i aplikacji mobilnych Android i iOS. Miłośnik systemu FreeBSD, prostych rozwiązań i lekkich narzędzi.
   
   gosc_zdjecie: /img/podcast/schmielewski.jpg
 
