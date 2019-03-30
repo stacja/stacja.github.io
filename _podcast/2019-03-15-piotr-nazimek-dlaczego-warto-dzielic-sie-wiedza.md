@@ -28,7 +28,7 @@ opis:
     Piotr interesuje się szeroko pojętym bezpieczeństwem systemów komputerowych oraz inżynierią oprogramowania. Pracuje w projektach wykorzystujących karty elektroniczne takich jak systemy płatnicze i transportowe. Bierze udział w pracach Komitetu Technicznego Nr 172 ds. Kart Identyﬁkacyjnych przy Polskim Komitecie Normalizacyjnym.
 
   
-  gosc_zdjecie: /img/podcast/pn.png
+  gosc_zdjecie: /img/podcast/pnazimek.png
 
   transkrypcja: |
 
