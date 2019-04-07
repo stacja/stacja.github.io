@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-01-05
 # Data wydarzenia
-event_date: 2019-03-24
+event_date: 2019-05-18
 title: "Warsztat #258 - Robotic Process Automation (RPA) - automatyzacja procesów w pigułce"
 lokalizacja: Workband
 prowadzacy: chmielarski
