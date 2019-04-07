@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-04-13
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
-title: "Warsztat #243 Docker - szybki start"
+title: "Warsztat #248 Docker - szybki start"
 lokalizacja: BiurowiecCystersow
 prowadzacy: wyspianski
 dlugosc: 9:00-17:00
