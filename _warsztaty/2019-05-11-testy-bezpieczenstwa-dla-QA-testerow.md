@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2019-02-25
 # Data wydarzenia
-event_date: 2019-05-18
+event_date: 2019-05-11
 cena: Warsztat płatny - od 79 PLN, 3 edycja warsztatu
 title: "Warsztat #257 Testy bezpieczeństwa dla QA/testerów"
 lokalizacja: BiurowiecCystersow
