@@ -5,7 +5,7 @@ date: 2018-09-24
 event_date: 2019-04-13
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 title: "Warsztat #248 Docker - szybki start"
-lokalizacja: 
+lokalizacja: Teb Edukacja
 prowadzacy: wyspianski
 dlugosc: 9:00-17:00
 evenea_link: "https://Dockerstart.evenea.pl/?out=1&source=event_iframe"
