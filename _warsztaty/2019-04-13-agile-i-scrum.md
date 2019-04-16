@@ -5,7 +5,7 @@ date: 2018-09-24
 event_date: 2019-04-13
 cena: Warsztat płatny - od 79 PLN, 5 edycja warsztatu
 title: "Warsztat #249 Agile & Scrum"
-lokalizacja: 
+lokalizacja: Workband
 prowadzacy: zeromski
 dlugosc: 9:00-17:00
 evenea_link: "https://AgileScrum5.evenea.pl/?out=1&source=event_iframe"
