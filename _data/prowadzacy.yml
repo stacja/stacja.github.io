@@ -340,6 +340,10 @@ kietlinski:
   name: Mateusz Kietliński
   img: /img/portfolio/kietlinski.png
   desc: "programista, designer i pasjonat tworzenia gier komputerowych. Od 6 lat profesjonalnie zajmuje się tworzeniem gier komputerowych, mobilnych i osadzonych w wirtualnej rzeczywistości. Obecnie zajmuje się tworzeniem gier na platformy mobilne ( iOS / Android ) w modelu biznesowym free to play. W wolnym czasie tworzy własne niezależne gry komputerowe."
+bak:
+  name: Marcin Bąk
+  img: /img/portfolio/bak.png
+  desc: "Software Engineer od 2006. Swoją karierę zaczynał z Javą i frameworkami webowymi oraz backendowymi. Po krótkiej przygodzie z PHP oraz JavaScript, ostatecznie skupił się na aplikacjach mobilnych. Obecnie zajmuje się tworzeniem aplikacji Android, głównie w Kotlinie, ale nie stroni od rozwiązań cross-platformowych."
 
 
 
