@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-05-26
-title: "Warsztat #253 Android modern tech stack"
+title: "Warsztat #266 Android modern tech stack"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: bak

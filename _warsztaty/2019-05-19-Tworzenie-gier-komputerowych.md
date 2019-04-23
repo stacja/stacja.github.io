@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-05-19
-title: "Warsztat #258 Tworzenie gier komputerowych"
+title: "Warsztat #261 Tworzenie gier komputerowych"
 lokalizacja: Sages
 cena: Warsztat płatny od 79 pln, 1 edycja warsztatu
 prowadzacy: kietlinski

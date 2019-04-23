@@ -4,7 +4,7 @@ date: 2019-04-23
 # Data wydarzenia
 event_date: 2019-05-25
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
-title: "Warsztat #261 Kubernetes praktycznie"
+title: "Warsztat #264 Kubernetes praktycznie"
 lokalizacja: Sages
 prowadzacy: andrzejewski
 dlugosc: 9:00-17:00

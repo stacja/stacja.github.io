@@ -3,7 +3,7 @@
 date: 2017-01-05
 # Data wydarzenia
 event_date: 2019-05-19
-title: "Warsztat #256 - Robotic Process Automation (RPA) - automatyzacja procesów w pigułce"
+title: "Warsztat #260 - Robotic Process Automation (RPA) - automatyzacja procesów w pigułce"
 lokalizacja: Workband
 prowadzacy: chmielarski
 evenea_link: "https://rpa1805.evenea.pl/?out=1&source=event_iframe"

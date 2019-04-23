@@ -3,7 +3,7 @@
 date: 2017-01-05
 # Data wydarzenia
 event_date: 2019-05-26
-title: "Warsztat #260 - Robotic Process Automation (RPA) - automatyzacja procesów w pigułce cz.2"
+title: "Warsztat #265 - Robotic Process Automation (RPA) - automatyzacja procesów w pigułce cz.2"
 lokalizacja: Teb Edukacja
 prowadzacy: chmielarski
 evenea_link: "https://rpa2605.evenea.pl/?out=1&source=event_iframe"
