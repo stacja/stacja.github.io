@@ -6,7 +6,7 @@ event_date: 2019-05-19
 title: "Warsztat #258 Tworzenie gier komputerowych"
 lokalizacja: Sages
 cena: Warsztat bpłatny od 79 pln, 1 edycja warsztatu
-prowadzacy: kielbasa
+prowadzacy: kietlinski
 evenea_link: "https://tworzeniegier1905.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
 opis:
