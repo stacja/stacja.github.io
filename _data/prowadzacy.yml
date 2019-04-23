@@ -336,4 +336,11 @@ pilarski:
   name: Patryk Pilarski
   img: /img/portfolio/ppilarski.png
   desc: "Data scientist, trener. Zawodowo pracuje z danymi od ponad dwóch lat. Pasjonat technologii i przetwarzania danych w każdej skali. Mól książkowy. Uwielbia pisać opisy do wszelkiego rodzaju sekcji o sobie :)"
+kietlinski:
+  name: Mateusz Kietliński
+  img: /img/portfolio/kietlinski.png
+  desc: "programista, designer i pasjonat tworzenia gier komputerowych. Od 6 lat profesjonalnie zajmuje się tworzeniem gier komputerowych, mobilnych i osadzonych w wirtualnej rzeczywistości. Obecnie zajmuje się tworzeniem gier na platformy mobilne ( iOS / Android ) w modelu biznesowym free to play. W wolnym czasie tworzy własne niezależne gry komputerowe."
+
+
+
 --- 
