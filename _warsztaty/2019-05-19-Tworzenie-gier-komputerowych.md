@@ -2,47 +2,48 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-06-23
 # Data wydarzenia
-event_date: 2019-05-12
-title: "Warsztat #255 Budowanie nowoczesnych aplikacji .NET Core"
+event_date: 2019-05-19
+title: "Warsztat #258 Tworzenie gier komputerowych"
 lokalizacja: Sages
-cena: Warsztat bpłatny od 79 pln, 2 edycja warsztatu
+cena: Warsztat bpłatny od 79 pln, 1 edycja warsztatu
 prowadzacy: kielbasa
-evenea_link: "https://netcore.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://tworzeniegier1905.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
 opis:
   informacje: |
 
-    .NET Core jest dynamicznie rozwijącą się platformą służącą m. in. do budowania aplikacji serwerowych, mobilnych, a nawet przeglądarkowych. Dzięki upublicznieniu kodu źródłowego całość jest rozwijana nie tylko przez Microsoft, ale przede wszystkim przez światową społeczność.
+    Interesujesz się grami komputerowymi? Spędzasz całe noce grając w Fortnite, League of Legends czy Counter Strike: GO? Wiele razy zastanawiałeś się jak wygląda proces tworzenia gier? Podczas tych warsztatów w ciągu 8 godzin stworzysz grę komputerową na podstawie własnego pomysłu!
+
+    Rynek gier komputerowych jest jednym z najprężniej rozwijających się mediów rozrywkowych, który w roku 2018 został wyceniony na 135 mld dolarów poprawiając swój wynik z poprzedniego roku o 11%. Zainteresowanie grami niepowstrzymanie wzrasta, zasypując nas codziennie setkami nowych tytułów wydanych zarówno na platformy komputerowe, konsolowe i mobilne, między innymi przez nieustannie zmniejszający się próg wejścia do tworzenia gier komputerowych przez popularyzację tak zwanych silników do gier.
 
     **Czego się nauczysz?**
 
-    Na warsztacie stworzymy nowoczesny serwer za pomocą .NET Core MVC. Poznamy trochę historii powstawania .NET Core, różnic pomiędzy .NET Frameworkiem i kierunek, w jakim platforma będzie się rozwijać. Zbudujemy API zabezpieczone za pomocą token-ów JWT. Zaimplementujemy komunikację real-time za pomocą biblioteki SignalR. Na koniec rozproszymy całą aplikację za pomocą szyny wiadomości RabbitMQ.
+    Podczas tych warsztatów:
+    - Odkryjesz niuanse rynku gier komputerowych,
+    - Poznasz stanowiska jakie występują przy tworzeniu gier,
+    - Dowiesz się jak wygląda proces tworzenia gier,
+    - Poznasz jeden z najbardziej popularnych silników do tworzenia gier - Unity,
+    - Stworzysz własną grę komputerową!
 
     **Dla kogo jest ten warsztat?**
 
-    Warsztat jest przeznaczony dla programistów ze znajomością C# w zakresie podstawowym lub z doświadczeniem w innych językach obiektowych np. Java. Znajomość platformy .NET nie jest wymagana, jednak będzie pomocna.
+    Szkolenie jest kierowane do osób interesujących się zagadnieniami tworzenia gier komputerowych oraz osób które chciałyby stworzyć własną grę komputerową. Jeśli interesują Cię gry, zastanawiasz się co sprawia, że ludzik na ekranie skacze jak wciskamy spację, a piłka stacza się po skale jakby działała na nią prawdziwa fizyka, to jest to szkolenie właśnie dla Ciebie!
+
+    **Wymagania**
+
+    - Podstawowa znajomość języka C#,
+    - Zainstalowane Microsoft Visual Studio,
+    - Zainstalowany silnik Unity.
 
     Dla uczestników przewidziana jest pizza, a także przerwy kawowe.
 
   program: |
 
-    1. Wprowadzenie do platformy .NET Core.
-    1. Różnice pomiędzy .NET Core a .NET Framework
-    1. Tworzenie API za pomocą .NET Core MVC
-        - Wzorzec MVC
-        - Dependency Injection
-        - Middleware
-        - Routing
-    1. Uwierzytelnianie API
-        - Sposoby uwierzytelnienia API
-        - Omówienie token-ów JWT
-        - Autoryzacja
-    1. Komunikacja RealTime za pomocą SignalR
-        - Sposoby komunikacji Real Time (Long Polling, Server Sent Events, WebSocket)
-        - Wprowadzenie do biblioteki SignalR
-        - Autoryzacja połączenia WebSocket
-    1. Rozproszenie aplikacji za pomocą RabbitMQ
-
+    1. Analiza rynku gier komputerowych,
+    1. Teoria tworzenia gier,
+    1. Wprowadzenie do silnika Unity,
+    1. Projektowanie gry komputerowej,
+    1. Dystrybucja gry.
 
   uwaga: |
     Liczba miejsc ograniczona. Organizator zastrzega sobie prawo do odwołania warsztatu.
