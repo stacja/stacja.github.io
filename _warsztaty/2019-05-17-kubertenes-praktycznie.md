@@ -16,7 +16,7 @@ opis:
 
     **Uwaga! Warsztat w piątek!**
 
-    Warsztat przeznaczony dla wszystkich zainteresowanych tematyką kontenerów, ich orkiestracją oraz architekturą opartą o mikroserwisy. Szczególnie polecany osobom pracującym jako administratorzy oraz devosps. 
+    Warsztat przeznaczony dla wszystkich zainteresowanych tematyką kontenerów, ich orkiestracją oraz architekturą opartą o mikroserwisy. Szczególnie polecany osobom pracującym jako administratorzy oraz devops. 
 
     W trakcie zajęć uczestnicy nauczą się w jaki sposób (z wykorzystaniem maszyn wirtualnych) stworzyć od podstaw własny klaster Kubernetes oraz zdobędą wiedzę niezbędną do jego administracji. 
 
@@ -29,7 +29,7 @@ opis:
      - ssh oraz scp.
 
   
-    Podczas warsztatu uczestnicy korzytają z włanych laptopów. Organizator zapewnia dostęp do kawy, herbaty, wody i ciastek. W porze obiadowej zapewniamy pizzę.
+    Podczas warsztatu uczestnicy korzytają z własnych laptopów. Organizator zapewnia dostęp do kawy, herbaty, wody i ciastek. W porze obiadowej zapewniamy pizzę.
 
   program: |
 
