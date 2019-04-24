@@ -2,13 +2,13 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-01-05
 # Data wydarzenia
-event_date: 2019-05-19
-title: "Warsztat #256 - Robotic Process Automation (RPA) - automatyzacja procesów w pigułce"
-lokalizacja: Workband
+event_date: 2019-05-26
+title: "Warsztat #265 - Robotic Process Automation (RPA) - automatyzacja procesów w pigułce cz.2"
+lokalizacja: Teb Edukacja
 prowadzacy: chmielarski
-evenea_link: "https://rpa1805.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://rpa2605.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 9:00-17:00
-cena: Warsztat płatny - od 79 PLN, 2 edycja wydarzenia
+cena: Warsztat płatny - od 79 PLN, 3 edycja wydarzenia
 slideshare:
 opis:
   informacje: |
@@ -22,14 +22,14 @@ opis:
   program: |
 
     1. Przedstawienie zasad warsztatów. (9:15-9:20)
-    1. Wstęp do RPA. (9:20 - 10:30)
-    1. Automatyzacja aplikacji natywnych. (10:30 - 11:30)
-    1. Przekazywanie danych do automatyzacji. (11:30 - 12:30)
-    1. Integracja z aplikacjami WWW. (12:30 - 13:00)
+    1. Przypomnienie podstaw UIPath i RPA.. (9:20 - 10:00)
+    1. Zmienne i argumenty. (10:00 - 10:15)
+    1. Selektory. (10:15 - 10:45)
+    1. Pętle i warunki. (10:45 - 11:15)
+    1. Typy automatyzacji: sequence, flow, state machine. (11:15 - 11:45)
+    1. REFramework. (11:45 - 13:00)
     1. Lunch. (13:00 - 14:00)
-    1. Integracja pomiędzy różnymi technologiami. (14:00 - 15:00)
-    1. Testowanie procesów. (15:00 - 16:00)
-    1. Zysk z automatyzacji. (16:00 - 16:30)
+    1. Orchestrator. (14:00 - 16:30)
     1. Podsumowanie i dyskusja. (16:30 – 17:00)
 
   uwaga: |

@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-05-12
-title: "Warsztat #255 Budowanie nowoczesnych aplikacji .NET Core"
+title: "Warsztat #258 Budowanie nowoczesnych aplikacji .NET Core"
 lokalizacja: Sages
 cena: Warsztat bpłatny od 79 pln, 2 edycja warsztatu
 prowadzacy: kielbasa

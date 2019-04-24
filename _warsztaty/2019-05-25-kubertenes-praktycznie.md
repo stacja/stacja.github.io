@@ -2,21 +2,20 @@
 # Data dodania informacji o wydarzeniu
 date: 2019-04-23
 # Data wydarzenia
-event_date: 2019-05-17
-cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
-title: "Warsztat #259 Kubernetes praktycznie"
-lokalizacja: Teb Edukacja
+event_date: 2019-05-25
+cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
+title: "Warsztat #264 Kubernetes praktycznie"
+lokalizacja: Sages
 prowadzacy: andrzejewski
 dlugosc: 9:00-17:00
-evenea_link: "https://kuberneteskrk.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://kuberneteswwa.evenea.pl/?out=1&source=event_iframe"
 podcast_id:
 slideshare:
 opis:
   informacje: |
 
-    **Uwaga! Warsztat w piątek!**
 
-    Warsztat przeznaczony dla wszystkich zainteresowanych tematyką kontenerów, ich orkiestracją oraz architekturą opartą o mikroserwisy. Szczególnie polecany osobom pracującym jako administratorzy oraz devops. 
+    Warsztat przeznaczony dla wszystkich zainteresowanych tematyką kontenerów, ich orkiestracją oraz architekturą opartą o mikroserwisy. Szczególnie polecany osobom pracującym jako administratorzy oraz devosps. 
 
     W trakcie zajęć uczestnicy nauczą się w jaki sposób (z wykorzystaniem maszyn wirtualnych) stworzyć od podstaw własny klaster Kubernetes oraz zdobędą wiedzę niezbędną do jego administracji. 
 
@@ -29,7 +28,7 @@ opis:
      - ssh oraz scp.
 
   
-    Podczas warsztatu uczestnicy korzytają z własnych laptopów. Organizator zapewnia dostęp do kawy, herbaty, wody i ciastek. W porze obiadowej zapewniamy pizzę.
+    Podczas warsztatu uczestnicy korzytają z włanych laptopów. Organizator zapewnia dostęp do kawy, herbaty, wody i ciastek. W porze obiadowej zapewniamy pizzę.
 
   program: |
 
