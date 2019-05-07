@@ -58,6 +58,7 @@ opis:
        1. Wyższy koszt.
        2. Nieudana implementacja.
        3. Koszmarne spotkania. 
+       <br>
     **Dzień 2**
     1. Scrum Framework. Omówienie Scrum Framework od strony Scrum Mastera na podstawie praktyki. Realne i szkoleniowe sytuacje pozwolą poznać jakie są nalepsze zachowania w różnych sytuacjach.
        1. Scrum Big Picture.
