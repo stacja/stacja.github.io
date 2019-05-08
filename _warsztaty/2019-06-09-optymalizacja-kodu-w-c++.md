@@ -19,7 +19,8 @@ opis:
     Poznamy skuteczne strategie i techniki optymalizacji, które przetestujemy na praktycznych przykładach pisząc, testując i usprawniając kod na żywo podczas warsztatu. 
     Cały warsztat jest cyklem kilkunastu krótkich ćwiczeń praktycznych poprzedzonych zwięzłymi wstępami teoretycznymi.
 
-    Dla kogo jest to szkolenie?
+    **Dla kogo jest to szkolenie?**
+    
     Osoby ze znajomością jezyka C++ na poziomie podstawowym lub średnio-zaawansowanym chcące dowiedzieć się czegoś nowego. Programiści systemów wbudowanych, osoby aspirujące do lub pracujące w środowisku Game Dev.
     
 
