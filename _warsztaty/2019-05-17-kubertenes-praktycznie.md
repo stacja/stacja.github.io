@@ -5,7 +5,7 @@ date: 2019-04-23
 event_date: 2019-05-17
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 title: "Warsztat #259 Kubernetes praktycznie"
-lokalizacja: Teb Edukacja
+lokalizacja: Lekarska
 prowadzacy: andrzejewski
 dlugosc: 9:00-17:00
 evenea_link: "https://kuberneteskrk.evenea.pl/?out=1&source=event_iframe"

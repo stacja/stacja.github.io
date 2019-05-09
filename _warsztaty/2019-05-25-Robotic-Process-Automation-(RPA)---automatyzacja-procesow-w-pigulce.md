@@ -4,7 +4,7 @@ date: 2017-01-05
 # Data wydarzenia
 event_date: 2019-05-25
 title: "Warsztat #262 - Robotic Process Automation (RPA) - automatyzacja procesów w pigułce"
-lokalizacja: Teb Edukacja
+lokalizacja: Lekarska
 prowadzacy: chmielarski
 evenea_link: "https://rpa2505.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 9:00-17:00
