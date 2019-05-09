@@ -352,5 +352,9 @@ kurosz:
   name: Bartek Kurosz
   img: /img/portfolio/bkurosz.png
   desc: "Robotyk i programista z doświadczeniem w systemach wbudowanych, pojazdach autonomicznych i systemach rozproszonych. Pasjonat zawiłości języka C++, nowoczesnych standardów oraz optymalizacji kodu. Zwolennik wolnego oprogramowania i dobrych praktych programistycznych. W wolnych chwilach pasjonat żeglarstwa."
+kdaliga:
+  name: Katarzyna Daliga
+  img: /img/portfolio/kdaliga.png
+  desc: "Posiada szerokie doświadczenie zawodowe w zakresie podnoszenia efektywności biznesowej w tym procesów komunikacji. Jest specjalistą wiodącym w zakresie audytu wewnętrznego i obszaru controllingowego. Główna specjalizacja: zarządzanie wartością dla organizacji z wykorzystania proaktywnej funkcji audytu i wdrażania zmian w procesach. W consultingu obejmującym diagnozę i analizę sytuacji organizacji, przygotowanie planów naprawczych i rozwojowych wraz z ich wdrożeniem w celu zwiększania efektywności i elastyczności ukierunkowanej na relacje z klientami."
 
 --- 
