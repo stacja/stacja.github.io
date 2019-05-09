@@ -5,7 +5,7 @@ date: 2019-02-25
 event_date: 2019-05-11
 cena: Warsztat płatny - od 79 PLN, 3 edycja warsztatu
 title: "Warsztat #257 Testy bezpieczeństwa dla QA/testerów"
-lokalizacja: Teb Edukacja
+lokalizacja: Lekarska
 prowadzacy: kowalczyk
 dlugosc: 9:00-17:00
 evenea_link: "https://testyQAkrk.evenea.pl/?out=1&source=event_iframe"
