@@ -15,6 +15,7 @@ opis:
     React to jeden z najpopularniejszych obecnie bibliotek do tworzenia warstwy widoku aplikacji. Umożliwia tworzenie aplikacji w sposób prosty i przyjazny dla developera. Na szkoleniu zapoznamy się z zaawansowanymi technikami pracy, wzorcami projektowymi i praktykami w obszarze tej biblioteki. 
 
     **Dla kogo jest ten warsztat?**
+    
     Warsztat przeznaczony jest dla osób znających podstawy JavaScript i React JS.
  
 
