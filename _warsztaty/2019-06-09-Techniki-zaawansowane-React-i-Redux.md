@@ -7,7 +7,7 @@ title: "Warsztat #271 Techniki zaawansowane React i Redux"
 lokalizacja: Lekarska
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: bialas
-evenea_link: "https://reactjskrk2.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://reactkrk2.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
 opis:
   informacje: |
