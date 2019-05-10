@@ -3,7 +3,7 @@
 date: 2019-05-09
 # Data wydarzenia
 event_date: 2019-06-08
-title: "Warsztat #268 - Efektywna komunikacja w zespole IT"
+title: "Warsztat #270 - Efektywna komunikacja w zespole IT"
 lokalizacja: Sages
 prowadzacy: kdaliga
 evenea_link: "https://komwzespit.evenea.pl/?out=1&source=event_iframe"

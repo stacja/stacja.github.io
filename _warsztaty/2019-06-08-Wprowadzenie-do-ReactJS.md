@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-06-08
-title: "Warsztat #270 Wprowadzenie do ReactJS"
+title: "Warsztat #269 Wprowadzenie do ReactJS"
 lokalizacja: Lekarska
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: bialas
