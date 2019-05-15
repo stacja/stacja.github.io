@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2019-04-23
 # Data wydarzenia
-event_date: 2019-05-17
+event_date: 2019-06-07
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 title: "Warsztat #259 Kubernetes praktycznie"
 lokalizacja: Lekarska
