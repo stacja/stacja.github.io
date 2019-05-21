@@ -356,5 +356,8 @@ kdaliga:
   name: Katarzyna Daliga
   img: /img/portfolio/kdaliga.png
   desc: "Posiada szerokie doświadczenie zawodowe w zakresie podnoszenia efektywności biznesowej w tym procesów komunikacji. Jest specjalistą wiodącym w zakresie audytu wewnętrznego i obszaru controllingowego. Główna specjalizacja: zarządzanie wartością dla organizacji z wykorzystania proaktywnej funkcji audytu i wdrażania zmian w procesach. W consultingu obejmującym diagnozę i analizę sytuacji organizacji, przygotowanie planów naprawczych i rozwojowych wraz z ich wdrożeniem w celu zwiększania efektywności i elastyczności ukierunkowanej na relacje z klientami."
-
+wkolodziejczyk:
+  name: Waldemar Kołodziejczyk
+  img: /img/portfolio/wkolodziejczyk.png
+  desc: "Artificial Intelligence Developer z doświadczeniem przy budowaniu modeli operujących na szeregach czasowych. Interesuje się algorytmiką, rozwiązaniami uczenia ze wzmocnieniem oraz szeroko rozumianym statystycznym przetwarzaniem danych."
 --- 
