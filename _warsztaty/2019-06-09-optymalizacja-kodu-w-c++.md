@@ -3,7 +3,7 @@
 date: 2019-05-08
 # Data wydarzenia
 event_date: 2019-06-09
-title: "Warsztat #269 - Optymalizacja kodu w C++"
+title: "Warsztat #272 - Optymalizacja kodu w C++"
 lokalizacja: Sages
 prowadzacy: kurosz
 evenea_link: "https://optkoduc.evenea.pl/?out=1&source=event_iframe"
