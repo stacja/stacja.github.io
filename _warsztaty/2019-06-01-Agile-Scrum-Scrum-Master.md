@@ -5,7 +5,7 @@ date: 2018-09-24
 event_date: 2019-06-01
 cena: Warsztat płatny - 258 PLN, 6 edycja warsztatu
 title: "Warsztat #267 Agile, Scrum & Scrum Master"
-lokalizacja: Lekarska
+lokalizacja: TEB Edukacja
 prowadzacy: zeromski
 dlugosc: 9:00-17:00
 evenea_link: "https://agilescrum2dn.evenea.pl/?out=1&source=event_iframe"
