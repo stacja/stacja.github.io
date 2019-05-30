@@ -360,4 +360,8 @@ wkolodziejczyk:
   name: Waldemar Kołodziejczyk
   img: /img/portfolio/wkolodziejczyk.jpg
   desc: "Artificial Intelligence Developer z doświadczeniem przy budowaniu modeli operujących na szeregach czasowych. Interesuje się algorytmiką, rozwiązaniami uczenia ze wzmocnieniem oraz szeroko rozumianym statystycznym przetwarzaniem danych."
---- 
+pbykowski:
+  name: Przemysław Bykowski
+  img: /img/portfolio/pbykowski.jpg
+  desc: "Zawodowo i z pasji trener programowania, wykładowca. Specjalista w rozwiązaniach webowych i cloud'owych. Zwycięzca i laureat wielu konkursów programistycznych, a także biznesowych na szczeblu krajowym. Chętnie dzieli się swoją wiedzą. Zawsze pełen pozytywnej energii do działania. Sportowy aktywista. W wolnej chwili bloguje i vloguje."
+---
