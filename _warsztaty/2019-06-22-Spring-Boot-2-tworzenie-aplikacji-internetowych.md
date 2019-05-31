@@ -4,7 +4,7 @@ date: 2017-01-05
 # Data wydarzenia
 event_date: 2019-06-22
 title: "Warsztat #274 - Spring Boot 2 - tworzenie aplikacji internetowych"
-lokalizacja: 
+lokalizacja: Grunwaldzka Gdańsk
 prowadzacy: pbykowski
 evenea_link: "https://springboot2gda.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 9:00-17:00
