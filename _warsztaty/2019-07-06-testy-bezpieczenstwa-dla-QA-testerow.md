@@ -8,7 +8,7 @@ title: "Warsztat #278 Testy bezpieczeństwa dla QA/testerów"
 lokalizacja: Sages
 prowadzacy: kowalczyk
 dlugosc: 9:00-17:00
-evenea_link: "https://testyQAwaw.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://testyQAwawkopia1.evenea.pl/?out=1&source=event_iframe"
 podcast_id:
 slideshare:
 opis:
