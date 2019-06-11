@@ -35,8 +35,8 @@ opis:
        1. Lasy Drzew Losowych.
        1. Sieci neuronowe.
     1. Redukcja wymiarowości i metody wizualizacji danych.
+       1. Drzewa Decyzyjne
        1. Principal Component Analysis (PCA)
-       1. Linear Discriminant Analysis (LDA)
        1. t-Distributed Stochastic Neighbor Embedding (t-SNE)
     1. Podsumowanie i zakończenie.
  
