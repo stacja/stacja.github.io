@@ -133,3 +133,7 @@ KatowiceNieWiadomo:
   adres: Katowice, Dokładny adres zostanie podany bliżej terminu warsztatu 
   miasto: Katowice
   mapa: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24271.864280836133!2d19.014979998392125!3d50.24962618843272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4716ce2336a1ccd1%3A0xb9af2a350559fabb!2sKatowice!5e0!3m2!1spl!2spl!4v1559643496307!5m2!1spl!2spl"
+TEB Gdańsk:
+  adres: Gdańsk, ul. Dmowskiego 16A 
+  miasto: Gdańsk
+  mapa: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2323.7609304067937!2d18.604884215771975!3d54.37887348020836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46fd737419cd2841%3A0xba0daf08fce83755!2sTEB+Edukacja!5e0!3m2!1spl!2spl!4v1560248497865!5m2!1spl!2spl"
