@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2018-09-24
 # Data wydarzenia
-event_date: 2019-07-17
+event_date: 2019-07-13
 title: "Warsztat #281 Reactor i Spring WebFlux"
 lokalizacja: Workband
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
