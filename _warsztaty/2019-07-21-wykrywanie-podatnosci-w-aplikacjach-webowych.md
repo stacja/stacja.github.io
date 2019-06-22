@@ -8,7 +8,7 @@ lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: ktrzcinska
 dlugosc: 9:00-17:00
-evenea_link: "https:/testwebwaw.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://testwebwaw.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
