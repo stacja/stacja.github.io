@@ -8,7 +8,7 @@ lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
 prowadzacy: chrost
 dlugosc: 9:00-17:00
-evenea_link: "https:/reactorwaw.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://reactorwaw.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
