@@ -13,7 +13,8 @@ slideshare:
 opis:
   informacje: |
 
-    Zastanawiasz się jak działają współcześni hackerzy oraz z jakich narzędzi korzystają? Podczas warsztatu poznasz liczne techniki i narzędzia wykorzystywane do przełamywania zabezpieczeń aplikacji webowych.
+    Zastanawiasz się jak działają współcześni hackerzy oraz z jakich narzędzi korzystają? 
+    Podczas warsztatu poznasz liczne techniki i narzędzia wykorzystywane do przełamywania zabezpieczeń aplikacji webowych.
     Warsztaty mają na celu wprowadzenie do tematu zagrożeń bezpieczeństwa aplikacji webowych.
     Skierowane są do osób pracujących z aplikacjami webowymi m. in. programistów i testerów, którzy chcieliby poznać podstawowe podatności, sposoby ich wykrywania oraz metody ochrony.
     Na warsztatach omówimy czym jest OWASP, lista Top 10, jakie są dostępne bazy podatności oraz co możemy sprawdzić wykonując proste skanowanie portów. Główną część warsztatów będą stanowiły testy aplikacji webowej zawierającej najczęściej występujące podatności m. in. XSS, SQL Injection, CSRF, czy też błędy logiki aplikacji.
