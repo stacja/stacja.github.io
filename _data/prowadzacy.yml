@@ -368,4 +368,9 @@ ktrzcinska:
   name: Klara Trzcińska
   img: /img/portfolio/ktrzcinska.jpg
   desc: "Testerka z doświadczeniem w testach bezpieczeństwa aplikacji webowych oraz infrastruktury. Pracuje jako Starszy Specjalista w Pentacomp Systemy Informatyczne, gdzie zajmuje się głównie testami bezpieczeństwa aplikacji webowych oraz testami automatycznymi. Wykonywała testy bezpieczeństwa w licznych projektach o dużej skali. Absolwentka Wydziału Matematyki, Informatyki i Mechaniki Uniwersytetu Warszawskiego oraz studiów podyplomowych z zakresu bezpieczeństwa systemów informatycznych na wydziale Elektroniki i Technik Informacyjnych Politechniki Warszawskiej. Posiada branżowe certyfikaty Certified Ethical Hacker oraz ISTQB FL."
+szmit:
+  name: Bartosz Szmit
+  img: /img/portfolio/bszmit.png
+  desc: "Developer systemów Big Data w Synerise. Od trzech lat programuje w Scali. Lubi rozwiązywać problemy dotyczące systemów rozproszonych oraz wysokiej dostępności. Miłośnik programowania funkcyjnego. Absolwent Informatyki na AGH."
+
 ---
