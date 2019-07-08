@@ -13,7 +13,10 @@ slideshare:
 opis:
   informacje: |
 
+    Celem warsztatu jest pokazanie na przykładach powszechnie wykorzystywanych rozwiązań w branży ML/AI. Każdy z omawianych algorytmów zostanie zaprezentowany od strony teoretycznej oraz implementacyjnej. Stack technologiczny: Python 3.X, numpy, pandas, matplotlib, scikit-learn, TensorFlow, Keras.
+    
     Podczas warsztatu uczestnicy korzystają z własnych laptopów.
+    
     Podczas warsztatu zapewniamy dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegetariańskiej.
 
   program: |
