@@ -2,32 +2,37 @@
 # Data dodania informacji o wydarzeniu
 date: 2018-09-24
 # Data wydarzenia
-event_date: 2019-07-27
-title: "Warsztat #286 Python - jak dobrze zacząć"
-lokalizacja: NiewiadomoKrakow
+event_date: 2019-07-28
+title: "Warsztat #288 Machine Learning & Deep Learning cz.2"
+lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
-prowadzacy: konior
+prowadzacy: wkolodziejczyk
 dlugosc: 9:00-17:00
-evenea_link: "https://pythonkrk.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://mlwaw2.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
 
-    "Python - jak dobrze zacząć" to dedykowany warsztat dla ludzi, którzy chcieliby poznać ten fantastyczny język, jednocześnie od samego początku ucząc się dobrych praktyk i poprawnego zastosowania technologii. Python jest piękny, można w nim zrobić niemalże wszystko, a według niektórych statystyk to drugi najpopularniejszy język świata. Skrypty w pythonie mogą usprawnić codzienną pracę, ale również można go używać w bardzo dochodowym obecnie biznesie, jak data science, machine learning i deep learning. Warsztat jest tak przygotowany, abyś po nim mógł spokojnie samodzielnie kontynuować przygodę z pythonem. 
-
-    Wymagania:
-    Zainstalowany Pycharm lub VS code z dodatkiem do Pythona.
-
+    Podczas warsztatu uczestnicy korzystają z własnych laptopów.
     Podczas warsztatu zapewniamy dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegetariańskiej.
 
   program: |
-    1. Python - szybki wstęp.
-    1. Poprawna konfiguracja projektów pythona (virtualenv, virtualenvwrapper).
-    1. Narzędzia pomocne w pracy (Pycharm, VS code, Jupyter, shell).
-    1. Perfekcyjny moduł - jak piszą profesjonaliści.
-    1. PIPy, PEPy itd.
-    1. Tips&Tricks
-    1. Data science demo rozpalające pasje.
+    1. Problem klasyfikacji.
+        1. Metoda Najbliższych Sąsiadów (K-NN).
+        1. Regresja Logistyczna.
+        1. Maszyny Wektorów Wspierąjacych (SVM + Kernel).
+        1. Drzewa Decyzyjne.
+        1. Lasy Drzew Losowych.
+        1. Zespół Extra-Trees.
+        1. Sieci neuronowe.
+    1. Miary oceny modeli przy problemie klasyfikacji.
+    1. Zadanie na danych rzeczywistych.
+    1. Redukcja wymiarowości i metody wizualizacji danych.
+        1. Drzewa Decyzyjne.
+        1. Principal Component Analysis (PCA).
+        1. t-Distributed Stochastic Neighbor Embedding (t-SNE).
+    1. Dobre praktyki i strategie doboru modeli. 
+    1. Podsumowanie i zakończenie.
 
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
