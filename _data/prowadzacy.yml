@@ -376,5 +376,10 @@ drozdz:
   name: Paweł Drożdż
   img: /img/portfolio/pdrozdz.png
   desc: "Jest absolwentem Politechniki Gdańskiej. Dzięki 20 lat doświadczenia w tworzeniu stron i aplikacji internetowych ma pogląd na historię i rozwój technologii internetowych. Najświeższą wiedzę z dziedziny Frontend Developmentu zdobywał pracując dla Allegro oraz BAE Systems AI. Poza internetem interesuje się historią gier video, fantastyką, kajakarstwem. Jednak jego największą pasją są jego dzieci."
+jozefowicz:
+  name: Radosław Józefowicz
+  img: /img/portfolio/rjozefowicz.jpg
+  desc: "Zawodowo w branży IT od 8 lat. Zaczynał w korporacjach, a aktualnie zajmuje się tworzeniem aplikacji medycznych i IoT opartych na chmurze AWS dla zagranicznych startupów. Głównie tworzy rozwiązania backendowe w Javie, choć ostatnimi czasy regularnie popełnia frontendy w Reakcie. Wierzy w polyglot persistence i programming."
+
 
 ---
