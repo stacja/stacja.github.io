@@ -20,6 +20,7 @@ opis:
     Scala jest językiem uruchamianym na JVM. Dzięki temu posiada pełne wsparcie dla bibliotek ze środowiska Javy. Łączy paradygmat funkcyjny i obiektowy. Funkcyjność pozwala na łatwiejsze zrównoleglanie operacji i bardziej formalne zapisywanie przepływu danych. Obiektowość natomiast często okazuje się bardziej naturalna w modelowaniu domeny systemu. Scala posiada rozbudowany system typowania, dzięki czemu wiele błędów może być wykrytych na etapie kompilacji. Jest językiem niezwykle rozszerzalnym, co umożliwia powstawanie wyspecjalizowanych DSL oraz ciekawych bibliotek zmieniających oblicze języka. Istnieje dojrzały ekosystem bibliotek, które umożliwiają budowanie aplikacji rozproszonych.
   
     Podczas warsztatu zapewniamy dostęp do kawy, herbaty, wody i ciastek.
+    **Podczas warsztatu nie zapewniamy lunchu.**
 
   program: |
 
