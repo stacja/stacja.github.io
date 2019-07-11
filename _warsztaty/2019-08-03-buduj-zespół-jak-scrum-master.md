@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-08-03
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
-title: "Warsztat #291 Buduj zespół jak Scrum Master"
+title: "Warsztat #289 Buduj zespół jak Scrum Master"
 lokalizacja: NiewiadomoKrakow
 prowadzacy: zeromski
 dlugosc: 9:00-17:00

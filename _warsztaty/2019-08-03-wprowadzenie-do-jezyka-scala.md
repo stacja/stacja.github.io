@@ -4,7 +4,7 @@ date: 2019-02-25
 # Data wydarzenia
 event_date: 2019-08-03
 cena: Warsztat bezpłatny, 1 edycja warsztatu
-title: "Warsztat #290 Wprowadzenie do języka Scala"
+title: "Warsztat #291 Wprowadzenie do języka Scala"
 lokalizacja: Sages
 prowadzacy: szmit
 dlugosc: 9:00-17:00

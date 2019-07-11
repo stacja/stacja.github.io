@@ -4,7 +4,7 @@ date: 2019-02-25
 # Data wydarzenia
 event_date: 2019-08-03
 cena: Warsztat płatny - od 79 PLN, 6 edycja warsztatu
-title: "Warsztat #289 Testy bezpieczeństwa dla QA/testerów"
+title: "Warsztat #290 Testy bezpieczeństwa dla QA/testerów"
 lokalizacja: NiewiadomoTrojmiasto
 prowadzacy: kowalczyk
 dlugosc: 9:00-17:00
