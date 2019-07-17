@@ -5,7 +5,7 @@ date: 2018-09-24
 event_date: 2019-07-20
 title: "Warsztat #284 Reactor i Spring WebFlux"
 lokalizacja: Sages
-cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
+cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: chrost
 dlugosc: 9:00-17:00
 evenea_link: "https://reactorwaw.evenea.pl/?out=1&source=event_iframe"

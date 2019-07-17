@@ -298,7 +298,7 @@ chrost:
   desc: "Java & Web Developer oraz Technical Leader w firmie JCommerce z ponad 10 letnim stażem. Uczestniczył w wielu międzynarodowych projektach. Od czasu do czasu wspiera młodszych kolegów w rozwoju zawodowym. Lubi nowości w świecie IT, aczkolwiek podchodzi do nich z rozsądkiem i rezerwą wynikającą z doświadczenia. Najbardziej ceni sobie dobrze zgrane zespoły, które potrafią się same motywować i sobą zarządzać. Uważa też że umiejętności miękkie w świecie IT są tak samo ważne jak twarde a zwykle bardzo niedoceniane." 
 zeromski:
   name: Mateusz Żeromski
-  img: /img/portfolio/zeromski.png
+  img: /img/portfolio/mzeromski.jpg
   desc: "Mateusz, od zawsze (już od 18 lat) pracuje w trybie Agile. W swojej karierze tworzył ponad 10 startupów na różnych stanowiskach, od programisty do właściciela czy inwestora. W roku 2018 rozpoczął prowadzenie szkolenia Agile & Scrum. Zdobył certyfikaty PSM1, PSPO1 co pozwala mu udokumentować gruntowną wiedzę o całości zadań Scrum. Od września 2018 prowadzi bloga specjalistycznego www.zeromski.me. Aktualnie pracuje w Scrumie już od ponad 2 lat, jego duże doświadczenie zawodowe pozwala mu skutecznie przekazywać wiedzę na temat zwinnych metod."   
 blaszczak:
   name: Piotr Błaszczak
@@ -368,4 +368,18 @@ ktrzcinska:
   name: Klara Trzcińska
   img: /img/portfolio/ktrzcinska.jpg
   desc: "Testerka z doświadczeniem w testach bezpieczeństwa aplikacji webowych oraz infrastruktury. Pracuje jako Starszy Specjalista w Pentacomp Systemy Informatyczne, gdzie zajmuje się głównie testami bezpieczeństwa aplikacji webowych oraz testami automatycznymi. Wykonywała testy bezpieczeństwa w licznych projektach o dużej skali. Absolwentka Wydziału Matematyki, Informatyki i Mechaniki Uniwersytetu Warszawskiego oraz studiów podyplomowych z zakresu bezpieczeństwa systemów informatycznych na wydziale Elektroniki i Technik Informacyjnych Politechniki Warszawskiej. Posiada branżowe certyfikaty Certified Ethical Hacker oraz ISTQB FL."
+szmit:
+  name: Bartosz Szmit
+  img: /img/portfolio/bszmit.png
+  desc: "Developer systemów Big Data w Synerise. Od trzech lat programuje w Scali. Lubi rozwiązywać problemy dotyczące systemów rozproszonych oraz wysokiej dostępności. Miłośnik programowania funkcyjnego. Absolwent Informatyki na AGH."
+drozdz:
+  name: Paweł Drożdż
+  img: /img/portfolio/pdrozdz.png
+  desc: "Jest absolwentem Politechniki Gdańskiej. Dzięki 20 lat doświadczenia w tworzeniu stron i aplikacji internetowych ma pogląd na historię i rozwój technologii internetowych. Najświeższą wiedzę z dziedziny Frontend Developmentu zdobywał pracując dla Allegro oraz BAE Systems AI. Poza internetem interesuje się historią gier video, fantastyką, kajakarstwem. Jednak jego największą pasją są jego dzieci."
+jozefowicz:
+  name: Radosław Józefowicz
+  img: /img/portfolio/rjozefowicz.jpg
+  desc: "Zawodowo w branży IT od 8 lat. Zaczynał w korporacjach, a aktualnie zajmuje się tworzeniem aplikacji medycznych i IoT opartych na chmurze AWS dla zagranicznych startupów. Głównie tworzy rozwiązania backendowe w Javie, choć ostatnimi czasy regularnie popełnia frontendy w Reakcie. Wierzy w polyglot persistence i programming."
+
+
 ---
