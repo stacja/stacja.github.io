@@ -5,7 +5,7 @@ date: 2018-09-24
 event_date: 2019-08-03
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
 title: "Warsztat #289 Buduj zespół jak Scrum Master"
-lokalizacja: NiewiadomoKrakow
+lokalizacja: Europrofes
 prowadzacy: zeromski
 dlugosc: 9:00-17:00
 evenea_link: "https://scrumkrk.evenea.pl/?out=1&source=event_iframe"

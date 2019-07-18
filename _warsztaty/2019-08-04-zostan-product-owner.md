@@ -5,7 +5,7 @@ date: 2018-09-24
 event_date: 2019-08-04
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 title: "Warsztat #292 Zostań Product Owner"
-lokalizacja: NiewiadomoKrakow
+lokalizacja: Europrofes
 prowadzacy: zeromski
 dlugosc: 9:00-17:00
 evenea_link: "https://prodownerkrk.evenea.pl/?out=1&source=event_iframe"
