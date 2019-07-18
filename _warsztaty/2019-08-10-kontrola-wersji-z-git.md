@@ -38,7 +38,7 @@ opis:
      - jak działają systemy kontroli wersji
      - charakterystyka pracy z rozproszonym systemem kontroli wersji
      - instalacja i podstawowa konfiguracja Gita
-     - 1. narzędzia dostarczane z Gitem
+     - narzędzia dostarczane z Gitem
     1. Lokalna praca z Gitem
      - inicjalizacja i konfiguracja repozytorium
      - zatwierdzanie zmian (commit), narzędzie git gui
