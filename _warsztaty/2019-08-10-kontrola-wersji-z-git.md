@@ -35,27 +35,27 @@ opis:
   program: |
 
     1. Wprowadzenie
-        1. jak działają systemy kontroli wersji
-        1. charakterystyka pracy z rozproszonym systemem kontroli wersji
-        1. instalacja i podstawowa konfiguracja Gita
-        1. narzędzia dostarczane z Gitem
+     - jak działają systemy kontroli wersji
+     - charakterystyka pracy z rozproszonym systemem kontroli wersji
+     - instalacja i podstawowa konfiguracja Gita
+     - 1. narzędzia dostarczane z Gitem
     1. Lokalna praca z Gitem
-        1. inicjalizacja i konfiguracja repozytorium
-        1. zatwierdzanie zmian (commit), narzędzie git gui
-        1. przeglądanie zmian (diff), narzędzia do przeglądania zmian
-        1. przegląd historii (log), narzędzie gitk
-        1. cofanie zmian (reset, reflog)
-        1. praca z gałęziami (branch)
-        1. scalanie zmian i zmiana bazy (merge, rebase, cherry pick)
-        1. rozwiązywanie konfliktów
+     - inicjalizacja i konfiguracja repozytorium
+     - zatwierdzanie zmian (commit), narzędzie git gui
+     - przeglądanie zmian (diff), narzędzia do przeglądania zmian
+     - przegląd historii (log), narzędzie gitk
+     - cofanie zmian (reset, reflog)
+     - praca z gałęziami (branch)
+     -  scalanie zmian i zmiana bazy (merge, rebase, cherry pick)
+     -  rozwiązywanie konfliktów
     1. Zdalne repozytoria
-        1. metody dostępu do repozytoriów, używane protokoły (ssh, http)
-        1. pobieranie repozytorium (clone)
-        1. wypychanie i pobieranie zmian (push, fetch, pull)
-        1. praca ze zdalnymi gałęziami
+     - metody dostępu do repozytoriów, używane protokoły (ssh, http)
+     - pobieranie repozytorium (clone)
+     -  wypychanie i pobieranie zmian (push, fetch, pull)
+     - praca ze zdalnymi gałęziami
     1. Dodatkowe narzędzia
-        1. graficzne nakładki na Git
-        1. praca z GitHub, GitLab i BitBucket
+     - graficzne nakładki na Git
+     - praca z GitHub, GitLab i BitBucket
   
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
