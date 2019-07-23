@@ -3,7 +3,7 @@
 date: 2017-01-05
 # Data wydarzenia
 event_date: 2019-08-31
-title: "Warsztat #302 - Robotic Process Automation (RPA) - automatyzacja procesów w pigułce"
+title: "Warsztat #302 - Robotic Process Automation (RPA) - automatyzacja procesów w pigułce cz.1"
 lokalizacja: NiewiadomoKrakow
 prowadzacy: adamski
 evenea_link: "https://rpakrk.evenea.pl/?out=1&source=event_iframe"
