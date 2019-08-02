@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-08-24
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
-title: "Warsztat #300 Machine Learning & Deep Learning - wprowadzenie i przegląd algorytmów"
+title: "Warsztat #300 Machine Learning - wprowadzenie i przegląd algorytmów"
 lokalizacja: NiewiadomoKrakow
 prowadzacy: wkolodziejczyk
 dlugosc: 9:00-17:00
@@ -13,7 +13,7 @@ slideshare:
 opis:
   informacje: |
     
-    Celem warsztatu jest pokazanie na przykładach powszechnie wykorzystywanych rozwiązań w branży ML/AI. Każdy z omawianych algorytmów zostanie zaprezentowany od strony teoretycznej oraz implementacyjnej. Stack technologiczny: Python 3.X, numpy, pandas, matplotlib, scikit-learn, TensorFlow, Keras.
+    Celem warsztatu jest pokazanie na przykładach powszechnie wykorzystywanych rozwiązań w branży Machine Learning. Każdy z omawianych algorytmów zostanie zaprezentowany od strony teoretycznej oraz implementacyjnej. Stack technologiczny: Python 3.X, numpy, pandas, matplotlib, scikit-learn.
     
     Podczas warsztatu uczestnicy korzystają z własnych laptopów. Organizator zapewnia kawę herbatę oraz pizzę w porze lunchowej.
 
