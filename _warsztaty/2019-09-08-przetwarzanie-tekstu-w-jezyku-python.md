@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2018-09-24
 # Data wydarzenia
-event_date: 2019-07-07
+event_date: 2019-09-08
 title: "Warsztat #307 Przetwarzanie tekstu w języku Python"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
