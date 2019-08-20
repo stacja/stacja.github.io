@@ -5,7 +5,7 @@ date: 2019-08-14
 event_date: 2019-09-07
 title: "IT TAINING TOUR - Wstęp do Machine Learning - od przetwarzania danych po budowę modeli"
 lokalizacja: Workband
-prowadzacy: Kolodziejczyk
+prowadzacy: wkolodziejczyk
 evenea_link: https://evenea.pl/event/ml7809/
 type: meetup
 meetup_link: 
