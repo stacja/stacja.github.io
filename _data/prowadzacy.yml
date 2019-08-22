@@ -380,6 +380,9 @@ jozefowicz:
   name: Radosław Józefowicz
   img: /img/portfolio/rjozefowicz.jpg
   desc: "Zawodowo w branży IT od 8 lat. Zaczynał w korporacjach, a aktualnie zajmuje się tworzeniem aplikacji medycznych i IoT opartych na chmurze AWS dla zagranicznych startupów. Głównie tworzy rozwiązania backendowe w Javie, choć ostatnimi czasy regularnie popełnia frontendy w Reakcie. Wierzy w polyglot persistence i programming."
-
+pkrogulec:
+  name: Piotr Krogulec
+  img: /img/portfolio/pkrogulec.png
+  desc: "Programuje od 5 lat, w tym od 3 lat w Javie. Programowanie to jego pasja, którą stara się pielęgnować nie tylko w pracy zawodowej, ale również w czasie wolnym, chłonąc tak dużo wiedzy ile się da. Obecnie pracuje przy projekcie biometrycznym w dużym międzynarodowym banku."
 
 ---
