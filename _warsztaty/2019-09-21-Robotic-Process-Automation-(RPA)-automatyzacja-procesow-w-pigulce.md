@@ -15,8 +15,10 @@ opis:
 
     **Uwaga! Warsztat 2-dniowy! Odbywa się w sobotę i niedzielę w godzinach 9:00-17:00**
 
+    **Dzień 1**
     Warsztat jest skierowany do wszystkich osób chcących zapoznać się z tematyką automatyzacji procesów, integracji, wyzwań związanych z RPA oraz dobrymi praktykami. Nie jest konieczna znajomość żadnego języka programowania. W ramach warsztatów dowiesz się, czym jest RPA, które procesy w organizacji mają szansę zostać zautomatyzowane oraz jak przygotować swoją pierwszą automatyzację. W trakcie ćwiczeń uczestnicy warsztatów przygotują automatyzację procesu biznesowego i poznają techniki integracji plików, aplikacji natywnych, stron WWW oraz WebService.
 
+    **Dzień 2**
     Aby w nim uczestniczyć potrzebna jest znajomość podstaw funkcjonowania UiPath Studio, których nauczyliśmy się pierwszego dnia. Poznamy fundamentalne techniki programowania, jak zmienne, pętle i warunki. Pozwoli nam to zmierzyć się z automatyzacją bardziej skomplikowanych procesów. Połączymy się z platformą do zarządzania robotami i zautomatyzujemy realny, życiowy scenariusz: wprowadzanie wydatków firmowych z pliku Excel do aplikacji budżetowej. Podczas tego dnia poczujesz blaski i cienie pracy dewelopera RPA.
 
     Podczas warsztatu zapewniamy dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegetariańskiej.
