@@ -34,20 +34,35 @@ opis:
   program: |
 
     1. Wprowadzenie do języka
+
         Dowiesz się podstawowych rzeczy o języku: historii powstania i rozwoju, strefach wykorzystania, cechach, zaletach i wadach w porównaniu do innych języków, istniejących typach danych.
+
     1. Proste typy
+
         Poznasz podstawowe typy danych: liczby, ciągi znaków, wartości bólowe, null i undefined. Dowiesz się o przydatnych metodach dla wydajnej i szybkiej pracy z nimi.
+
     1. Warunki logiczne i pętle
+
         W tym rozdziale poznasz różne sposoby na tworzenie warunków logicznych, ich różnice i miejsca wykorzystania wraz z operatorami logicznymi.
+
     1. Pętle
+
         Poznamy zasady, różnice, sposoby wykorzystywania pętli. Możliwości przerwania i pominięcia iteracji.
+
     1. Funkcje
+
         W tym rozdziale dowiesz cele i sposobach definicji funkcji. O przyjmowanych argumentach, możliwości zabezpieczenia od nieprzekazanych argumentów, jak również o zasięgu leksykalnym zmiennych i domknięciu.
+
     1. Typy złożone
+
         Poznasz typy złożone: Object i Array. Sposoby definicji, różnicę od prostych, sposoby przechowywania w pamięci, a także przydatne metody dla pracy takie jak pętle.
+
     1. Różnice pomiędzy ES5 a ES6
+
         Dowiesz się o głównych różnicach i pomiędzy ES5 a ES6 i sposobach transpilacji.
+
     1. Czysty kod
+
         Poznasz główne tricki dla zachowania czystości i łatwości powstającego kodu.
 
   uwaga: |
