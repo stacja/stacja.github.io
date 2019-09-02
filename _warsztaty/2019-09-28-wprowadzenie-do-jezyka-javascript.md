@@ -25,6 +25,7 @@ opis:
     **Wymagania techniczne:**
 
     • Zainstalowany edytor kodu VSCode lub Webstorm
+   
     • Zainstalowany NodeJS wersji 10.16.3
 
     Podczas warsztatu uczestnicy korzystają z własnych laptopów. 
