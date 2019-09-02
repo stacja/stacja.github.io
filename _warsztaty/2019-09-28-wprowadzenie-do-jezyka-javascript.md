@@ -16,8 +16,6 @@ opis:
 
     Celem warsztatu jest wprowadzenie do JavaScript. Nauczenie głównych zasad i możliwości tego języka. Usystematyzowanie wiedzy i zapoznanie z używanymi praktykami i standardami. Przyjrzenie się zmianom pomiędzy ES5 a ES6.
 
-    Podczas warsztatu zapewniamy dostęp do kawy, herbaty, wody i ciastek. W porze obiadowej zapewniamy lunch.
-
     **Do kogo skierowany jest ten warsztat?**
     
     Warsztat jest skierowany do osób, które nie miały dotąd kontaktu z JavaScript, chcących zacząć przygodę w świecie Front-End.
