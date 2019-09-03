@@ -5,7 +5,7 @@ date: 2019-02-25
 event_date: 2019-09-07
 cena: Warsztat płatny - od 79 PLN, 7 edycja warsztatu
 title: "Warsztat #307 Testy bezpieczeństwa dla QA/testerów"
-lokalizacja: NiewiadomoKrakow
+lokalizacja: Królewska
 prowadzacy: kowalczyk
 dlugosc: 9:00-17:00
 evenea_link: "https://testykrk.evenea.pl/?out=1&source=event_iframe"

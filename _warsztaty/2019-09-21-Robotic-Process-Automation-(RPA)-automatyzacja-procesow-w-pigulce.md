@@ -4,7 +4,7 @@ date: 2017-01-05
 # Data wydarzenia
 event_date: 2019-09-21
 title: "Warsztat #312 - Robotic Process Automation (RPA) - automatyzacja procesów w pigułce"
-lokalizacja: NiewiadomoTrojmiasto
+lokalizacja: Lemar
 prowadzacy: adamski
 evenea_link: "https://rpagda.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 9:00-17:00

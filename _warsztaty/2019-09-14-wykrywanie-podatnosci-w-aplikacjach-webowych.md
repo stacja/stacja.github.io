@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-09-14
 title: "Warsztat #310 Praktyczne sposoby wykrywania podatności w aplikacjach webowych"
-lokalizacja: NiewiadomoKrakow
+lokalizacja: Królewska
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
 prowadzacy: ktrzcinska
 dlugosc: 9:00-17:00

@@ -5,7 +5,7 @@ date: 2019-02-25
 event_date: 2019-09-21
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 title: "Warsztat #313 TDD Praktycznie"
-lokalizacja: NiewiadomoKrakow
+lokalizacja: Królewska
 prowadzacy: kaszynski
 dlugosc: 9:00-17:00
 evenea_link: "https://tddkrk.evenea.pl/?out=1&source=event_iframe"
