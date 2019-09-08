@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2019-02-25
 # Data wydarzenia
-event_date: 2019-09-07
+event_date: 2019-10-06
 cena: Warsztat płatny - od 79 PLN, 8 edycja warsztatu
 title: "Warsztat #321 Testy bezpieczeństwa dla QA/testerów"
 lokalizacja: Workband
