@@ -8,7 +8,7 @@ title: "Warsztat #321 Testy bezpieczeństwa dla QA/testerów"
 lokalizacja: Workband
 prowadzacy: kowalczyk
 dlugosc: 9:00-17:00
-evenea_link: "https://testykrk.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://testywro.evenea.pl/?out=1&source=event_iframe"
 podcast_id:
 slideshare:
 opis:
