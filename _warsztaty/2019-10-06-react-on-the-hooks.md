@@ -27,7 +27,7 @@ opis:
 
   program: |
 
-    1. Wprowadzeniedo komponentów
+    1. Wprowadzenie do komponentów
     1. Poznanie podstawowych hooków: useState, useEffect
     1. Budowanie Custom Hooks
     1. Zaawansowane Hooki - useReducer, useContext, useMemo
