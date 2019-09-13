@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-06-23
 # Data wydarzenia
-event_date: 2019-08-25
+event_date: 2019-10-13
 title: "Warsztat #323 Tworzenie gier komputerowych"
 lokalizacja: Sages
 cena: Warsztat płatny od 79 pln, 3 edycja warsztatu
