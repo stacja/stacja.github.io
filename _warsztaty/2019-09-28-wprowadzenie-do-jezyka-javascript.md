@@ -49,13 +49,13 @@ opis:
 
     1. Funkcje
 
-        W tym rozdziale dowiesz cele i sposobach definicji funkcji. O przyjmowanych argumentach, możliwości zabezpieczenia od nieprzekazanych argumentów, jak również o zasięgu leksykalnym zmiennych i domknięciu.
+        W tym rozdziale dowiesz się o celach i sposobach definicji funkcji. O przyjmowanych argumentach, możliwości zabezpieczenia od nieprzekazanych argumentów, jak również o zasięgu leksykalnym zmiennych i domknięciu.
 
     1. Typy złożone
 
-        Poznasz typy złożone: Object i Array. Sposoby definicji, różnicę od prostych, sposoby przechowywania w pamięci, a także przydatne metody dla pracy takie jak pętle.
+        Poznasz typy złożone: Object i Array. Sposoby definicji, różnicę od prostych, sposoby przechowywania w pamięci, a także przydatne metody do pracy takie jak pętle.
 
-    1. Różnice pomiędzy ES5 a ES6
+    1. Różnice pomiędzy ES5, a ES6
 
         Dowiesz się o głównych różnicach i pomiędzy ES5 a ES6 i sposobach transpilacji.
 
