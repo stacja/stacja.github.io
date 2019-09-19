@@ -74,7 +74,7 @@ opis:
 
        **Podczas warsztatu uczestnicy korzystają z własnych komputerów.**
     
-    Podczas warsztatu zapewniamy dostęp do kawy, herbaty, wody oraz ciastek. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegatariańskiej.
+    Podczas warsztatu zapewniamy dostęp do kawy, herbaty, wody oraz ciastek. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegetariańskiej.
 
   program: |
 
