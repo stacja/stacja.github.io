@@ -9,6 +9,18 @@ image: /img/podcast/okladka.png
 opis:
   informacje: |
     W tym odcinku Łukasz Kobyliński rozmawia z Angeliką Sętorek na temat Stacji IT w 2019 roku.
+
+  konspekt: |
+    1. Czym właściwie jest projekt Stacja.IT i skąd ten pomysł się wziął?
+    2. Czym Stacja jest w porównaniu do innych formuł np. meetupów, szkoleń?
+    3. Kim są trenerzy, którzy prowadzą zajęcia na Stacji?
+    4. Jakie tematy warsztatów są popularne? W jakich miastach Stacja funkcjonuje i gdzie jest najwięcej uczestników?  
+    5. Co koniecznie jest do tego, żeby tego rodzaju warsztaty czy nawet takie mniej praktyczne meetupy zorganizować?  
+    6. Jakie są najczęstsze problemy przy organizacji i podczas samego warsztatu?  
+    7. Jak wygląda strona finansowa Stacji IT?
+    8. Czym jest IT Training Tour?
+    9. Jakie są plany Stacji IT na najbliższe miesiące?
+    10. Konkurs - wygraj wejściówkę na warsztat!
   
   transkrypcja: |
   
