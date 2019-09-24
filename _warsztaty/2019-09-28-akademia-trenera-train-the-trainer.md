@@ -3,7 +3,7 @@
 date: 2019-03-14
 # Data wydarzenia
 event_date: 2019-09-28
-title: "Warsztat #301 Akademia Trenera - Train The Trainer"
+title: "Warsztat #302 Akademia Trenera - Train The Trainer"
 lokalizacja: Sages
 prowadzacy: nazimek
 type: akademia
