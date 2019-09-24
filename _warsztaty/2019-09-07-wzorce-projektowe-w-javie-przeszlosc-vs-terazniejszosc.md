@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2019-08-14
 # Data wydarzenia
-event_date: 2019-10-12
+event_date: 2019-09-07
 title: "IT TAINING TOUR - Wzorce projektowe w Javie - przeszłość vs teraźniejszość"
 lokalizacja: Workband
 prowadzacy: pkrogulec
