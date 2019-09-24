@@ -6,6 +6,7 @@ title: "Angelika Sętorek - Stacja IT w 2019 roku"
 mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_024_-_Angelika_Setorek_-_Stacja_IT_w_2019_roku.mp3"
 libsyn_id: 11326532
 image: /img/podcast/okladka.png
+youtube: "8k_-8_NdO5c"
 opis:
   informacje: |
     W tym odcinku Łukasz Kobyliński rozmawia z Angeliką Sętorek na temat Stacji IT w 2019 roku.
