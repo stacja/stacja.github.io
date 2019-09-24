@@ -5,7 +5,7 @@ date: 2019-02-25
 event_date: 2019-10-19
 cena: Warsztat płatny - od 79 PLN, 9 edycja warsztatu
 title: "Warsztat #312 Testy bezpieczeństwa dla QA/testerów"
-lokalizacja: NiewiadomoLodz
+lokalizacja: AkCreator
 prowadzacy: kowalczyk
 dlugosc: 9:00-17:00
 evenea_link: "https://testyldz.evenea.pl/?out=1&source=event_iframe"
