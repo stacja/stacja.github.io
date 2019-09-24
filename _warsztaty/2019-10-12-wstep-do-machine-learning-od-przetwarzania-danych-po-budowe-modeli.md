@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2019-08-14
 # Data wydarzenia
-event_date: 2019-09-07
+event_date: 2019-10-12
 title: "IT TAINING TOUR - Wstęp do Machine Learning - od przetwarzania danych po budowę modeli"
 lokalizacja: AkCreator
 prowadzacy: wkolodziejczyk
