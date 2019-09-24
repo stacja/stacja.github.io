@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-09-07
-title: "Warsztat #306 Przetwarzanie danych z Apache Spark"
+title: "Warsztat #293 Przetwarzanie danych z Apache Spark"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
 prowadzacy: pilarski

@@ -3,7 +3,7 @@
 date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-07-07
-title: "Warsztat #280 Przetwarzanie tekstu w języku Python"
+title: "Warsztat #275 Przetwarzanie tekstu w języku Python"
 lokalizacja: TEB Gdańsk
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: pilarski

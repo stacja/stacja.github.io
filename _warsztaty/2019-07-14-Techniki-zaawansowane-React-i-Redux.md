@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-07-14
-title: "Warsztat #283 Techniki zaawansowane React i Redux"
+title: "Warsztat #277 Techniki zaawansowane React i Redux"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: bialas

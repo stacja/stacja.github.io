@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-10-12
 cena: Warsztat płatny - od 79 PLN, 3 edycja warsztatu
-title: "Warsztat #322 Docker - szybki start"
+title: "Warsztat #307 Docker - szybki start"
 lokalizacja: Sages
 prowadzacy: wyspianski
 dlugosc: 9:00-17:00

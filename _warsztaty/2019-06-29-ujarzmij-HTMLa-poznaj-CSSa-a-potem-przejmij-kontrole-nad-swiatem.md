@@ -3,7 +3,7 @@
 date: 2019-06-06
 # Data wydarzenia
 event_date: 2019-06-29
-title: "Warsztat #260 Ujarzmij HTMLa, poznaj CSSa, a potem przejmij kontrolę nad światem"
+title: "Warsztat #271 Ujarzmij HTMLa, poznaj CSSa, a potem przejmij kontrolę nad światem"
 lokalizacja: Europrofes
 cena: Warsztat bezpłatny, 1 edycja warsztatu
 prowadzacy: scira

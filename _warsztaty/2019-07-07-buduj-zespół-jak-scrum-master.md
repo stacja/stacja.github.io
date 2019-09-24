@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-07-07
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
-title: "Warsztat #281 Buduj zespół jak Scrum Master"
+title: "Warsztat #274 Buduj zespół jak Scrum Master"
 lokalizacja: Sages
 prowadzacy: zeromski
 dlugosc: 9:00-17:00

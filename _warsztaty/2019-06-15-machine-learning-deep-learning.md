@@ -3,7 +3,7 @@
 date: 2017-01-03
 # Data wydarzenia
 event_date: 2019-06-15
-title: "Warsztat #274 Machine Learning & Deep Learning - wprowadzenie i przegląd algorytmów"
+title: "Warsztat #266 Machine Learning & Deep Learning - wprowadzenie i przegląd algorytmów"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: wkolodziejczyk

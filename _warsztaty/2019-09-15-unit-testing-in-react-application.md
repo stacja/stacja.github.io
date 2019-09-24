@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-09-15
-title: "Warsztat #311 Unit Testing in React Application"
+title: "Warsztat #298 Unit Testing in React Application"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: bialas

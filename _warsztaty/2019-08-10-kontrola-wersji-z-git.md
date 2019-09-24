@@ -4,7 +4,7 @@ date: 2019-02-25
 # Data wydarzenia
 event_date: 2019-08-10
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
-title: "Warsztat #295 Kontrola wersji z Git"
+title: "Warsztat #286 Kontrola wersji z Git"
 lokalizacja: Workband
 prowadzacy: blaszczak
 dlugosc: 9:00-17:00

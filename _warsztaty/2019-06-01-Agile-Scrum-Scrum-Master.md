@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-06-01
 cena: Warsztat płatny - 258 PLN, 6 edycja warsztatu
-title: "Warsztat #267 Agile, Scrum & Scrum Master"
+title: "Warsztat #262 Agile, Scrum & Scrum Master"
 lokalizacja: TEB Edukacja
 prowadzacy: zeromski
 dlugosc: 9:00-17:00

@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-07-06
-title: "Warsztat #279 Przetwarzanie danych z Apache Spark"
+title: "Warsztat #272 Przetwarzanie danych z Apache Spark"
 lokalizacja: TEB Gdańsk
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
 prowadzacy: pilarski

@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-06-29
 cena: Warsztat płatny - 258 PLN, 6 edycja warsztatu
-title: "Warsztat #277 Agile, Scrum & Scrum Master"
+title: "Warsztat #270 Agile, Scrum & Scrum Master"
 lokalizacja: Sages
 prowadzacy: zeromski
 dlugosc: 9:00-17:00

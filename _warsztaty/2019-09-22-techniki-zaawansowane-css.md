@@ -4,7 +4,7 @@ date: 2019-02-25
 # Data wydarzenia
 event_date: 2019-09-22
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
-title: "Warsztat #315 Techniki zaawansowane CSS"
+title: "Warsztat #300 Techniki zaawansowane CSS"
 lokalizacja: Sages
 prowadzacy: drozdz
 dlugosc: 9:00-17:00

@@ -4,7 +4,7 @@ date: 2019-02-25
 # Data wydarzenia
 event_date: 2019-10-19
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
-title: "Warsztat #326 Spring Boot w chmurze AWS w praktyce"
+title: "Warsztat #311 Spring Boot w chmurze AWS w praktyce"
 lokalizacja: NiewiadomoKrakow
 prowadzacy: jozefowicz
 dlugosc: 9:00-17:00

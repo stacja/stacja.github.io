@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-08-11
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
-title: "Warsztat #296 Zostań Product Owner"
+title: "Warsztat #287 Zostań Product Owner"
 lokalizacja: Sages
 prowadzacy: zeromski
 dlugosc: 9:00-17:00

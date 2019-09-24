@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-07-13
-title: "Warsztat #282 Wprowadzenie do ReactJS"
+title: "Warsztat #276 Wprowadzenie do ReactJS"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
 prowadzacy: bialas

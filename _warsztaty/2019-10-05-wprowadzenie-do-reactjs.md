@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-10-05
-title: "Warsztat #318 Wprowadzenie do ReactJS"
+title: "Warsztat #304 Wprowadzenie do ReactJS"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
 prowadzacy: bialas

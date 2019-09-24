@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-08-31
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
-title: "Warsztat #304 Wprowadzenie do technologii Spring"
+title: "Warsztat #291 Wprowadzenie do technologii Spring"
 lokalizacja: Sages
 prowadzacy: wyspianski
 dlugosc: 9:00-17:00

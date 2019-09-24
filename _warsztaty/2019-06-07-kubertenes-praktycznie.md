@@ -4,7 +4,7 @@ date: 2019-04-23
 # Data wydarzenia
 event_date: 2019-06-07
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
-title: "Warsztat #268 Kubernetes praktycznie"
+title: "Warsztat #263 Kubernetes praktycznie"
 lokalizacja: Lekarska
 prowadzacy: andrzejewski
 dlugosc: 9:00-17:00

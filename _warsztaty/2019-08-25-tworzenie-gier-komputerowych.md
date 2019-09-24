@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-08-25
-title: "Warsztat #301 Tworzenie gier komputerowych"
+title: "Warsztat #290 Tworzenie gier komputerowych"
 lokalizacja: Sages
 cena: Warsztat płatny od 79 pln, 2 edycja warsztatu
 prowadzacy: kietlinski

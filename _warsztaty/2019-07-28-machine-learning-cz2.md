@@ -3,7 +3,7 @@
 date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-07-28
-title: "Warsztat #288 Machine Learning & Deep Learning cz.2"
+title: "Warsztat #281 Machine Learning & Deep Learning cz.2"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: wkolodziejczyk

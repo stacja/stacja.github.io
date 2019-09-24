@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-08-24
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
-title: "Warsztat #300 Machine Learning - wprowadzenie i przegląd algorytmów"
+title: "Warsztat #289 Machine Learning - wprowadzenie i przegląd algorytmów"
 lokalizacja: Studio Coworking
 prowadzacy: wkolodziejczyk
 dlugosc: 9:00-17:00

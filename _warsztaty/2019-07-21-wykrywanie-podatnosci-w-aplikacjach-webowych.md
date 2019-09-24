@@ -3,7 +3,7 @@
 date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-07-21
-title: "Warsztat #285 Praktyczne sposoby wykrywania podatności w aplikacjach webowych"
+title: "Warsztat #278 Praktyczne sposoby wykrywania podatności w aplikacjach webowych"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: ktrzcinska

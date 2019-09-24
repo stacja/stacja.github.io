@@ -4,7 +4,7 @@ date: 2019-02-25
 # Data wydarzenia
 event_date: 2019-09-21
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
-title: "Warsztat #314 Wprowadzenie do serverless w chmurze AWS"
+title: "Warsztat #299 Wprowadzenie do serverless w chmurze AWS"
 lokalizacja: Sages
 prowadzacy: jozefowicz
 dlugosc: 9:00-17:00

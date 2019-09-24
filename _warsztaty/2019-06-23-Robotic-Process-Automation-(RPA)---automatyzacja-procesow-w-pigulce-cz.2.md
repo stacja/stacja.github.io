@@ -3,7 +3,7 @@
 date: 2017-01-05
 # Data wydarzenia
 event_date: 2019-06-23
-title: "Warsztat #276 - Robotic Process Automation (RPA) - automatyzacja procesów w pigułce cz.2"
+title: "Warsztat #269 - Robotic Process Automation (RPA) - automatyzacja procesów w pigułce cz.2"
 lokalizacja: Sages
 prowadzacy: adamski
 evenea_link: "https://rpa2306.evenea.pl/?out=1&source=event_iframe"
