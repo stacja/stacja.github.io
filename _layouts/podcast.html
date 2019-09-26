@@ -18,6 +18,12 @@ layout: default
                     <hr/>
                     {{ page.opis['informacje'] | markdownify }}
                     <hr/>
+                    {% if page.youtube %}
+                    <h4 style="color:#fed136">WIDEO</h4>
+                    <hr/><div style="text-align: center;">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.youtube }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div><hr/>
+                    {% endif %}
                     <h4 style="color:#fed136">STRESZCZENIE ODCINKA</h4>
                     <hr/>
                     {{ page.opis['konspekt'] | markdownify }}
