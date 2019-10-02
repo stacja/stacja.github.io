@@ -3,7 +3,7 @@
 date: 2019-08-14
 # Data wydarzenia
 event_date: 2019-10-12
-title: "IT TAINING TOUR - Wstęp do Machine Learning - od przetwarzania danych po budowę modeli"
+title: "IT TRAINING TOUR - Wstęp do Machine Learning - od przetwarzania danych po budowę modeli"
 lokalizacja: AkCreator
 prowadzacy: wkolodziejczyk
 evenea_link: 

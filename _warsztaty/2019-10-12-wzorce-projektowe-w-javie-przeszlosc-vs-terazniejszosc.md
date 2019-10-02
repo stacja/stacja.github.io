@@ -3,7 +3,7 @@
 date: 2019-08-14
 # Data wydarzenia
 event_date: 2019-10-12
-title: "IT TAINING TOUR - Wzorce projektowe w Javie - przeszłość vs teraźniejszość"
+title: "IT TRAINING TOUR - Wzorce projektowe w Javie - przeszłość vs teraźniejszość"
 lokalizacja: AkCreator
 prowadzacy: pkrogulec
 evenea_link: 
