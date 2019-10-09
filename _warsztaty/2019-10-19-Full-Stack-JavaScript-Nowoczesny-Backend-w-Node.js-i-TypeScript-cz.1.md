@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-10-19
-title: "Warsztat #310 Full Stack JavaScript - Nowoczesny Backend w Node.js i TypeScript cz.1"
+title: "Warsztat #310 Full Stack JavaScript - Nowoczesny Backend w Node.js i TypeScript"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 4 edycja warsztatu
 prowadzacy: blaszczak
@@ -14,9 +14,7 @@ opis:
     
     Przedstawiamy pierwszą część warsztatu z serii Full Stack JavaScript, w którym zapoznamy się serwerowym wykorzystaniem JavaScript.
 
-    Poznamy framework NestJS oraz jak pisać backend w TypeScript.
-    W drugiej, zajmiemy się architekturą aplikacji, testami jednostkowymi, testami e2e, infrastrukturą i deploymentem aplikacji napisanych w Node.js.
-
+    Na początek poznamy framework NestJS oraz jak pisać backend w TypeScript.
 
     **Czego się nauczysz?**
 
@@ -31,7 +29,7 @@ opis:
 
     **Dla kogo jest ten warsztat?**
 
-    Warsztat jest przeznaczony dla programistów ze znajomością JavaScript i TypeScript w zakresie podstawowym. Zagadnienia które będą używane ale nie omawiane na warsztacie:
+    Warsztat jest przeznaczony dla programistów ze znajomością JavaScript i TypeScript w zakresie podstawowym. Zagadnienia, które należy znać, żeby w pełni skorzystać z warsztatu:
 
     1. JavaScript
        - var, const, let
@@ -53,7 +51,7 @@ opis:
 
     JavaScript pojawił się ponad 20 lat temu jako język skryptowy w przeglądarkach internetowych, czyli po stronie klienta. Później zawitał też po stronie serwera jako Node.js, a dalszy jego rozwój pozwala nam dziś budować aplikacje mobilne, desktopowe, programować bazy danych a nawet roboty.
 
-    Czy wiedziałeś że najbardziej popularne IDE dla web developerów, Visual Studio Code jest napisane w TypeScript HTML i CSS ?
+    Czy wiedziałeś że najbardziej popularne IDE dla web developerów, Visual Studio Code jest napisane w TypeScript HTML i CSS?
 
     Idea “Full Stack JavaScript” opiera się na wykorzystaniu technologii webowych, HTML, CSS i JavaScript we wszystkich etapach budowy aplikacji:
      - Strony internetowe (Czysty HTML+CSS+JavaScript, Angular, React, Vue)
@@ -62,9 +60,6 @@ opis:
      - Serwer (Node.js, Express, NestJS, Fastify)
      - Bazy danych (MongoDB Shell)
      - IoT (Cylon.js, Johnny-five)
-
-
-
 
        **Podczas warsztatu uczestnicy korzystają z własnych komputerów.**
     
@@ -87,13 +82,10 @@ opis:
     1. Budowa REST API.
        - Routing
        - Autoryzacja
-       - Połączenie z bazą danych
-       - Upload plików
        - Walidacja
-       - Generowanie dokumentacji Swagger
-    1. Serwowanie HTML i plików statycznych.
-    1. Komunikacja w czasie rzeczywistym z WebSocket.
-    
+       - Upload plików
+    1. Generowanie dokumentacji Swagger
+    1. Serwowanie HTML i plików statycznych.    
 
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
