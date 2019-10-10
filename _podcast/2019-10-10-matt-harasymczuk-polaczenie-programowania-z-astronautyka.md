@@ -36,11 +36,11 @@ opis:
     
     **Czy możesz mi opowiedzieć parę słów, co robisz na ERC?**
     
-    Z pierwszego wykształcenia jestem informatykiem i współpracuję z Sages, a z drugiego inżynierem kosmicznym i mam własną organizację Analog Austronal Training Center gdzie prowadzimy różnego rodzaju szkolenia, które są astronautyczne. Ludzie mogą zakosztować tego, jak to jest być astronautą - od nurkowania, lotnictwa, poprzez wirówkę przeciążeniowa i loty mikrograwitacyjne.
+    European Rover Challenge jest to konkurs łazików marsjańskich, w którym biorą udział zespoły dosłownie z całego świata, bo jest tu 40 zespołów ze wszystkich krajów znaczących w robotyce i inżynierii. Zespoły konkurują ze sobą konstruując łaziki, które muszą pokonać pewną trasę. Do pokonywania tej trasy muszą zbudować z jednej strony algorytm i wykorzystać np. Machine Learning do rozpoznawania trasy, do zrozumienia obrazu i dawania wskazówek dla maszynerii, całej robotyki całego łazika, do tego żeby taką trasę pokonać. Także jak najbardziej informatyka i trendy, które się w nią wpisują znajdują tutaj zastosowanie.
 
     **Brzmi imponująco. Jak to się ma do idei ERC. Mozesz dwa słowa powiedzieć, się dzieje na tym wydarzeniu i jak się w to wpasowujecie?**
 
-    European Rover Challenge jest to konkurs łazików marsjańskich, w którym biorą udział zespoły dosłownie z całego świata, bo jest tu 40 zespołów ze wszystkich krajów znaczących w robotyce i inżynierii. Zespoły konkurują ze sobą konstruując łaziki, które muszą pokonać pewną trasę. Do pokonywania tej trasy muszą zbudować z jednej strony algorytm i wykorzystać np. Machine Learning do rozpoznawania trasy, do zrozumienia obrazu i dawania wskazówek dla maszynerii, całej robotyki całego łazika, do tego żeby taką trasę pokonać. Także jak najbardziej informatyka i trendy, które się w nią wpisują znajdują tutaj zastosowanie.
+    Z pierwszego wykształcenia jestem informatykiem i współpracuję z Sages, a z drugiego inżynierem kosmicznym i mam własną organizację Analog Austronal Training Center gdzie prowadzimy różnego rodzaju szkolenia, które są astronautyczne. Ludzie mogą zakosztować tego, jak to jest być astronautą - od nurkowania, lotnictwa, poprzez wirówkę przeciążeniowa i loty mikrograwitacyjne.
 
     **Czyli połączenie IT - software’u z technologią hardware’ową?**
 
