@@ -2,13 +2,13 @@
 # Data dodania informacji o wydarzeniu
 date: 2018-09-24
 # Data wydarzenia
-event_date: 2019-09-14
-title: "Warsztat #297 Praktyczne sposoby wykrywania podatności w aplikacjach webowych"
-lokalizacja: Królewska
-cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
+event_date: 2019-11-09
+title: "Warsztat #320 Praktyczne sposoby wykrywania podatności w aplikacjach webowych"
+lokalizacja: NiewiadomoGdansk
+cena: Warsztat płatny - od 79 PLN, 3 edycja warsztatu
 prowadzacy: ktrzcinska
 dlugosc: 9:00-17:00
-evenea_link: "https://testwebkrk.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://podweb0911.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
