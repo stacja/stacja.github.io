@@ -22,10 +22,10 @@ opis:
     8. W jaki sposób ludzie zapatrują się na te szkolenia? Jakiego rodzaju kandydaci zgłaszają się do szkoły?
     9. Czy prowadzicie jakieś prace, które zmierzają do tego, żeby coś opublikować, czy sprawdzić jak coś działa w takich warunkach symulowanych, kosmicznych?
     10. W jaki sposób ten system operacyjny stworzony przez Ciebie łączy się z prowadzeniem szkoły?
-    11. Czym jeszcze się zajmujesz w kontekście IT, poza Analog Austronal Training Center?
-    12. Czy lubisz edukować innych?
-    13. Czy gdybyś zaczynał od początku, to czy szybciej chciałbyś dotrzeć do astronautyki?
-    14. Jaka jest rola IT w prowadzeniu szkoły dla przyszłych astronautów?
+    11. Czym jeszcze się zajmujesz w kontekście IT, poza Analog Astronaut Training Center? 
+    12. Czy lubisz edukować innych?
+    13. Czy gdybyś zaczynał od początku, to czy szybciej chciałbyś dotrzeć do astronautyki?
+    14. Jaka jest rola IT w prowadzeniu szkoły dla przyszłych astronautów?
   
   transkrypcja: |
   
@@ -36,17 +36,17 @@ opis:
     
     **Czy możesz mi opowiedzieć parę słów, co robisz na ERC?**
     
-    Z pierwszego wykształcenia jestem informatykiem i współpracuję z Sages, a z drugiego inżynierem kosmicznym i mam własną organizację Analog Austronal Training Center gdzie prowadzimy różnego rodzaju szkolenia, które są astronautyczne. Ludzie mogą zakosztować tego, jak to jest być astronautą - od nurkowania, lotnictwa, poprzez wirówkę przeciążeniowa i loty mikrograwitacyjne.
+    European Rover Challenge jest to konkurs łazików marsjańskich, w którym biorą udział zespoły dosłownie z całego świata, bo jest tu 40 zespołów ze wszystkich krajów znaczących w robotyce i inżynierii. Zespoły konkurują ze sobą konstruując łaziki, które muszą pokonać pewną trasę. Do pokonywania tej trasy muszą zbudować z jednej strony algorytm i wykorzystać np. Machine Learning do rozpoznawania trasy, do zrozumienia obrazu i dawania wskazówek dla maszynerii, całej robotyki całego łazika, do tego żeby taką trasę pokonać. Także jak najbardziej informatyka i trendy, które się w nią wpisują znajdują tutaj zastosowanie.
 
     **Brzmi imponująco. Jak to się ma do idei ERC. Mozesz dwa słowa powiedzieć, się dzieje na tym wydarzeniu i jak się w to wpasowujecie?**
 
-    European Rover Challenge jest to konkurs łazików marsjańskich, w którym biorą udział zespoły dosłownie z całego świata, bo jest tu 40 zespołów ze wszystkich krajów znaczących w robotyce i inżynierii. Zespoły konkurują ze sobą konstruując łaziki, które muszą pokonać pewną trasę. Do pokonywania tej trasy muszą zbudować z jednej strony algorytm i wykorzystać np. Machine Learning do rozpoznawania trasy, do zrozumienia obrazu i dawania wskazówek dla maszynerii, całej robotyki całego łazika, do tego żeby taką trasę pokonać. Także jak najbardziej informatyka i trendy, które się w nią wpisują znajdują tutaj zastosowanie.
+    Z pierwszego wykształcenia jestem informatykiem i współpracuję z Sages, a z drugiego inżynierem kosmicznym i mam własną organizację Analog Astronut Training Center gdzie prowadzimy różnego rodzaju szkolenia, które są astronautyczne. Ludzie mogą zakosztować tego, jak to jest być astronautą - od nurkowania, lotnictwa, poprzez wirówkę przeciążeniowa i loty mikrograwitacyjne.
 
     **Czyli połączenie IT - software’u z technologią hardware’ową?**
 
     Tak, jak najbardziej. Maszyna a właściwie dusza tej maszyny, bo robot to, elektroniczne urządzenie - tak naprawdę się nie porusza, nie rozumie. To właśnie software napędza i pozwala temu urządzeniu pokonywać trasę i np. podejmować próbki gruntu i samemu podejmować decyzje, które będą się nadawały np. do analizy  spektometrycznej. 
 
-    **Mówiłeś że tutaj prezentujesz swoją szkołę Analog Training Center. Co Cię skłoniło, żeby rozpocząć szkolenie osób, w kierunku zostania astronautą?**
+    **Mówiłeś że tutaj prezentujesz swoją szkołę Analog Astronaut Training Center. Co Cię skłoniło, żeby rozpocząć szkolenie osób, w kierunku zostania astronautą?**
 
     Miałem przyjemność pracować w Europejskiej Agencji Kosmicznej. Całe życie uwielbiam dwie rzeczy: informatykę (to zawsze była moja ogromna pasja) oraz kosmos (było to moje dziecięce marzenie, które zawsze wydawało mi się takie odległe). W sumie to w innych krajach się tym zajmują, nie wiem kto. W Polsce nie było takiej możliwości, dopóki nie zaczęliśmy sami tego tworzyć. Dopóki nie zaczęliśmy czegokolwiek w tym kierunku działać. Pozniej pojawila sie ta rzeczona ESA (przyp. red.Europejska Agencja Kosmiczna. Nie ukrywam, że to informatyka wystrzeliła mnie w tym kierunku i pozwala mi jakkolwiek zajmować się tą branżą kosmiczną.
 
@@ -79,7 +79,7 @@ opis:
     Jak najbardziej. Sam budynek tak naprawdę byłby niczym, w ogóle w XXI wieku. I właśnie tym software’em jest habitat OS. Jest to system, który planuje upublicznić na opensource’owej licencji. W tej chwili mam jeszcze pewne kwestie, które chciałbym przygotować. Żeby ten system można było uruchomić wszędzie, nie tylko w naszym habitacie. To znaczy, że musimy delikatnie wyzbyć się tych bardzo specyficznych elementów, bardziej pójść w stronę generalizacji. Jest to system, który łączy informację z czujników, które mamy o temperaturze, wilgotności, naświetleniu różnych poszczególnych pomieszczeń, z danymi medycznymi osób takimi jak pomiary ciśnienia, krwi, cukru, moczu, kału i innych pomiarów które mamy. Oczywiście, nie wszystko to trzeba wykorzystać. Im więcej nam użytkownicy dadzą, tym bardziej jesteśmy w stanie zrobić lepszą analizę korelacji. Ogólnie ideałem jest to, że ten system operacyjny tak naprawdę steruje budynkiem, więc jest to technologia smart buildingu, która jest w tej chwili bardzo często wykorzystywana. I ten budynek, na podstawie Twojego zachowania, na podstawie np. analizy raportów, z eksperymentu, który wprowadzasz, czy jakichś tekstów, czy Twoich wpisów do dzienniczka itd, on potrafi przeanalizować stan i poziom stresu. Wówczas budynek jest w stanie sam sterować poszczególnymi elementami, np. zwiększyć wilgotność pomieszczenia, zmienić temperaturę itd. Na podstawie tego, żeby tobie, było lepiej. Jest to faza dalsza i długa. Jeszcze nie sądzę, by tak szybko się skończyła, ale właśnie ten habitat daje nam unikalne środowisko, z jednej strony możliwości pełnej kontroli nad warunkami atmosferycznymi wewnątrz, a z drugiej strony mamy ludzi którzy przez 24 godziny przez 2 tygodnie tam siedzą i  dzięki temu mamy unikalną możliwość też prosić ich 2 razy w ciągu dnia, żeby robili pomiary ciśnienia, wagi i innych parametrów,które są np. w saturacji, a to z kolei powoduje, że to wszystko się świetnie zgrywa.
  
 
-    **Powiedz Matt, czym jeszcze się zajmujesz w kontekście IT, poza Analog Austronal Training Center?**
+    **Powiedz Matt, czym jeszcze się zajmujesz w kontekście IT, poza Analog Astronaut Training Center?**
 
     Jeżeli chodzi o IT, to moją tutaj kluczową sprawą, są szkolenia, które prowadzę dla Sages. Głównie z Pythona i technologii dookoła, czyli Python na wszystkich poziomach skomplikowania plus Machine Learning, Data Science. Wszystko co tam jest z tym związane oraz Continous Integration. Tak jak słyszałeś, mam troszeczkę doświadczenia z tymi tematami, związane czy z tworzeniem, czy też z wprowadzeniem. Jestem bardzo zadowolony bo z jednego i drugiego tematu udało mi się napisać książkę. Książek, które mam jest trochę więcej, ale ta z Pythona liczy 1100 stron. Jest to naprawdę duża książka i ja nad nią spędzam parę godzin dziennie czasami. To był taki mój mały projekt, który wyewoluował. Nie ukrywam, że stało się to przy okazji prowadzenia szkoleń właśnie w Sages, bo zawsze ktoś mnie o coś zapyta, a ja zawsze coś dorzucam do swoich materiałów i naprawdę wyewoluowało to super. Ta książka jest dostępna online dla wszystkich za darmo na stronie python.astrotech.io. Zresztą wszystkie moje książki są w domenie IO, czyli astrotech.io np. devops.astrotech.io, git.astrotech.io. arch.astrotech,io, (tam będzie architektura i cloud). Jeszcze jest Jira i Linux, jeśli się nie mylę. Także tych książek jest trochę. Nie są wszystkie aż tak dobre, jak ta z Pythona, nad którą tyle spędziłem. Z Devopsa mam chyba z 200 stron, z clouda około stu z kawałkiem, także są to powoli jakieś większe części. Są to z jednej strony materiały szkoleniowe, które przerabiamy na zajęciach z moim dużym komentarzem. Są tam też zadania, workshopy, które sobie razem robimy podczas szkoleń. Z kolei nie ukrywam, że ta informatyka z jednej strony mnie bardzo mocno wciągnęła, bo to jest tak jak mówię od zawsze moja pasja i to pisanie tego systemu operacyjnego i rozgryzanie tych tematów. Dzięki temu systemowi, udało mi się właśnie połączyć informatykę z przemysłem kosmicznym. Drugą taką największą pasją jest edukacja, którą dzięki Sagesowi mam możliwość realizować.
 
