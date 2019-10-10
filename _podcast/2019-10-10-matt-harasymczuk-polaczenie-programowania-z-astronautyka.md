@@ -21,9 +21,10 @@ opis:
     7. Jak faktycznie przygotowujecie osobę do tego, żeby mogła potem potencjalnie zostać wystrzelona w kosmos?
     8. W jaki sposób ludzie zapatrują się na te szkolenia? Jakiego rodzaju kandydaci zgłaszają się do szkoły?
     9. Czy prowadzicie jakieś prace, które zmierzają do tego, żeby coś opublikować, czy sprawdzić jak coś działa w takich warunkach symulowanych, kosmicznych?
-    10. W jaki sposób ten system operacyjny stworzony przez Ciebie łączy się z prowadzeniem szkoły?                                      
-    11. Czym jeszcze się zajmujesz w kontekście IT, poza Analog Austronal Training Center?                                                          
-    12. Czy lubisz edukować innych?                                                13. Czy gdybyś zaczynał od początku, to czy szybciej chciałbyś dotrzeć do astronautyki?                                                    
+    10. W jaki sposób ten system operacyjny stworzony przez Ciebie łączy się z prowadzeniem szkoły?
+    11. Czym jeszcze się zajmujesz w kontekście IT, poza Analog Austronal Training Center?
+    12. Czy lubisz edukować innych?
+    13. Czy gdybyś zaczynał od początku, to czy szybciej chciałbyś dotrzeć do astronautyki?
     14. Jaka jest rola IT w prowadzeniu szkoły dla przyszłych astronautów?
   
   transkrypcja: |
