@@ -14,7 +14,7 @@ opis:
   konspekt: |
     1. Czy możesz mi opowiedzieć parę słów, co robisz na European Rover Challenge?
     2. Co dzieje na tym wydarzeniu i jak się w to wpasowujecie?
-    3.Połączenie IT - software’u z technologią hardware’ową.
+    3. Połączenie IT - software’u z technologią hardware’ową.
     4. Co Cię skłoniło, żeby rozpocząć szkolenie osób, w kierunku zostania astronautą?
     5. Jak wyglądała Twoja ewolucja, jako osoby zaangażowanej w IT?  Czy to się zaczęło od programowania?
     6. Czym jest habitat?
