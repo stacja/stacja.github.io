@@ -395,8 +395,11 @@ dmytriv:
 gula:
   name: Artur Guła
   img: /img/portfolio/agula.jpg
-  desc: "Liderem, menedżer zespołów IT od wielu lat. Brał udział w projektach z różnych branż i technologii, wliczając w to zarówno start-upy jak i złożone, międzynarodowe przedsięwzięcia. W swoim podejściu do realizowania projektów skupia się z jednej strony na optymalizacji i pragmatyzmie, a z drugiej na odkrywaniu i wzmacnianiu potencjału drzemiącego w każdym zespole. Autor ostatnio wydanej książki pt. Fascynujący świat przywództwa."
-
+  desc: "Lider, menedżer zespołów IT od wielu lat. Brał udział w projektach z różnych branż i technologii, wliczając w to zarówno start-upy jak i złożone, międzynarodowe przedsięwzięcia. W swoim podejściu do realizowania projektów skupia się z jednej strony na optymalizacji i pragmatyzmie, a z drugiej na odkrywaniu i wzmacnianiu potencjału drzemiącego w każdym zespole. Autor ostatnio wydanej książki pt. Fascynujący świat przywództwa."
+orzeszek:
+  name: Dorota Orzeszek
+  img: /img/portfolio/dorzeszek.jpg
+  desc: "Programistka i UX designerka specjalizująca się w accessibility. Na co dzień zajmuje się tworzeniem innowacyjnych interfejsów użytkownika i rozwiązań wspomagających dostępność systemów oraz oceną użyteczności i dostępności produktów, interakcji i interfejsów, prowadzi też szkolenia z accessibility, usability i UX. WWW: http://insideaccessibility.com"
 
 
 ---
