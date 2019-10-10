@@ -6,7 +6,7 @@ title: "Matt Harasymczuk - Połączenie programowania z astronautyką"
 mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_025_Matt_Harasymczuk__-_Poaczenie_programowania_z_astronautyk.mp3"
 libsyn_id: 11589074
 image: /img/podcast/okladka.png
-youtube: "RZDkroH9Ed0&feature=youtu.be"
+youtube: "RZDkroH9Ed0"
 opis:
   informacje: |
     W tym odcinku Łukasz Kobyliński rozmawia z Mattem Harasymczukiem na temat połączenia IT z biznesem, którym w tym przypadku jest szkoła Matta dla przyszłych astronautów.
