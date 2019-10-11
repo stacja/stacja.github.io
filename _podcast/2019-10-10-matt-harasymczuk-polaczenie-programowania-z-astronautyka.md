@@ -7,6 +7,7 @@ mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_025_Matt_Harasym
 libsyn_id: 11589074
 image: /img/podcast/okladka.png
 youtube: "RZDkroH9Ed0"
+youtube2: "OA107wKinag"
 opis:
   informacje: |
     W tym odcinku Łukasz Kobyliński rozmawia z Mattem Harasymczukiem na temat połączenia IT z biznesem, którym w tym przypadku jest szkoła Matta dla przyszłych astronautów.
