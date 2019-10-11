@@ -9,7 +9,7 @@ image: /img/podcast/okladka.png
 youtube: "RZDkroH9Ed0"
 opis:
   informacje: |
-    W tym odcinku Łukasz Kobyliński rozmawia z Mattem Harasymczukiem na temat połączenia IT z biznesem, którym w tym przypadku jest szkoła Matta dla przyszłych astronautów.
+    W tym odcinku Łukasz Kobyliński rozmawia z Mattem Harasymczukiem na temat połączenia IT z biznesem, którym w tym przypadku jest szkoła Matta dla przyszłych astronautów. Zachęcamy również do obejrzenia naszej relacji z wydarzenia European Rover Challenge, gdzie odwiedziliśmy m.in. stoisko szkoły Matta. 
 
   konspekt: |
     1. Czy możesz mi opowiedzieć parę słów, co robisz na European Rover Challenge?
