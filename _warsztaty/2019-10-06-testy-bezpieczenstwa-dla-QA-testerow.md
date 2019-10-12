@@ -4,7 +4,7 @@ date: 2019-02-25
 # Data wydarzenia
 event_date: 2019-10-06
 cena: Warsztat płatny - od 79 PLN, 8 edycja warsztatu
-title: "Warsztat #306 Testy bezpieczeństwa dla QA/testerów"
+title: "Warsztat #304 Testy bezpieczeństwa dla QA/testerów"
 lokalizacja: Workband
 prowadzacy: kowalczyk
 dlugosc: 9:00-17:00
