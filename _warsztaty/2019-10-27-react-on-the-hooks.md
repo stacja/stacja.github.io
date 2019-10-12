@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-10-27
-title: "Warsztat #317 React on the Hooks"
+title: "Warsztat #312 React on the Hooks"
 lokalizacja: Workband
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: bialas

@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-10-13
-title: "Warsztat #308 Full Stack JavaScript - NGRX - Reaktywne aplikacje webowe"
+title: "Warsztat #306 Full Stack JavaScript - NGRX - Reaktywne aplikacje webowe"
 lokalizacja: RaclawickaKrakow
 cena: Warsztat płatny - od 79 PLN, 5 edycja warsztatu
 prowadzacy: blaszczak

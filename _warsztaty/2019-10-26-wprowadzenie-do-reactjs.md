@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-10-26
-title: "Warsztat #315 Wprowadzenie do ReactJS"
+title: "Warsztat #310 Wprowadzenie do ReactJS"
 lokalizacja: Workband
 cena: Warsztat płatny - od 79 PLN, 3 edycja warsztatu
 prowadzacy: bialas

@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-10-19
-title: "Warsztat #310 Full Stack JavaScript - Nowoczesny Backend w Node.js i TypeScript"
+title: "Warsztat #307 Full Stack JavaScript - Nowoczesny Backend w Node.js i TypeScript"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 4 edycja warsztatu
 prowadzacy: blaszczak

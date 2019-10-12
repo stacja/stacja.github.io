@@ -3,7 +3,7 @@
 date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-11-10
-title: "Warsztat #321 Ruby on Rails - szybki start"
+title: "Warsztat #318 Ruby on Rails - szybki start"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: shmarov

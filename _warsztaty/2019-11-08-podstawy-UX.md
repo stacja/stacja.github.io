@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-11-08
-title: "Warsztat #318 Podstawy UX"
+title: "Warsztat #314 Podstawy UX"
 lokalizacja: NiewiadomoWarszawa
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: orzeszek
