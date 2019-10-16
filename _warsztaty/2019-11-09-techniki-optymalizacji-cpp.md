@@ -19,8 +19,8 @@ opis:
 
     Studenci, programiści C++ na początku swojej kariery, osoby którym wyrażenia stos, sterta i cache (w odniesieniu do pamięci) nie mówią zbyt wiele i chciałyby zacząć świadomie z nich korzystać. Osoby ze znajomością języka C++ na poziomie podstawowym lub średnio-zaawansowanym pragnące dowiedzieć się czegoś nowego.
     
-    Podczas warsztatu zapewniemy dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegeteriańskiej.
-    W trakcie zajęć uczesnicy korzystają z własnych laptopów.
+    Podczas warsztatu zapewniamy dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegetariańskiej.
+    W trakcie zajęć uczestnicy korzystają z własnych laptopów.
 
   program: |
 
