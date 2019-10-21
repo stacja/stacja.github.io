@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-11-17
-title: "Warsztat #322 Unit Testing in React Application"
+title: "Warsztat #321 Unit Testing in React Application"
 lokalizacja: NiewiadomoWroclaw
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
 prowadzacy: bialas
