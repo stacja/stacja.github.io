@@ -1,6 +1,6 @@
 ---
 # Data dodania informacji o wydarzeniu
-date: 2018-10-29
+date: 2019-10-24
 episode: 1
 title: "Krótko o warsztacie - Artur Guła - Przywództwo w świecie IT"
 youtube: "t7yPRCHS40I"
