@@ -412,4 +412,9 @@ biczyk:
   name: Piotr Biczyk
   img: /img/portfolio/pbiczyk.jpg
   desc: "Fizyk z wykształcenia i zamiłowania, którego życie rzuciło w objęcia IT. W chwili obecnej współpracuje z prawdopodobnie najlepszym krajowym ośrodkiem zajmującym się przekuwaniem zdobyczy matematyki na nową lepszą przyszłość w obszarze uczenia maszynowego i sztucznej inteligencji. W ramach prowadzonych i nadzorowanych projektów badawczo rozwojowych łączy interesujące badania naukowe z budowaniem użytecznego software."  
+kraszewski:
+  name: Marcin Kraszewski
+  img: /img/portfolio/kraszewski.jpg
+  desc: "Was born in Warsaw in 1980, emigrated to the United States in 1985, and Graduate with a Bachelors degree from Milwaukee Institute of Art & Design in 2009. He loves and works in Warsaw, Poland. He is currently employee as an automation developer at an international corporation."
+
 ---

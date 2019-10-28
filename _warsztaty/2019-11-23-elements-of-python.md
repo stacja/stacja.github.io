@@ -6,8 +6,8 @@ event_date: 2019-11-23
 title: "Warsztat #322 Elements of Pyhton: Code, Test, Deploy"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
-prowadzacy: 
-evenea_link: "https://.evenea.pl/?out=1&source=event_iframe"
+prowadzacy: kraszewski
+evenea_link: "https://pythoneng.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
 opis:
   informacje: |
