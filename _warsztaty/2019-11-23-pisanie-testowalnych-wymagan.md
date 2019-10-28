@@ -17,11 +17,13 @@ opis:
     Poznamy miejsce analityka w procesie zarządzania jakością. Dowiemy się jaki wpływ mają dobre wymagania na końcową jakość projektu. Zapoznamy się z technikami zbierania i pisania wymagań w taki sposób, aby były zrozumiałe dla testerów i programistów, a tym samym aby wspólpraca w zespole była efektywniejsza.
 
     **Czego się nauczysz?**
+
     W pierwszej części warsztatu dowiemy się, jak praca analityka wpływa na zrządzanie jakością oraz jakie są dobre praktyki z tym związane. Poznamy i przećwiczymy także techniki zbierania i rozbijania wyagań.
 
     W drugiej części - poprzez serię praktycznych ćwiczeń i dyskusji - poznamy pojęcie testowalności wymagań, a także poszerzymy swoją wiedzę i umiejętności w zakresie pisania ich w sposób jasny, zrozumiały dla szerokiej grupy odbiorców i dobrze ustrukturyzowany.
 
     **Dla kogo jest ten warsztat?**
+    
     Warsztat jest przeznaczony dla analityków biznesowych, a także systemowych. Wszystkich pracujących przy zbieraniu i opracowywaniu wymagań do systemów infromatycznych, współpracujących na co dzień z zespołami programistów i testerów.
 
     Podczas warsztatu uczestnicy korzystają z własnych komputerów.
