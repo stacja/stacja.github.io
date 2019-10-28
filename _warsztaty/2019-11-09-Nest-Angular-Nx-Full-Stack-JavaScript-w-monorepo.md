@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-11-09
-title: "Warsztat #315 Nest + Angular + Nx czyli Full Stack JavaScript w monorepo"
+title: "Warsztat #313 Nest + Angular + Nx czyli Full Stack JavaScript w monorepo"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: blaszczak

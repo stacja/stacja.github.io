@@ -3,7 +3,7 @@
 date: 2019-05-08
 # Data wydarzenia
 event_date: 2019-11-09
-title: "Warsztat #317 - Techniki optymalizacji C++"
+title: "Warsztat #314 - Techniki optymalizacji C++"
 lokalizacja: NiewiadomoWroclaw
 prowadzacy: kurosz
 evenea_link: "https://optcpp.evenea.pl/?out=1&source=event_iframe"
