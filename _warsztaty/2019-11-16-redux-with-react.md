@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-11-16
-title: "Warsztat #320 Redux with React"
+title: "Warsztat #318 Redux with React"
 lokalizacja: NiewiadomoWroclaw
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
 prowadzacy: bialas
