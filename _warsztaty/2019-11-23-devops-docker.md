@@ -13,13 +13,9 @@ opis:
   informacje: |
     
     Wydarzenie adresowane trzem grupom:
-    - deweloperom, którym póki co działa, lub przynajmniej co drugi raz, o
-     ile nikt nie zapomniał dopisać nowych zależności aplikacji do
-     dokumentacji,
-    - testerom, którym nie działa to co przed chwilą jeszcze działało na
-     laptopie dewelopera,
-    - operatorom którzy wdrażają aplikacje, które podobno gdzieś u kogoś
-     kiedyś działały.
+    - deweloperom, którym póki co działa, lub przynajmniej co drugi raz, o ile nikt nie zapomniał dopisać nowych zależności aplikacji do dokumentacji,
+    - testerom, którym nie działa to co przed chwilą jeszcze działało na laptopie dewelopera,
+    - operatorom którzy wdrażają aplikacje, które podobno gdzieś u kogoś kiedyś działały.
 
     Pokażemy, jak za pomocą prostych narzędzi (Docker oraz docker-compose) można zbudować proces dewelopersko-QA-wdrożeniowy możliwie odporny na problem SOA#1.
 
