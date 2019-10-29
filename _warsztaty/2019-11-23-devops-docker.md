@@ -55,11 +55,11 @@ opis:
 
      Sponsorem warsztatu jest firma 360CodeLab - dostawca kompleksowych usług dla firm w zakresie rozwoju IT. Oferuje dopasowane rozwiązania, od oceny projektu, przez wyszukiwanie talentów, do rozwoju platformy i stałego wsparcia frontendowego. Skupia się na przełamywaniu konwencjonalnych wzorców myślenia, opracowywaniu przełomowych pomysłów, znajdowaniu kreatywnych rozwiązań i dynamicznym wdrażaniu projektów.
 
-    [alt](/img/zdj/1.jpg) [alt](/img/zdj/3.jpg)
+    ![alt](/img/zdj/1.jpg) ![alt](/img/zdj/3.jpg)
     <br>
-    [alt](/img/zdj/4.jpg) [alt](/img/zdj/5.jpg) 
+    ![alt](/img/zdj/4.jpg) ![alt](/img/zdj/5.jpg) 
     <br>
-    [alt](/img/zdj/6.jpg) [alt](/img/zdj/7.jpg)
+    ![alt](/img/zdj/6.jpg) ![alt](/img/zdj/7.jpg)
 
 
   uwaga: |
