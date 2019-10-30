@@ -5,8 +5,6 @@ episode: 1
 title: "Krótko o warsztacie - Artur Guła - Przywództwo w świecie IT"
 youtube: "t7yPRCHS40I"
 workshop_url: "https://stacja.it/warsztaty/2019-10-27-przywodztwo-w-swiecie-IT.html"
-
-
 opis:
   informacje: |
     W tym odcinku Artur Guła opowie o swoim warsztacie na Stacji IT - "Przywództwo w świecie IT". 
