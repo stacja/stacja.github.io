@@ -4,7 +4,7 @@ date: 2019-02-25
 # Data wydarzenia
 event_date: 2019-10-27
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
-title: "Warsztat #313 Przywództwo w świecie IT"
+title: "Warsztat #311 Przywództwo w świecie IT"
 lokalizacja: Sages
 prowadzacy: gula
 dlugosc: 9:00-17:00

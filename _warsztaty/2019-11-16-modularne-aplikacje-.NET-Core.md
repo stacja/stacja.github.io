@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-11-16
-title: "Warsztat #319 Modularne aplikacje .NET Core"
+title: "Warsztat #317 Modularne aplikacje .NET Core"
 lokalizacja: Sages
 cena: Warsztat płatny od 79 pln, 1 edycja warsztatu
 prowadzacy: kielbasa

@@ -4,7 +4,7 @@ date: 2019-02-25
 # Data wydarzenia
 event_date: 2019-10-26
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
-title: "Warsztat #311 Wprowadzenie do języka Scala"
+title: "Warsztat #310 Wprowadzenie do języka Scala"
 lokalizacja: Sages
 prowadzacy: szmit
 dlugosc: 9:00-17:00

@@ -408,4 +408,23 @@ kostiukevych:
   name: Dmytro Kostiukevych
   img: /img/portfolio/dkostiukevych.jpg
   desc: "Software Tester z 5 letnim doświadczeniem w branży IT. Od dwóch lat w Krakowie na pokładzie firmy Miquido. Specjalizuje się w testach automatycznych i manualnych aplikacji mobilnych oraz webowych. Prawdziwy perfekcjonista – uważa, że to co zrobiłeś wczoraj, dzisiaj możesz zrobić jeszcze lepiej. Z pewnością jest to osoba, która wie jak mają wyglądać prawdziwe testy i będzie w stanie przekazać Wam solidną dawkę konkretnej wiedzy popartą przykładami."
+biczyk:
+  name: Piotr Biczyk
+  img: /img/portfolio/pbiczyk.jpg
+  desc: "Fizyk z wykształcenia i zamiłowania, którego życie rzuciło w objęcia IT. W chwili obecnej współpracuje z prawdopodobnie najlepszym krajowym ośrodkiem zajmującym się przekuwaniem zdobyczy matematyki na nową lepszą przyszłość w obszarze uczenia maszynowego i sztucznej inteligencji. W ramach prowadzonych i nadzorowanych projektów badawczo rozwojowych łączy interesujące badania naukowe z budowaniem użytecznego software."  
+kraszewski:
+  name: Marcin Kraszewski
+  img: /img/portfolio/kraszewski.jpg
+  desc: "Born in Warsaw in 1980, emigrated to the United States in 1985, and Graduate with a Bachelors degree from Milwaukee Institute of Art & Design in 2009. He loves and works in Warsaw, Poland. He is currently employee as an automation developer at an international corporation."
+hryszko:
+  name: Arnika Hryszko
+  img: /img/portfolio/ahryszko.jpg
+  desc: "Doświadczona testerka oprogramowania, Professional SCRUM Master i trenerka. Od 2008 roku przeszła całą ścieżkę testera–profesjonalisty, począwszy od testów manualnych, wydajnościowych i bezpieczeństwa, poprzez web serwisy, aplikacje mobilne, hurtownie danych, Business Intelligence, systemy wbudowane i zaawansowaną automatyzację, na zastosowaniu mechanizmów sztucznej inteligencji w testowaniu kończąc. W pracy, oprócz zabiegania o najwyższą jakość testowanych systemów, szczególnie ceni sobie bliską współpracę z osobami odpowiedzialnymi za inne obszary tworzenia aplikacji. Pomaga im zrozumieć, że testowanie to nie wytykanie błędów, a integralna część procesu wytwarzania oprogramowania. Poza godzinami pracy podróżuje, żegluje, wspina się i strzela."
+fortuna:
+  name: Tomasz Fortuna
+  img: /img/portfolio/tfortuna.jpg
+  desc: "Tomasz swoją przygodę ze światem IT zaczynał od programowania w Turbo Pascalu podczas wakacji na wsi i hostowania obcym ludziom z IRCa kont shellowych - prosto ze swojej piwnicy. Z jakiegoś powodu uszło mu to na sucho i dzięki temu swoje doświadczenia z programowaniem rozszerzył o wiele innych języków i technologii, grzebał w bazach danych, lutował elektronikę, tworzył architekturę złożonych systemów i prowadził szkolenia. Kilka projektów w duchu Agile doprowadził do szczęśliwego końca i liczy na to, że jeszcze kilka dociągnie."
+
+
+
 ---

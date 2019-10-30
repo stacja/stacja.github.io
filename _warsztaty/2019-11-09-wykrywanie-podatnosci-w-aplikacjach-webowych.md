@@ -3,7 +3,7 @@
 date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-11-09
-title: "Warsztat #316 Praktyczne sposoby wykrywania podatności w aplikacjach webowych"
+title: "Warsztat #314 Praktyczne sposoby wykrywania podatności w aplikacjach webowych"
 lokalizacja: NiewiadomoGdansk
 cena: Warsztat płatny - od 79 PLN, 3 edycja warsztatu
 prowadzacy: ktrzcinska
