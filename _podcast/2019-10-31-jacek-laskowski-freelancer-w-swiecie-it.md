@@ -14,7 +14,7 @@ opis:
   konspekt: |
     1. Czym się zajmujesz?
     2. Co teraz Cię najbardziej zajmuje? Jakie jest Twoje główne zajęcie?
-    3. Czyli są to usługi szkoleniowe, konsultacje? Z czym konkretnie klienci dzwonią? Czego mogą od Ciebie oczekiwać?
+    3. Czyli są to usługi szkoleniowe, konsultacje? Z czym konkretnie klienci     dzwonią? Czego mogą od Ciebie oczekiwać?
     4. Czy w tym modelu, w którym pracujesz, właśnie jako freelancer, myślisz o tym, żeby jakoś tutaj rozbudowywać zespół? Czy raczej chcesz być takim solopreneur, który zajmuje się wszystkim sam i nie uzależnia się od innych ludzi?
     5. Formuła, że Ty jesteś pracownikiem jakiejś firmy, też by Ci nie odpowiadała? Skoro się zdecydowałeś na tę właśnie samodzielność, bycie freelancerem, także tutaj wolisz samodzielnie pracować?
     6. Reprezentujesz mindset wybitnie consultingowy?
