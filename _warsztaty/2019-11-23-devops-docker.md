@@ -5,6 +5,7 @@ date: 2017-06-23
 event_date: 2019-11-23
 title: "#321 DevOps: Użycie Dockera do rozwijania i wdrażania aplikacji"
 lokalizacja: 360CodeLab
+cena: Warsztat bezpłatny
 prowadzacy: fortuna
 sponsor: /img/logos/360codelab.jpg
 evenea_link: "https://devops.evenea.pl/?out=1&source=event_iframe"
