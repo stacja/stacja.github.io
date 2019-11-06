@@ -3,7 +3,7 @@
 date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-12-01
-title: "Warsztat #325 Podstawy uczenia maszynowego: pierwszy projekt od A do Z"
+title: "Warsztat #327 Podstawy uczenia maszynowego: pierwszy projekt od A do Z"
 lokalizacja: NiewiadomoKrakow
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: apostol
