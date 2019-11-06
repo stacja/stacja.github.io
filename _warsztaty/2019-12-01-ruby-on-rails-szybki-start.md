@@ -8,7 +8,7 @@ lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: shmarov
 dlugosc: 9:00-17:00
-evenea_link: "https://rubyonrailkopia.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://rubyonrailskopia.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
