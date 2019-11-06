@@ -424,7 +424,10 @@ fortuna:
   name: Tomasz Fortuna
   img: /img/portfolio/tfortuna.jpg
   desc: "Tomasz swoją przygodę ze światem IT zaczynał od programowania w Turbo Pascalu podczas wakacji na wsi i hostowania obcym ludziom z IRCa kont shellowych - prosto ze swojej piwnicy. Z jakiegoś powodu uszło mu to na sucho i dzięki temu swoje doświadczenia z programowaniem rozszerzył o wiele innych języków i technologii, grzebał w bazach danych, lutował elektronikę, tworzył architekturę złożonych systemów i prowadził szkolenia. Kilka projektów w duchu Agile doprowadził do szczęśliwego końca i liczy na to, że jeszcze kilka dociągnie."
-
+apostol:
+  name: Rostyslav Apostol
+  img: /img/portfolio/rapostol.jpg
+  desc: "Data Scientist z 5 letnim doświadczeniem w branży IT. Na co dzień zajmuje się projektami uczenia maszynowego z pełnym cyklem zagadnień od procesowania danych aż po trenowanie i deployment modeli na produkcję. Interesuje się głębokim uczeniem maszynowym oraz praktycznym zastosowaniem uczenia maszynowego w biznesie. Hobby - rower, góry. Profil LinkedIn: https://www.linkedin.com/in/apostolros/"
 
 
 ---
