@@ -17,25 +17,25 @@ opis:
 
     Celem warsztatu nie jest przetestowanie wszystkich możliwych algorytmów uczenia maszynowego, lecz bazując na kilku najbardziej skutecznych i popularnych algorytmach pokazać, jak całościowo rozwiązywać problemy - od zbierania i przygotowania danych aż po przygotowanie ostatecznego modelu do predykcji.
 
-    Czego się dowiesz?
-    -> zdobędziesz niezbędną wiedzę teoretyczną z zakresu nadzorowanego uczenia maszynowego 
-    -> dowiesz się, gdzie możesz szukać więcej informacji 
-    -> zrozumiesz podejście do wykonywania całościowych projektów uczenia maszynowego
-    -> potrafisz użyć danego podejścia do realizacji własnych projektów
+    **Czego się dowiesz?**
+    - zdobędziesz niezbędną wiedzę teoretyczną z zakresu nadzorowanego uczenia maszynowego 
+    - dowiesz się, gdzie możesz szukać więcej informacji 
+    - zrozumiesz podejście do wykonywania całościowych projektów uczenia maszynowego
+    - potrafisz użyć danego podejścia do realizacji własnych projektów
 
-    Wymagania:
-    -> podstawowa znajomość Python
-    -> podstawowa znajomość zagadnień statystycznych
+    **Wymagania:**
+    - podstawowa znajomość Python
+    - podstawowa znajomość zagadnień statystycznych
 
   program: |
     1. Podstawowe zagadnienia teoretyczne.
     1. Etapy typowego projektu uczenia maszynowego
     1. Projekt - problem klasyfikacji
-        a. Zdefiniowanie celu projektu i kryteriów wyboru modelu
-        b. Przetwarzanie i przygotowanie danych do trenowania
-        c. Trenowanie modeli
-        d. Ewaluacja modeli
-        e. Finalizacja modelu
+        1. Zdefiniowanie celu projektu i kryteriów wyboru modelu
+        1. Przetwarzanie i przygotowanie danych do trenowania
+        1. Trenowanie modeli
+        1. Ewaluacja modeli
+        1. Finalizacja modelu
     1. Podsumowanie i wnioski
 
 
