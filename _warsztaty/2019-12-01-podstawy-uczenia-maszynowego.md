@@ -30,7 +30,7 @@ opis:
   program: |
     1. Podstawowe zagadnienia teoretyczne.
     1. Etapy typowego projektu uczenia maszynowego
-    1. Projekt 
+    1. Projekt - problem klasyfikacji
         a. Zdefiniowanie celu projektu i kryteriów wyboru modelu
         b. Przetwarzanie i przygotowanie danych do trenowania
         c. Trenowanie modeli
