@@ -9,18 +9,6 @@ image: /img/podcast/okladka.png
 youtube: "W6b_28ARiyM"
 opis:
   informacje: |
-    Zachęcamy do posłuchania drugiej części rozmowy Łukasza Kobylińskiego z Jackiem Laskowskim. 
-
-    Nadal zostajemy w temacie pracy, jako freelancer w świecie IT. 
-
-    Zachęcamy również do przesłuchania pierwszej części rozmowy:
-
-    https://stacja.it/podcast/2019-10-31-jacek-laskowski-freelancer-w-swiecie-it.html
-
-    Jacek na co dzień zajmuje się Sparkiem, Kafką oraz Scalą. Jak sam siebie 
-    określa jako Freelance IT Consultant. 
-
-
-
+    Zachęcamy do posłuchania drugiej części rozmowy Łukasza Kobylińskiego z Jackiem Laskowskim.Nadal zostajemy w temacie pracy, jako freelancer w świecie IT. 
 
 ---
