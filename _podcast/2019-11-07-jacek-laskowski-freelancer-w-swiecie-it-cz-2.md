@@ -10,18 +10,6 @@ youtube: "W6b_28ARiyM"
 opis:
   informacje: |
     Zachęcamy do posłuchania drugiej części rozmowy Łukasza Kobylińskiego z Jackiem Laskowskim.Nadal zostajemy w temacie pracy, jako freelancer w świecie IT. 
-
-konspekt: |
-
-    1. Czym się zajmujesz?
-    2. Co teraz Cię najbardziej zajmuje? Jakie jest Twoje główne zajęcie?
-    3. Czyli są to usługi szkoleniowe, konsultacje? Z czym konkretnie klienci     dzwonią? Czego mogą od Ciebie oczekiwać?
-    4. Czy w tym modelu, w którym pracujesz, właśnie jako freelancer, myślisz o tym, żeby jakoś tutaj rozbudowywać zespół? Czy raczej chcesz być takim solopreneur, który zajmuje się wszystkim sam i nie uzależnia się od innych ludzi?
-    5. Formuła, że Ty jesteś pracownikiem jakiejś firmy, też by Ci nie odpowiadała? Skoro się zdecydowałeś na tę właśnie samodzielność, bycie freelancerem, także tutaj wolisz samodzielnie pracować?
-    6. Reprezentujesz mindset wybitnie consultingowy?
-    7. Powiedzmy historycznie jak to wyglądało. Od czego zacząłeś?Przez długi czas się samą Javą zajmowałeś, tak? Działałeś również jako organizator meetupów itd. Możesz powiedzieć jak ta droga wyglądała? Migracja, właśnie z zainteresowania Javą do Sparka i Kafki?
-    8. Przy pracy w pojedynkę, mamy problem z zarządzaniem czasem swoim? To znaczy, że trzeba sobie dobrze podzielić czas, pomiędzy pracę faktyczną, a przygotowaniem się do kolejnego projektu. O tym mówiłeś?
-    9. A czy masz jakieś swoje metody znajdowania najbardziej efektywnego czasu pracy?
   
   transkrypcja: |
   
