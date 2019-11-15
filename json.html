@@ -72,8 +72,8 @@ sitemap: false
           "agenda"  : "{{ warsztat.opis.program | replace: '"', '\"' | newline_to_br | strip_newlines }}",
           "additional_info"  : "{{ warsztat.opis.uwaga | replace: '"', '\"' | newline_to_br | strip_newlines }}",
           "duration" : "{{ warsztat.dlugosc }}",
-          {% if warsztat.opis.short_description %}
-          "shortDescription" : "{{ warsztat.opis.short_description | replace: '"', '\"' | newline_to_br | strip_newlines }}"
+          {% if warsztat.opis.krotki_opis %}
+          "shortDescription" : "{{ warsztat.opis.krotki_opis | replace: '"', '\"' | newline_to_br | strip_newlines }}"
           {% endif %}
   } {% if forloop.last %}{% else %},{% endif %}
 {% endfor %}
