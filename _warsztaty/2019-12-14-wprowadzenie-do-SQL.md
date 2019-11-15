@@ -23,16 +23,20 @@ opis:
     **FAQ**
     
     **Co to jest SQL?**
+
     SQL to język, który umożliwia m.in. pobieranie i przekształcanie danych, które są przechowywane w bazach danych. Jest wykorzystywany na pierwszym etapie pracy z danymi. Przed przystąpieniem do właściwej analizy i rozpoczęciem wyciągania wniosków potrzebujesz danych w odpowiedniej formie. Duża część z nich jest przechowywana w różnego rodzaju bazach. SQL daje Ci ogromną elastyczność w dostępie do tych danych. Dzięki SQL możesz też zautomatyzować dużą część pracy związanej z raportowaniem.
 
     **Komu to potrzebne?**
+
     Jeśli zajmujesz się lub myślisz o wejściu w tematy związane raportowaniem lub analizą danych, to SQL może bardzo ułatwić Twoje życie. SQL jest również wykorzystany w programowaniu, a nawet w finansach.
     Przykładowe stanowiska, na których wykorzystuje się SQL: Analityk Danych, Analityk Biznesowy, Data Scientist, Programista Backendu, Controller Finansowy.
 
     **Czy dam radę się tego nauczyć?**
+
     Opanowanie najważniejszych zagadnień wcale nie jest takie trudne. Nie potrzebujesz podwójnego dyplomu z matematyki i informatyki. Tak naprawdę wystarczy umiejętność logicznego myślenia i odrobina samozaparcia :)
 
     **Dla kogo jest to szkolenie?**
+    
     Każdy może wziąć udział w szkoleniu. Najbardziej skorzystasz, jeśli masz już jakieś doświadczenie w analizie danych/raportowaniu (np. Excel), ale brakuje Ci doświadczenia w pracy z bazami danych. Dzięki szkoleniu wejdziesz na kolejny poziom wtajemniczenia.
 
     Podczas warsztatu zapewniamy dostęp do kawy, herbaty, wody. **Nie zapewniamy lunchu.**
