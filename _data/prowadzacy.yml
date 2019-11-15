@@ -428,6 +428,12 @@ apostol:
   name: Rostyslav Apostol
   img: /img/portfolio/rapostol.jpg
   desc: "Data Scientist z 5 letnim doświadczeniem w branży IT. Na co dzień zajmuje się projektami uczenia maszynowego z pełnym cyklem zagadnień od procesowania danych aż po trenowanie i deployment modeli na produkcję. Interesuje się głębokim uczeniem maszynowym oraz praktycznym zastosowaniem uczenia maszynowego w biznesie. Hobby - rower, góry. Profil LinkedIn: https://www.linkedin.com/in/apostolros/"
+menclewicz:
+  name: Piotr Menclewicz
+  img: /img/portfolio/pmenclewicz.jpg
+  desc: "Analityk danych pracujący na co dzień z SQL i Pythonem. Swoją karierę zaczynał jednak nietypowo. Ukończył studia ekonomiczne i przez kilka lat pracował w finansach. Przez przypadek trafił na bazy danych i od razu je pokochał. SQLa nauczył się samodzielnie i uwielbia się dzielić tą wiedzą. Wie, jak to jest zaczynać bez dużego doświadczenia informatycznego, dlatego wszystkie zagadnienia tłumaczy w prosty i przyjazny sposób."
+
+
 
 
 ---
