@@ -10,6 +10,13 @@ prowadzacy: orzeszek
 evenea_link: "https://uxmasterclass.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
 opis:
+  short_description: |
+    Wiesz już czym jest UX, rozrysowałeś swoją pierwszą aplikację, słyszałeś coś o user testach i jesteś gotowa/y wejść na wyższy poziom wtajemniczenia?
+
+    Podczas wykładu poznasz tajnik bardziej zaawansowanych zagadnień UXowych, takie jak: accessibility, badania użytkowników, szybkie prototypowanie i prowadzenie prezentacji UXowych.
+
+    Dowiesz się, co tak naprawdę kryje się pod pojęciem dostępności i universal design, dlaczego to ważne i jak wykorzystać tę wiedzę w praktyce, jak przeprowadzić skuteczne user testy i wywiady z użytkownikami, czym jest popularne w startupach szybkie prototypowanie i jak efektywnie i efektownie prezentować swoje projekty.
+    
   informacje: |
 
     **Uwaga! Warsztat 2-dniowy!**
