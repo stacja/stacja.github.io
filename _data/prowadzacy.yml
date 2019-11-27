@@ -432,8 +432,9 @@ menclewicz:
   name: Piotr Menclewicz
   img: /img/portfolio/pmenclewicz.jpg
   desc: "Analityk danych pracujący na co dzień z SQL i Pythonem. Swoją karierę zaczynał jednak nietypowo. Ukończył studia ekonomiczne i przez kilka lat pracował w finansach. Przez przypadek trafił na bazy danych i od razu je pokochał. SQLa nauczył się samodzielnie i uwielbia się dzielić tą wiedzą. Wie, jak to jest zaczynać bez dużego doświadczenia informatycznego, dlatego wszystkie zagadnienia tłumaczy w prosty i przyjazny sposób."
-
-
-
+kazun:
+  name: Joanna Kazun
+  img: /img/portfolio/jkazun.jpg
+  desc: "Joanna Kazun certyfikowany trener szkoleń przygotowujących do egzaminu: ISTQB Foundation Certificate, ISTQB Advanced Test Manager i ISTQB Advanced Test Analyst. Absolwentka Politechniki Warszawskiej na kierunku informatyka i Uniwersytetu Warszawskiego na kierunku zarządzanie projektami. Od początku kariery zawodowej związana z obszarem wytwarzania oprogramowania w oparciu o metodyki zwinne i kaskadowe. Posiada wieloletnie doświadczenie w projektach IT w rolach: Product Owner, Kierownik Projektu, Koordynator Testów poparte certyfikatami AgilePM oraz Prince2. W ramach wdrożeń, zarówno w projektach krajowych (Allianz, TUiR/TUnŻ Warta, Pekao S.A.) i zagranicznych (Marsh, Vodafone, Aon, Ericsson), dla instytucji ubezpieczeniowych oraz bankowych pełniła rolę począwszy od Inżyniera Testów po Kierownika ds. Testów. Kluczowe obszary odpowiedzialności to planowanie i realizacja strategii testów, zarządzanie procesem testowym oraz nadzór na testami."
 
 ---
