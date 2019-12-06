@@ -3,7 +3,7 @@
 date: 2018-09-24
 # Data wydarzenia
 event_date: 2020-01-12
-cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
+cena: Warsztat płatny - od 79 PLN, 3 edycja warsztatu
 title: "Warsztat #336 Wprowadzenie do technologii Spring"
 lokalizacja: Sages
 prowadzacy: wyspianski
