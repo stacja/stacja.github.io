@@ -14,23 +14,19 @@ slideshare:
 opis:
   informacje: |
 
-    Prawdziwym liderem nie można stać się z dnia na dzień. Wymaga to sporo przygotowań, codziennej pracy nad sobą, analizowania sytuacji i wyciągania wniosków na przyszłość. W trakcie warsztatów chciałbym zabrać uczestników do podróży po świecie przywództwa, zaczynając od zupełnie początkowych etapów wędrówki, poprzez coraz trudniejsze elementy, aż po finalny koniec wycieczki. Będzie ciężko i trzeba będzie czasami się przełamać i zrobić coś po raz pierwszy, ale rozwój zaczyna się tam, gdzie kończy się rutyna i bezpieczeństwo. 
+    Celem warsztatu jest uświadomienie uczestnikom roli skutecznego przywództwa w świecie IT a następnie przekazanie wiedzy i wypracowanie konkretnych zachowań pozwalających osiągać lepsze wyniki i czerpać więcej satysfakcji z pracy zespołowej.
+    Warsztaty są skierowane głównie do początkujących menedżerów, liderów zespołów lub osób przymierzających się do tej roli.
 
-    W trakcie spotkania uczestnicy:
-    - dowiedzą się, dlaczego tak ważny jest rozwój umiejętności przywódczych, zwłaszcza w obszarze IT
-    - poznają podstawowe teorie menedżerskie a następnie przećwiczą je w praktyce,
-    - zostaną wielokrotnie postawieni w trudnych sytuacjach z jakimi spotyka się lider zespołu,
-    - będą pracować indywidualnie oraz zespołowo,
-    - otrzymają wiele praktycznych wskazówek bazujących na wieloletniej praktyce menedżerskiej.
+    Prawdziwym liderem nie można stać się z dnia na dzień. Wymaga to sporo przygotowań, codziennej pracy nad sobą, analizowania sytuacji i wyciągania wniosków na przyszłość.
+    W trakcie warsztatów wybierzemy się w podróż po świecie przywództwa, zaczynając od zupełnie początkowych etapów wędrówki, poprzez coraz trudniejsze elementy aż po finalny koniec wycieczki.
+    Będzie ciężko i trzeba będzie czasami się przełamać i zrobić coś po raz pierwszy, ale rozwój zaczyna się tam, gdzie kończy się rutyna i bezpieczeństwo. Skupimy się głównie na elementach miękkich przywództwa i zarządzania, w oderwaniu od konkretnych metodyk zarządzania czy realizowania projektów.
 
     Podczas warsztatu zapewniamy dostęp do kawy, herbaty, wody i ciastek. W porze obiadowej zapewniamy pizzę w wersji mięsnej i wegetariańskiej.
 
   program: |
 
-    1. Wprowadzenie - koncepcja świata przywództwa.
-    1. Przygotowanie do roli lidera - niezbędne umiejętności i nawyki - przegląd, ćwiczenia indywidualne i w grupach.
-    1. Pierwsze kroki jako lider - od czego zacząć? Warsztaty z ustalania reguł w zespole, budowania autorytetu, modelowania zachowań, delegowania.
-    1. Doświadczony lider - dyskusje i ćwiczenia na temat dalszych kierunków rozwoju, takich jak umiejętność kontaktu z ludźmi, twarde umiejętności z zakresu zarządzania, budowanie i integrowanie zespołu, rozwój osobisty menedżera.
+    1.  Wprowadzenie - dlaczego warto być skutecznym liderem?
+    1. Cechy efektywnego przywództwa, czyli zadania i ćwiczenia z szerokiego zakresu umiejętności niezbędnych w pracy lidera, takich jak: komunikacja, proaktywność, delegowanie, udzielanie informacji zwrotnej, motywowanie, radzenie sobie z konfliktami czy budowanie zespołu. Skupimy się głównie na tych obszarach, które są dla Was najważniejsze.
     1. Podsumowanie, zakończenie, sesja pytań i odpowiedzi. 
   
   uwaga: |
