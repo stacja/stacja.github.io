@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2020-01-25
-title: "Warsztat #341 Pisanie testowalnych wymagań"
+title: "Warsztat #340 Pisanie testowalnych wymagań"
 lokalizacja: NiewiadomoWroclaw
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: hryszko
