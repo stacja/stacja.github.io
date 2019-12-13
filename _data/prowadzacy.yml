@@ -440,4 +440,5 @@ mgorski:
   name: Mariusz Górski
   img: /img/portfolio/mgorski.jpg
   desc: "Inżynier danych, entuzjasta technologii Open Source (darmowe, jego ulubione) oraz chmury publicznej. Fan dzielenia się wiedzą. Lubi eksperymentować, psuć i naprawiać (niekoniecznie w takiej kolejności). Zawodowo (ale i prywatnie) pracuje z technologiami klasy Big Data od trzech lat (stan na grudzień 2019 r.), wdrażając je zarówno od strony infrastrukturalnej jak i aplikacyjnej. Ma na koncie projekty z wykorzystaniem narzędzi Apache (Airflow, Kafka, Spark), Elastic Stack, Amazon Web Services oraz Google Cloud Platform. Koduje przede wszystkim w Pythonie. Prywatnie fan snookera i kawy czarnej jak terminal."
+  
 ---
