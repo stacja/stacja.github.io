@@ -38,6 +38,6 @@ opis:
     5. Kibana - wprowadzenie, interaktywne analizy, monitoring w czasie rzeczywistym
     
   uwaga: |
-    Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
+    Liczba miejsc ograniczona! Organizator zastrzega sobie prawo zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
 
 ---
