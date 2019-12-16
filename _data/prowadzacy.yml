@@ -438,7 +438,7 @@ kazun:
   desc: "Joanna Kazun certyfikowany trener szkoleń przygotowujących do egzaminu: ISTQB Foundation Certificate, ISTQB Advanced Test Manager i ISTQB Advanced Test Analyst. Absolwentka Politechniki Warszawskiej na kierunku informatyka i Uniwersytetu Warszawskiego na kierunku zarządzanie projektami. Od początku kariery zawodowej związana z obszarem wytwarzania oprogramowania w oparciu o metodyki zwinne i kaskadowe. Posiada wieloletnie doświadczenie w projektach IT w rolach: Product Owner, Kierownik Projektu, Koordynator Testów poparte certyfikatami AgilePM oraz Prince2. W ramach wdrożeń, zarówno w projektach krajowych (Allianz, TUiR/TUnŻ Warta, Pekao S.A.) i zagranicznych (Marsh, Vodafone, Aon, Ericsson), dla instytucji ubezpieczeniowych oraz bankowych pełniła rolę począwszy od Inżyniera Testów po Kierownika ds. Testów. Kluczowe obszary odpowiedzialności to planowanie i realizacja strategii testów, zarządzanie procesem testowym oraz nadzór na testami."
 mgorski:
   name: Mariusz Górski
-  img: /img/portfolio/mgorski.png
+  img: /img/portfolio/mgorski.jpg
   desc: "Inżynier danych, entuzjasta technologii Open Source (darmowe, jego ulubione) oraz chmury publicznej. Fan dzielenia się wiedzą. Lubi eksperymentować, psuć i naprawiać (niekoniecznie w takiej kolejności). Zawodowo (ale i prywatnie) pracuje z technologiami klasy Big Data od trzech lat (stan na grudzień 2019 r.), wdrażając je zarówno od strony infrastrukturalnej jak i aplikacyjnej. Ma na koncie projekty z wykorzystaniem narzędzi Apache (Airflow, Kafka, Spark), Elastic Stack, Amazon Web Services oraz Google Cloud Platform. Koduje przede wszystkim w Pythonie. Prywatnie fan snookera i kawy czarnej jak terminal."
 
 ---
