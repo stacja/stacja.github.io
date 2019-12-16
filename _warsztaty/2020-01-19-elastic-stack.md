@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2020-01-19
-title: "Warsztat #339 Elastic Stack - wykorzystanie narzędzi Big Data do agregacji i analizy logów""
+title: "Warsztat #339 Elastic Stack - wykorzystanie narzędzi Big Data do agregacji i analizy logów"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: mgorski
