@@ -3,7 +3,7 @@
 date: 2019-03-14
 # Data wydarzenia
 event_date: 2020-02-29
-title: "Warsztat #344 Akademia Trenera-Train The Trainer"
+title: "Warsztat #344 Akademia Trenera - Train The Trainer"
 lokalizacja: Sages
 prowadzacy: nazimek
 type: akademia
