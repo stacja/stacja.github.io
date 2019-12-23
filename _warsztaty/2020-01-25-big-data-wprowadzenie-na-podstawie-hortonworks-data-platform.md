@@ -3,13 +3,12 @@
 date: 2018-09-24
 # Data wydarzenia
 event_date: 2020-01-25
-title: "Warsztat #345 Big Data - wprowadzenie na przykładzie Hortonworks Data Platform"
+title: "Warsztat #341 Big Data - wprowadzenie na przykładzie Hortonworks Data Platform"
 lokalizacja: NiewiadomoPoznan
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: bwozniak
 dlugosc: 9:00-17:00
 evenea_link: "https://bigdata2501.evenea.pl/?out=1&source=event_iframe"
-slideshare:
 opis:
   informacje: |
 
