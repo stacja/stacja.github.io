@@ -5,7 +5,7 @@ date: 2019-02-25
 event_date: 2020-02-08
 cena: Warsztat płatny - od 79 PLN, 3 edycja warsztatu
 title: "Warsztat #346 Przywództwo w świecie IT"
-lokalizacja: NiewiadomoKraków
+lokalizacja: NiewiadomoKrakow
 prowadzacy: gula
 dlugosc: 9:00-17:00
 evenea_link: "https://przywodztwoit0802.evenea.pl/?out=1&source=event_iframe"
