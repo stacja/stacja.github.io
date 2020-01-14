@@ -24,15 +24,15 @@ opis:
   program: |
 
     1. Wprowadzenie do przetwarzania strumieniowego
-      •	przetwarzanie wsadowe vs przetwarzanie strumieniowe
-      •	architektura i komponenty platformy
-      •	dziennik komunikatów
-    2. Integracja klientów
-      •	publikowanie i subskrybowanie do tematów
-      •	gwarancje dostarczenia komunikatów
-    3. Transformacje danych strumieniowych
-      •	wprowadzenie do kafka streams
-      •	interaktywny interfejs KSQL
+    -	przetwarzanie wsadowe vs przetwarzanie strumieniowe
+    -	architektura i komponenty platformy
+    -	dziennik komunikatów
+    1. Integracja klientów
+    - publikowanie i subskrybowanie do tematów
+    - gwarancje dostarczenia komunikatów
+    1. Transformacje danych strumieniowych
+    - wprowadzenie do kafka streams
+    - interaktywny interfejs KSQL
 
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
