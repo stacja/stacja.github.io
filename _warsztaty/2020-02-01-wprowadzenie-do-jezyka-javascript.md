@@ -4,7 +4,7 @@ date: 2019-02-25
 # Data wydarzenia
 event_date: 2020-02-01
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
-title: "Warsztat #346 Wprowadzenie do języka JavaScript"
+title: "Warsztat #345 Wprowadzenie do języka JavaScript"
 lokalizacja: NiewiadomoWroclaw
 prowadzacy: dmytriv
 dlugosc: 9:00-17:00
