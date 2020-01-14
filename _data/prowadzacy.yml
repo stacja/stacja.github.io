@@ -444,3 +444,7 @@ bwozniak:
   name: Bartosz Woźniak
   img: /img/portfolio/bwozniak.png
   desc: "Programista, od ponad 3 lat pracuje z technologiami klasy Big Data. Entuzjasta tematyki Hurtowni Danych. Bezkrytyczny fan Gwiezdnych Wojen."
+dwarszawski:
+  name: Damian Warszawski 
+  img: /img/portfolio/warszawski.jpg
+  desc: "Damian Warszawski - inżynier oprogramowania z ponad 7-letnim doświadczeniem w branży IT, entuzjasta programowania funkcyjnego, inżynierii danych i uczenia maszynowego."
