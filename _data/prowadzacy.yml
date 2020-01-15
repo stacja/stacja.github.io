@@ -92,7 +92,7 @@ zdanowski:
 galka:
   name: Michał Gałka
   img: /img/portfolio/mg.jpg
-  desc: "Inżynier oprogramowania, zajmujący się na co dzień systemami wbudowanymi, głównie programując w języku C. Doświadczenie zdobywał w wielu, często międzynarodowych, zespołach pracując w Polsce i poza nią. Z Pythonem związany od 8 lat, wykorzystuje go jako język skryptowy do automatyzacji i tworzenia narzędzi. Ma także doświadczenie w tworzeniu samodzielnych aplikacji opartych głównie o frameworki Django i Tornado. Bierze aktywny udział w działaniu grupy Python Łódź."
+  desc: "Inżynier oprogramowania, dawniej związany z systemami wbudowanymi, obecnie pracujący przy rozwoju projektu KernelCI (https://kernelci.org) - rozproszonej platformy do automatyzacji testów jądra Linux. Programuje głównie w językach Python i C. Doświadczenie zdobywał w wielu międzynarodowych zespołach, pracując w Polsce i poza nią. Z Pythonem związany od ponad 10 lat. Trener w firmie Sages oraz prelegent konferencji IT."
 jelski:
   name: Krzysztof Jelski
   img: /img/portfolio/kj.jpg
