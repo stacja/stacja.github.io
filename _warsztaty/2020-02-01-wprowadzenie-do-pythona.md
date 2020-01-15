@@ -34,35 +34,36 @@ opis:
 
   program: |
 
-   1. Wprowadzenie
-	   - Obszary zastosowań języka Python
-	   - Środowisko interaktywne Jupyter Notebook
-      - Podstawy pracy z interpreterem
-   1. Podstawowe elementy języka
-      - Składnia języka Python
-      - Zmienne i podstawowe typy danych w języku Python
-	      - Podstawowe operacje na danych
-   1. Złożone typy danych
-	   - Krotki, listy, słowniki:
+- Wprowadzenie
+	- Obszary zastosowań języka Python
+	- Środowisko interaktywne Jupyter Notebook
+    - Podstawy pracy z interpreterem
+
+- Podstawowe elementy języka
+    - Składnia języka Python
+    - Zmienne i podstawowe typy danych w języku Python
+		- Podstawowe operacje na danych
+- Złożone typy danych
+	- Krotki, listy, słowniki:
         - Cechy w/w struktur danych.
         - Operatory charakterystyczne dla tych typów danych.
         - Operatory indeksowania oraz slice.
-      - Łańcuchy znaków:
+    - Łańcuchy znaków:
         - Operatory dla typów znakowych.
         - Typy łańcuchów znaków i różnice między nimi.
         - Formatowanie łańcuchów znaków.
-      - Typy zmienne (ang. mutable) i niezmienne (ang. immutable) w języku Python
-   1. Sterowanie przebiegiem programu
-         - Instrukcje warunkowe
-         - Pętle (`for`, `while`)
-   1. Funkcje
-      - Definiowanie i wywoływanie funkcji.
-      - Parametry pozycyjne i nazwane funkcji.
-      - Wartości domyślne parametrów.
-   1. Obsługa plików.
-      - Pliki binarne i tekstowe
-      - Operacje na plikach
-    
+    - Typy zmienne (ang. mutable) i niezmienne (ang. immutable) w języku Python
+- Sterowanie przebiegiem programu
+        - Instrukcje warunkowe
+        - Pętle (`for`, `while`)
+- Funkcje
+    - Definiowanie i wywoływanie funkcji.
+    - Parametry pozycyjne i nazwane funkcji.
+    - Wartości domyślne parametrów.
+- Obsługa plików.
+  - Pliki binarne i tekstowe
+  - Operacje na plikach
+  
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
 
