@@ -5,7 +5,7 @@ date: 2019-02-25
 event_date: 2020-02-01
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
 title: "Warsztat #345 Wprowadzenie do języka JavaScript"
-lokalizacja: NiewiadomoWroclaw
+lokalizacja: Workband
 prowadzacy: dmytriv
 dlugosc: 9:00-17:00
 evenea_link: "https://jswro0102.evenea.pl/?out=1&source=event_iframe"
