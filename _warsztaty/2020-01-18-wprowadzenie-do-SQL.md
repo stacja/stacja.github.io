@@ -5,7 +5,7 @@ date: 2017-06-23
 event_date: 2020-01-18
 cena: Warsztat płatny - od 79 PLN, 2. edycja warsztatu
 title: "Warsztat #337 SQL is fun! Wprowadzenie do SQL"
-lokalizacja: NiewiadomoWroclaw
+lokalizacja: Workband
 prowadzacy: menclewicz
 evenea_link: "https://sql1801.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
