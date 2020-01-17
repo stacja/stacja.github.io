@@ -52,7 +52,7 @@ opis:
        1. Typy zmienne (ang. mutable) i niezmienne (ang. immutable) w języku Python
     1. Sterowanie przebiegiem programu
        1. Instrukcje warunkowe
-       2. Pętle (`for`, `while`)
+       2. Pętle (for, while)
     1. Funkcje
        1. Definiowanie i wywoływanie funkcji.
        2. Parametry pozycyjne i nazwane funkcji.
