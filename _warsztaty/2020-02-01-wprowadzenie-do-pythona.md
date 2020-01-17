@@ -3,7 +3,7 @@
 date: 2018-05-02
 # Data wydarzenia
 event_date: 2020-02-01
-cena: Warsztat płatny - od 79 PLN, 1. edycja warsztatu
+cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 title: "Warsztat #346 Wprowadzenie do Pythona"
 lokalizacja: Sages
 prowadzacy: galka
@@ -32,34 +32,34 @@ opis:
 
   program: |
 
-   1. Wprowadzenie
-	   1. Obszary zastosowań języka Python
-	 1. Środowisko interaktywne Jupyter Notebook
-     1. Podstawy pracy z interpreterem
-   1. Podstawowe elementy języka
-     1. Składnia języka Python
-     2. Zmienne i podstawowe typy danych w języku Python
-		 3. Podstawowe operacje na danych
-   1. Złożone typy danych
-	   1. Krotki, listy, słowniki
-       1. Cechy w/w struktur danych.
-       2. Operatory charakterystyczne dla tych typów danych.
-       3. Operatory indeksowania oraz slice.
-     1. Łańcuchy znaków
-       1. Operatory dla typów znakowych.
-       2. Typy łańcuchów znaków i różnice między nimi.
-       3. Formatowanie łańcuchów znaków.
-     1. Typy zmienne (ang. mutable) i niezmienne (ang. immutable) w języku Python
-   1. Sterowanie przebiegiem programu
-     1. Instrukcje warunkowe
-     2. Pętle (`for`, `while`)
-   1. Funkcje
-     1. Definiowanie i wywoływanie funkcji.
-     2. Parametry pozycyjne i nazwane funkcji.
-     3. Wartości domyślne parametrów.
-   1. Obsługa plików.
-     1. Pliki binarne i tekstowe
-     2. Operacje na plikach
+    1. Wprowadzenie
+	     1. Obszary zastosowań języka Python
+	  1. Środowisko interaktywne Jupyter Notebook
+       1. Podstawy pracy z interpreterem
+    1. Podstawowe elementy języka
+       1. Składnia języka Python
+       2. Zmienne i podstawowe typy danych w języku Python
+		   3. Podstawowe operacje na danych
+    1. Złożone typy danych
+	     1. Krotki, listy, słowniki
+          1. Cechy w/w struktur danych.
+          2. Operatory charakterystyczne dla tych typów danych.
+          3. Operatory indeksowania oraz slice.
+       1. Łańcuchy znaków
+          1. Operatory dla typów znakowych.
+          2. Typy łańcuchów znaków i różnice między nimi.
+          3. Formatowanie łańcuchów znaków.
+       1. Typy zmienne (ang. mutable) i niezmienne (ang. immutable) w języku Python
+    1. Sterowanie przebiegiem programu
+       1. Instrukcje warunkowe
+       2. Pętle (`for`, `while`)
+    1. Funkcje
+       1. Definiowanie i wywoływanie funkcji.
+       2. Parametry pozycyjne i nazwane funkcji.
+       3. Wartości domyślne parametrów.
+    1. Obsługa plików.
+       1. Pliki binarne i tekstowe
+       2. Operacje na plikach
 
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
