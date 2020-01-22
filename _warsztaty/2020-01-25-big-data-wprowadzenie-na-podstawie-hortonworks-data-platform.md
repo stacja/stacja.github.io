@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2020-01-25
 title: "Warsztat #341 Big Data - wprowadzenie na przykładzie Hortonworks Data Platform"
-lokalizacja: NiewiadomoPoznan
+lokalizacja: AdamsConferenceCenter
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: bwozniak
 dlugosc: 9:00-17:00
