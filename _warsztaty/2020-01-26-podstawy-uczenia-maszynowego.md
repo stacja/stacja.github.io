@@ -4,8 +4,8 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2020-01-26
 title: "Warsztat #344 Podstawy uczenia maszynowego: pierwszy projekt od A do Z"
-lokalizacja: NiewiadomoKrakow 
-cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
+lokalizacja: CoWorkingRynek
+cena: Warsztat płatny - od 79 PLN, 2. edycja warsztatu
 prowadzacy: apostol
 dlugosc: 9:00-17:00
 evenea_link: "https://podstuczmasz2601.evenea.pl/?out=1&source=event_iframe"
