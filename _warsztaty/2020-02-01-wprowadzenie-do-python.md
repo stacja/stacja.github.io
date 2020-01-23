@@ -12,7 +12,7 @@ evenea_link: "https://pythonwaw0102.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
-    Python jest jednym z najpopularniejszych języków programowania na świecie. Dzięki swojej prostej składni i bogatym zestawie bibliotek znalazł miejsce w takich dziedzinach jak analiza danych, uczenie maszynowe, aplikacje internetowe oraz wielu innych.
+    Python jest jednym z najpopularniejszych języków programowania na świecie. Dzięki swojej prostej składni oraz bogatym zestawie bibliotek znalazł miejsce w takich dziedzinach jak analiza danych, uczenie maszynowe, aplikacje internetowe oraz wielu innych.
 
     Warsztat Wprowadzenie do Pythona obejmuje zapoznanie się z podstawami tego języka programowania. Program szkolenia obejmuje niezbędną teorię oraz zestawy ćwiczeń pozwalające na wypróbowanie poznanych zagadnień w praktyce. Warsztat powstał jako aktualizacja i dopasowanie do bieżących potrzeb wielokrotnie realizowanego w ramach Stacji IT warsztatu Python - szybki start.
 
