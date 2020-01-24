@@ -27,7 +27,7 @@ opis:
     - Nowy JPK VAT (Co zawiera nowy JPK? Czy będzie to kolejne utrudnienie dla przedsiębiorców?)
     - Split payment (Czy każdy programista powinien stosować split payment?)
 
-  transkrypcja: | 
+   
   
    
 
