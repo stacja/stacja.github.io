@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2020-02-15
 cena: Warsztat płatny - od 79 PLN, 3. edycja warsztatu
-title: "Warsztat #349 Machine Learning - wprowadzenie i przegląd algorytmów"
+title: "Warsztat #351 Machine Learning - wprowadzenie i przegląd algorytmów"
 lokalizacja: Sages
 prowadzacy: wkolodziejczyk
 dlugosc: 9:00-17:00
