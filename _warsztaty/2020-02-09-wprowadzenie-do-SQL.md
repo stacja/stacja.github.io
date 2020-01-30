@@ -4,7 +4,7 @@ date: 2017-06-23
 # Data wydarzenia
 event_date: 2020-02-09
 cena: Warsztat płatny - od 79 PLN, 3. edycja warsztatu
-title: "Warsztat #347 SQL is fun! Wprowadzenie do SQL"
+title: "Warsztat #349 SQL is fun! Wprowadzenie do SQL"
 lokalizacja: Sages
 prowadzacy: menclewicz
 evenea_link: "https://sql0902.evenea.pl/?out=1&source=event_iframe"
