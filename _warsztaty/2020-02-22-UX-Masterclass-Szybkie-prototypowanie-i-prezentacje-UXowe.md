@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-02-22
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
-title: "Warsztat #355 UX Masterclass: Szybkie prototypowanie i prezentacje UXowe"
+title: "Warsztat #354 UX Masterclass: Szybkie prototypowanie i prezentacje UXowe"
 lokalizacja: Sages
 prowadzacy: orzeszek
 dlugosc: 9:00-17:00
