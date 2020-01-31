@@ -12,7 +12,7 @@ evenea_link: "https://uxmasterclass1.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
-    *WARSZTAT W PIĄTEK - 21.02.2020 r.*
+    **WARSZTAT W PIĄTEK - 21.02.2020 r.**
 
     Wiesz już czym jest UX, rozrysowałeś swoją pierwszą aplikację, słyszałeś coś o user testach i jesteś gotowa/y wejść na wyższy poziom wtajemniczenia?
 
