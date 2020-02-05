@@ -4,7 +4,7 @@ date: 2017-06-23
 # Data wydarzenia
 event_date: 2020-02-29
 cena: Warsztat płatny - od 79 PLN, 4. edycja warsztatu
-title: "Warsztat #359 SQL is fun! Wprowadzenie do SQL"
+title: "Warsztat #358 SQL is fun! Wprowadzenie do SQL"
 lokalizacja: NiewiadomoGdansk
 prowadzacy: menclewicz
 evenea_link: "https://sql2902.evenea.pl/?out=1&source=event_iframe"
