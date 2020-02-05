@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2020-02-09
 title: "Warsztat #350 Praktyczne sposoby wykrywania podatności w aplikacjach webowych"
-lokalizacja: NiewiadomoKrakow
+lokalizacja: CoWorkingRynek
 cena: Warsztat płatny - od 79 PLN, 5. edycja warsztatu
 prowadzacy: ktrzcinska
 dlugosc: 9:00-17:00
