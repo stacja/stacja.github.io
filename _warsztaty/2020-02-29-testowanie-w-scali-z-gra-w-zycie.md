@@ -22,20 +22,20 @@ opis:
     W naszym codziennym życiu programistycznym zwykle skupiamy się na tzw. rozwiązywaniu problemów biznesowych. Dlatego na badanie możliwości technicznych, podnoszenie limitów, zwiększanie własnej produktywności czy rozpoznawanie nowych bibliotek często nie zostaje wiele czasu. Tym razem będzie inaczej. 
 
     Naszym celem będzie przede wszystkim sprawdzenie:
-     - jak można w testach w Scali wycisnąć jeszcze więcej z komputera, 
-     - jak uczyć siebie i innych Scali (by nie była tylko "lepszą Javą"),
-     - jak pokazać, że programowanie funkcyjne i Scala nie są wcale takie straszne,
-     - jak zacząć wprowadzać Scalę i programowanie funkcyjne do ekosystemu zespołu/firmy w sposób ewolucyjny, poprzez testy, a nie rewolucję w kodzie produkcyjnym.
+    - jak można w testach w Scali wycisnąć jeszcze więcej z komputera, 
+    - jak uczyć siebie i innych Scali (by nie była tylko "lepszą Javą"),
+    - jak pokazać, że programowanie funkcyjne i Scala nie są wcale takie straszne,
+    - jak zacząć wprowadzać Scalę i programowanie funkcyjne do ekosystemu zespołu/firmy w sposób ewolucyjny, poprzez testy, a nie rewolucję w kodzie produkcyjnym.
 
     Dlatego "problemem biznesowym", na którym będziemy się skupiać, będzie "Gra w Życie" (Game of Life, https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). Chodzi o to, żeby nie skupiać się na rozwiązaniu "problemu biznesowego", tylko na jego testowaniu w sposób możliwie najlepszy. Tylko co to znaczy "najlepszy"? Co lepsze, Scala Test czy specs2? BDD, TDD, jakieś wariacje? Który styl pisania testów jest najlepszy? Lepiej w IntelliJ IDEI, w Eclipsie czy może w Vimie? Lepiej pisać samemu, w parach czy w większych grupach? Czy tzw. "biznes" będzie mógł korzystać z naszych testów? Czy Scala daje więcej możliwości niż inne języki?
 
     **Wymagania techniczne:**
-     - znasz już podstawy Scali (bo od podstaw się nie uczymy) i już napisałeś/napisałaś w życiu jakieś testy jednostkowe,
-     - przed warsztatami zapoznałeś/zapoznałaś się z regułami Gry w Życie (dla oszczędności czasu),
-     - przychodzisz z własnym komputerem, masz na nim zainstalowane:
-       1. najnowszą Scalę 2.13.x, 
-       1. najnowsze SBT, Javę 11+, 
-       1. wybrane IDE/edytor (sprawdź https://sdkman.io/).
+    - znasz już podstawy Scali (bo od podstaw się nie uczymy) i już napisałeś/napisałaś w życiu jakieś testy jednostkowe,
+    - przed warsztatami zapoznałeś/zapoznałaś się z regułami Gry w Życie (dla oszczędności czasu),
+    - przychodzisz z własnym komputerem, masz na nim zainstalowane:
+     1. najnowszą Scalę 2.13.x, 
+     1. najnowsze SBT, Javę 11+, 
+     1. wybrane IDE/edytor (sprawdź https://sdkman.io/).
         
     Dla uczestników przewidziany jest lunch w formie pizzy oraz przerwy kawowe.
 
