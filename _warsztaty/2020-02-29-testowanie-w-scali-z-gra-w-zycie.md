@@ -11,12 +11,11 @@ evenea_link: "https://scala2902.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
 opis:
   informacje: |
-    
     Programujesz już trochę w Scali i czujesz potrzebę podniesienia swoich umiejętności?
     A może znasz tylko podstawy i nie bardzo wiesz jak ruszyć dalej?
     Uważasz, że warto by było wprowadzić Scalę w Twojej firmie, ale nie wiesz jak zacząć?
 
-    Rozwiązaniem na to są Warsztaty z testowania w Scali z grą w życie. :-)
+    Rozwiązaniem na to są Warsztaty z testowania w Scali z grą w życie. 
 
     Formuła warsztatów jest inspirowana Code Retreat. Jednak tym razem nie będziemy pisać testów w każdym języku, skupimy się tylko na testach pisanych w Scali, w dwóch głównych bibliotekach - Scala Test (http://www.scalatest.org/) oraz specs2 (http://etorreborre.github.io/specs2/).
 
@@ -31,9 +30,9 @@ opis:
     Dlatego "problemem biznesowym", na którym będziemy się skupiać, będzie "Gra w Życie" (Game of Life, https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). Chodzi o to, żeby nie skupiać się na rozwiązaniu "problemu biznesowego", tylko na jego testowaniu w sposób możliwie najlepszy. Tylko co to znaczy "najlepszy"? Co lepsze, Scala Test czy specs2? BDD, TDD, jakieś wariacje? Który styl pisania testów jest najlepszy? Lepiej w IntelliJ IDEI, w Eclipsie czy może w Vimie? Lepiej pisać samemu, w parach czy w większych grupach? Czy tzw. "biznes" będzie mógł korzystać z naszych testów? Czy Scala daje więcej możliwości niż inne języki?
 
     **Wymagania techniczne:**
-    - znasz już podstawy Scali (bo od podstaw się nie uczymy) i już napisałeś/napisałaś w życiu jakieś testy jednostkowe,
-    - przed warsztatami zapoznałeś/zapoznałaś się z regułami Gry w Życie (dla oszczędności czasu),
-    - przychodzisz z własnym komputerem, masz na nim zainstalowane:
+     - znasz już podstawy Scali (bo od podstaw się nie uczymy) i już napisałeś/napisałaś w życiu jakieś testy jednostkowe,
+     - przed warsztatami zapoznałeś/zapoznałaś się z regułami Gry w Życie (dla oszczędności czasu),
+     - przychodzisz z własnym komputerem, masz na nim zainstalowane:
        1. najnowszą Scalę 2.13.x, 
        1. najnowsze SBT, Javę 11+, 
        1. wybrane IDE/edytor (sprawdź https://sdkman.io/).
@@ -42,13 +41,13 @@ opis:
 
   program: |
 
-    1. Wprowadzenie teoretyczne,
-    1. Przez 45 minut piszemy kod,
-    1. kolejne 15 minut omawiamy go,
-    1. następnie kasujemy cały kod,
-    1. piszemy go ponownie od zera. 
+     1. Wprowadzenie teoretyczne,
+     1. Przez 45 minut piszemy kod,
+     1. kolejne 15 minut omawiamy go,
+     1. następnie kasujemy cały kod,
+     1. piszemy go ponownie od zera. 
     
-    I tak cały dzień nauki i frajdy. ;-)
+    I tak cały dzień nauki i frajdy. 
 
   partner: |
 
@@ -56,7 +55,7 @@ opis:
 
      Sponsorem warsztatu jest firma 360CodeLab - dostawca kompleksowych usług dla firm w zakresie rozwoju IT. Oferuje dopasowane rozwiązania, od oceny projektu, przez wyszukiwanie talentów, do rozwoju platformy i stałego wsparcia frontendowego. Skupia się na przełamywaniu konwencjonalnych wzorców myślenia, opracowywaniu przełomowych pomysłów, znajdowaniu kreatywnych rozwiązań i dynamicznym wdrażaniu projektów.
 
-    [![alt](/img/zdj/klatka_360codelab.jpg)](https://youtu.be/P1qWTX9-l_w)
+    ![alt](/img/zdj/klatka_360codelab.jpg)](https://youtu.be/P1qWTX9-l_w)
 
     ![alt](/img/zdj/1.jpg) ![alt](/img/zdj/3.jpg)
     <br>
