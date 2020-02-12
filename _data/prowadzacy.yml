@@ -456,3 +456,7 @@ przybyl:
   name: Piotr Przybył
   img: /img/portfolio/przybyl.jpg
   desc: "Remote Freelance Developer, Software Gardener, prelegent, trener. Miłośnik lekkości i zwinności, których głównym przejawem jest identyfikacja rzeczywistego problemu oraz dobór właściwych narzędzi. Programuje głównie w Javie (od wersji 1.3) i Scali, zapalony użytkownik GNU/Linuksa. Jako trener skupia się nie tylko na prezentowaniu twardych rozwiązań, ale przede wszystkim na ich jak najszybszym wykorzystaniu, zgraniu zespołu, ocenie rzeczywistych wyzwań  ograniczeń."  
+bedkowski: 
+  name: Marek Będkowski 
+  img: /img/portfolio/bedkowski.img
+  desc: "Polyglot programmer z wieloletnim stażem oraz doświadczeniem w projektach dużych i małych. Jego ścieżka kariery prowadziła przez wiele języków programowania m.in. ActionScript, php, perl, C++, python, CoffeeScript, JavaScript ostatnio Java i TypeScript. Uważa, że idealny programista powinien znać perfekcyjnie co najmniej jeden język dynamiczny i jeden statyczny. Do tej pory miał okazję realizować projekty m.in. z sektora publicznego, przetwarzania wideo w czasie rzeczywistym oraz analizy obrazów przy wykorzystaniu sieci neuronowych (również w Javie :))). Od czasu tego ostatniego dość sceptycznie nastawiony do możliwości przejęcia kontroli nad światem przez sztuczną inteligencję. Obecnie zajmuje się architekturą odporną na błędy z użyciem spring-cloud . Po godzinach próbuje dotrzymać tempa swojej trójce dzieci no i marzy o Tesli :)"
