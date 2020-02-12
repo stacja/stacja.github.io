@@ -10,7 +10,7 @@ sponsor: /img/logos/360codelab.jpg
 evenea_link: "https://scala2902.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
 opis:
-  informacje: |
+ informacje: |
     Programujesz już trochę w Scali i czujesz potrzebę podniesienia swoich umiejętności?
     A może znasz tylko podstawy i nie bardzo wiesz jak ruszyć dalej?
     Uważasz, że warto by było wprowadzić Scalę w Twojej firmie, ale nie wiesz jak zacząć?
@@ -39,7 +39,7 @@ opis:
         
     Dla uczestników przewidziany jest lunch w formie pizzy oraz przerwy kawowe.
 
-  program: |
+ program: |
 
      1. Wprowadzenie teoretyczne,
      1. Przez 45 minut piszemy kod,
@@ -49,7 +49,7 @@ opis:
     
     I tak cały dzień nauki i frajdy. 
 
-  partner: |
+ partner: |
 
     [![alt](/img/logos/360codelab.jpg)](https://www.360codelab.com/)
 
@@ -64,5 +64,5 @@ opis:
     ![alt](/img/zdj/6.jpg) ![alt](/img/zdj/7.jpg)
 
 
-  uwaga: |
+ uwaga: |
     W trosce o jakość warsztatów jesteśmy zmuszeni ograniczyć liczbę uczestników. **Kwalifikacja odbywa się na podstawie odpowiedzi udzielonych w formularzu zgłoszeniowym oraz - w dalszym kroku - kolejności zgłoszeń.** Potwierdzenie udziału w warsztatach otrzymasz najpóźniej na 5 dni przed planowaną datą wydarzenia.
