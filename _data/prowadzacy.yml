@@ -303,7 +303,7 @@ zeromski:
 blaszczak:
   name: Piotr Błaszczak
   img: /img/portfolio/blaszczak.png
-  desc: "Full Stack Web Developer od 2007, konsultant i szkoleniowiec. Zaczynał od PHP i MySQL lecz szybko dostrzegł potęgę JavaScript i NoSQL. Obecnie pisze backend w Node.js a front w Angular. Miłośnik RxJS oraz grafowej bazy danych OrientDB, ortodoksyjny ewangelista TypeScript :) Poza pracą zawodową skacze na trampolinach, nurkuje na bezdechu, żongluje i balansuje na slackline. Jeden z organizatorów Urban Highline Festival w Lublinie."   
+  desc: "Full Stack Web Developer od 2007, konsultant i szkoleniowiec. Zaczynał od PHP i MySQL, lecz szybko dostrzegł potęgę JavaScript i NoSQL. Obecnie pisze backend w Node.js z wykorzystaniem Nest, a front w Angular, po obu stronach wykorzystując TypeScript. Miłośnik RxJS oraz reaktywnego podejścia do architektury aplikacji. Poza pracą zawodową skacze na trampolinach, nurkuje na bezdechu, żongluje i balansuje na slackline."   
 cackodmytro:
   name: Arek Cacko i Dmytro Svarychevskyi
   img: /img/portfolio/cackodmytro.png
