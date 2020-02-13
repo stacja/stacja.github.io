@@ -4,10 +4,10 @@ date: 2017-06-23
 # Data wydarzenia
 event_date: 2020-03-28
 title: "Warsztat #267 RxJS - podstawy reaktywnego programowania"
-lokalizacja: TMTart
+lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 6. edycja warsztatu
 prowadzacy: blaszczak
-evenea_link: "https://rxjskrk2803.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://rxjs2803.evenea.pl/?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
 opis:
   informacje: |
