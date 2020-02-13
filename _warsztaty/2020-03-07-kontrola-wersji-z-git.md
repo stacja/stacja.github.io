@@ -51,7 +51,7 @@ opis:
      - pobieranie repozytorium (clone)
      - wypychanie i pobieranie zmian (push, fetch, pull)
      - praca ze zdalnymi gałęziami
-    1. Co dalej
+    1. Co dalej?
      - graficzne nakładki na Git
      - praca z GitHub, GitLab i BitBucket
      - GitFlow jako styl pracy w zespole
