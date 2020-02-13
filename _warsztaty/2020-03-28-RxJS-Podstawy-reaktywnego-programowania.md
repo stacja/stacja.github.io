@@ -70,29 +70,29 @@ opis:
   program: |
 
      1. Podstawy działania strumieni
-       1. Observable
-       2. Observer
-       3. Subscription
-       4. Callback vs Promise vs Observable
+       - Observable
+       - Observer
+       - Subscription
+       - Callback vs Promise vs Observable
      1. Tworzenie strumieni
-       1. Własny strumień: new Observable((oserver) => {})
-       2. Wbudowane kreatory strumieni: of, from, fromEvent, timer...
+       - Własny strumień: new Observable((oserver) => {})
+       - Wbudowane kreatory strumieni: of, from, fromEvent, timer...
      1. Jak działają operatory
-       1. Użycie metody pipe()
-       2. Podstawowe operatory: map, filter, reduce, switchMap
+       - Użycie metody pipe()
+       - Podstawowe operatory: map, filter, reduce, switchMap
      1. Observable i Observer w jednym
-       1. Subject
-       2. Behavior Subject
-       3. Replay Subject
+       - Subject
+       - Behavior Subject
+       - Replay Subject
      1. MultiCasting
-       1. Cold i Hot Observable
-       2. Operatory publish, share, multicast
+       - Cold i Hot Observable
+       - Operatory publish, share, multicast
      1. Praktyczne zastosowanie operatorów.
-       1. debounceTime
-       2. merge
-       3. delay
-       4. switchMap
-       5. takeUntil
+       - debounceTime
+       - merge
+       - delay
+       - switchMap
+       - takeUntil
 
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
