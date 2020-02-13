@@ -36,25 +36,25 @@ opis:
 
     1. Wprowadzenie
      1. jak działają systemy kontroli wersji
-     2. charakterystyka pracy z rozproszonym systemem kontroli wersji
+     1. charakterystyka pracy z rozproszonym systemem kontroli wersji
     1. Lokalna praca z Gitem
      1. inicjalizacja i konfiguracja repozytorium
-     2. zatwierdzanie zmian (commit), narzędzie git gui
-     3. przeglądanie zmian (diff), narzędzia do przeglądania zmian
-     4. przegląd historii (log), narzędzie gitk
-     5. cofanie zmian (reset, reflog)
-     6. praca z gałęziami (branch)
-     7. scalanie zmian i zmiana bazy (merge, rebase, cherry pick)
-     8. rozwiązywanie konfliktów
+     1. zatwierdzanie zmian (commit), narzędzie git gui
+     1. przeglądanie zmian (diff), narzędzia do przeglądania zmian
+     1. przegląd historii (log), narzędzie gitk
+     1. cofanie zmian (reset, reflog)
+     1. praca z gałęziami (branch)
+     1. scalanie zmian i zmiana bazy (merge, rebase, cherry pick)
+     1. rozwiązywanie konfliktów
     1. Zdalne repozytoria
      1. metody dostępu do repozytoriów, używane protokoły (ssh, http)
-     2. pobieranie repozytorium (clone)
-     3. wypychanie i pobieranie zmian (push, fetch, pull)
-     4. praca ze zdalnymi gałęziami
+     1. pobieranie repozytorium (clone)
+     1. wypychanie i pobieranie zmian (push, fetch, pull)
+     1. praca ze zdalnymi gałęziami
     1. Co dalej
      1. graficzne nakładki na Git
-     2. praca z GitHub, GitLab i BitBucket
-     3. GitFlow jako styl pracy w zespole
+     1. praca z GitHub, GitLab i BitBucket
+     1. GitFlow jako styl pracy w zespole
   
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
