@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-03-22
 cena: Warsztat płatny - od 79 PLN, 1. edycja warsztatu
-title: "Warsztat #365 Wprowadzenie do React Native"
+title: "Warsztat #368 Wprowadzenie do React Native"
 lokalizacja: Workband
 prowadzacy: jozefowicz
 dlugosc: 9:00-17:00
