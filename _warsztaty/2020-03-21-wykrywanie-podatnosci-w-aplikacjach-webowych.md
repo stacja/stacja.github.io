@@ -3,7 +3,7 @@
 date: 2018-09-24
 # Data wydarzenia
 event_date: 2020-03-21
-title: "Warsztat #363 Praktyczne sposoby wykrywania podatności w aplikacjach webowych"
+title: "Warsztat #367 Praktyczne sposoby wykrywania podatności w aplikacjach webowych"
 lokalizacja: NiewiadomoGdansk
 cena: Warsztat płatny - od 79 PLN, 8. edycja warsztatu
 prowadzacy: ktrzcinska
