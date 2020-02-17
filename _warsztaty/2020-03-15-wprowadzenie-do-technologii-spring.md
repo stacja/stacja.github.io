@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2020-03-15
 cena: Warsztat płatny - od 79 PLN, 4. edycja warsztatu
-title: "Warsztat #362 Wprowadzenie do technologii Spring"
+title: "Warsztat #365 Wprowadzenie do technologii Spring"
 lokalizacja: NiewiadomoKrakow
 prowadzacy: wyspianski
 dlugosc: 9:00-17:00
