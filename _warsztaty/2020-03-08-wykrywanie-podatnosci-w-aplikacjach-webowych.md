@@ -3,7 +3,7 @@
 date: 2018-09-24
 # Data wydarzenia
 event_date: 2020-03-08
-title: "Warsztat #360 Praktyczne sposoby wykrywania podatności w aplikacjach webowych"
+title: "Warsztat #362 Praktyczne sposoby wykrywania podatności w aplikacjach webowych"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 6. edycja warsztatu
 prowadzacy: ktrzcinska
