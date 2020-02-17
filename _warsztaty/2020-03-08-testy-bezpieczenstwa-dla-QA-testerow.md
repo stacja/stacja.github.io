@@ -4,7 +4,7 @@ date: 2019-02-25
 # Data wydarzenia
 event_date: 2020-03-08
 cena: Warsztat płatny - od 79 PLN, 11. edycja warsztatu
-title: "Warsztat #361 Testy bezpieczeństwa dla QA/testerów"
+title: "Warsztat #363 Testy bezpieczeństwa dla QA/testerów"
 lokalizacja: TMTart
 prowadzacy: kowalczyk
 dlugosc: 9:00-17:00
