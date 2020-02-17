@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2020-03-21
-title: "Warsztat #266 Nest - Nowoczesny Backend w Node.js i TypeScript"
+title: "Warsztat #366 Nest - Nowoczesny Backend w Node.js i TypeScript"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 3. edycja warsztatu
 prowadzacy: blaszczak
