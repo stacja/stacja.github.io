@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2020-03-28
-title: "Warsztat #370 Elastic Stack - wykorzystanie narzędzi Big Data do agregacji i analizy logów"
+title: "Warsztat #371 Elastic Stack - wykorzystanie narzędzi Big Data do agregacji i analizy logów"
 lokalizacja: NiewiadomoWroclaw
 cena: Warsztat płatny - od 79 PLN, 2. edycja warsztatu
 prowadzacy: mgorski
