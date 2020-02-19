@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2020-03-28
-title: "Warsztat #369 RxJS - podstawy reaktywnego programowania"
+title: "Warsztat #370 RxJS - podstawy reaktywnego programowania"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 6. edycja warsztatu
 prowadzacy: blaszczak
