@@ -28,7 +28,7 @@ opis:
 
     Podczas warsztatu uczestnicy korzystają z własnych komputerów z systemem Linux, Windows lub MacOS. Wymagana jest instalacja wirtualnej maszyny z systemem Kali Linux w dowolnym menadżerze maszyn wirtualnych. Oprócz tego, każdy z użytkowników jest proszony o zainstalowanie aplikacji webowej Web Goat, która posłuży do przećwiczenia omawianych ataków. Instrukcja instalacji Web Goat oraz Kali Linux zostanie przekazana uczestnikom szkolenia drogą mailową.
   
-
+    Podczas warsztatu uczestnicy korzystają z własnych laptopów.
     Podczas warsztatu zapewniamy dostęp do kawy, herbaty, wody i ciastek. W porze obiadowej zapewniamy pizzę w wersji mięsnej i wegetariańskiej.
 
   program: |
