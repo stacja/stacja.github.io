@@ -26,6 +26,7 @@ opis:
     Na warsztatach omówimy czym jest OWASP, lista Top 10, jakie są dostępne bazy podatności oraz co możemy sprawdzić wykonując proste skanowanie portów. Główną część warsztatów będą stanowiły testy aplikacji webowej zawierającej najczęściej występujące podatności m. in. XSS, SQL Injection, CSRF, czy też błędy logiki aplikacji.
     Na warsztatach pokażemy jak korzystać z najpopularniejszych narzędzi do testów bezpieczeństwa w tym narzędzi typu lokalnego Proxy oraz narzędzi do skanowania portów, podsłuchiwania ruchu oraz przechwytywania sesji użytkowników.
 
+    Podczas warsztatu uczestnicy korzystają z własnych laptopów.
     Podczas warsztatu zapewniamy dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegetariańskiej.
 
   program: |
