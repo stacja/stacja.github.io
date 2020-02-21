@@ -13,6 +13,8 @@ slideshare:
 opis:
   informacje: |
 
+    **Clean Code** 
+
     Zwykle podczas pisania kodu to co nas interesuje w pierwszej kolejności to to, aby nasz program zrobił to czego od niego oczekujemy i abyśmy zmieścili się w deadline, jakie narzucił nam klient.
     Rzadko kiedy myślimy o tym, iż kiedyś do tego kodu będzie trzeba wrócić za jakiś czas i coś w nim zmienić. Zazwyczaj wtedy okazuje się, że sami nie rozumiemy tego co stworzyliśmy.
     Lub też jeszcze gorzej - przejmujemy kod po kimś i jedyne na co mamy ochotę po jego zobaczeniu to przepisanie go od zera (na co oczywiście nigdy nie ma czasu)
@@ -23,23 +25,24 @@ opis:
 
     **Dobre praktyki programowania obiektowego**
 
-      Programowanie obiektowe wydaje się być bardzo naturalnym stylem programowania - tworzymy w naszym kodzie obiekty odpowiadające prawdziwym bytom a następnie definujemy interakcje jakie chcemy aby między nimi zachodziły.
+    Programowanie obiektowe wydaje się być bardzo naturalnym stylem programowania - tworzymy w naszym kodzie obiekty odpowiadające prawdziwym bytom a następnie definujemy interakcje jakie chcemy aby między nimi zachodziły.
       
-      Jak zwykle jednak diabeł tkwi w szczegółach i jeżeli nie zastosujemy się do paru podstawowych zasad, doprowadzimy do sytuacji, w ktorej relatywnie proste zadanie jakie ma wykonać nasz program skończy się nadspodziewanie zawiłym i trudnym w utrzymaniu kodem.
+    Jak zwykle jednak diabeł tkwi w szczegółach i jeżeli nie zastosujemy się do paru podstawowych zasad, doprowadzimy do sytuacji, w ktorej relatywnie proste zadanie jakie ma wykonać nasz program skończy się nadspodziewanie zawiłym i trudnym w utrzymaniu kodem.
      
-      Podczas warsztatów omówimy kilka podstawowych reguł programowania obiektowego, których znajomość zaoszczędzi nam powyższych problemów.
+    Podczas warsztatów omówimy kilka podstawowych reguł programowania obiektowego, których znajomość zaoszczędzi nam powyższych problemów.
 
     **Dlaczego Java?**
 
-      Zarówno koncepcja clean code jak też programowanie obiektowe są pojęciami absolutnie niezależnymi od konkretnego języka programowania.
-      Jednakże podczas warsztatów by przeprowadzić ćwiczenia praktyczne, musimy wybrać jakiś język. 
-      W naszym przypadku będzie to Java ze względu na to iż z jednej strony jest obecnie jednym z najpopularniejszych języków, a z drugiej strony jest zorientowana obiektowo.
+    Zarówno koncepcja clean code jak też programowanie obiektowe są pojęciami absolutnie niezależnymi od konkretnego języka programowania.
+    Jednakże podczas warsztatów by przeprowadzić ćwiczenia praktyczne, musimy wybrać jakiś język. 
+    W naszym przypadku będzie to Java ze względu na to iż z jednej strony jest obecnie jednym z najpopularniejszych języków, a z drugiej strony jest zorientowana obiektowo.
 
-    Wymagania wstępne:
+    **Wymagania wstępne:**
 
-      Od uczestników wymagana jest podstawowa znajomość języka Java i umysł otwarty na zmiany :)
+    Od uczestników wymagana jest podstawowa znajomość języka Java i umysł otwarty na zmiany :)
 
     Podczas warsztatu uczestnicy korzystają z własnych komputerów.
+    
     Podczas warsztatu zapewniemy dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegatariańskiej.
 
   program: |
