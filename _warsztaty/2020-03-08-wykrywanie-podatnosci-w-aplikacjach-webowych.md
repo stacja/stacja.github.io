@@ -12,7 +12,6 @@ evenea_link: "https://podweb0803.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   krotki_opis: |
-
     **Rejestracja dostępna bezpośrednio pod poniższym linkiem:** 
 
     https://app.evenea.pl/event/podweb0803/
