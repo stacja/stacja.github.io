@@ -12,6 +12,11 @@ evenea_link: "https://springcloud2903.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
+
+    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:** 
+    
+    https://app.evenea.pl/event/springcloud2903/
+
     Rewolucja mikroserwisów ogarnęła wszystkich a dzięki Netflix'owi, który opublikował część swoich narzędzi na licencjach open-source i integracji ich w projekcie spring-cloud każdy jest w stanie zbudować skalowalny, odporny na błędy serwis w parę godzin. Jednak mnogość bibliotek i rozwiązań może przyprawić o ból głowy i stanowić sporą barierę wejścia. 
     
     Podczas tego warsztatu poznasz aplikację umożliwiającą rejestrację użytkowników oraz dodawanie prostych notatek napisaną w oparciu o spring-mvc, a po jego zakończeniu będziesz miał gotowy do wdrożenia zestaw mikroserwisów. 
