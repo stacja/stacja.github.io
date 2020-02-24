@@ -13,7 +13,6 @@ podcast_id:
 slideshare:
 opis:
   informacje: |
-   
     **Rejestracja dostępna bezpośrednio pod poniższym linkiem:** 
     
     https://app.evenea.pl/event/testykrk0803/
