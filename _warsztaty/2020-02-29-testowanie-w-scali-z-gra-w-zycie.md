@@ -12,7 +12,7 @@ evenea_link: "https://scala2902.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
-    **Rejestracja dostępna bezpośrednio pod poniższym linkiem: ** 
+    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:** 
     https://app.evenea.pl/event/scala2902/
 
     Programujesz już trochę w Scali i czujesz potrzebę podniesienia swoich umiejętności?
