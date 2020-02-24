@@ -13,6 +13,10 @@ podcast_id:
 slideshare:
 opis:
   informacje: |
+   
+    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:** 
+    
+    https://app.evenea.pl/event/testykrk0803/
 
     Jednym z elementów definiujących jakość wytwarzanego oprogramowania jest zapewniany przez nie poziom bezpieczeństwa. Warsztaty Testy bezpieczeństwa dla QA mają na celu pokazanie testerom w jaki sposób, nieznacznie poszerzając zakres wykonywanych testów, mogą wykrywać występujące w oprogramowaniu podstawowe podatności. W ramach warsztatu uczestnicy poznają teorię dotyczącą zagadnień związanych z testowaniem bezpieczeństwa aplikacji webowych oraz wykonają ćwiczenia, które pozwolą w praktyce zapoznać się z omawianymi atakami i narzędziami.
 
