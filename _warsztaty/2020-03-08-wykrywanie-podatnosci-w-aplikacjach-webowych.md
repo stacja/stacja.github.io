@@ -13,6 +13,10 @@ slideshare:
 opis:
   krotki_opis: |
 
+    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:** 
+
+    https://app.evenea.pl/event/podweb0803/
+
     Zastanawiasz się jak działają współcześni hackerzy oraz z jakich narzędzi korzystają? 
     Podczas warsztatu poznasz liczne techniki i narzędzia wykorzystywane do przełamywania zabezpieczeń aplikacji webowych.
     Skierowane są do osób pracujących z aplikacjami webowymi m. in. programistów i testerów, którzy chcieliby poznać podstawowe podatności, sposoby ich wykrywania oraz metody ochrony.
