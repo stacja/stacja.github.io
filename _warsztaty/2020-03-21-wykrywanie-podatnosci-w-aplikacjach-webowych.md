@@ -12,6 +12,9 @@ evenea_link: "https://podweb2103.evenea.pl/?out=1&source=event_iframe"
 slideshare:
 opis:
   krotki_opis: |
+    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:** 
+
+    https://app.evenea.pl/event/podweb2103/
 
     Zastanawiasz się jak działają współcześni hackerzy oraz z jakich narzędzi korzystają? 
     Podczas warsztatu poznasz liczne techniki i narzędzia wykorzystywane do przełamywania zabezpieczeń aplikacji webowych.
