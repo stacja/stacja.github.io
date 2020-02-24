@@ -13,6 +13,10 @@ slideshare:
 opis:
   informacje: |
 
+    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:** 
+
+    https://app.evenea.pl/event/dockrk1403/
+
     Celem szkolenia jest rozpoczęcie przygody z Docker i umożliwienie dalszej, samodzielnej pracy i rozwoju w tym obszarze.
 
     **Czego się nauczysz?**
