@@ -12,9 +12,6 @@ evenea_link: "https://app.evenea.pl/event/cleancodewaw?out=1&source=event_iframe
 slideshare:
 opis:
   informacje: |
-    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:** 
-    
-    https://app.evenea.pl/event/cleancodewaw/
 
     **Clean Code** 
 
