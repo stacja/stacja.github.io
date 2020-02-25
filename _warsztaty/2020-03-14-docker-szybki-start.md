@@ -8,14 +8,10 @@ title: "Warsztat #364 Docker - szybki start"
 lokalizacja: NiewiadomoKrakow
 prowadzacy: wyspianski
 dlugosc: 9:00-17:00
-evenea_link: "https://dockrk1403.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://app.evenea.pl/event/dockrk1403?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
-
-    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:** 
-
-    https://app.evenea.pl/event/dockrk1403/
 
     Celem szkolenia jest rozpoczęcie przygody z Docker i umożliwienie dalszej, samodzielnej pracy i rozwoju w tym obszarze.
 
