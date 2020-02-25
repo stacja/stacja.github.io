@@ -8,7 +8,7 @@ lokalizacja: 360CodeLab
 prowadzacy: przybyl
 sponsor: /img/logos/360codelab.jpg
 dlugosc: 9:00-17:00
-evenea_link: "https://scala2902.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://app.evenea.pl/event/scala2902?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
