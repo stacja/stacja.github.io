@@ -13,10 +13,6 @@ slideshare:
 opis:
   informacje: |
 
-   **Rejestracja dostępna bezpośrednio pod poniższym linkiem:** 
-
-   https://app.evenea.pl/event/gitkrk0703/
-
    **Zapraszamy na warsztat z najpopularniejszego systemu kontroli wersji.**
 
    **Czego się nauczysz?**
