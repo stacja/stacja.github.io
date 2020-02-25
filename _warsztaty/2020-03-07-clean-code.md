@@ -8,7 +8,7 @@ title: "Warsztat #360 Clean Code i dobre praktyki OOP w Javie"
 lokalizacja: Sages
 prowadzacy: chrost
 dlugosc: 9:00-17:00
-evenea_link: "https://cleancodewaw.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://app.evenea.pl/event/cleancodewaw?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
