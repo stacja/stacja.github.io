@@ -8,14 +8,10 @@ title: "Warsztat #369 Wprowadzenie do React Native"
 lokalizacja: Workband
 prowadzacy: jozefowicz
 dlugosc: 9:00-17:00
-evenea_link: "https://reactnative2203.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://app.evenea.pl/event/reactnative2203?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
-
-    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:** 
-
-    https://app.evenea.pl/event/reactnative2203/
     
     Celem warsztatu jest wprowadzenie do technologii React Native, pozwalającej pisać natywne aplikacje dla Androida oraz iOS używając React-a. Podczas warsztatu skupimy się na tym, jak rozpocząć pracę z aplikacjami mobilnymi, używając rozwiązania cross-platform. Zbudujemy proste aplikacje używające komponentów native-base, napiszemy nawigację używając react-navigation oraz będziemy linkować dodatkowe biblioteki. Na koniec zapoznamy się z platformą Expo, która znacznie przyspiesza development aplikacji.
 
