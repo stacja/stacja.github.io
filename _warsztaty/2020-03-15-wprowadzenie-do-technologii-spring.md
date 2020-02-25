@@ -8,14 +8,10 @@ title: "Warsztat #365 Wprowadzenie do technologii Spring"
 lokalizacja: NiewiadomoKrakow
 prowadzacy: wyspianski
 dlugosc: 9:00-17:00
-evenea_link: "https://springkrk1503.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://app.evenea.pl/event/springkrk1503?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
-
-    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:** 
-
-    https://app.evenea.pl/event/springkrk1503/
 
     Spring to najpopularniejszy framework aplikacji dla platformy Java. Rozwijany od 2002 - ‘zaczynał’ jako kontener implementujący wzorzec IoC - obecnie oferuje programiście wiele bibliotek do szybkiego tworzenia różnorodnych aplikacji.
 
