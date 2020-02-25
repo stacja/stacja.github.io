@@ -7,14 +7,10 @@ title: "Warsztat #371 Elastic Stack - wykorzystanie narzędzi Big Data do agrega
 lokalizacja: NiewiadomoWroclaw
 cena: Warsztat płatny - od 79 PLN, 2. edycja warsztatu
 prowadzacy: mgorski
-evenea_link: "https://elasticstack2803.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://app.evenea.pl/event/elasticstack2803?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
 opis:
   informacje: |
-
-    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:** 
-
-    https://app.evenea.pl/event/elasticstack2803/
     
     Elastic Stack to zestaw narzędzi opensource klasy Big Data wykorzystywany m.in. do:
     - budowy wyszukiwarek z zaawansowanymi funkcji wyszukiwania pełnotekstowego (na wzór Google Search)
