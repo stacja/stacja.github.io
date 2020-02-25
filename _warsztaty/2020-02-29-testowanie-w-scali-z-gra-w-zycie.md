@@ -21,7 +21,7 @@ opis:
     A może znasz tylko podstawy i nie bardzo wiesz jak ruszyć dalej?
     Uważasz, że warto by było wprowadzić Scalę w Twojej firmie, ale nie wiesz jak zacząć?
 
-    Rozwiązaniem na to są Warsztaty z testowania w Scali z grą w życie. 
+    Rozwiązaniem na to są Warsztaty z testowania w Scali z Grą w Życie. 
 
     Formuła warsztatów jest inspirowana Code Retreat. Jednak tym razem nie będziemy pisać testów w każdym języku, skupimy się tylko na testach pisanych w Scali, w dwóch głównych bibliotekach - Scala Test (http://www.scalatest.org/) oraz specs2 (http://etorreborre.github.io/specs2/).
 
