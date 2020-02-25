@@ -8,8 +8,7 @@ title: "Warsztat #361 Kontrola wersji z Git"
 lokalizacja: TMTart
 prowadzacy: blaszczak
 dlugosc: 9:00-17:00
-evenea_link: "https://gitkrk0703.evenea.pl/?out=1&source=event_iframe"
-podcast_id:
+evenea_link: "https://app.evenea.pl/event/gitkrk0703?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
