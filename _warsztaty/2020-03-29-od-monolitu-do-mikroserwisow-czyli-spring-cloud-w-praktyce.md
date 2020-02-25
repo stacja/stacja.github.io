@@ -8,14 +8,10 @@ title: "Warsztat #372 Od monolitu do mikroserwisów czyli spring-cloud w praktyc
 lokalizacja: Workband
 prowadzacy: bedkowski
 dlugosc: 9:00-17:00
-evenea_link: "https://springcloud2903.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://app.evenea.pl/event/springcloud2903?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
-
-    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:** 
-    
-    https://app.evenea.pl/event/springcloud2903/
 
     Rewolucja mikroserwisów ogarnęła wszystkich a dzięki Netflix'owi, który opublikował część swoich narzędzi na licencjach open-source i integracji ich w projekcie spring-cloud każdy jest w stanie zbudować skalowalny, odporny na błędy serwis w parę godzin. Jednak mnogość bibliotek i rozwiązań może przyprawić o ból głowy i stanowić sporą barierę wejścia. 
     
