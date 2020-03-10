@@ -11,7 +11,9 @@ evenea_link: "https://app.evenea.pl/event/nest2103?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
 opis:
   informacje: |
-    
+    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:**
+    **https://app.evenea.pl/event/nest2103/**
+
     Na warsztacie stworzymy nowoczesny serwer w Node.js wykorzystując framework Nest.
 
     Jeśli dziś szukasz technologi backendowej dla Twojego kolejnego projektu, to właśnie Nest powinien być w pierwszej kolejności do .
