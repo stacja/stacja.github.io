@@ -11,7 +11,10 @@ evenea_link: "https://app.evenea.pl/event/elasticstack2803?out=1&source=event_if
 dlugosc: 09:00-17:00
 opis:
   informacje: |
+    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:**
     
+    **https://app.evenea.pl/event/elasticstack2803/**
+
     Elastic Stack to zestaw narzędzi opensource klasy Big Data wykorzystywany m.in. do:
     - budowy wyszukiwarek z zaawansowanymi funkcji wyszukiwania pełnotekstowego (na wzór Google Search)
     - tworzenia analiz/dahboardów/wizualiacji Business Intelligence (w tym wizualizacji danych geolokalizacyjnych)
