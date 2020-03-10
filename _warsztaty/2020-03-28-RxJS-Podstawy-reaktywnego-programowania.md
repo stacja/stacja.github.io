@@ -11,6 +11,9 @@ evenea_link: "https://app.evenea.pl/event/rxjs2803?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
 opis:
   informacje: |
+    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:**
+    
+    **https://app.evenea.pl/event/rxjs2803/**
     
     RxJS to biblioteka wspierająca reaktywne programowanie w JavaScript przy użyciu strumieni, pozwala na łatwiejsze programowanie operacji asynchronicznych. Rozwiązuje problemy które mamy w Promisach czy funkcjach zwrotnych (callbacks).
 
