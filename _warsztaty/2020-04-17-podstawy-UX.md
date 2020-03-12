@@ -25,8 +25,8 @@ opis:
     - Testowanie prototypu portalu/aplikacji
 
     **Wymagania wstępne:**
-    Warsztat dla początkujących i osób znających UX “ze słyszenia”, rozważających zmianę zawodu na związany z UX.
-    Na warsztacie nie są potrzebne laptopy. 
+      Warsztat dla początkujących i osób znających UX “ze słyszenia”, rozważających zmianę zawodu na związany z UX.
+      Na warsztacie nie są potrzebne laptopy. 
 
     Podczas warsztatu zapewniamy dostęp do kawy, herbaty, wody oraz ciastek. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegetariańskiej.
 
