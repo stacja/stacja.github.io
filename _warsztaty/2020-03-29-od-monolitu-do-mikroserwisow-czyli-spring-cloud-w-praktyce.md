@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-03-29
 cena: Warsztat płatny - od 79 PLN, 1. edycja warsztatu
-title: "Warsztat #372 Od monolitu do mikroserwisów czyli spring-cloud w praktyce"
+title: "Warsztat #373 Od monolitu do mikroserwisów czyli spring-cloud w praktyce"
 lokalizacja: Workband
 prowadzacy: bedkowski
 dlugosc: 9:00-17:00
