@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2020-04-04
 cena: Warsztat płatny - od 79 PLN, 1. edycja warsztatu
-title: "Warsztat #373 NgRx - Reaktywne aplikacje webowe"
+title: "Warsztat #375 NgRx - Reaktywne aplikacje webowe"
 lokalizacja: Sages
 prowadzacy: blaszczak
 dlugosc: 9:00-17:00
