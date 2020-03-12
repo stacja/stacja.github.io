@@ -12,7 +12,7 @@ dlugosc: 09:00-17:00
 opis:
   informacje: |
     
-    **WARSZTAT W PIĄTEK 17.04.2020** 
+    **WARSZTAT ODBYWA SIĘ W PIĄTEK 17.04.2020** 
 
     Jak tworzyć przyjazne użytkownikowi strony internetowe i aplikacje mobilne? Kim właściwie jest nasz użytkownik i dlaczego nie radzi sobie z naszym portalem? I przede wszystkim: co zrobić, żeby to zmienić?
 
