@@ -34,14 +34,16 @@ opis:
     Podczas warsztatu uczestnicy korzystają z własnych komputerów.
     Podczas warsztatu zapewniemy dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegatariańskiej.
 
-       [![alt](/img/logos/kodolamacz_nowe.jpg)](https://www.kodolamacz.pl/)
+  partner: |
 
-    Miło nam poinformować, że partnerem warsztatów jest **Kodołamacz.** "Wprowadzenie do Pythona" jest idealnym wstępem do rozpoczęcia bootcapmu Data Science, dlatego dla każdej osoby biorącej udział w powyższym warsztacie Stacji IT, nasz partner oferuję **zniżkę** - przy zapisie i udziale w kursie prowadzonym przez **Kodołamacza** od ceny zostanie odjęta równowartość zakupionego biletu.
+      [![alt](/img/logos/kodolamacz_nowe.jpg)](https://www.kodolamacz.pl/)
 
-    Szczegółowe informacje o programie bootcampu dostępne pod poniższym linkiem:
-    https://www.kodolamacz.pl/bootcamp-datascience/   
+       Miło nam poinformować, że partnerem warsztatów jest **Kodołamacz.** "Wprowadzenie do Pythona" jest idealnym wstępem do rozpoczęcia bootcapmu Data Science, dlatego dla każdej osoby biorącej udział w powyższym warsztacie Stacji IT, nasz partner oferuję **zniżkę** - przy zapisie i udziale w kursie prowadzonym przez **Kodołamacza** od ceny zostanie odjęta równowartość zakupionego biletu.
 
-       [![alt](/img/logos/kodolamacz_nowe.jpg)](https://www.kodolamacz.pl/)
+       Szczegółowe informacje o programie bootcampu dostępne pod poniższym linkiem:
+       https://www.kodolamacz.pl/bootcamp-datascience/   
+
+      [![alt](/img/logos/kodolamacz_nowe.jpg)](https://www.kodolamacz.pl/)
 
   program: |
 
@@ -74,7 +76,6 @@ opis:
        1. Pliki binarne i tekstowe
        2. Operacje na plikach
 
-    
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
 
