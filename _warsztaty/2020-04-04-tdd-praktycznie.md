@@ -4,7 +4,7 @@ date: 2019-02-25
 # Data wydarzenia
 event_date: 2020-04-04
 cena: Warsztat płatny - od 79 PLN, 3. edycja warsztatu
-title: "Warsztat #374 TDD Praktycznie"
+title: "Warsztat #376 TDD Praktycznie"
 lokalizacja: NiewiadomoWroclaw
 prowadzacy: kaszynski
 dlugosc: 9:00-17:00
