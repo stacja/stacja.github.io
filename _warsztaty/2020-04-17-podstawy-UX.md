@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2020-04-17
-title: "Warsztat #377 Podstawy UX"
+title: "Warsztat #378 Podstawy UX"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 4. edycja warsztatu
 prowadzacy: orzeszek
