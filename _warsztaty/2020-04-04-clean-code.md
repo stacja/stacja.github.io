@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-04-04
 cena: Warsztat płatny - od 79 PLN, 2. edycja warsztatu
-title: "Warsztat #375 Clean Code i dobre praktyki OOP w Javie"
+title: "Warsztat #377 Clean Code i dobre praktyki OOP w Javie"
 lokalizacja: NiewiadomoPoznan
 prowadzacy: chrost
 dlugosc: 9:00-17:00
