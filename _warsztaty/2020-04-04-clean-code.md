@@ -60,7 +60,6 @@ opis:
        3. prawo Demeter
        4. kompozycja ponad dziedziczeniem 
     
-    
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
 
