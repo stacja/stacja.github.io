@@ -66,21 +66,21 @@ opis:
        1. Pipe "async"
     1. NGRX:
        1. Akcje:
-         1. Definiowanie akcji
-         1. Wysyłanie akcji
+         - Definiowanie akcji
+         - Wysyłanie akcji
        1. Reducer:
-         1. Tworzenie
-         1. Reducery w modułach
+         - Tworzenie
+         - Reducery w modułach
        1. Selektory:
-         1. Proste
-         1. Łączone
-         1. Selektory z parametrami
+         - Proste
+         - Łączone
+         - Selektory z parametrami
        1. Effects:
-         1. Wykonywanie asynchroniczne zadań
-         1. Pobieranie danych z serwera
-         1. Reagowanie na zmiany na store
-         1. Transformacje strumienia akcji
-    1. Narzędzia
+         - Wykonywanie asynchroniczne zadań
+         - Pobieranie danych z serwera
+         - Reagowanie na zmiany na store
+         - Transformacje strumienia akcji
+    1. Narzędzia:
        1. Redux DevTools - debugowanie
        1. @ngrx/schematics - generowanie kodu
  
