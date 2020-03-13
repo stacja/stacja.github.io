@@ -4,7 +4,7 @@ date: 2019-02-25
 # Data wydarzenia
 event_date: 2020-04-04
 cena: Warsztat płatny - od 79 PLN, 3. edycja warsztatu
-title: "Warsztat #376 TDD Praktycznie"
+title: "Warsztat #376 Przybornik programisty: TDD + Refaktoryzacja"
 lokalizacja: NiewiadomoWroclaw
 prowadzacy: kaszynski
 dlugosc: 9:00-17:00
@@ -14,29 +14,32 @@ slideshare:
 opis:
   informacje: |
 
-    W czasie warsztatu chciałbym pokazać Ci podstawowe techniki pisania testów i zapoznać z podejściem TDD. 
-    Będziemy ćwiczyć pisanie testów i ich implementacji zarówno dla niezależnych klas jak i typowej aplikacji internetowej, zależnej od bazy danych czy innych aplikacji. 
-    Będzie też sporo skrótów klawiszowych i sztuczek IntelliJ, które usprawnią Twoją pracę z kodem. 
+    W czasie warsztatu będziemy ćwiczyć dwie podstawowe techniki programistyczne: TDD i refaktoryzację, głównie przy użyciu przekształceń dostępnych w IntelliJ. Koniec z copy-paste’em i używaniem myszy, niech IDE stanie się przedłużeniem Twojej woli!
+
+    Warsztat przeznaczony jest dla początkujących i średnio zaawansowanych programistów Java, którzy chcą nauczyć się sprawnie tworzyć czysty i testowalny kod. Kod, który nie jest zlepkiem procedur spakowanych w serwisy, ale czytelną i harmonijną kompozycją obiektów realizujących zakładane wymagania biznesowe. W rezultacie terminy takie jak: SOLID, enkapsulacja i obiekty immutable przestaną być jedynie teoretycznymi zagadnieniami, które wypada znać podczas rekrutacji i staną się Twoją codzienną praktyką.
 
     Podczas warsztatu uczestnicy korzystają z własnych laptopów. 
     Podczas warsztatu zapewniamy dostęp do kawy, herbaty, wody i ciastek. W porze obiadowej zapewniamy lunch.
 
   program: |
 
-    1. Implementacja algorytmu metodą TDD
-    - TDD z użyciem JUnit 5
-    - Nazewnictwo testów
-    - Cykl red-green-refactor
-    - Użycie biblioteki assertj
-    1. Umieszczenie algorytmu w kontekście klasy
-    - Testowanie modułu, testowanie jednostki
-    - Mockowanie zależności
-    1. Organizacja struktury klas 
-    - Testowanie przez fasadę
-    - Implementacja udawanej persystencji
-    - Ograniczenie widoczności klas
-    - Definiowanie klas transportowych
-    - Użycie biblioteki Lombok
+    1. Wprowadzenie do TDD
+    - testy parametryzowane
+    - wydzielanie metod i zmiennych
+    - nazewnictwo
+    1. TDD + Refactoring - część 1
+    - obiekty niezmiennicze
+    - struktura klasy
+    - biblioteka Lombok
+    1. TDD + Refactoring - część 2
+    - wstrzykiwanie zależności
+    - wydzielanie obiektów
+    - buildery i metody wytwórcze
+    1. Mockowanie
+    - podstawy mockito
+    - przechwytywanie argumentów
+    - implementacja odpowiedzi mocka
+
   
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
