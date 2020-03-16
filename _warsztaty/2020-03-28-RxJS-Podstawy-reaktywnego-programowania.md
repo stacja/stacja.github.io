@@ -4,17 +4,15 @@ date: 2017-06-23
 # Data wydarzenia
 event_date: 2020-03-28
 title: "Warsztat #370 RxJS - podstawy reaktywnego programowania"
-lokalizacja: Sages
+lokalizacja: zdalnie
 cena: Warsztat płatny - od 79 PLN, 6. edycja warsztatu
 prowadzacy: blaszczak
 evenea_link: "https://app.evenea.pl/event/rxjs2803?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
 opis:
   informacje: |
-    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:**
-    
-    **https://app.evenea.pl/event/rxjs2803/**
-    
+    **Warsztat odbywa się w formie zdalnej za pośrednictwem platformy/komunikatora online, z wykorzystaniem dźwięku, obrazu z kamery, udostępniania ekranu komputera prowadzącego i uczestników.** 
+        
     RxJS to biblioteka wspierająca reaktywne programowanie w JavaScript przy użyciu strumieni, pozwala na łatwiejsze programowanie operacji asynchronicznych. Rozwiązuje problemy które mamy w Promisach czy funkcjach zwrotnych (callbacks).
 
     Żeby łatwiej zrozumieć z czym jest RxJS, można powiedzieć że jest to odpowiednik Lodash, jednakże przeznaczony do obsługi strumieni zdarzeń (event streams).
@@ -26,7 +24,6 @@ opis:
     Aby nauczyć się myśleć reaktywnie z RxJS, najpierw musimy poznać i zrozumieć jego podstawy, w jaki sposób działają streamy, jak je tworzyć, łączyć, a także zmieniać przesyłane w nich wartości poprzez operatory.
 
     Ucząc się wbudowanych operatorów na przykładach, przestawimy nasze myślenie tak, żeby pozbyć się imperatywnych nawyków pisania kodu. Zamienić architekturę stateful na architekturę reaktywną opartą o strumienie.
-
 
     **Czego się nauczysz?**
 
@@ -99,5 +96,9 @@ opis:
 
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
+
+    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:**
+    
+    **https://app.evenea.pl/event/rxjs2803/**
 
 ---
