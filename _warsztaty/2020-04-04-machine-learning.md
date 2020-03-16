@@ -5,13 +5,14 @@ date: 2018-09-24
 event_date: 2020-04-04
 cena: Warsztat płatny - od 79 PLN, 4. edycja warsztatu
 title: "Warsztat #374 Machine Learning - wprowadzenie i przegląd algorytmów"
-lokalizacja: NiewiadomoLodz
+lokalizacja: zdalnie
 prowadzacy: wkolodziejczyk
 dlugosc: 9:00-17:00
 evenea_link: "https://app.evenea.pl/event/machlearning0404?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
+    **Warsztat odbywa się w formie zdalnej za pośrednictwem platformy/komunikatora online, z wykorzystaniem dźwięku, obrazu z kamery, udostępniania ekranu komputera prowadzącego i uczestników.** 
     
     Celem warsztatu jest pokazanie na przykładach powszechnie wykorzystywanych rozwiązań w branży Machine Learning. Każdy z omawianych algorytmów zostanie zaprezentowany od strony teoretycznej oraz implementacyjnej. Stack technologiczny: Python 3.X, numpy, pandas, matplotlib, scikit-learn.
     
