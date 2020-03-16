@@ -4,7 +4,7 @@ date: 2017-06-23
 # Data wydarzenia
 event_date: 2020-04-17
 title: "Warsztat #378 Podstawy UX"
-lokalizacja: Sages
+lokalizacja: zdalnie
 cena: Warsztat płatny - od 79 PLN, 4. edycja warsztatu
 prowadzacy: orzeszek
 evenea_link: "https://app.evenea.pl/event/podstux1704?out=1&source=event_iframe"
@@ -13,6 +13,7 @@ opis:
   informacje: |
     
     **WARSZTAT ODBYWA SIĘ W PIĄTEK 17.04.2020** 
+    **Warsztat odbywa się w formie zdalnej za pośrednictwem platformy/komunikatora online, z wykorzystaniem dźwięku, obrazu z kamery, udostępniania ekranu komputera prowadzącego i uczestników.** 
 
     Jak tworzyć przyjazne użytkownikowi strony internetowe i aplikacje mobilne? Kim właściwie jest nasz użytkownik i dlaczego nie radzi sobie z naszym portalem? I przede wszystkim: co zrobić, żeby to zmienić?
 
