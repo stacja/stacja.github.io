@@ -23,7 +23,6 @@ opis:
 
     Będziemy pisali w TypeScript, gdyż pozwala on nam na zastosowanie najnowszej wersji ECMAScript, a statyczne typowanie pomoże nam w utrzymaniu aplikacji na wysokim poziomie niezawodności i przejrzystości kodu.
 
-
     **Czego się nauczysz?**
 
     Poznamy architekturę NestJS i jego najważniejsze komponenty.
@@ -99,8 +98,7 @@ opis:
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
 
-    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:**
+    **Rejestracja dostępna bezpośrednio pod poniższym [linkiem.](https://app.evenea.pl/event/nest2103/)**
     
-    **https://app.evenea.pl/event/nest2103/**
 
 ---
