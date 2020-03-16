@@ -5,7 +5,7 @@ date: 2019-02-25
 event_date: 2020-03-29
 cena: Warsztat płatny - od 79 PLN, 11. edycja warsztatu
 title: "Warsztat #372 Testy bezpieczeństwa dla QA/testerów"
-lokalizacja: NiewiadomoPoznan
+lokalizacja: zdalnie
 prowadzacy: kowalczyk
 dlugosc: 9:00-17:00
 evenea_link: "https://app.evenea.pl/event/testyQA2903?out=1&source=event_iframe"
@@ -13,6 +13,7 @@ podcast_id:
 slideshare:
 opis:
   informacje: |
+    **Warsztat odbywa się w formie zdalnej za pośrednictwem platformy/komunikatora online, z wykorzystaniem dźwięku, obrazu z kamery, udostępniania ekranu komputera prowadzącego i uczestników.** 
 
     Jednym z elementów definiujących jakość wytwarzanego oprogramowania jest zapewniany przez nie poziom bezpieczeństwa. Warsztaty Testy bezpieczeństwa dla QA mają na celu pokazanie testerom w jaki sposób, nieznacznie poszerzając zakres wykonywanych testów, mogą wykrywać występujące w oprogramowaniu podstawowe podatności. W ramach warsztatu uczestnicy poznają teorię dotyczącą zagadnień związanych z testowaniem bezpieczeństwa aplikacji webowych oraz wykonają ćwiczenia, które pozwolą w praktyce zapoznać się z omawianymi atakami i narzędziami.
 
