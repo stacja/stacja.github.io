@@ -75,8 +75,6 @@ opis:
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
 
-    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:**
+    **Rejestracja dostępna bezpośrednio pod poniższym [linkiem.](https://app.evenea.pl/event/pythonwaw2203/)**
     
-    **https://app.evenea.pl/event/pythonwaw2203/**
-
 ---
