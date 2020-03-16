@@ -4,17 +4,15 @@ date: 2017-06-23
 # Data wydarzenia
 event_date: 2020-03-28
 title: "Warsztat #371 Elastic Stack - wykorzystanie narzędzi Big Data do agregacji i analizy logów"
-lokalizacja: NiewiadomoWroclaw
+lokalizacja: zdalnie
 cena: Warsztat płatny - od 79 PLN, 2. edycja warsztatu
 prowadzacy: mgorski
 evenea_link: "https://app.evenea.pl/event/elasticstack2803?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
 opis:
   informacje: |
-    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:**
+    **Warsztat odbywa się w formie zdalnej za pośrednictwem platformy/komunikatora online, z wykorzystaniem dźwięku, obrazu z kamery, udostępniania ekranu komputera prowadzącego i uczestników.** 
     
-    **https://app.evenea.pl/event/elasticstack2803/**
-
     Elastic Stack to zestaw narzędzi opensource klasy Big Data wykorzystywany m.in. do:
     - budowy wyszukiwarek z zaawansowanymi funkcji wyszukiwania pełnotekstowego (na wzór Google Search)
     - tworzenia analiz/dahboardów/wizualiacji Business Intelligence (w tym wizualizacji danych geolokalizacyjnych)
@@ -42,5 +40,9 @@ opis:
     
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
+
+    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:**
+    
+    **https://app.evenea.pl/event/elasticstack2803/**
 
 ---
