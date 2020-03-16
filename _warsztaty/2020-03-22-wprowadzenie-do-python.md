@@ -5,17 +5,15 @@ date: 2020-01-17
 event_date: 2020-03-22
 cena: Warsztat płatny - od 79 PLN, 2. edycja warsztatu
 title: "Warsztat #368 Wprowadzenie do Pythona"
-lokalizacja: Sages
+lokalizacja: zdalnie
 prowadzacy: galka
 dlugosc: 9:00-17:00
 evenea_link: "https://app.evenea.pl/event/pythonwaw2203?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
-    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:**
+    **Warsztat odbywa się w formie zdalnej za pośrednictwem platformy/komunikatora online, z wykorzystaniem dźwięku, obrazu z kamery, udostępniania ekranu komputera prowadzącego i uczestników.** 
     
-    **https://app.evenea.pl/event/pythonwaw2203/**
-
     Python jest jednym z najpopularniejszych języków programowania na świecie. Dzięki swojej prostej składni oraz bogatym zestawie bibliotek znalazł miejsce w takich dziedzinach jak analiza danych, uczenie maszynowe, aplikacje internetowe oraz wielu innych.
 
     Warsztat Wprowadzenie do Pythona obejmuje zapoznanie się z podstawami tego języka programowania. Program szkolenia obejmuje niezbędną teorię oraz zestawy ćwiczeń pozwalające na wypróbowanie poznanych zagadnień w praktyce. Warsztat powstał jako aktualizacja i dopasowanie do bieżących potrzeb wielokrotnie realizowanego w ramach Stacji IT warsztatu Python - szybki start.
@@ -76,5 +74,9 @@ opis:
     
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
+
+    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:**
+    
+    **https://app.evenea.pl/event/pythonwaw2203/**
 
 ---
