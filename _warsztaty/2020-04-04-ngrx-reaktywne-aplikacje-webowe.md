@@ -5,13 +5,14 @@ date: 2018-09-24
 event_date: 2020-04-04
 cena: Warsztat płatny - od 79 PLN, 1. edycja warsztatu
 title: "Warsztat #375 NgRx - Reaktywne aplikacje webowe"
-lokalizacja: Sages
+lokalizacja: zdalnie
 prowadzacy: blaszczak
 dlugosc: 9:00-17:00
 evenea_link: "https://app.evenea.pl/event/ngrx0404?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
+    **Warsztat odbywa się w formie zdalnej za pośrednictwem platformy/komunikatora online, z wykorzystaniem dźwięku, obrazu z kamery, udostępniania ekranu komputera prowadzącego i uczestników.** 
     
     Poznamy bibliotekę NgRx, która jest Angularową implementacją architektury Flux.
 
