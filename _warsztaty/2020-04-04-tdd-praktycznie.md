@@ -5,7 +5,7 @@ date: 2019-02-25
 event_date: 2020-04-04
 cena: Warsztat płatny - od 79 PLN, 3. edycja warsztatu
 title: "Warsztat #376 Przybornik programisty: TDD + Refaktoryzacja"
-lokalizacja: NiewiadomoWroclaw
+lokalizacja: zdalnie
 prowadzacy: kaszynski
 dlugosc: 9:00-17:00
 evenea_link: "https://app.evenea.pl/event/tddwaw0404?out=1&source=event_iframe"
@@ -13,6 +13,7 @@ podcast_id:
 slideshare:
 opis:
   informacje: |
+    **Warsztat odbywa się w formie zdalnej za pośrednictwem platformy/komunikatora online, z wykorzystaniem dźwięku, obrazu z kamery, udostępniania ekranu komputera prowadzącego i uczestników.** 
 
     W czasie warsztatu będziemy ćwiczyć dwie podstawowe techniki programistyczne: TDD i refaktoryzację, głównie przy użyciu przekształceń dostępnych w IntelliJ. Koniec z copy-paste’em i używaniem myszy, niech IDE stanie się przedłużeniem Twojej woli!
 
