@@ -4,16 +4,14 @@ date: 2017-06-23
 # Data wydarzenia
 event_date: 2020-03-21
 title: "Warsztat #366 Nest - Nowoczesny Backend w Node.js i TypeScript"
-lokalizacja: Sages
+lokalizacja: zdalnie
 cena: Warsztat płatny - od 79 PLN, 3. edycja warsztatu
 prowadzacy: blaszczak
 evenea_link: "https://app.evenea.pl/event/nest2103?out=1&source=event_iframe"
 dlugosc: 09:00-17:00
 opis:
   informacje: |
-    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:**
-    
-    **https://app.evenea.pl/event/nest2103/**
+    **Warsztat odbywa się w formie zdalnej za pośrednictwem platformy/komunikatora online, z wykorzystaniem dźwięku, obrazu z kamery, udostępniania ekranu komputera prowadzącego i uczestników.** 
 
     Na warsztacie stworzymy nowoczesny serwer w Node.js wykorzystując framework Nest.
 
@@ -100,5 +98,9 @@ opis:
 
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
+
+    **Rejestracja dostępna bezpośrednio pod poniższym linkiem:**
+    
+    **https://app.evenea.pl/event/nest2103/**
 
 ---
