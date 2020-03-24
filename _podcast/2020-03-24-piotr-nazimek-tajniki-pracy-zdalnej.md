@@ -20,11 +20,10 @@ opis:
     6. Zalety i wady pracy zdalnej.
     7. Jaka twoim zdaniem będzie przyszłość pracy zdalnej?
     8. Rzeczy o których warto pamiętać?
-    9.  Narzędzia przydatne w pracy zdalnej. 
-   10. Krótko o bezpieczeństwie pracy zdalnej.
+    9. Narzędzia przydatne w pracy zdalnej. 
+    10. Krótko o bezpieczeństwie pracy zdalnej.
 
   transkrypcja: | 
-  
     
 ---
 
