@@ -35,7 +35,6 @@ opis:
 
     Nauczysz się wykorzystywania RxJS po stronie przeglądarki oraz serwera.
 
-
     **Dla kogo jest ten warsztat?**
 
     Warsztat jest przeznaczony dla programistów ze znajomością JavaScript/ES2015 w zakresie podstawowym. Zagadnienia, które będą używane, ale nie omawiane na warsztacie to:
@@ -62,10 +61,6 @@ opis:
      - Serwer (Node.js, Express, NestJS, Fastify)
      - Bazy danych (MongoDB Shell)
      - IoT (Cylon.js, Johnny-five)
-
-    **Podczas warsztatu uczestnicy korzystają z własnych komputerów.**
-    
-    Podczas warsztatu zapewniamy dostęp do kawy, herbaty, wody oraz ciastek. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegetariańskiej.
 
   program: |
 
