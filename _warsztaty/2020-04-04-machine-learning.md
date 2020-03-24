@@ -15,8 +15,6 @@ opis:
     **Warsztat odbywa się w formie zdalnej za pośrednictwem platformy/komunikatora online, z wykorzystaniem dźwięku, obrazu z kamery, udostępniania ekranu komputera prowadzącego i uczestników.** 
     
     Celem warsztatu jest pokazanie na przykładach powszechnie wykorzystywanych rozwiązań w branży Machine Learning. Każdy z omawianych algorytmów zostanie zaprezentowany od strony teoretycznej oraz implementacyjnej. Stack technologiczny: Python 3.X, numpy, pandas, matplotlib, scikit-learn.
-    
-    Podczas warsztatu uczestnicy korzystają z własnych laptopów. Organizator zapewnia kawę herbatę oraz pizzę w porze lunchowej.
 
   program: |
 
