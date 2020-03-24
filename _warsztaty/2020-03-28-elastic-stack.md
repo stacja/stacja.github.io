@@ -28,8 +28,6 @@ opis:
     3. Zobaczysz jak przygotować aplikację Python do produkowania logów w odpowiednim formacie
     4. Przygotujesz interaktywne analizy w Kibanie, umożliwiające wyciąganie wniosków z zebranych danych
 
-    Podczas warsztatu zapewniamy dostęp do kawy, herbaty, wody oraz ciastek. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegetariańskiej.
-
   program: |
 
     1. Agregacja logów - architektura, najlepsze praktyki
