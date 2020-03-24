@@ -43,9 +43,7 @@ opis:
     Od uczestników wymagana jest podstawowa znajomość języka Java i umysł otwarty na zmiany :)
 
     Podczas warsztatu uczestnicy korzystają z własnych komputerów.
-    
-    Podczas warsztatu zapewniemy dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegatariańskiej.
-
+  
   program: |
 
     1. Wprowadzenie
