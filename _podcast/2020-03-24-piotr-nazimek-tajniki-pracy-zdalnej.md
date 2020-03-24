@@ -3,7 +3,7 @@
 date: 2020-03-24
 episode: 31
 title: "Piotr Nazimek - Tajniki pracy zdalnej"
-mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_30_Patrycja_Luczycka_-_B2B_w_branzy_IT.mp3"
+mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.it_Podcast_31_Piotr_Nazimek_Tajniki_pracy_zdalnej.mp3"
 libsyn_id: 13676717
 image: /img/podcast/okladka.png
 youtube: "1iU02o4NmOE"
