@@ -44,9 +44,6 @@ opis:
     1. Szybkie prototypowanie w praktyce (10:15 - 11:30)
        - ćwiczenia 60 min 
        - przerwa 15 min
-    1. Niepełnosprawność i technologie asystujące (10:15 - 10:45)
-       - konwersatorium 30 min 
-       - przerwa 15 min
     1. Testowanie prototypów (11:30-12:00)
        - ćwiczenia 30 min
     1. Raportowanie wyników testów użytkownika (12:00 - 13:15)

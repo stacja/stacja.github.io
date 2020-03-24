@@ -3,12 +3,12 @@
 date: 2019-03-14
 # Data wydarzenia
 event_date: 2020-02-29
-title: "Warsztat #351 Akademia Trenera - Train The Trainer"
+title: "Warsztat #359 Akademia Trenera - Train The Trainer"
 lokalizacja: Sages
 prowadzacy: nazimek
 type: akademia
 sponsor: /img/logo.png
-evenea_link: "https://trainthetrainer290220.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://app.evenea.pl/event/trainthetrainer290220?out=1&source=event_iframe"
 dlugosc: 2 dni, 9:00-17:00
 cena: Warsztat bezpłatny, 13 edycja warsztatu
 podcast_id: 6301924

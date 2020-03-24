@@ -2,16 +2,17 @@
 # Data dodania informacji o wydarzeniu
 date: 2020-01-17
 # Data wydarzenia
-event_date: 2020-02-22
-cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
-title: "Warsztat #355 Clean Code i dobre praktyki OOP w Javie"
-lokalizacja: NiewiadomoKrakow
+event_date: 2020-04-04
+cena: Warsztat płatny - od 79 PLN, 2. edycja warsztatu
+title: "Warsztat #377 Clean Code i dobre praktyki OOP w Javie"
+lokalizacja: zdalnie
 prowadzacy: chrost
 dlugosc: 9:00-17:00
-evenea_link: "https://cleancodekrk.evenea.pl/?out=1&source=event_iframe"
+evenea_link: "https://app.evenea.pl/event/cleancode0404?out=1&source=event_iframe"
 slideshare:
 opis:
   informacje: |
+    **Warsztat odbywa się w formie zdalnej za pośrednictwem platformy/komunikatora online, z wykorzystaniem dźwięku, obrazu z kamery, udostępniania ekranu komputera prowadzącego i uczestników.** 
 
     **Clean Code** 
 
@@ -60,8 +61,9 @@ opis:
        3. prawo Demeter
        4. kompozycja ponad dziedziczeniem 
     
-    
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
+
+    **Rejestracja dostępna bezpośrednio pod poniższym [linkiem.](https://app.evenea.pl/event/cleancode0404/)**
 
 ---

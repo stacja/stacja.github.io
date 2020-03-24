@@ -81,6 +81,7 @@ BAE:
 NiewiadomoLodz:
   adres: Łódź, Dokładny adres zostanie podany bliżej terminu warsztatu 
   miasto: Łódź
+  mapa: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d111736.24358531547!2d19.405458196050546!3d51.76877563375987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471bcb24754556af%3A0xcb7cae639b21dbac!2zxYHDs2TFug!5e0!3m2!1spl!2spl!4v1584017967490!5m2!1spl!2spl"
 SamiSwoi:
   adres: Łódź, Sami Swoi/Hostel Molo, ul. Okopowa 70/106 (wjazd od ul. Marysińskiej)
   miasto: Łódź
@@ -181,3 +182,7 @@ CoWorkingRynek:
   adres: Kraków, CoWorking Rynek 28, Rynek Główny 28 
   miasto: Kraków 
   mapa: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d327952.4182831036!2d19.724694226515123!3d50.0464284278981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471644c0354e18d1%3A0xb46bb6b576478abf!2zS3Jha8Ozdw!5e0!3m2!1spl!2spl!4v1559829328133!5m2!1spl!2spl"
+zdalnie: 
+  adres: Warsztat odbywa się w trybie zdalnym 
+  miasto: Tryb zdalny 
+  mapa: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4995315.458743193!2d16.097177739387!3d52.31384535835831!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47009964a4640bbb%3A0x97573ca49cc55ea!2sPolska!5e0!3m2!1spl!2spl!4v1584373222052!5m2!1spl!2spl"

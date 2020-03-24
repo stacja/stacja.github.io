@@ -303,7 +303,7 @@ zeromski:
 blaszczak:
   name: Piotr Błaszczak
   img: /img/portfolio/blaszczak.png
-  desc: "Full Stack Web Developer od 2007, konsultant i szkoleniowiec. Zaczynał od PHP i MySQL lecz szybko dostrzegł potęgę JavaScript i NoSQL. Obecnie pisze backend w Node.js a front w Angular. Miłośnik RxJS oraz grafowej bazy danych OrientDB, ortodoksyjny ewangelista TypeScript :) Poza pracą zawodową skacze na trampolinach, nurkuje na bezdechu, żongluje i balansuje na slackline. Jeden z organizatorów Urban Highline Festival w Lublinie."   
+  desc: "Full Stack Web Developer od 2007, konsultant i szkoleniowiec. Zaczynał od PHP i MySQL, lecz szybko dostrzegł potęgę JavaScript i NoSQL. Obecnie pisze backend w Node.js z wykorzystaniem Nest, a front w Angular, po obu stronach wykorzystując TypeScript. Miłośnik RxJS oraz reaktywnego podejścia do architektury aplikacji. Poza pracą zawodową skacze na trampolinach, nurkuje na bezdechu, żongluje i balansuje na slackline."   
 cackodmytro:
   name: Arek Cacko i Dmytro Svarychevskyi
   img: /img/portfolio/cackodmytro.png
@@ -387,7 +387,7 @@ pkrogulec:
 kaszynski:
   name: Maciej Kaszyński
   img: /img/portfolio/mkaszynski.jpg
-  desc: "Programista od 2009 r. Zaczynał od Javy w Accenture, by następnie próbować odnaleźć się w starożytnych technologiach GSM (Ericpol/Ericsson). Po 3 latach z radością wrócił do JVMa i rozwija się jako Full stack developer. Zawsze z chęcią i cierpliwością dzieli się wiedzą i doświadczeniem. Interesuje się fantastyką, chętnie pójdzie w góry, a ostatnio uczy się pływać na wakeboardzie. "
+  desc: "Programista od 2009 r. Zaczynał od Javy w Accenture, by następnie próbować odnaleźć się w starożytnych technologiach GSM (Ericpol/Ericsson). Po 3 latach z radością wrócił do JVMa i rozwija się jako Full stack developer. Zawsze z chęcią i cierpliwością dzieli się wiedzą i doświadczeniem, dlatego w ostatnim czasie rozwija się również jako trener prowadząc warsztat z TDD i refactoringu.  Interesuje się fantastyką, chętnie pójdzie w góry, choć w ostatnim czasie głównie zajmują go dwie córki."
 dmytriv:
   name: Andrii Dmytriv
   img: /img/portfolio/admytriv.jpg
@@ -452,3 +452,11 @@ langer:
   name: Andrzej Langer
   img: /img/portfolio/langer.png
   desc: "Na co dzień zajmuję się analizą danych marketingowych i sprzedażowych, jest expertem w dziedzinie systemów informatycznymi wsparcia sprzedaży i marketingu. Do swojej pracy wykorzystuje skrypty w R już od 4 lat. Karierę w IT rozpoczął zaraz po studiach na wydziale Fizyki Technicznej i Matematyki Stosowanej Warszawskiej Politechniki. Ma doświadczenie jako programista lubi języki z jedną literą w nazwie (C ,C++, C#, R). Informatyka jest jego pasją, lubi inspirować i dzielić się wiedzą."
+przybyl:
+  name: Piotr Przybył
+  img: /img/portfolio/przybyl.jpg
+  desc: "Remote Freelance Developer, Software Gardener, prelegent, trener. Miłośnik lekkości i zwinności, których głównym przejawem jest identyfikacja rzeczywistego problemu oraz dobór właściwych narzędzi. Programuje głównie w Javie (od wersji 1.3) i Scali, zapalony użytkownik GNU/Linuksa. Jako trener skupia się nie tylko na prezentowaniu twardych rozwiązań, ale przede wszystkim na ich jak najszybszym wykorzystaniu, zgraniu zespołu, ocenie rzeczywistych wyzwań  ograniczeń."  
+bedkowski: 
+  name: Marek Będkowski 
+  img: /img/portfolio/bedkowski.jpg
+  desc: "Polyglot programmer z wieloletnim stażem oraz doświadczeniem w projektach dużych i małych. Jego ścieżka kariery prowadziła przez wiele języków programowania m.in. ActionScript, php, perl, C++, python, CoffeeScript, JavaScript ostatnio Java i TypeScript. Uważa, że idealny programista powinien znać perfekcyjnie co najmniej jeden język dynamiczny i jeden statyczny. Do tej pory miał okazję realizować projekty m.in. z sektora publicznego, przetwarzania wideo w czasie rzeczywistym oraz analizy obrazów przy wykorzystaniu sieci neuronowych (również w Javie :))). Od czasu tego ostatniego dość sceptycznie nastawiony do możliwości przejęcia kontroli nad światem przez sztuczną inteligencję. Obecnie zajmuje się architekturą odporną na błędy z użyciem spring-cloud . Po godzinach próbuje dotrzymać tempa swojej trójce dzieci no i marzy o Tesli :)"
