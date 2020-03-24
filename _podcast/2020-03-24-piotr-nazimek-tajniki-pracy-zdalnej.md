@@ -1,6 +1,6 @@
 ---
 # Data dodania informacji o wydarzeniu
-date: 2020-03-24
+date: 2020-03-23
 episode: 31
 title: "Piotr Nazimek - Tajniki pracy zdalnej"
 mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.it_Podcast_31_Piotr_Nazimek_Tajniki_pracy_zdalnej.mp3"
