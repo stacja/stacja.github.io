@@ -20,7 +20,6 @@ opis:
     Warsztat przeznaczony jest dla początkujących i średnio zaawansowanych programistów Java, którzy chcą nauczyć się sprawnie tworzyć czysty i testowalny kod. Kod, który nie jest zlepkiem procedur spakowanych w serwisy, ale czytelną i harmonijną kompozycją obiektów realizujących zakładane wymagania biznesowe. W rezultacie terminy takie jak: SOLID, enkapsulacja i obiekty immutable przestaną być jedynie teoretycznymi zagadnieniami, które wypada znać podczas rekrutacji i staną się Twoją codzienną praktyką.
 
     Podczas warsztatu uczestnicy korzystają z własnych laptopów. 
-    Podczas warsztatu zapewniamy dostęp do kawy, herbaty, wody i ciastek. W porze obiadowej zapewniamy lunch.
 
   program: |
 
