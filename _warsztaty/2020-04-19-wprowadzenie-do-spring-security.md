@@ -24,9 +24,6 @@ opis:
      - Maven
      - IntelliJ / Eclipse
    
-    Podczas warsztatu uczestnicy korzystają z własnych komputerów.
-    Podczas warsztatu zapewniemy dostęp do kawy, herbaty, wody. W porze obiadowej zapewniamy pizzę w wersji mięsnej lub wegatariańskiej.
-
   program: |
 
     1. Wprowadzenie 
