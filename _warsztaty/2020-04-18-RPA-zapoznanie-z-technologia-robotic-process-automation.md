@@ -33,7 +33,7 @@ opis:
     **Wymagania wstępne**
       - Własny komputer z systemem Windows.
 
-    Kontynuacją warsztatu **RPA - Zapoznanie z technologią Robotic Process Automation** jest warsztat **RPA - Zbuduj swojego pierwszego robota Robotic Process Automation** dostępny [tutaj.]()
+    Kontynuacją warsztatu **RPA - Zapoznanie z technologią Robotic Process Automation** jest warsztat **RPA - Zbuduj swojego pierwszego robota Robotic Process Automation** dostępny [tutaj.](https://stacja.it/warsztaty/2020-04-25-RPA-zbuduj-swojego-pierwszego-robota.html)
 
   program: |
 
