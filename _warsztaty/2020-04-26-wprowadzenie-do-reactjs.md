@@ -49,6 +49,8 @@ opis:
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
 
+    Zakupione certyfikaty zostaną przesłane uczestnikom w formie elektoronicznej po warsztacie oraz za pośrednictwem firmy kurierskiej w momencie poprawy sytuacji wywołanej epidemią koronawirusa. 
+
     **Rejestracja dostępna bezpośrednio pod poniższym [linkiem.](https://app.evenea.pl/event/react2604/)**
 
 ---
