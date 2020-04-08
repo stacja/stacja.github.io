@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-04-25
 cena: Warsztat płatny - od 79 PLN, 1. edycja warsztatu
-title: "Warsztat #381 RPA - Zbuduj swojego pierwszego robota Robotic Process Automation"
+title: "Warsztat #382 RPA - Zbuduj swojego pierwszego robota Robotic Process Automation"
 lokalizacja: zdalnie
 prowadzacy: adamski
 dlugosc: 9:00-17:00
@@ -52,7 +52,7 @@ opis:
     1. Podsumowanie i dyskusja. (16:30 – 17:00)
 
   uwaga: |
-    Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
+    Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do odwołania warsztatu w przypadku niezgłoszenia się minimalnej liczby uczestników.
 
     Zakupione certyfikaty zostaną przesłane uczestnikom w formie elektoronicznej po warsztacie oraz za pośrednictwem firmy kurierskiej w momencie poprawy sytuacji wywołanej epidemią koronawirusa. 
 
