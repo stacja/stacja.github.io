@@ -26,8 +26,7 @@ opis:
      
     Podczas warsztatu uczestnicy korzystają z własnych komputerów.
 
-   program: |
-
+  program: |
     1. Wprowadzenie do DDD:
        1. Czym jest domena
        1. Czym jest DDD
