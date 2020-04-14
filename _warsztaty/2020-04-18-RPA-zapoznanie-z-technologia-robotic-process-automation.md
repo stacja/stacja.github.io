@@ -18,7 +18,7 @@ opis:
 
     **Komu się przyda RPA?**
     
-    Każdej osobie, która w swojej pracy ma do czynienia z nudnymi powtarzalnymi czynnościami. Jeśli codziennie, co tydzień lub kilka razy w miesiącu wykonujesz dokładnie te same procedury w wolnych i denerwujących systemach na warsztacie poznasz technologię, która  
+    Każdej osobie, która w swojej pracy ma do czynienia z nudnymi powtarzalnymi czynnościami. Jeśli codziennie, co tydzień lub kilka razy w miesiącu wykonujesz dokładnie te same procedury w wolnych i denerwujących systemach na warsztacie poznasz technologię, która pomoże Ci pozbyć się tych nudnych obowiązków.
 
     **Dla kogo jest warsztat?**
 
