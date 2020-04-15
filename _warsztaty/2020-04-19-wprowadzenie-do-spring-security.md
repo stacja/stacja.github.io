@@ -23,6 +23,10 @@ opis:
      - JDK 8+
      - Maven
      - IntelliJ / Eclipse
+
+    **Co do powiedzenia o warsztacie ma trener? Obejrzyj i posłuchaj poniżej!** 
+
+    [![alt](/img/zdj/miniatura_jozefowicz.png)](https://youtu.be/IjLn0D7-uZ4)
    
   program: |
 
