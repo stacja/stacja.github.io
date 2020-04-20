@@ -4,7 +4,7 @@ date: 2019-02-25
 # Data wydarzenia
 event_date: 2020-05-09
 cena: Warsztat płatny - od 79 PLN, 2. edycja warsztatu
-title: "Warsztat #387 Przybornik programisty: TDD + Refaktoryzacja"
+title: "Warsztat #367 Przybornik programisty: TDD + Refaktoryzacja"
 lokalizacja: zdalnie
 prowadzacy: kaszynski
 dlugosc: 9:00-17:00
