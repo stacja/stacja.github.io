@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-02-01
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
-title: "Warsztat #346 Wprowadzenie do Pythona"
+title: "Warsztat #337 Wprowadzenie do Pythona"
 lokalizacja: Sages
 prowadzacy: galka
 dlugosc: 9:00-17:00
