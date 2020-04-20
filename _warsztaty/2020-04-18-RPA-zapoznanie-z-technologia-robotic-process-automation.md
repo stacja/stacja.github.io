@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-04-18
 cena: Warsztat płatny - od 79 PLN, 1. edycja warsztatu
-title: "Warsztat #379 RPA - Zapoznanie z technologią Robotic Process Automation"
+title: "Warsztat #359 RPA - Zapoznanie z technologią Robotic Process Automation"
 lokalizacja: zdalnie
 prowadzacy: adamski
 dlugosc: 9:00-17:00
