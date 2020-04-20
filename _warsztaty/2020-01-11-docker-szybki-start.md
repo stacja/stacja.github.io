@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2020-01-11
 cena: Warsztat płatny - od 79 PLN, 4 edycja warsztatu
-title: "Warsztat #335 Docker - szybki start"
+title: "Warsztat #327 Docker - szybki start"
 lokalizacja: Sages
 prowadzacy: wyspianski
 dlugosc: 9:00-17:00
