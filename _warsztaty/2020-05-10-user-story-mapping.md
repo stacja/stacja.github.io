@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-05-10
 cena: Warsztat płatny - od 79 PLN, 1. edycja warsztatu
-title: "Warsztat #388 User Story Mapping - mapowanie historii użytkownika"
+title: "Warsztat #369 User Story Mapping - mapowanie historii użytkownika"
 lokalizacja: zdalnie
 prowadzacy: gula
 dlugosc: 9:00-17:00
