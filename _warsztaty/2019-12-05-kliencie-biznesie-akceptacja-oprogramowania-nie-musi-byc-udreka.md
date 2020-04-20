@@ -3,7 +3,7 @@
 date: 2019-11-27
 # Data wydarzenia
 event_date: 2019-12-05
-title: "Kliencie, Biznesie! Akceptacja oprogramowania nie musi być udręką"
+title: "Warsztat #323 Kliencie, Biznesie! Akceptacja oprogramowania nie musi być udręką"
 lokalizacja: Sages
 cena: Wieczorny meetup bezpłatny
 prowadzacy: kazun
