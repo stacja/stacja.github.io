@@ -3,7 +3,7 @@
 date: 2019-10-14
 # Data wydarzenia
 event_date: 2019-11-14
-title: "Analiza danych w procesie analizy biznesowej w IT - podejście praktyczne"
+title: "Warsztat #314 Analiza danych w procesie analizy biznesowej w IT - podejście praktyczne"
 lokalizacja: Sages
 cena: Wieczorny meetup bezpłatny
 prowadzacy: biczyk
