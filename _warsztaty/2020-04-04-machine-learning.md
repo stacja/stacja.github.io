@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2020-04-04
 cena: Warsztat płatny - od 79 PLN, 4. edycja warsztatu
-title: "Warsztat #374 Machine Learning - wprowadzenie i przegląd algorytmów"
+title: "Warsztat #355 Machine Learning - wprowadzenie i przegląd algorytmów"
 lokalizacja: zdalnie
 prowadzacy: wkolodziejczyk
 dlugosc: 9:00-17:00
