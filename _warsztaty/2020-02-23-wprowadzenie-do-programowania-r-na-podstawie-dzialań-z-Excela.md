@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-02-23
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
-title: "Warsztat #356 Wprowadzenie do programowania w R na przykładzie działań z Excela"
+title: "Warsztat #346 Wprowadzenie do programowania w R na przykładzie działań z Excela"
 lokalizacja: Sages
 prowadzacy: langer
 dlugosc: 9:00-17:00
