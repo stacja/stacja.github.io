@@ -4,7 +4,7 @@ date: 2019-02-25
 # Data wydarzenia
 event_date: 2020-03-29
 cena: Warsztat płatny - od 79 PLN, 11. edycja warsztatu
-title: "Warsztat #372 Testy bezpieczeństwa dla QA/testerów"
+title: "Warsztat #354 Testy bezpieczeństwa dla QA/testerów"
 lokalizacja: zdalnie
 prowadzacy: kowalczyk
 dlugosc: 9:00-17:00
