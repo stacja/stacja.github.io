@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-11-30
-title: "Warsztat #325 Podstawy UX"
+title: "Warsztat #320 Podstawy UX"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
 prowadzacy: orzeszek
