@@ -28,6 +28,10 @@ opis:
 
     Podczas warsztatu uczestnicy korzystają z własnych laptopów. 
 
+    **Co do powiedzenia o warsztacie ma trener? Obejrzyj i posłuchaj poniżej!** 
+
+    [![alt](/img/zdj/miniatura_jozefowicz.png)](https://youtu.be/h121_1TUODE)
+
   program: |
 
     1. Wprowadzenie do chmury AWS
