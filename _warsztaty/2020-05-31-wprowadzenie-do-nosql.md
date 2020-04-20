@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-05-31
 cena: Warsztat płatny - od 79 PLN, 1. edycja warsztatu
-title: "Warsztat #377 Wprowadzenie do NoSQL"
+title: "Warsztat #378 Wprowadzenie do NoSQL"
 lokalizacja: zdalnie
 prowadzacy: wojtyna
 dlugosc: 9:00-17:00
