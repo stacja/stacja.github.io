@@ -3,7 +3,7 @@
 date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-02-29
-title: "Warsztat #360 Testowanie w Scali z Grą w Życie"
+title: "Warsztat #349 Testowanie w Scali z Grą w Życie"
 lokalizacja: 360CodeLab
 prowadzacy: przybyl
 sponsor: /img/logos/360codelab.jpg
