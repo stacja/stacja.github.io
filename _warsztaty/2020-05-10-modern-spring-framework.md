@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-05-10
 cena: Warsztat płatny - od 79 PLN, 1. edycja warsztatu
-title: "Warsztat #389 Modern Spring Framework"
+title: "Warsztat #368 Modern Spring Framework"
 lokalizacja: zdalnie
 prowadzacy: wojtyna
 dlugosc: 9:00-17:00
