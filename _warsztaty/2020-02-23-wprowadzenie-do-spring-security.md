@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-02-23
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
-title: "Warsztat #357 Wprowadzenie do Spring Security"
+title: "Warsztat #347 Wprowadzenie do Spring Security"
 lokalizacja: Workband
 prowadzacy: jozefowicz
 dlugosc: 9:00-17:00
