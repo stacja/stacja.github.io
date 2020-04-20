@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2020-04-26
-title: "Warsztat #383 Wprowadzenie do ReactJS"
+title: "Warsztat #363 Wprowadzenie do ReactJS"
 lokalizacja: zdalnie
 cena: Warsztat płatny - od 79 PLN, 3. edycja warsztatu
 prowadzacy: bialas
