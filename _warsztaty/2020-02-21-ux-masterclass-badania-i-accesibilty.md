@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-02-21
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
-title: "Warsztat #353 UX Masterclass: Badania i accesibility"
+title: "Warsztat #343 UX Masterclass: Badania i accesibility"
 lokalizacja: Sages
 prowadzacy: orzeszek
 dlugosc: 9:00-17:00
