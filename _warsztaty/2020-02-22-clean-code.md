@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-02-22
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
-title: "Warsztat #355 Clean Code i dobre praktyki OOP w Javie"
+title: "Warsztat #345 Clean Code i dobre praktyki OOP w Javie"
 lokalizacja: NiewiadomoKrakow
 prowadzacy: chrost
 dlugosc: 9:00-17:00
