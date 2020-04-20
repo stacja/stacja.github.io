@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-11-23
-title: "#321 DevOps: Użycie Dockera do rozwijania i wdrażania aplikacji"
+title: "Warsztat #316 DevOps: Użycie Dockera do rozwijania i wdrażania aplikacji"
 lokalizacja: 360CodeLab
 prowadzacy: fortuna
 sponsor: /img/logos/360codelab.jpg
