@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2020-04-17
-title: "Warsztat #378 Podstawy UX"
+title: "Warsztat #358 Podstawy UX"
 lokalizacja: zdalnie
 cena: Warsztat płatny - od 79 PLN, 4. edycja warsztatu
 prowadzacy: orzeszek
