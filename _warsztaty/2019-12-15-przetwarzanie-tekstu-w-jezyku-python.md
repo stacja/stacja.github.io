@@ -3,7 +3,7 @@
 date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-12-15
-title: "Warsztat #334 Przetwarzanie tekstu w języku Python"
+title: "Warsztat #326 Przetwarzanie tekstu w języku Python"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 3 edycja warsztatu
 prowadzacy: pilarski
