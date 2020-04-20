@@ -4,7 +4,7 @@ date: 2019-02-25
 # Data wydarzenia
 event_date: 2020-01-18
 cena: Warsztat płatny - od 79 PLN, 2 edycja warsztatu
-title: "Warsztat #337 Przywództwo w świecie IT"
+title: "Warsztat #330 Przywództwo w świecie IT"
 lokalizacja: Sages
 prowadzacy: gula
 dlugosc: 9:00-17:00
