@@ -4,7 +4,7 @@ date: 2019-02-25
 # Data wydarzenia
 event_date: 2020-02-08
 cena: Warsztat płatny - od 79 PLN, 10. edycja warsztatu
-title: "Warsztat #348 Testy bezpieczeństwa dla QA/testerów"
+title: "Warsztat #338 Testy bezpieczeństwa dla QA/testerów"
 lokalizacja: Sages
 prowadzacy: kowalczyk
 dlugosc: 9:00-17:00
