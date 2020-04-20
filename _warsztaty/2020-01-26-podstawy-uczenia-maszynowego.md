@@ -3,7 +3,7 @@
 date: 2018-09-24
 # Data wydarzenia
 event_date: 2020-01-26
-title: "Warsztat #344 Podstawy uczenia maszynowego: pierwszy projekt od A do Z"
+title: "Warsztat #335 Podstawy uczenia maszynowego: pierwszy projekt od A do Z"
 lokalizacja: CoWorkingRynek
 cena: Warsztat płatny - od 79 PLN, 2. edycja warsztatu
 prowadzacy: apostol
