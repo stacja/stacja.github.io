@@ -3,7 +3,7 @@
 date: 2018-09-24
 # Data wydarzenia
 event_date: 2020-02-09
-title: "Warsztat #341 Praktyczne sposoby wykrywania podatności w aplikacjach webowych"
+title: "Warsztat #340 Praktyczne sposoby wykrywania podatności w aplikacjach webowych"
 lokalizacja: CoWorkingRynek
 cena: Warsztat płatny - od 79 PLN, 5. edycja warsztatu
 prowadzacy: ktrzcinska
