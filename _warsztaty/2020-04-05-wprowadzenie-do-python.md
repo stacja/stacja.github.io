@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-04-05
 cena: Warsztat płatny - od 79 PLN, 3. edycja warsztatu
-title: "Warsztat #378 Wprowadzenie do Pythona"
+title: "Warsztat #357 Wprowadzenie do Pythona"
 lokalizacja: zdalnie
 prowadzacy: galka
 dlugosc: 9:00-17:00
