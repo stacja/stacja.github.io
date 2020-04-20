@@ -3,7 +3,7 @@
 date: 2018-09-24
 # Data wydarzenia
 event_date: 2019-12-07
-title: "Warsztat #331 Praktyczne sposoby wykrywania podatności w aplikacjach webowych"
+title: "Warsztat #324 Praktyczne sposoby wykrywania podatności w aplikacjach webowych"
 lokalizacja: BiznesLab
 cena: Warsztat płatny - od 79 PLN, 4 edycja warsztatu
 prowadzacy: ktrzcinska
