@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2020-05-30
 cena: Warsztat płatny - od 79 PLN, 6. edycja warsztatu
-title: "Warsztat #394 Docker - szybki start"
+title: "Warsztat #376 Docker - szybki start"
 lokalizacja: zdalnie
 prowadzacy: wyspianski
 dlugosc: 9:00-17:00
