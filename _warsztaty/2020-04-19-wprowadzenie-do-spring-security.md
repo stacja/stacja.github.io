@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-04-19
 cena: Warsztat płatny - od 79 PLN, 2. edycja warsztatu
-title: "Warsztat #380 Wprowadzenie do Spring Security"
+title: "Warsztat #360 Wprowadzenie do Spring Security"
 lokalizacja: zdalnie
 prowadzacy: jozefowicz
 dlugosc: 9:00-17:00
