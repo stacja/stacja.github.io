@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-11-23
-title: "Warsztat #321 Elements of Pyhton: Code, Test, Deploy"
+title: "Warsztat #317 Elements of Pyhton: Code, Test, Deploy"
 lokalizacja: Sages
 cena: Warsztat płatny - od 79 PLN, 1 edycja warsztatu
 prowadzacy: kraszewski
