@@ -4,7 +4,7 @@ date: 2019-02-25
 # Data wydarzenia
 event_date: 2020-03-07
 cena: Warsztat płatny - od 79 PLN, 2. edycja warsztatu
-title: "Warsztat #361 Kontrola wersji z Git"
+title: "Warsztat #350 Kontrola wersji z Git"
 lokalizacja: TMTart
 prowadzacy: blaszczak
 dlugosc: 9:00-17:00
