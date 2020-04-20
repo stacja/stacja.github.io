@@ -4,7 +4,7 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2020-05-16
 cena: Warsztat płatny - od 79 PLN, 5. edycja warsztatu
-title: "Warsztat #388 Machine Learning - wprowadzenie i przegląd algorytmów"
+title: "Warsztat #370 Machine Learning - wprowadzenie i przegląd algorytmów"
 lokalizacja: zdalnie
 prowadzacy: wkolodziejczyk
 dlugosc: 9:00-17:00
