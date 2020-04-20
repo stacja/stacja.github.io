@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2019-12-14
-title: "Warsztat #333 SQL is fun! Wprowadzenie do SQL"
+title: "Warsztat #325 SQL is fun! Wprowadzenie do SQL"
 lokalizacja: NiewiadomoPoznan
 cena: Warsztat bezpłatny, 1. edycja warsztatu
 prowadzacy: menclewicz
