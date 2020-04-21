@@ -4,7 +4,7 @@ date: 2020-04-21
 episode: 32
 title: "Łukasz Andrzejewski - Szkolenia on-line: bohaterowie nowej rzeczywistości"
 mp3_link: "http://traffic.libsyn.com/stacjait/Stacja.IT_Podcast_32_Lukasz_Andrzejewski_-_Szkolenia_online_bohaterowe_nowej_rzeczywistosci.mp3"
-libsyn_id: 13676717
+libsyn_id: 14079641
 image: /img/podcast/okladka.png
 youtube: "gQEF36MsOAg"
 opis:
