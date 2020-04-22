@@ -31,6 +31,10 @@ opis:
     17. Jak realizowana jest praktyczna część szkolenia?
     18. Czy po takim szkoleniu możliwa jest certyfikacja / zdanie jakiegoś egzaminu?
 
+  dodatkowe: |
+    Link do kursu Spring Masterclass autorstwa Łukasza
+     - [Spring Masterclass](https://kursy.sages.pl/spring-masterclass/)
+
   transkrypcja: | 
     
 ---
