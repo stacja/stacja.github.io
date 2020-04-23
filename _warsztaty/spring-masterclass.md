@@ -5,7 +5,7 @@ date: 2020-04-23
 event_date: empty
 title: "#Spring framework"
 lokalizacja: kurs e-learningowy
-prowadzacy: SpringMasterclass
+prowadzacy: empty
 evenea_link:
 type: meetup
 meetup_link: https://kursy.sages.pl/spring-masterclass/
