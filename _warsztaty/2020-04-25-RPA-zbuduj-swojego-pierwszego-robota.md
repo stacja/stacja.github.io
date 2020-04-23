@@ -38,6 +38,10 @@ opis:
 
     Warsztat **RPA - Zbuduj swojego pierwszego robota Robotic Process Automation** jest kontynuacją warsztatu **RPA - Zapoznanie z technologią Robotic Process Automation** dostępnego [tutaj.](https://stacja.it/warsztaty/2020-04-18-RPA-zapoznanie-z-technologia-robotic-process-automation.html)
 
+    **Co do powiedzenia o warsztacie ma trener? Obejrzyj i posłuchaj poniżej!** 
+
+    [![alt](/img/zdj/miniatura_adamski.png)](https://youtu.be/5psDe_8UgnQ)
+
   program: |
 
     1. Przedstawienie zasad warsztatów. (9:15-9:20)
