@@ -4,7 +4,7 @@ date: 2020-04-23
 # Data wydarzenia
 event_date: 2020-05-14
 title: "Spring Framework"
-lokalizacja: Sages
+lokalizacja: kursspring
 prowadzacy: spring
 evenea_link:
 type: meetup
