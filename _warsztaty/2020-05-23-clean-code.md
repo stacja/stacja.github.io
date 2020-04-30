@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-05-23
 cena: Warsztat płatny - od 79 PLN, 2. edycja warsztatu
-title: "Warsztat #374 Clean Code i dobre praktyki OOP w Javie"
+title: "Warsztat #373 Clean Code i dobre praktyki OOP w Javie"
 lokalizacja: zdalnie
 prowadzacy: chrost
 dlugosc: 9:00-17:00
