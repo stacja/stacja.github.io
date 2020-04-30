@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2020-04-23
 # Data wydarzenia
-event_date: 2020-05-14
+event_date: 2020-05-07
 title: "Spring Framework"
 lokalizacja: kursspring
 prowadzacy: spring
