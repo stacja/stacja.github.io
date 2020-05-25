@@ -16,7 +16,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stacja.it" # the base hostname & protocol for your site
 
-gems:
+plugins:
   - jekyll-seo-tag
 
 twitter:
@@ -30,8 +30,6 @@ collections:
     output: true
   podcast:
     output: true
-  abonament:
-    output: true
 
 defaults:
  - scope:
@@ -44,11 +42,6 @@ defaults:
       type: podcast
    values:
       layout: podcast
- - scope:
-      path: ""
-      type: abonament
-   values:
-      layout: abonament
 
 exclude:
     - node_modules
