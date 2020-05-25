@@ -17,16 +17,19 @@ layout: default
                     <hr/>
                     {{ page.opis['rodzajabonamentu'] | markdownify }}
                     <hr/>
+                    {% endif %}
                     {% if page.opis['korzysci'] %}
                     <h4 style="color:#fed136">KORZYŚCI</h4>
                     <hr/>
                     {{ page.opis['korzysci'] | markdownify }}
                     <hr/>
+                    {% endif %}
                     {% if page.opis['info'] %}
                     <h4 style="color:#fed136">INFORMACJE DODATKOWE</h4>
                     <hr/>
                     {{ page.opis['info'] | markdownify }}
                     <hr/>
+                    {% endif %}
                     {% if page.opis['faq'] %}
                     <h4 style="color:#fed136">FAQ</h4>
                     <hr/>
