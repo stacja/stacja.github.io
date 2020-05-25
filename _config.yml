@@ -30,6 +30,8 @@ collections:
     output: true
   podcast:
     output: true
+  abonament:
+    output: true
 
 defaults:
  - scope:
@@ -42,6 +44,11 @@ defaults:
       type: podcast
    values:
       layout: podcast
+ - scope:
+      path: ""
+      type: abonament
+   values:
+      layout: abonament
 
 exclude:
     - node_modules

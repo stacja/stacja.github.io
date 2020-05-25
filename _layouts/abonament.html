@@ -1,0 +1,42 @@
+---
+layout: default
+---
+<section>
+
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <div class="modal-body">
+                    <!-- Project Details Go Here -->
+                    <h1 class="workshop-title">{{ page.title }}</h2>
+                    {{ page.opis['informacje'] | markdownify }}
+                    <hr/>
+                    {% if page.opis['rodzajabonamentu'] %}
+                    <h4 style="color:#fed136">RODZAJE ABONAMENTU</h4>
+                    <hr/>
+                    {{ page.opis['rodzajabonamentu'] | markdownify }}
+                    <hr/>
+                    {% if page.opis['korzysci'] %}
+                    <h4 style="color:#fed136">KORZYŚCI</h4>
+                    <hr/>
+                    {{ page.opis['korzysci'] | markdownify }}
+                    <hr/>
+                    {% if page.opis['info'] %}
+                    <h4 style="color:#fed136">INFORMACJE DODATKOWE</h4>
+                    <hr/>
+                    {{ page.opis['info'] | markdownify }}
+                    <hr/>
+                    {% if page.opis['faq'] %}
+                    <h4 style="color:#fed136">FAQ</h4>
+                    <hr/>
+                    {{ page.opis['faq'] | markdownify }}
+                    <hr/>
+                    {% endif %}
+
+                    <a class="btn btn-primary" href="../index.html"><i class="fa fa-times"></i> Wróć</a>
+                </div>   
+            </div>
+        </div>
+    </div>
+</section>
