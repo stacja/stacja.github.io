@@ -8,8 +8,8 @@ title: "Warsztat #389 Wprowadzenie do Serverless Framework"
 lokalizacja: zdalnie
 prowadzacy: jozefowicz
 dlugosc: 9:00-17:00
-peron_link_regular: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=172&edd_options[price_id]=1"
-peron_link_early: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=172&edd_options[price_id]=2"
+peron_link_regular: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=169&edd_options[price_id]=1"
+peron_link_early: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=169&edd_options[price_id]=2"
 peron_vip: "https://stacja.it/abonament"
 podcast_id:
 slideshare:
