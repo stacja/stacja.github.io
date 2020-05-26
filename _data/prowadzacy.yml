@@ -463,3 +463,7 @@ bedkowski:
 spring:
   name: Spring Framework
   img: /img/portfolio/springmasterclass.png
+pstarosta: 
+  name: Przemysław Starosta
+  img: /img/portfolio/pstarosta.jpg
+  desc: "Trener, wykładowca, właściciel firmy wytwarzającej oprogramowanie. Doświadczony specjalista z zakresu baz danych SQL i noSQL. Pasjonat analizy danych i zagadnieniami machine learning. Prywatnie uwielbia się uczyć, czytać i prześwietlać sprawy kryminalne."
