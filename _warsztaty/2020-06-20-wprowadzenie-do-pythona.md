@@ -10,6 +10,7 @@ prowadzacy: galka
 dlugosc: 9:00-17:00
 peron_link_regular: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=188&edd_options[price_id]=1"
 peron_link_early: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=188&edd_options[price_id]=2"
+peron_vip: "https://stacja.it/abonament"
 slideshare:
 opis:
   informacje: |
