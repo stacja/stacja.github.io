@@ -4,12 +4,12 @@ date: 2018-09-24
 # Data wydarzenia
 event_date: 2020-06-20
 cena: Warsztat płatny - od 79 PLN, 1. edycja warsztatu
-title: "Warsztat #387 Machine Learning - algorytmy klasyfikacji"
+title: "Warsztat #384 Machine Learning - algorytmy klasyfikacji"
 lokalizacja: zdalnie
 prowadzacy: wkolodziejczyk
 dlugosc: 9:00-17:00
-peron_link_regular: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=188&edd_options[price_id]=1"
-peron_link_early: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=188&edd_options[price_id]=2"
+peron_link_regular: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=206&edd_options[price_id]=1"
+peron_link_early: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=206&edd_options[price_id]=2"
 peron_vip: "https://stacja.it/abonament"
 slideshare:
 opis:
