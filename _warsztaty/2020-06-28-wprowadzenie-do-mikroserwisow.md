@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-06-28
 cena: Warsztat płatny - od 79 PLN, 1. edycja warsztatu
-title: "Warsztat #388 Wprowadzenie do architektury mikroserwisów"
+title: "Warsztat #389 Wprowadzenie do architektury mikroserwisów"
 lokalizacja: zdalnie
 prowadzacy: wojtyna
 dlugosc: 9:00-17:00
