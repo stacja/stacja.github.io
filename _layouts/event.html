@@ -76,12 +76,39 @@ layout: default
                     <div style="text-align:center">
                     <iframe src="{{ lokalizacja.mapa }}" width="700" height="250" frameborder="0" style="border:0" allowfullscreen></iframe>
                     </div>
+                    {% if page.evenea_link %}
                     <div style="text-align:center">
                     <iframe src="{{ page.evenea_link }}" width="100%" scrolling="no" style="border: 0;"></iframe>
                     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
                     <script type="text/javascript" src="https://app.evenea.pl/js/iframe/new/iframeResizer2.js"></script>
                     </div>
-                    <p><a href="https://kursy.sages.pl/spring-masterclass"><img src="{{ "/img/banner_stacja_masterclassspring.png" | prepend: site.baseurl }}" /></a></p>
+                    {% endif %}
+                    
+                    {% if page.peron_link_regular %}
+                    <div class="row text-center">
+                        <div class="col-md-5 col-md-offset-1">
+                            <span class="fa-stack fa-4x">
+                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                <i class="fa fa-money fa-stack-1x fa-inverse"></i>
+                            </span>
+                            <h4 class="service-heading">Bilet standardowy</h4>
+                            <p class="text-muted">Zapewnia uczestnictwo w warsztacie w pełnym wymiarze.</p>
+                            <a class="btn btn-primary" href="{{ page.peron_link_regular }}"><i class="fa fa-shopping-cart"></i> Zapisz się!</a>
+                        </div>
+                        {% if page.peron_link_early %}
+                        <div class="col-md-5">
+                            <span class="fa-stack fa-4x">
+                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                <i class="fa fa-money fa-stack-1x fa-inverse"></i>
+                            </span>
+                            <h4 class="service-heading">Bilet early-bird</h4>
+                            <p class="text-muted">Pierwsze trzy bilety w super cenie!</p>
+                            <a class="btn btn-primary" href="{{ page.peron_link_early }}"><i class="fa fa-shopping-cart"></i> Zapisz się!</a>
+                        </div>
+                        {% endif %}
+                    </div>
+                    {% endif %}
+                    <p style="margin-top: 3cm;"><a href="https://kursy.sages.pl/spring-masterclass"><img src="{{ "/img/banner_stacja_masterclassspring.png" | prepend: site.baseurl }}" /></a></p>
                     <p><a href="mailto:kontakt@stacja.it"><img src="{{ "/img/b1.jpg" | prepend: site.baseurl }}" /></a></p>
 
                     <a class="btn btn-primary" href="../index.html"><i class="fa fa-times"></i> Wróć</a>
