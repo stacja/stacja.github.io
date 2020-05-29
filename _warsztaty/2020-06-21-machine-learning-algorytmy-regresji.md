@@ -23,7 +23,7 @@ opis:
   program: |
 
     1. Wstęp, nazewnictwo i źródła danych.
-    1. Problem regresji i algorytmy.
+    1. Problem klasyfikacji i algorytmy.
        1. Regresja Liniowa.
        1. Regresja Wielomianowa.
        1. Maszyny Wektorów Wspierąjacych (SVR + Kernel).
