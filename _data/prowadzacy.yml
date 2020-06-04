@@ -474,3 +474,6 @@ mkubera:
 python:
   name: Python
   img: /img/portfolio/python_masterclass.png
+spring1:
+  name: Spring Framework
+  img: /img/portfolio/spring_masterclass.png
