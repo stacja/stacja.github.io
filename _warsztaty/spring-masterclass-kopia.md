@@ -4,7 +4,7 @@ date: 2020-04-23
 # Data wydarzenia
 event_date: 2020-06-23
 title: "Spring Framework"
-lokalizacja: kursspring1
+lokalizacja: kursspring
 prowadzacy: spring1
 evenea_link:
 type: meetup
