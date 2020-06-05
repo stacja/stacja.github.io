@@ -186,6 +186,10 @@ zdalnie:
   adres: Warsztat odbywa się w trybie zdalnym 
   miasto: Tryb zdalny 
 kursspring: 
-  adres: Kurs e-learningowy 
-  miasto: Kurs e-learningowy 
+  adres: koniec early access 
+  miasto: koniec early access  
+  mapa: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4995315.458743193!2d16.097177739387!3d52.31384535835831!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47009964a4640bbb%3A0x97573ca49cc55ea!2sPolska!5e0!3m2!1spl!2spl!4v1584373222052!5m2!1spl!2spl"
+kurspython: 
+  adres: koniec przedsprzedaży
+  miasto: koniec przedsprzedaży
   mapa: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4995315.458743193!2d16.097177739387!3d52.31384535835831!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47009964a4640bbb%3A0x97573ca49cc55ea!2sPolska!5e0!3m2!1spl!2spl!4v1584373222052!5m2!1spl!2spl"
