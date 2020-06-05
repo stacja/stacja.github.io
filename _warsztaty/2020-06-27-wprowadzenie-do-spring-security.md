@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-06-27
 cena: Warsztat płatny - od 79 PLN, 3. edycja warsztatu
-title: "Warsztat #387 Wprowadzenie do Spring Security"
+title: "Warsztat #388 Wprowadzenie do Spring Security"
 lokalizacja: zdalnie
 prowadzacy: jozefowicz
 dlugosc: 9:00-17:00
