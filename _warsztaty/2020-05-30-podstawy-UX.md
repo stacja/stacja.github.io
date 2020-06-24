@@ -2,12 +2,14 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-06-23
 # Data wydarzenia
-event_date: 2020-05-30
-title: "Warsztat #375 Podstawy UX"
+event_date: 2020-07-05
+title: "Warsztat #391 Podstawy UX"
 lokalizacja: zdalnie
-cena: Warsztat płatny - od 79 PLN, 5. edycja warsztatu
+cena: Warsztat płatny - od 79 PLN, 6. edycja warsztatu
 prowadzacy: orzeszek
-evenea_link: "https://app.evenea.pl/event/podstux3005?out=1&source=event_iframe"
+peron_link_regular: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=1142&edd_options[price_id]=1"
+peron_link_early: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=1142&edd_options[price_id]=2"
+peron_vip: "https://stacja.it/abonament"
 dlugosc: 09:00-17:00
 opis:
   informacje: |
@@ -46,7 +48,5 @@ opis:
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
 
     Zakupione certyfikaty zostaną przesłane uczestnikom w formie elektoronicznej po warsztacie oraz za pośrednictwem firmy kurierskiej w momencie poprawy sytuacji wywołanej epidemią koronawirusa. 
-
-    **Rejestracja dostępna bezpośrednio pod poniższym [linkiem.](https://app.evenea.pl/event/podstux3005/)**
 
 ---
