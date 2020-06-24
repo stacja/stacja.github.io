@@ -2,14 +2,11 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-06-23
 # Data wydarzenia
-event_date: 2020-07-05
-title: "Warsztat #391 Podstawy UX"
+event_date: 2020-05-30
+title: "Warsztat #375 Podstawy UX"
 lokalizacja: zdalnie
 cena: Warsztat płatny - od 79 PLN, 6. edycja warsztatu
 prowadzacy: orzeszek
-peron_link_regular: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=1142&edd_options[price_id]=1"
-peron_link_early: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=1142&edd_options[price_id]=2"
-peron_vip: "https://stacja.it/abonament"
 dlugosc: 09:00-17:00
 opis:
   informacje: |
