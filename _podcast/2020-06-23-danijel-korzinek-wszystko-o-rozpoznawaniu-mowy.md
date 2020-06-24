@@ -23,7 +23,22 @@ opis:
     9. Czy na podstawie tych zasobów każdy może zaimplementować własny system ASR?
     10. Czym jest CLARIN?
     11. Gdzie można Cię spotkać/znaleźć w Internecie?
-   
+
+  dodatkowe: |
+    Kontakt z Danijelem:
+     - [Twitter](https://twitter.com/DKorzinek)
+     - [GitHub](https://github.com/danijel3)
+     
+    Link do kursu NLP Masterclass, który prowadzą m.in. Danijel i Łukasz
+     - [Spring Masterclass](https://kursy.sages.pl/nlp-masterclass/)
+     
+    Biblioteki i zasoby związane z ASR:
+     - [HTK](http://htk.eng.cam.ac.uk/)
+     - [Kaldi](https://kaldi-asr.org/)
+     - [Sphinx](https://cmusphinx.github.io/)
+     - [RASR](https://www-i6.informatik.rwth-aachen.de/rwth-asr/)
+     - [deepspeech](https://github.com/mozilla/DeepSpeech)
+     - [wav2letter](https://github.com/facebookresearch/wav2letter)
 
   transkrypcja: | 
     
