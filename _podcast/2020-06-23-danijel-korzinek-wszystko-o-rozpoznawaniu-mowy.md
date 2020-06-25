@@ -14,7 +14,7 @@ opis:
   konspekt: |
     1. Przedstaw się proszę i powiedz parę słów o sobie
     2. Czym się zajmujesz na co dzień?
-    3. Jaki związek ASR i NLP?
+    3. Jaki jest związek między ASR i NLP?
     4. Czy ASR to już rozwiązany problem? Jak to wygląda dla polskiego?
     5. Jakie rozwiązania technologiczne są zwykle wykorzystywane w kontekście ASR?
     6. Jakie są obecnie wyzwania dla ASR?
