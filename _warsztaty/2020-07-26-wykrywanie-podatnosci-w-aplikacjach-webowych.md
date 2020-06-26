@@ -3,7 +3,7 @@
 date: 2018-09-24
 # Data wydarzenia
 event_date: 2020-07-26
-title: "Warsztat #399 Praktyczne sposoby wykrywania podatności w aplikacjach webowych"
+title: "Warsztat #398 Praktyczne sposoby wykrywania podatności w aplikacjach webowych"
 lokalizacja: zdalnie
 cena: Warsztat płatny - od 39 PLN, 7. edycja warsztatu
 prowadzacy: ktrzcinska
