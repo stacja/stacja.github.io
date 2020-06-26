@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-07-25
 cena: Warsztat płatny - od 79 PLN, 1. edycja warsztatu
-title: "Warsztat #397 Zaawansowane aspekty modelowania taktycznego w DDD"
+title: "Warsztat #396 Zaawansowane aspekty modelowania taktycznego w DDD"
 lokalizacja: zdalnie
 prowadzacy: wojtyna
 dlugosc: 9:00-17:00
