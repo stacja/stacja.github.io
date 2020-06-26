@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-07-26
 cena: Warsztat płatny - od 79 PLN, 1. edycja warsztatu
-title: "Warsztat #398 Wprowadzenie do programowania reaktywnego na przykładzie Project Reactor i Spring Webflux"
+title: "Warsztat #399 Wprowadzenie do programowania reaktywnego na przykładzie Project Reactor i Spring Webflux"
 lokalizacja: zdalnie
 prowadzacy: wojtyna
 dlugosc: 9:00-17:00
