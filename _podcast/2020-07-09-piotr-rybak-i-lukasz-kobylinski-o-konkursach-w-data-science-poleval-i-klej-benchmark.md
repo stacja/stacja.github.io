@@ -9,25 +9,31 @@ image: /img/podcast/okladka.png
 youtube: "AK_JfURomCI"
 opis:
   informacje: |
-    W najnowszym odcinku podcastu Stacji.IT tematem są konkursy, które odbywają się w branży Data Science. W pierwszej części Łukasz Kobyliński opowiedział o konkursie PolEval. Natomiast w drugiej części podcastu rozmowa z Piotrem Rybakiem skupiła się wokół konkursu KLEJ Benchmark.
+    W najnowszym odcinku podcastu Stacji.IT tematem są konkursy, które odbywają się w obszarze Data Science. W pierwszej części Łukasz Kobyliński opowiedział o konkursie PolEval. Natomiast w drugiej części podcastu rozmowa z Piotrem Rybakiem skupiła się wokół konkursu KLEJ Benchmark.
   
   konspekt: |
-    1. Przedstaw się  i powiedz parę słów o sobie
-    2. Jesteś współautorem publikacji i rankingu KLEJ - czy możesz powiedzieć czym jest KLEJ Benchmark?
-    3. Skąd pomysł na taki projekt?
-    4. Czy sam miałeś doświadczenia z konkursami na najlepsze metody uczenia maszynowego?
-    5. Jak powstał KLEJ (zbiory testowe)?
-    6. Co pokazuje benchmark? W jaki sposób rangowane są poszczególne metody?
-    7. Jakie obecnie metody są w rankingu? Jakie podejścia radzą sobie najlepiej?
-    8. Czy we współczesnym NLP najważniejsze są rozmiary zbioru treningowego? Czy można poprawić same metody?
-    9. Czy Twoja firma korzysta z benchmarku? Czy korzysta z metod, które są w nim ujęte?
+    1. Czym jest konkurs PolEval?
+    1. Skąd wziął się pomysł konkursu?
+    1. Czy przetwarzanie języka polskiego jest trudniejsze, niż języka angielskiego?
+    1. Jakie konkursy odbyły się dotychczas? Czego dotyczy tegoroczny konkurs?
+    1. Czym jest KLEJ Benchmark?
+    1. Skąd pomysł na taki projekt?
+    1. Jak powstał KLEJ (zbiory testowe)?
+    1. Co pokazuje benchmark? W jaki sposób rangowane są poszczególne metody?
+    1. Jakie obecnie metody są w rankingu? Jakie podejścia radzą sobie najlepiej?
+    1. Czy we współczesnym NLP najważniejsze są rozmiary zbioru treningowego? Czy można poprawić same metody?
+    1. Czy Twoja firma korzysta z benchmarku? Czy korzysta z metod, które są w nim ujęte?
 
-  dodatkowe: |
-     
-    Link do kursu NLP Masterclass, który prowadzi m.in. Łukasz
-     - [Spring Masterclass](https://kursy.sages.pl/nlp-masterclass/)
-     
+  dodatkowe: | 
+    Odnośniki wymienione w odcinku:
+     - [PolEval](http://poleval.pl/)
+     - [AI & NLP Day](https://www.nlpday.pl/)
+     - [KLEJ Benchmark](https://klejbenchmark.com/)
 
+     Kontakt do Łukasza i Piotra:
+     - [Łukasz Kobyliński](https://www.linkedin.com/in/lukasz-kobylinski/)
+     - [Piotr Rybak](https://www.linkedin.com/in/piotrrybak/)
+     
   transkrypcja: | 
     
 ---
