@@ -18,6 +18,7 @@ opis:
     Funkcyjne programowanie (FP) nie jest wcale nowym paradygmatem, bo siega aż lat 60-tych (a więc jest starsze niż programowanie obiektowe (OOP)), ale historycznie zostało nieco zapomniane, natomiast dziś znów zyskuje na popularności. I słusznie, albowiem pozwala pisać bardziej zwięzły deklaratywny kod (wyrażający "co" komputer ma wykonać, a nie "jak"), który jest łatwiejszy w testowaniu, a trudniej w nim o błędy. Używając FP piszemy programy, które składają się jedynie z funkcji, i to w większości takich, które są "czyste" (jeśli damy im ten sam argument, to zwrócą tę samą wartość, i nigdy nie zmienią niczego innego w programie). Czyste funkcje są łatwiejsze w testowaniu, a zbudowane z nich programy mają mniej bugów. Nowoczesne JavaScriptowe aplikacje coraz częściej używają funkcyjnego paradygmatu, a techniki, których nauczysz się na tym warsztacie pozwolą Ci stać się bardziej wszechstronnym programistą.
 
     **Czego się nauczysz?**
+
        - Na warsztacie poznasz podstawy pracy z paradygmatem funkcyjnego programowania w JavaScripcie, jego użyteczność i wartość w pisaniu bardziej bezpiecznych, łatwiejszych w testowaniu i utrzymaniu, nowoczesnych aplikacji.
 
     **Dla kogo jest ten warsztat?**
@@ -42,5 +43,4 @@ opis:
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do odwołania wydarzenia w przypadku niezgłoszenia się minimalnej liczby uczestników.
 
     Zakupione certyfikaty zostaną przesłane uczestnikom w formie elektoronicznej po warsztacie oraz za pośrednictwem firmy kurierskiej w momencie poprawy sytuacji wywołanej epidemią koronawirusa. 
-    
 ---
