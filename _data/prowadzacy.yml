@@ -495,3 +495,6 @@ spring2:
 python1:
   name: Python
   img: /img/portfolio/python_masterclass2.png
+nlp:
+  name: NLP
+  img: /img/portfolio/nlp_masterclass.png
