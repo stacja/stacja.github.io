@@ -489,4 +489,6 @@ galecki:
   name: Arkadiusz Gałecki
   img: /img/portfolio/agalecki.jpg
   desc: "Ekspert Zarządzania Usługami IT ITIL/Lean/Devops. Posiada wieloletnie doświadczenie w obszarze zarządzania usługami IT zgodnie z ITIL. Uczestniczył i realizował w wiele projektów związanych z transformacją IT oraz budową organizacji zorientowanych usługowo. Pełnił ważne funkcje w wielu organizacjach w tym Service Level Managera, IT Service Quality Managera, Service Continuity and Disaster Recovery Manager. Zarządza projektami i portfelem projektów (PPM) oraz realizuje duże i złożone projekty w obszarze strategii, projektowania, budowy, utrzymania oraz transformacji IT, w oparciu o Devops, CI,CD, ITIL, Agile, SCRUM, Lean IT, TOC. Posiada szerokie doświadczenie trenerskie - prowadzi warsztaty i szkolenia od 2007 r. Organizował warsztaty szkoleniowe z zakresu ITSM/ITIL/Devops/Lean/Agile/SCRUM/Continuous Delivery/. Uczestnicy warsztatów podkreślają jego bogate praktyczne doświadczenie. "
-
+spring2:
+  name: Spring Framework
+  img: /img/portfolio/spring_masterclass1.png
