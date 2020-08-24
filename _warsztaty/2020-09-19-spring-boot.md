@@ -7,7 +7,7 @@ cena: Warsztat płatny - od 79 PLN, 1. edycja warsztatu
 title: "Warsztat #412 Spring Boot - tworzenie własnych autokonfiguracji"
 lokalizacja: zdalnie
 prowadzacy: pkrogulec
-dlugosc: 10:00-14:00
+dlugosc: 9:00-17:00
 peron_link_regular: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=2394&edd_options[price_id]=1"
 peron_link_early: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=2394&edd_options[price_id]=2"
 slideshare:
