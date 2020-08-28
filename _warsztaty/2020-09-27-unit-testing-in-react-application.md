@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-09-27
 cena: Warsztat płatny - od 79 PLN, 1. edycja warsztatu
-title: "Warsztat #416 Unit Testing in React Application"
+title: "Warsztat #418 Unit Testing in React Application"
 lokalizacja: zdalnie
 prowadzacy: bialas
 dlugosc: 9:00-17:00
