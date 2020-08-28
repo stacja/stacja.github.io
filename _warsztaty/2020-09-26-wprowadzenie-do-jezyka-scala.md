@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-09-26
 cena: Warsztat płatny - od 79 PLN, 1. edycja warsztatu
-title: "Warsztat #415 Wprowadzenie do języka Scala"
+title: "Warsztat #416 Wprowadzenie do języka Scala"
 lokalizacja: zdalnie
 prowadzacy: szmit
 dlugosc: 9:00-17:00
