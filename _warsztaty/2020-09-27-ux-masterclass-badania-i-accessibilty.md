@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-09-27
 cena: Warsztat płatny - od 79 PLN, 4. edycja warsztatu
-title: "Warsztat #417 UX Masterclass: Badania i accessibility"
+title: "Warsztat #419 UX Masterclass: Badania i accessibility"
 lokalizacja: zdalnie
 prowadzacy: orzeszek
 dlugosc: 9:00-17:00
