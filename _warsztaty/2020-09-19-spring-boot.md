@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-09-19
 cena: Warsztat płatny - od 79 PLN, 1. edycja warsztatu
-title: "Warsztat #412 Spring Boot - tworzenie własnych autokonfiguracji"
+title: "Warsztat #414 Spring Boot - tworzenie własnych autokonfiguracji"
 lokalizacja: zdalnie
 prowadzacy: pkrogulec
 dlugosc: 9:00-17:00
