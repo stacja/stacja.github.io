@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-09-18
 cena: Warsztat płatny - od 79 PLN, 1. edycja warsztatu
-title: "Warsztat #413 Budowanie efektywnej kultury zespołowej w oparciu o Team Canvas"
+title: "Warsztat #413 Rozmowy jeden na jeden, które mają sens"
 lokalizacja: zdalnie
 prowadzacy: brataniec
 dlugosc: 9:00-17:00
