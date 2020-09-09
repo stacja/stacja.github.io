@@ -35,6 +35,8 @@ opis:
     **Wymagania wstępne**
 
     Doświadczenie w kierowaniu zespołem i/lub chęć rozwoju w tym obszarze.
+
+    [![alt](/img/zdj/certyfikat_baner.png)](https://www.facebook.com/StacjaIT)
     
   program: |
 
