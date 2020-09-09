@@ -34,6 +34,8 @@ opis:
 
     Podczas warsztatu uczestnicy korzystają z własnych komputerów.
 
+    [![alt](/img/zdj/certyfikat_baner.png)](https://www.facebook.com/StacjaIT)
+
   program: |
     1. Czym jest Elixir i Erlang
     2. Koncepty funkcyjnego programowania używane w Elixir:
