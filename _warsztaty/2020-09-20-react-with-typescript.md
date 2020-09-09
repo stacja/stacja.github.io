@@ -14,9 +14,7 @@ slideshare:
 opis:
   informacje: |
     **Warsztat odbywa się w formie zdalnej za pośrednictwem platformy/komunikatora online, z wykorzystaniem dźwięku, obrazu z kamery, udostępniania ekranu komputera prowadzącego i uczestników.** 
-
-    [![alt](/img/zdj/certyfikat_baner.png)](https://www.facebook.com/StacjaIT)
-          
+    
     **Czego się nauczysz?**
 
     - Warsztat podczas którego uczestnik pozna podstawy języka Typescript. Omówione zostaną również podstawy tworzenia aplikacji React z wykorzystanie TS.
@@ -28,6 +26,8 @@ opis:
     - Warsztat jest skierowany dla osób znających podstawy React JS oraz ES6, chcących poznać metody typowania w języku Typescript.
 
     Podczas warsztatu uczestnicy korzystają z własnych komputerów.
+
+    [![alt](/img/zdj/certyfikat_baner.png)](https://www.facebook.com/StacjaIT)
 
   program: |
 
