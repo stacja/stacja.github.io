@@ -25,6 +25,8 @@ opis:
 
     Podczas warsztatu uczestnicy korzystają z własnych komputerów.
 
+    [![alt](/img/zdj/certyfikat_baner.png)](https://www.facebook.com/StacjaIT)
+
   program: |
 
     1. Wprowadzenie do testowania jednostkowego
@@ -35,6 +37,6 @@ opis:
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do odwołania wydarzenia w przypadku niezgłoszenia się minimalnej liczby uczestników.
 
-    Zakupione certyfikaty zostaną przesłane uczestnikom w formie elektoronicznej po warsztacie oraz za pośrednictwem firmy kurierskiej w momencie poprawy sytuacji wywołanej epidemią koronawirusa. 
+    Zakupione certyfikaty zostaną przesłane uczestnikom w formie elektoronicznej po warsztacie. Jeśli chcesz otrzymać zakupiony certyfikat w formie papierowej, zgłoś to mailowo na adres kontakt@stacja.it.
     
 ---
