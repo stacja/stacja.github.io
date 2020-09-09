@@ -14,6 +14,8 @@ slideshare:
 opis:
   informacje: |
     **Warsztat odbywa się w formie zdalnej za pośrednictwem platformy/komunikatora online, z wykorzystaniem dźwięku, obrazu z kamery, udostępniania ekranu komputera prowadzącego i uczestników.** 
+
+    [![alt](/img/zdj/certyfikat_baner.png)](https://www.facebook.com/StacjaIT)
           
     **Czego się nauczysz?**
 
@@ -36,6 +38,6 @@ opis:
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do odwołania wydarzenia w przypadku niezgłoszenia się minimalnej liczby uczestników.
 
-    Zakupione certyfikaty zostaną przesłane uczestnikom w formie elektoronicznej po warsztacie. Jeśli chcesz otrzymać zakupiony certyfikat w formie papierowej, zgłoś to mailowo na adres kontakt@stacja.it. 
+    Zakupione certyfikaty zostaną przesłane uczestnikom w formie elektoronicznej po warsztacie. Jeśli chcesz otrzymać zakupiony certyfikat w formie papierowej, zgłoś to mailowo na adres kontakt@stacja.it.
     
 ---
