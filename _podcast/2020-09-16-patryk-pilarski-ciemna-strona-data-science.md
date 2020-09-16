@@ -1,6 +1,6 @@
 ---
 # Data dodania informacji o wydarzeniu
-date: 2020-09-15
+date: 2020-09-16
 episode: 37
 title: "Patryk Pilarski - Ciemna strona Data Science"
 mp3_link: "https://traffic.libsyn.com/secure/stacjait/Stacja.IT_Podcast_37_Patryk_Pilarski_-_Ciemna_Strona_Data_Science.mp3"
