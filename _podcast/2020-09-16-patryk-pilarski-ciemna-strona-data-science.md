@@ -23,7 +23,6 @@ opis:
     9. Jakie wskazówki dałbyś tym, którzy kształcą się na przyszłych data scientists?
 
   dodatkowe: |
-     
     Link do kursu NLP Masterclass, który prowadzą m.in. Patryk i Łukasz
      - [NLP Masterclass](https://kursy.sages.pl/nlp-masterclass/)
      
