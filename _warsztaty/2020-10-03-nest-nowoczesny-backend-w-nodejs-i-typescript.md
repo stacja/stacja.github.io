@@ -95,7 +95,7 @@ opis:
      1. Generowanie dokumentacji Swagger
 
   uwaga: |
-    Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do zmiany lokalizacji wydarzenia oraz jego odwołania w przypadku niezgłoszenia się minimalnej liczby uczestników.
+    Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do odwołania wydarzenia w przypadku niezgłoszenia się minimalnej liczby uczestników.
 
     Zakupione certyfikaty zostaną przesłane uczestnikom w formie elektoronicznej po warsztacie. Jeśli chcesz otrzymać zakupiony certyfikat w formie papierowej, zgłoś to mailowo na adres kontakt@stacja.it. 
   
