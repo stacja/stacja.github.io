@@ -24,8 +24,6 @@ opis:
     
     **Podczas tych warsztatów w ciągu 8 godzin stworzysz grę komputerową na podstawie własnego pomysłu!**
 
-    Rynek gier komputerowych jest jednym z najprężniej rozwijających się mediów rozrywkowych, który w roku 2018 został wyceniony na 135 mld dolarów poprawiając swój wynik z poprzedniego roku o 11%. Zainteresowanie grami niepowstrzymanie wzrasta, zasypując nas codziennie setkami nowych tytułów wydanych zarówno na platformy komputerowe, konsolowe i mobilne, między innymi przez nieustannie zmniejszający się próg wejścia do tworzenia gier komputerowych przez popularyzację tak zwanych silników do gier.
-
     **Czego się nauczysz?**
 
     Podczas tych warsztatów: 
