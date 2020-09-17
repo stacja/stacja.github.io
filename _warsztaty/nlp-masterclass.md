@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2020-04-23
 # Data wydarzenia
-event_date: 2020-08-31
+event_date: 2020-09-21
 title: "Przetwarzanie języka naturalnego"
 lokalizacja: kursnlp
 prowadzacy: nlp
