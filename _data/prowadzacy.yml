@@ -498,3 +498,6 @@ python1:
 nlp:
   name: NLP
   img: /img/portfolio/nlp_masterclass.png
+cleanarchitecture:
+  name: Sebastian Malaca
+  img: /img/portfolio/kurs_malaca.png
