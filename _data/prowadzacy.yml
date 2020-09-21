@@ -470,7 +470,7 @@ pstarosta:
 mkubera: 
   name: Mikołaj Kubera
   img: /img/portfolio/mkubera.jpg
-  desc: "Nauczyciel kodowania, developer, pasjonat funkcyjnego programowania, i niezależny twórca (indie maker). Prowadził własny start-up, pracował w przemyśle jako full-stack developer używając JavaScript i NodeJS oraz języków funkcyjnych (Elm i Elixir). Uczy kodowania full-stack w językach funkcyjnych oraz podstaw programowania w językach imperatywnych. Obecnie pracuje jako indie maker nad własną appką dla twórców komiksów zainteresowanych kolaboracjami. Poza programowaniem kocha naturę, sztukę, oraz filozofie wschodu."
+  desc: "Nauczyciel kodowania, developer, pasjonat funkcyjnego programowania, i niezależny twórca. Prowadził własny start-up, pracował w przemyśle jako full-stack developer używając JavaScript i NodeJS oraz języków funkcyjnych (Elm i Elixir). Uczy kodowania full-stack w językach funkcyjnych oraz podstaw programowania w językach imperatywnych. Obecnie pracuje nad niezależnymi grami komputerowymi pisanymi wyłącznie w językach funkcyjnych. Poza programowaniem kocha naturę, sztukę, oraz filozofie wschodu."
 python:
   name: Python
   img: /img/portfolio/python_masterclass.png
