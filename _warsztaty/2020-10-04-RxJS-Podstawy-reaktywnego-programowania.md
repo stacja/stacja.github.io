@@ -60,6 +60,8 @@ opis:
      - Bazy danych (MongoDB Shell)
      - IoT (Cylon.js, Johnny-five)
 
+     [![alt](/img/zdj/banner_październik.png)](https://www.facebook.com/StacjaIT)
+
   program: |
 
      1. Podstawy działania strumieni
