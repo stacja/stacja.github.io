@@ -34,6 +34,8 @@ opis:
 
     - Warsztat jest skierowany do programistów oraz architektów, którzy chcą poznać czym jest przetwarzanie zdarzeniowe i jakie korzyści przynosi wprowadzenie zdarzeń do swoich aplikacji.
 
+    [![alt](/img/zdj/banner_październik.png)](https://www.facebook.com/StacjaIT)
+
   program: |
 
      1. Czym jest zdarzenie.
