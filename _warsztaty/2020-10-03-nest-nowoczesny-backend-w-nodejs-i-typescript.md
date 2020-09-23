@@ -67,7 +67,9 @@ opis:
      - Bazy danych (MongoDB Shell)
      - IoT (Cylon.js, Johnny-five)
 
-    **Podczas warsztatu uczestnicy korzystają z własnych komputerów.**
+    Podczas warsztatu uczestnicy korzystają z własnych komputerów.
+
+    [![alt](/img/zdj/banner_październik.png)](https://www.facebook.com/StacjaIT)
     
   program: |
 
