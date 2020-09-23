@@ -43,6 +43,8 @@ opis:
 
     **Polecamy zapisać się na warsztat [RxJS - Podstawy reaktywnego programowania](https://stacja.it/warsztaty/2020-10-04-RxJS-Podstawy-reaktywnego-programowania.html) gdzie podstawy zdobyte na temat RxJs bardzo ułatwią przyswojenie wiedzy z warsztatu.**
 
+    [![alt](/img/zdj/banner_październik.png)](https://www.facebook.com/StacjaIT)
+
   program: |
 
     1. Architektura Flux:
