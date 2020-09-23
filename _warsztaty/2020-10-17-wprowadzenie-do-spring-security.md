@@ -29,6 +29,8 @@ opis:
     **Co do powiedzenia o warsztacie ma trener? Obejrzyj i posłuchaj poniżej!** 
 
     [![alt](/img/zdj/miniatura_jozefowicz.png)](https://youtu.be/IjLn0D7-uZ4)
+
+    [![alt](/img/zdj/banner_październik.png)](https://www.facebook.com/StacjaIT)
    
   program: |
 
