@@ -26,6 +26,8 @@ opis:
     - Warsztat jest skierowany dla osób znających podstawy React JS oraz ES6, chcących poznać możliwości server-side-renderingu dla aplikacji pisanych w React JS.
 
     Podczas warsztatu uczestnicy korzystają z własnych komputerów.
+    
+    [![alt](/img/zdj/banner_październik.png)](https://www.facebook.com/StacjaIT)
 
   program: |
 
