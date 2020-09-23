@@ -49,7 +49,7 @@ opis:
     - 30 % wykład
     - 70% Ćwiczenia
 
-    **Podczas warsztatu uczestnicy korzystają z własnych laptopów.**
+    [![alt](/img/zdj/banner_październik.png)](https://www.facebook.com/StacjaIT)
     
   program: |
 
