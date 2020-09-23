@@ -27,6 +27,8 @@ opis:
 
     **Wymagania wstępne**
        - Podstawowa znajomość programowania (zmienne, typy danych, funkcje, pętle, if-else, etc.)
+
+    [![alt](/img/zdj/banner_październik.png)](https://www.facebook.com/StacjaIT)
        
   program: |
     1. Czym jest funkcyjne programowanie. Jakie są języki funkcyjne, a które jedynie używają funkcyjnego paradygmatu.
