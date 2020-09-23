@@ -36,6 +36,8 @@ opis:
 
     Podczas warsztatu uczestnicy korzystają z własnych laptopów. 
 
+    [![alt](/img/zdj/banner_październik.png)](https://www.facebook.com/StacjaIT)
+
   program: |
 
     1. Agregacja logów - architektura, najlepsze praktyki
