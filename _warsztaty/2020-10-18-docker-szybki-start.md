@@ -29,6 +29,8 @@ opis:
 
      Podczas warsztatu uczestnicy korzystają z własnych komputerów. 
 
+     [![alt](/img/zdj/banner_październik.png)](https://www.facebook.com/StacjaIT)
+
   program: |
  
     1. Wprowadzenie do Docker - czemu warto?
