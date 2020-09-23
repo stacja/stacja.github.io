@@ -31,6 +31,8 @@ opis:
      
     Podczas warsztatu uczestnicy korzystają z własnych komputerów.
 
+    [![alt](/img/zdj/banner_październik.png)](https://www.facebook.com/StacjaIT)
+
   program: |
     1. Czym jest JavaScript w kontekście funkcyjnego programowania
     2. Koncepty funkcyjnego programowania używane w JavaScript
