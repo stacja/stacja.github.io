@@ -24,6 +24,8 @@ opis:
     - Zakres zawiera powtórzenie jak działa scrum i jaka jest rola Product ownera, analizę produktu od pomysłu przez personę, pudełko produktu, pitch produktu aż po analizę docelowego rynku. Warsztat będzie interaktywny i pozwoli uczestnikom opracować własny produkt i zbudować plan jego dostarczenia.
  
     **Podczas warsztatu uczestnicy korzystają z własnych laptopów.**
+
+    [![alt](/img/zdj/banner_październik.png)](https://www.facebook.com/StacjaIT)
     
   program: |
     
