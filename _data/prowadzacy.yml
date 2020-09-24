@@ -501,3 +501,12 @@ nlp:
 cleanarchitecture:
   name: Sebastian Malaca
   img: /img/portfolio/kurs_malaca.png
+springwprowadznie:
+  name: Łukasz Andrzejewski
+  img: /img/portfolio/wprowadzenie_do_spring_framework.png
+springwpraktyce:
+  name: Łukasz Andrzejewski
+  img: /img/portfolio/spring_w_praktyce.png
+springzaawansowany:
+  name: Łukasz Andrzejewski
+  img: /img/portfolio/spring_zaawansowany.png
