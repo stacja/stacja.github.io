@@ -37,6 +37,11 @@ opis:
 
     - Warsztat jest skierowany do osób interesujących się zagadnieniami tworzenia gier komputerowych oraz osób, które chciałyby stworzyć własną grę komputerową. Jeśli interesują Cię gry, zastanawiasz się co sprawia, że ludzik na ekranie skacze jak wciskamy spację, a piłka stacza się po skale jakby działała na nią prawdziwa fizyka, to jest to szkolenie właśnie dla Ciebie! 
 
+    **Wymagane przed warsztatem:**
+    - Podstawowa znajomość języka C#,
+    - Zainstalowane Microsoft Visual Studio,
+    - Zainstalowany silnik Unity.
+
     [![alt](/img/zdj/banner_październik.png)](https://www.facebook.com/StacjaIT)
 
   program: |
