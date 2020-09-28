@@ -43,7 +43,6 @@ opis:
     1. Dockerfile (FROM, ENV, RUN, EXPOSE, CMD, ENTRYPOINT)
     1. Docker-compose - konfiguracja zależności pomiędzy kontenerami
     1. Wprowadzenie do Docker Swarm.
-    1. Monitorowanie aplikacji przy pomocy Swarmpit.
 
   uwaga: |
     Liczba miejsc ograniczona do 15 osób! Organizator zastrzega sobie prawo do odwołania wydarzenia w przypadku niezgłoszenia się minimalnej liczby uczestników.
