@@ -36,7 +36,7 @@ opis:
      - *Bardzo fajne szkolenie. Nie był to czas zmarnowany. Miła atmosfera na szkoleniu - co oczywiście było zasługą prelegenta.*
      - *Prowadzący ma świetny kontakt z grupą. Jest bardzo spokojny i opanowany, co wspomaga otwartość uczestników. Ma umiejętność tworzenia bezpiecznego środowiska, w którym nie obawiam się zrobić błędu.*
 
-  program: 
+  program: |
     1. Najważniejsze tematy jakie poruszymy podczas webinaru to:
       1. jak wygląda projekt "szkolenie techniczne" - od analizy, poprzez przygotowanie, prowadzenie oraz ewaluację osiągniętych wyników,
       2. projektowanie warsztatu realizowanego podczas szkolenia,
