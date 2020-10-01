@@ -38,15 +38,15 @@ opis:
 
   program: |
     1. Najważniejsze tematy jakie poruszymy podczas webinaru to:
-      1. jak wygląda projekt "szkolenie techniczne" - od analizy, poprzez przygotowanie, prowadzenie oraz ewaluację osiągniętych wyników,
-      2. projektowanie warsztatu realizowanego podczas szkolenia,
-      3. efektywna praca i budowanie zaangażowania uczestników szkoleń stacjonarnych, zdalnych i hybrydowych,
-      4. radzenie sobie z nietypowymi sytuacjami w trakcie zajęć,
-      5. cechy i warsztat skutecznego trenera.
+       1. jak wygląda projekt "szkolenie techniczne" - od analizy, poprzez przygotowanie, prowadzenie oraz ewaluację osiągniętych wyników,
+       2. projektowanie warsztatu realizowanego podczas szkolenia,
+       3. efektywna praca i budowanie zaangażowania uczestników szkoleń stacjonarnych, zdalnych i hybrydowych,
+       4. radzenie sobie z nietypowymi sytuacjami w trakcie zajęć,
+       5. cechy i warsztat skutecznego trenera.
     1. Podczas webinaru **nie będziemy** mówić o tym:
-      1. jak przygotować piękną prezentację dla uczestników,
-      2. co jest lepsze - Zoom, Google Meet a może MS Teams (jak również Vi czy Emacs, Linux czy Windows),
-      3. której kamery jakiego producenta należy używać.
+       1. jak przygotować piękną prezentację dla uczestników,
+       2. co jest lepsze - Zoom, Google Meet a może MS Teams (jak również Vi czy Emacs, Linux czy Windows),
+       3. której kamery jakiego producenta należy używać.
 
   uwaga: |
     Wysyłając zgłoszenie, masz szansę rozpocząć współpracę ze Stacją IT i Sages w zakresie prowadzenia warsztatów i szkoleń (autorskich bądź istniejących już w naszej ofercie). Z wybranymi kandydatami skontaktujemy się drogą mailową lub telefonicznie. Liczba miejsc na szkoleniu jest ograniczona. Wybór uczestników będzie dokonywany na podstawie formularza rejestracyjnego oraz podanego profilu LinkedIn / Goldenline.
