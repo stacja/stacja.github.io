@@ -37,7 +37,6 @@ opis:
      - *Prowadzący ma świetny kontakt z grupą. Jest bardzo spokojny i opanowany, co wspomaga otwartość uczestników. Ma umiejętność tworzenia bezpiecznego środowiska, w którym nie obawiam się zrobić błędu.*
 
   program: 
-
     1. Najważniejsze tematy jakie poruszymy podczas webinaru to:
      - jak wygląda projekt "szkolenie techniczne" - od analizy, poprzez przygotowanie, prowadzenie oraz ewaluację osiągniętych wyników
      - projektowanie warsztatu realizowanego podczas szkolenia
