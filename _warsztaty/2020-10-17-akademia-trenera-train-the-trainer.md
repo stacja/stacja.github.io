@@ -38,14 +38,14 @@ opis:
 
   program: 
 
-    Najważniejsze tematy jakie poruszymy podczas webinaru to:
+    1. Najważniejsze tematy jakie poruszymy podczas webinaru to:
      - jak wygląda projekt "szkolenie techniczne" - od analizy, poprzez przygotowanie, prowadzenie oraz ewaluację osiągniętych wyników
      - projektowanie warsztatu realizowanego podczas szkolenia
      - efektywna praca i budowanie zaangażowania uczestników szkoleń stacjonarnych, zdalnych i hybrydowych
      - radzenie sobie z nietypowymi sytuacjami w trakcie zajęć
      - cechy i warsztat skutecznego trenera
 
-    Podczas webinaru **nie będziemy** mówić o tym:
+    2. Podczas webinaru **nie będziemy** mówić o tym:
      - jak przygotować piękną prezentację dla uczestników
      - co jest lepsze: Zoom, Google Meet a może MS Teams (jak również Vi czy Emacs, Linux czy Windows)
      - której kamery jakiego producenta należy używać
