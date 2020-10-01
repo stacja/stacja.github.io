@@ -44,7 +44,6 @@ opis:
      - efektywna praca i budowanie zaangażowania uczestników szkoleń stacjonarnych, zdalnych i hybrydowych
      - radzenie sobie z nietypowymi sytuacjami w trakcie zajęć
      - cechy i warsztat skutecznego trenera
-
     2. Podczas webinaru **nie będziemy** mówić o tym:
      - jak przygotować piękną prezentację dla uczestników
      - co jest lepsze: Zoom, Google Meet a może MS Teams (jak również Vi czy Emacs, Linux czy Windows)
