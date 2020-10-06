@@ -24,6 +24,11 @@ opis:
     - Wstęp do podstawowych usług AWS
     - Rozwój i wdrażanie aplikacji przy użyciu Serverless Framework
 
+    Wymagane oprogramowanie:
+    - [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html) - skonfigurujemy podczas warsztatu
+    - [npm](https://www.npmjs.com/get-npm )
+    - Visual Studio Code (lub dowolne inne IDE dla Node.js)
+
     Podczas warsztatu uczestnicy korzystają z własnych laptopów. 
 
     [![alt](/img/zdj/banner_październik.png)](https://www.facebook.com/StacjaIT)
