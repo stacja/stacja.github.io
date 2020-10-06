@@ -11,17 +11,17 @@ sponsor: /img/logo.png
 evenea_link: "https://app.evenea.pl/event/ttt1710?out=1&source=event_iframe"
 dlugosc: 1 dzień, 9:00-13:00
 cena: Warsztat bezpłatny, 14. edycja warsztatu
-podcast_id: 6301924
+podcast_id:
 opis:
   informacje: |
     
-    **Chciał(a)byś nawiązać współpracę trenerską z Sages - firmą prowadzącą specjalistyczne szkolenia technologiczne od ponad 10 lat?**
+    Chciał(a)byś nawiązać współpracę trenerską z Sages - firmą prowadzącą specjalistyczne szkolenia technologiczne od ponad 10 lat?
 
     **Zapraszamy do udziału w bezpłatnym szkoleniu Train The Trainer!**
 
-    W trakcie najbliższej edycji skupimy się przede wszystkim na tym jak przygotować i poprowadzić szkolenie techniczne.
+    W trakcie najbliższej edycji skupimy się przede wszystkim na tym **jak przygotować i poprowadzić szkolenie techniczne.**
 
-    Warsztaty okażą się szczególnie wartosciowe dla specjalistów IT, którzy chcieliby spróbować swoich sił w prowadzeniu szkoleń oraz tych, którzy posiadają juz doświadczenie trenerskie, ale czują że powinni podszkolić swoje umiejętności. Pozwolą bowiem stworzyć niepowtarzalny wizerunek trenerski oraz zdobyć wiedzę i umiejętności w zakresie prowadzenia i projektowania szkoleń, ze szczególnym uwzględnieniem specyfiki szkoleń IT. 
+    Warsztaty okażą się szczególnie wartosciowe dla specjalistów IT, którzy chcieliby spróbować swoich sił w prowadzeniu szkoleń stacjonarnych, zdalnych i hybrydowych oraz tych, którzy posiadają już w tym zakresie doświadczenie trenerskie, ale czują że powinni podszkolić swoje umiejętności. Pozwolą zdobyć wiedzę i umiejętności w zakresie prowadzenia i projektowania szkoleń, ze szczególnym uwzględnieniem specyfiki szkoleń IT. 
 
     Mocne strony szkolenia:
 
@@ -29,7 +29,7 @@ opis:
      - dopasowanie do specyfiki szkoleń IT,
      - zero czystej teorii, dobór wyłącznie zagadnień mających ważne implikacje praktyczne, warsztatowa formuła zajęć, bogata w różnorakie formy dydaktyczne wymagające zaangażowania uczestników.
 
-    OPINIE UCZESTNIKÓW POPRZEDNICH EDYCJI:
+    OPINIE UCZESTNIKÓW POPRZEDNICH EDYCJI AKADEMII TRENERA:
 
      - *(...) Dowiedziałem się wiele nie tylko o szkoleniach, ale też o sobie samym. Dziękuję :)*
      - *Idąc na szkolenie, myślałem, że będzie lipa i trochę siędę nudził, ale było super i cieszę się, że poświęciłem na nie weekend. Dziękuję.*
@@ -53,8 +53,8 @@ opis:
 
   partner: |
 
-    Firma Sages sp. z o.o. posiadająca 10-letnie doświadczenie w kształceniu kadr w branży IT. Specjalizuje się w prowadzeniu szkoleń technologicznych otwartych i dedykowanych, których cechą wspólną niezależnie od tematyki szkolenia jest warsztatowa formuła zajęć koncentrująca się na przekazaniu praktycznych umiejętności uczestnikom. Prowadzi także dedykowane projekty reedukacyjne oraz współpracuje z uczelniami wyższymi wspierając realizację zaawansowanych przedmiotów programistycznych, a także prowadząc studia podyplomowe (Politechnika Warszawska, studia z obszaru Big Data). Sages jest stałym organizatorem eventów branżowych dla profesjonalistów IT w ramach inicjatywy Stacja.IT.
-
     ![logo](/img/logo.png)
+
+    Firma Sages sp. z o.o. posiadająca 10-letnie doświadczenie w kształceniu kadr w branży IT. Specjalizuje się w prowadzeniu szkoleń technologicznych otwartych i dedykowanych, których cechą wspólną niezależnie od tematyki szkolenia jest warsztatowa formuła zajęć koncentrująca się na przekazaniu praktycznych umiejętności uczestnikom. Prowadzi także dedykowane projekty reedukacyjne oraz współpracuje z uczelniami wyższymi wspierając realizację zaawansowanych przedmiotów programistycznych, a także prowadząc studia podyplomowe (Politechnika Warszawska, studia z obszaru Big Data). Sages jest stałym organizatorem eventów branżowych dla profesjonalistów IT w ramach inicjatywy Stacja.IT.
 
 ---
