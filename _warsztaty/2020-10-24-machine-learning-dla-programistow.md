@@ -42,7 +42,7 @@ opis:
     1. Zdefiniuj problem:
        - Jaki problem mam do rozwiązania?
        - Czy ML jest konieczny?
-       Jakiego typu algorytmu ML potrzebuję?
+       - Jakiego typu algorytmu ML potrzebuję?
     2. Pozyskaj dane:
        - Jakich danych potrzebuję?
        - Skąd mogę dane pozyskać?
