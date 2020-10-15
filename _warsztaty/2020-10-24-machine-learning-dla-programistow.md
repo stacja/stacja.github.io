@@ -33,23 +33,6 @@ opis:
     - Warsztat - jak nazwa wskazuje - przeznaczony jest dla programistów :) 
     - Wymagana jest znajomość Pythona.
 
-    # biblioteki
-    import pandas
-    import numpy
-    import sklearn
-
-    def warsztat():
-        zdefiniuj_problem()
-        pozyskaj_dane()
-        zbadaj_dane()
-        while True:
-            przygotuj_dane()
-            zbuduj_model()
-            przetestuj_wynik()
-            if wynik == "ok":
-                przedstaw_wynik()
-                break
-
     Podczas warsztatu uczestnicy korzystają z własnych laptopów. 
 
     [![alt](/img/zdj/banner_październik.png)](https://www.facebook.com/StacjaIT)
