@@ -33,19 +33,56 @@ opis:
     - Warsztat - jak nazwa wskazuje - przeznaczony jest dla programistów :) 
     - Wymagana jest znajomość Pythona.
 
+    # biblioteki
+    import pandas
+    import numpy
+    import sklearn
+
+    def warsztat():
+        zdefiniuj_problem()
+        pozyskaj_dane()
+        zbadaj_dane()
+        while True:
+            przygotuj_dane()
+            zbuduj_model()
+            przetestuj_wynik()
+            if wynik == "ok":
+                przedstaw_wynik()
+                break
+
     Podczas warsztatu uczestnicy korzystają z własnych laptopów. 
 
     [![alt](/img/zdj/banner_październik.png)](https://www.facebook.com/StacjaIT)
 
   program: |
 
-    1. Demo 
-    2. Objaśnienie koncepcji/pojęć
-    3. Przygotowanie danych
-    4. Trenowanie modelu
-    5. Wykonywanie predykcji
-    6. DOs and DON'Ts
-    7. Co dalej?
+    1. Zdefiniuj problem:
+       - Jaki problem mam do rozwiązania?
+       - Czy ML jest konieczny?
+       Jakiego typu algorytmu ML potrzebuję?
+    2. Pozyskaj dane:
+       - Jakich danych potrzebuję?
+       - Skąd mogę dane pozyskać?
+       - Po co dzielić zbiór danych?
+    3. Zbadaj dane:
+       - Co to jest zmienna celu?
+       - Czym są zmienne objaśniające?
+       - Jakiego typu zmienne znajdują się w moich danych?
+    4. Przygotuj dane:
+       - Jak przygotować dane do budowy modelu?
+       - Co to jest one-hot encoding?
+       - Czym jest i czemu służy normalizacja?
+    5. Zbuduj model:
+       - Jak działa regresja logistyczna?
+       - Jak działają drzewa decyzyjne?
+       - Czym jest i jak unikać przeuczenia modelu?
+    6. Przetestuj wynik:
+       - Jakie są metryki jakość modelu?
+       - Który model jest lepszy?
+       - Czy wynik jest dostatecznie dobry?
+    7. Przedstaw wynik:
+       - Mam super model co teraz?
+       - Co dalej?
   
   uwaga: |
     Liczba miejsc ograniczona! Organizator zastrzega sobie prawo do odwołania wydarzenia w przypadku niezgłoszenia się minimalnej liczby uczestników.
