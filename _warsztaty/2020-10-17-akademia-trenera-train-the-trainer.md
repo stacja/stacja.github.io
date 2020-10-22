@@ -6,7 +6,6 @@ event_date: 2020-10-17
 title: "Akademia Trenera Train The Trainer - Jak przygotować i poprowadzić szkolenie techniczne"
 lokalizacja: zdalnie
 prowadzacy: nazimek
-type: akademia
 sponsor: /img/logo.png
 evenea_link: "https://app.evenea.pl/event/ttt1710?out=1&source=event_iframe"
 dlugosc: 1 dzień, 9:00-13:00
