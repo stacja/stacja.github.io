@@ -3,7 +3,7 @@
 date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-11-21
-cena: Warsztat płatny - od 79 PLN, 1. edycja warsztatu
+cena: Warsztat weekendowy (4h), cena od 39PLN
 title: "Warsztat #444 Zarządzanie własną efektywnością, czyli zarządzanie priorytetami i sobą w czasie"
 lokalizacja: zdalnie
 prowadzacy: brataniec
