@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2020-11-07
-cena: Warsztat płatny - od 79 PLN, 3. edycja warsztatu
+cena: Warsztat weekendowy (8h), cena od 79PLN
 title: "Warsztat #436 SQL is fun! Wstęp do SQL"
 lokalizacja: zdalnie
 prowadzacy: menclewicz
