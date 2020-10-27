@@ -3,7 +3,7 @@
 date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-11-07
-cena: Warsztat płatny - od 79 PLN, 2. edycja warsztatu
+cena: Warsztat weekendowy (8h), cena od 79 PLN
 title: "Warsztat #437 React with Typescript"
 lokalizacja: zdalnie
 prowadzacy: bialas
