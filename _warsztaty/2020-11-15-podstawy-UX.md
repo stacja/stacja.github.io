@@ -5,7 +5,7 @@ date: 2017-06-23
 event_date: 2020-11-15
 title: "Warsztat #441 Podstawy UX"
 lokalizacja: zdalnie
-cena: Warsztat płatny - od 79 PLN, 7. edycja warsztatu
+cena: Warsztat weekendowy (8h), cena od 79PLN
 prowadzacy: orzeszek
 peron_link_regular: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=3861&edd_options[price_id]=1"
 peron_link_early: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=3861&edd_options[price_id]=2"
