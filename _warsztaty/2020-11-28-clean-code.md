@@ -3,8 +3,8 @@
 date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-11-28
-cena: Warsztat płatny - od 79 PLN, 4. edycja warsztatu
-title: "Warsztat #447 Clean Code i dobre praktyki OOP w Javie"
+cena: Warsztat weekendowy (8h), cena od 79PLN
+title: "Warsztat #448 Clean Code i dobre praktyki OOP w Javie"
 lokalizacja: zdalnie
 prowadzacy: chrost
 dlugosc: 9:00-17:00
