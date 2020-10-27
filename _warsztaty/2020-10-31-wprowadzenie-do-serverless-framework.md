@@ -3,7 +3,7 @@
 date: 2019-02-25
 # Data wydarzenia
 event_date: 2020-10-31
-cena: Warsztat płatny - od 79 PLN, 2. edycja warsztatu
+cena: Warsztat weekendowy (8h), cena od 79 PLN
 title: "Warsztat #434 Wprowadzenie do Serverless Framework"
 lokalizacja: zdalnie
 prowadzacy: jozefowicz
