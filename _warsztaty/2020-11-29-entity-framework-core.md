@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-11-29
 cena: Warsztat weekendowy (4h), cena od 39PLN
-title: "Warsztat #449 Entity Framework Core - Złożone Modele Danych"
+title: "Warsztat #450 Entity Framework Core - Złożone Modele Danych"
 lokalizacja: zdalnie
 prowadzacy: kielbasa
 dlugosc: 10:00-14:00
