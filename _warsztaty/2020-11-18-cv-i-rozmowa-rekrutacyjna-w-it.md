@@ -5,7 +5,7 @@ date: 2017-06-23
 event_date: 2020-11-18
 title: "Warsztat #442 CV i rozmowa rekrutacyjna w branży IT"
 lokalizacja: zdalnie
-cena: Warsztat płatny - od 39 PLN, 1. edycja warsztatu
+cena: Warsztat wieczorny (3h), cena od 39PLN
 prowadzacy: kardasz
 peron_link_regular: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=3968&edd_options[price_id]=1"
 peron_link_early: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=3968&edd_options[price_id]=2"
