@@ -3,7 +3,7 @@
 date: 2018-09-24
 # Data wydarzenia
 event_date: 2020-11-08
-cena: Warsztat płatny - od 79 PLN, 2. edycja warsztatu
+cena: Warsztat weekendowy (8h), cena od 79PLN
 title: "Warsztat #438 NgRx - Reaktywne aplikacje webowe"
 lokalizacja: zdalnie
 prowadzacy: blaszczak
