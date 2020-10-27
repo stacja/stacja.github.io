@@ -4,7 +4,7 @@ date: 2019-02-25
 # Data wydarzenia
 event_date: 2020-11-29
 cena: Warsztat weekendowy (8h), cena od 79PLN
-title: "Warsztat #450 Spring Boot w chmurze AWS"
+title: "Warsztat #449 Spring Boot w chmurze AWS"
 lokalizacja: zdalnie
 prowadzacy: jozefowicz
 dlugosc: 9:00-17:00
