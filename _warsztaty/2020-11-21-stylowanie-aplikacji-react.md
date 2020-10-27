@@ -3,7 +3,7 @@
 date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-11-21
-cena: Warsztat płatny - od 79 PLN, 1. edycja warsztatu
+cena: Warsztat weekendowy (8h), cena od 79PLN
 title: "Warsztat #443 Stylowanie aplikacji React"
 lokalizacja: zdalnie
 prowadzacy: bialas
