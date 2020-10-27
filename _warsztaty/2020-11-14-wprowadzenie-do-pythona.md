@@ -3,7 +3,7 @@
 date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-11-14
-cena: Warsztat płatny - od 79 PLN, 7. edycja warsztatu
+cena: Warsztat weekendowy (8h), cena od 79PLN
 title: "Warsztat #439 Wprowadzenie do Pythona"
 lokalizacja: zdalnie
 prowadzacy: galka
