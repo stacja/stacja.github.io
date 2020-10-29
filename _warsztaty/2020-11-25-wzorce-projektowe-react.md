@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-11-25
 cena: Warsztat wieczorny (3h), cena od 39PLN
-title: "Warsztat #447 Stylowanie aplikacji - React"
+title: "Warsztat #447 Wzorce projektowe -  React"
 lokalizacja: zdalnie
 prowadzacy: bialas
 dlugosc: 18:00-21:00
