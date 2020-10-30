@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2020-11-15
-title: "Warsztat #441 Podstawy UX"
+title: "Warsztat #440 Podstawy UX"
 lokalizacja: zdalnie
 cena: Warsztat weekendowy (8h), cena od 79PLN
 prowadzacy: orzeszek
