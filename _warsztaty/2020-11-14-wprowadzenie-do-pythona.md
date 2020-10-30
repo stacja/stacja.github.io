@@ -30,6 +30,8 @@ opis:
      - znajomość podstawowych koncepcji programistycznych (zmienna, funkcja, pętla itp.)a,
      - znajomość obsługi komputera wyposażonego w wybrany system operacyjny wraz z podstawową obsługą linii poleceń Windows, macOS, Linux.
 
+    Kontynuacją warsztatu **Wprowadzenie do Pythona** jest warsztat **Python - krok drugi** - szczegóły i zapisy są dostępne [tutaj](https://stacja.it/warsztaty/2020-11-15-python-krok-drugi.html).
+
     Podczas warsztatu uczestnicy korzystają z własnych komputerów.
 
   program: |
