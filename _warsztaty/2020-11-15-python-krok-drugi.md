@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-11-15
 cena: Warsztat weekendowy (8h), cena od 79PLN
-title: "Warsztat #440 Python - krok drugi"
+title: "Warsztat #441 Python - krok drugi"
 lokalizacja: zdalnie
 prowadzacy: galka
 dlugosc: 9:00-17:00
