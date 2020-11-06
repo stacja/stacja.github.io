@@ -25,6 +25,8 @@ opis:
      
     Link do bloga, który prowadzi Maciej
      - [Wiadro Danych](https://wiadrodanych.pl/)
+     - [Kurs Elastic Stack](https://wiadrodanych.pl/elastic)
+     - [Portal Cyber.Mil](https://www.cyber.mil.pl/)
      
 
   transkrypcja: | 
