@@ -22,10 +22,8 @@ opis:
     8. Dlaczego tworzysz bloga?
     
   dodatkowe: |
-     
     Link do bloga, który prowadzi Maciej
      - [Wiadro Danych](https://wiadrodanych.pl/)
-     
 
   transkrypcja: | 
     
