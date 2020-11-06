@@ -21,7 +21,6 @@ opis:
     7. Czym różni się praca w obszarze bezpieczeństwa narodowego od pracy w firmie?
     8. Dlaczego tworzysz bloga?
     
-
   dodatkowe: |
      
     Link do bloga, który prowadzi Maciej
