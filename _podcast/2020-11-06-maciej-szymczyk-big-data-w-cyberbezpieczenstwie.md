@@ -22,7 +22,7 @@ opis:
     8. Dlaczego tworzysz bloga?
     
   dodatkowe: |
-    Link do bloga, który prowadzi Maciej
+    Odnośniki wymienione w odcinku: 
      - [Wiadro Danych](https://wiadrodanych.pl/)
      - [Kurs Elastic Stack](https://wiadrodanych.pl/elastic)
      - [Portal Cyber.Mil](https://www.cyber.mil.pl/)
