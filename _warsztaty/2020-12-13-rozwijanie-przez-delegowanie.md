@@ -7,7 +7,7 @@ cena: Warsztat weekendowy (4h), cena od 39PLN
 title: "Warsztat #460 Rozwijanie przez delegowanie"
 lokalizacja: zdalnie
 prowadzacy: brataniec
-dlugosc: 9:00-17:00
+dlugosc: 10:00-14:00
 peron_link_regular: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=4776&edd_options[price_id]=1"
 peron_link_early: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=4776&edd_options[price_id]=2"
 slideshare:
@@ -17,19 +17,19 @@ opis:
 
     **O czym będzie warsztat?** 
 
-    Co mają ze sobą wspólnego delegowanie zadań i rozwijanie? Mogą mieć wiele, choć praktyka bywa różna. Podczas warsztatu podzielę się dobrymi praktykami, które stosunkowo łatwo wdrożyć w życie, by delegując rozwijać siebie i innych. 
+    - Co mają ze sobą wspólnego delegowanie zadań i rozwijanie? Mogą mieć wiele, choć praktyka bywa różna. Podczas warsztatu podzielę się dobrymi praktykami, które stosunkowo łatwo wdrożyć w życie, by delegując rozwijać siebie i innych. 
     
     **Dla kogo jest ten warsztat?**
 
-    Warsztat przeznaczony jest dla menedżerów oraz specjalistów, którzy chcą podnieść własną efektywność i jakość współpracy ze swoimi zespołami oraz wspierać członków zespołu w rozwoju. 
+    - Warsztat przeznaczony jest dla menedżerów oraz specjalistów, którzy chcą podnieść własną efektywność i jakość współpracy ze swoimi zespołami oraz wspierać członków zespołu w rozwoju. 
 
     **Czego się nauczysz?**
 
-    Podczas warsztatu dowiesz się co, komu, kiedy i jak delegować oraz od czego zależą różne style delegowania. Ponadto – jak dzięki delegowaniu rozwijać siebie i innych. 
+    - Podczas warsztatu dowiesz się co, komu, kiedy i jak delegować oraz od czego zależą różne style delegowania. Ponadto – jak dzięki delegowaniu rozwijać siebie i innych. 
 
     **Wymagania wstępne**
 
-    Jeżeli nie zarządzasz pracą zespołu i jeszcze nie masz co delegować – również zapraszam. Warszat jest pomyślany tak, aby skorzystały z niego osoby z różnym doświadczeniem i by uwzględnić różne punkty widzenia. W miarę możliwości prosimy o podłączenie się z włączonymi kamerami.
+    - Jeżeli nie zarządzasz pracą zespołu i jeszcze nie masz co delegować – również zapraszam. Warszat jest pomyślany tak, aby skorzystały z niego osoby z różnym doświadczeniem i by uwzględnić różne punkty widzenia. W miarę możliwości prosimy o podłączenie się z włączonymi kamerami.
 
   program: |
 
