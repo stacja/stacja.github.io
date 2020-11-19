@@ -3,14 +3,12 @@
 date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-12-15
-cena: Warsztat wieczorny (3h), cena od 39PLN
+cena: Warsztat wieczorny (3h), cena 49PLN
 title: "Warsztat #461 Wprowadzenie do Funkcyjnego Programowania"
 lokalizacja: zdalnie
 prowadzacy: mkubera
 dlugosc: 18:00-21:00
 peron_link_regular: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=4779&edd_options[price_id]=1"
-peron_link_early: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=4779&edd_options[price_id]=2"
-peron_vip: "https://stacja.it/abonament"
 slideshare:
 opis:
   informacje: |
