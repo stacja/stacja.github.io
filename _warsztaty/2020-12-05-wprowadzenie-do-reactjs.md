@@ -5,10 +5,9 @@ date: 2017-06-23
 event_date: 2020-12-05
 title: "Warsztat #451 Wprowadzenie do ReactJS"
 lokalizacja: zdalnie
-cena: Warsztat weekendowy (8h), cena od 79PLN
+cena: Warsztat weekendowy (8h), cena 99 PLN
 prowadzacy: bialas
 peron_link_regular: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=4757&edd_options[price_id]=1"
-peron_link_early: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=4757&edd_options[price_id]=2"
 dlugosc: 09:00-17:00
 opis:
   informacje: |
@@ -17,8 +16,7 @@ opis:
     React to jeden z najpopularniejszych obecnie bibliotek JavaScript stworzona przez Facebook’a w celu tworzenia dynamicznych interfejsów użytkownika. React oparty o ideę tworzenia aplikacji z mniejszych komponentów okazuje się też świetnym narzędziem do pracy również nad mniejszymi aplikacjami czyniąc je prostymi w testowaniu, rozwijaniu i późniejszym utrzymaniu. Podczas warsztatów stworzymy prostą aplikację SPA, służącą do przeglądania bazy filmów.
 
     **Dla kogo jest ten warsztat?**
-
-    Warsztat przeznaczony jest dla osób znających podstawy JavaScript.
+     - Warsztat przeznaczony jest dla osób znających podstawy JavaScript.
  
     **Podczas warsztatu uczestnicy korzystają z własnych laptopów.**
     
