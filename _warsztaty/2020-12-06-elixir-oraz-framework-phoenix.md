@@ -3,13 +3,12 @@
 date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-12-06
-cena: Warsztat weekendowy (8h), cena od 79PLN
+cena: Warsztat weekendowy (8h), cena 99PLN
 title: "Warsztat #452 Wprowadzenie do Elixir i frameworku Phoenix"
 lokalizacja: zdalnie
 prowadzacy: mkubera
 dlugosc: 9:00-17:00
 peron_link_regular: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=4759&edd_options[price_id]=1"
-peron_link_early: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=4759&edd_options[price_id]=2"
 slideshare:
 opis:
   informacje: |
