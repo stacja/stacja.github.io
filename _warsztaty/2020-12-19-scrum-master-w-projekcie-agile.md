@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2020-12-19
-title: "Warsztat #462 Rola Scrum Mastera w projekcie scrumowym"
+title: "Warsztat #463 Rola Scrum Mastera w projekcie scrumowym"
 lokalizacja: zdalnie
 cena: Warsztat weekendowy (8h), cena 99PLN
 prowadzacy: pbrzezinski
