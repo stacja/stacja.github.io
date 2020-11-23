@@ -17,9 +17,11 @@ opis:
 
     **Dla kogo jest ten warsztat?**
      - Warsztat przeznaczony jest dla osób znających podstawy JavaScript.
- 
-    **Podczas warsztatu uczestnicy korzystają z własnych laptopów.**
-    
+
+    Kontynuacją warsztatu **Wprowadzenie do ReactJS** są warsztaty:
+     - **React - komponenty funkcyjne i Hooki** - szczegóły i zapisy są dostępne [tutaj](https://stacja.it/warsztaty/2020-12-09-react-komponenty-funkcyjne-i-hooki.html),
+     - **React - Server Side Rendering i Gatsby** - szczegóły i zapisy są dostępne [tutaj](https://stacja.it/warsztaty/2020-12-17-server-side-rendering-i-gatsby.html).
+     
   program: |
 
     1. Wstęp do ES6.
