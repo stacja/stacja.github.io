@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2020-12-17
-title: "Warsztat #462 Server Side Rendering -  React i Gatsby"
+title: "Warsztat #462 React - Server Side Rendering i Gatsby"
 lokalizacja: zdalnie
 cena: Warsztat wieczorny (3h), cena 49PLN
 prowadzacy: bialas
@@ -21,7 +21,7 @@ opis:
     **Dla kogo jest ten warsztat?**
      - Warsztat jest skierowany dla osób znających podstawy React JS, CSS oraz ES6.
 
-    Warsztat "Server Side Rendering - React i Gatsby" stanowi rozwinięcie kwestii poruszonych na warsztacie ["Wprowadzenie do ReactJS"](https://stacja.it/warsztaty/2020-12-05-wprowadzenie-do-reactjs.html), więc jeśli nie znasz jeszcze podstaw React JS to zachęcamy do rozpoczęcia przygody z Reactem właśnie na Stacji IT. 
+    Warsztat "React - Server Side Rendering i Gatsby" stanowi rozwinięcie kwestii poruszonych na warsztacie ["Wprowadzenie do ReactJS"](https://stacja.it/warsztaty/2020-12-05-wprowadzenie-do-reactjs.html), więc jeśli nie znasz jeszcze podstaw React JS to zachęcamy do rozpoczęcia przygody z Reactem właśnie na Stacji IT. 
     
   program: |
 
