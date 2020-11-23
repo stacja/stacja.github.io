@@ -2,8 +2,8 @@
 # Data dodania informacji o wydarzeniu
 date: 2020-04-23
 # Data wydarzenia
-event_date: 2020-10-30
-title: "Python w analizie danych"
+event_date: 2020-12-09
+title: "Start kursu 9 grudnia!"
 lokalizacja: kurspython
 prowadzacy: python1
 evenea_link:
