@@ -19,7 +19,7 @@ opis:
      - Podczas warsztatu uczestnicy zapoznają się z hookami w React'cie oraz podejściem oparte na wykorzystywaniu komponentów funkcyjnych.
 
     **Dla kogo jest ten warsztat?**
-     - Warsztat jest skierowany dla osób znających podstawy React JS, CSS oraz ES6 chcących poznać zaawansowane wzorce projektowe.
+     - Warsztat jest skierowany dla osób znających podstawy React JS, CSS oraz ES6.
 
     Warsztat "React - komponenty funkcyjne i Hooki" stanowi rozwinięcie kwestii poruszonych na warsztacie ["Wprowadzenie do ReactJS"](https://stacja.it/warsztaty/2020-12-05-wprowadzenie-do-reactjs.html), więc jeśli nie znasz jeszcze podstaw React JS to zachęcamy do rozpoczęcia przygody z Reactem właśnie na Stacji IT. 
     
