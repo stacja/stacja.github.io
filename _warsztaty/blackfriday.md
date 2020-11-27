@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2020-04-23
 # Data wydarzenia
-event_date: 2020-11-27
+event_date: 2020-11-28
 title: "KOD: BLACKFRIDAY"
 lokalizacja: blackfriday
 prowadzacy: blackfriday
