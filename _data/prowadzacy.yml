@@ -520,3 +520,6 @@ springmaster2edycja:
 blackfriday:
   name: Promocja tylko 27/11
   img: /img/portfolio/blackfriday.png
+springspring:
+  name: Promocja tylko do startu kursu
+  img: /img/portfolio/springkod.png  
