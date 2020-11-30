@@ -4,7 +4,7 @@ date: 2019-02-25
 # Data wydarzenia
 event_date: 2020-12-12
 cena: Warsztat weekendowy (8h), cena 99PLN
-title: "Warsztat #456 Elastic Stack - agregacja i analiza logów z wykorzystaniem narzędzi Big Data"
+title: "Warsztat #454 Elastic Stack - agregacja i analiza logów z wykorzystaniem narzędzi Big Data"
 lokalizacja: zdalnie
 prowadzacy: mgorski
 dlugosc: 9:00-17:00
