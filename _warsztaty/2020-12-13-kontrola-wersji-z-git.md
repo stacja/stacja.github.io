@@ -4,7 +4,7 @@ date: 2019-02-25
 # Data wydarzenia
 event_date: 2020-12-13
 cena: Warsztat weekendowy (8h), cena 99PLN
-title: "Warsztat #458 Kontrola wersji z Git"
+title: "Warsztat #456 Kontrola wersji z Git"
 lokalizacja: zdalnie
 prowadzacy: blaszczak
 dlugosc: 9:00-17:00
