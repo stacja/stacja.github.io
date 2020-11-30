@@ -3,7 +3,7 @@
 date: 2017-06-23
 # Data wydarzenia
 event_date: 2020-12-09
-title: "Warsztat #454 React - komponenty funkcyjne i Hooki"
+title: "Warsztat #453 React - komponenty funkcyjne i Hooki"
 lokalizacja: zdalnie
 cena: Warsztat wieczorny (3h), cena 49PLN
 prowadzacy: bialas
