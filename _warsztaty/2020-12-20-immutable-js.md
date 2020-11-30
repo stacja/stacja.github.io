@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-12-20
 cena: Warsztat weekendowy (4h), cena 49PLN
-title: "Warsztat #462 Bezpieczniejsze JavaScriptowe aplikacje z biblioteką ImmutableJS"
+title: "Warsztat #464 Bezpieczniejsze JavaScriptowe aplikacje z biblioteką ImmutableJS"
 lokalizacja: zdalnie
 prowadzacy: mkubera
 dlugosc: 10:00-14:00
