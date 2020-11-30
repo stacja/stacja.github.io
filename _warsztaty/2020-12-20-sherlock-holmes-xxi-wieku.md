@@ -4,7 +4,7 @@ date: 2017-06-23
 # Data wydarzenia
 event_date: 2020-12-20
 cena: Warsztat weekendowy (4h), cena 49PLN
-title: "Warsztat #465 Sherlock Holmes XXI wieku - poznaj SQL i rozwiąż kryminalną zagadkę"
+title: "Warsztat #463 Sherlock Holmes XXI wieku - poznaj SQL i rozwiąż kryminalną zagadkę"
 lokalizacja: zdalnie
 prowadzacy: menclewicz
 peron_link_regular: "https://peron.stacja.it/?edd_action=add_to_cart&download_id=5072&edd_options[price_id]=1"
