@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-12-13
 cena: Warsztat weekendowy (4h), cena 49PLN
-title: "Warsztat #460 Rozwijanie przez delegowanie"
+title: "Warsztat #457 Rozwijanie przez delegowanie"
 lokalizacja: zdalnie
 prowadzacy: brataniec
 dlugosc: 10:00-14:00
