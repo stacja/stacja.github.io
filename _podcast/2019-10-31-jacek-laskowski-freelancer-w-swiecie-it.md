@@ -9,7 +9,7 @@ image: /img/podcast/okladka.png
 youtube: "RjLSb5LKarM"
 opis:
   informacje: |
-    W tym odcinku Łukasz Kobyliński rozmawia z Jackiem Laskowskim. Jacek na co dzień zajmuje się Sparkiem, Kafką oraz Scalą. Jak sam siebe określa jako Freelance IT Consultant. W tej części opowie, jak dokładnie wygląda jego praca, a w szczególności kontakty z klientami. 
+    W tym odcinku Łukasz Kobyliński rozmawia z Jackiem Laskowskim. Jacek na co dzień zajmuje się Sparkiem, Kafką oraz Scalą. Jak sam siebie określa jako Freelance IT Consultant. W tej części opowie, jak dokładnie wygląda jego praca, a w szczególności kontakty z klientami. 
 
   konspekt: |
     1. Czym się zajmujesz?
