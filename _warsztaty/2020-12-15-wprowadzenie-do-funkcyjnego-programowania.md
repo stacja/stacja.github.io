@@ -4,7 +4,7 @@ date: 2020-01-17
 # Data wydarzenia
 event_date: 2020-12-15
 cena: Warsztat wieczorny (3h), cena 49PLN
-title: "Warsztat #458 Wprowadzenie do Funkcyjnego Programowania"
+title: "Warsztat #458 Wprowadzenie do programowania funkcyjnego"
 lokalizacja: zdalnie
 prowadzacy: mkubera
 dlugosc: 18:00-21:00
@@ -14,13 +14,18 @@ opis:
   informacje: |
     **Warsztat odbywa się w formie zdalnej za pośrednictwem platformy/komunikatora online, z wykorzystaniem dźwięku, obrazu z kamery, udostępniania ekranu komputera prowadzącego i uczestników.** 
     
-    Funkcyjne programowanie (FP) nie jest wcale nowym paradygmatem, bo siega aż lat 60-tych (a więc jest starsze niż programowanie obiektowe (OOP)), ale historycznie zostało nieco zapomniane, natomiast dziś znów zyskuje na popularności. I słusznie, albowiem pozwala pisać bardziej zwięzły deklaratywny kod (wyrażający "co" komputer ma wykonać, a nie "jak"), który jest łatwiejszy w testowaniu, a trudniej w nim o błędy. Używając FP piszemy programy, które składają się jedynie z funkcji, i to w często takich, które są "czyste" (jeśli damy im ten sam argument, to zwrócą tę samą wartość, i nigdy nie zmienią niczego innego w programie). Czyste funkcje są łatwiejsze w testowaniu (zwłaszcza jednostkowym), a zbudowane z nich programy mają mniej bugów. Nowoczesne aplikacje pisane w językach imperatywnych coraz częściej sięgają po funkcyjny paradygmat mieszając go z OOP. Techniki, które poznasz na tym warsztacie wprowadzą Cię w świat programowania funkcyjnego i pozwolą Ci stać się bardziej wszechstronnym programistą. Przy odrobinie otwartości na inny styl kodowania (deklaratywny) nauczysz się pisać kod, który jest bardziej zwięzły i łatwiejszy dla Ciebie i innych do czytania i utrzymywania. Zachęcam do uczestnictwa zwłaszcza tych, którzy jeszcze nie zetknęli się z FP lub mieli problemy ze zrozumieniem jakie niesie ze sobą korzyści! Warsztat jest językowo i środowiskowo agnostyczny, wobec czego nadaje się dla programistów różnych języków, zarówno front, jak i backendowych.
+    Programowanie funkcyjne nie jest wcale nowym paradygmatem, bo siega aż lat 60-tych i pomimo, że zostało nieco zapomniane, dziś znów zyskuje na popularności. I słusznie, bo pozwala pisać zwięzły deklaratywny kod (wyrażający "co" komputer ma wykonać, a nie "jak"), który jest łatwiejszy w testowaniu i trudniej w nim o błędy. 
 
+    Używając programowania funkcyjnego piszemy programy, które składają się jedynie z funkcji, które są "czyste" - jeśli damy im ten sam argument to zwrócą tę samą wartość i nigdy nie zmienią niczego innego w programie. Czyste funkcje są łatwiejsze w testowaniu (zwłaszcza jednostkowym), a zbudowane z nich programy mają mniej bugów. 
+    
     **Czego się nauczysz?**
+       - Techniki, które poznasz na tym warsztacie wprowadzą Cię w świat programowania funkcyjnego i pozwolą Ci stać się bardziej wszechstronnym programistą. Przy odrobinie otwartości na deklaratywny styl kodowania nauczysz się pisać kod, który jest zwięzły i łatwy do czytania i utrzymywania zarówno dla Ciebie, jak i innych. 
        - Na warsztacie poznasz podstawowe i nisko-zaawansowane koncepty paradygmatu funkcyjnego programowania, które można wykorzystać w rozmaitych językach imperatywnych, takich jak Java, C#, Python, Ruby, PHP, JavaScript / NodeJS, Go, Swift i innych. Poznasz użyteczność paradygmatu i jaką wartość niesie w sensie pisania aplikacji, które są łatwiejsze w testowaniu i utrzymaniu.
 
     **Dla kogo jest ten warsztat?**
        - Dla programistów z początkową lub zaawansowaną znajomością języków imperatywnych, którzy chcą poszerzyć swój zestaw narzędzi programistycznych o paradygmat funkcyjny. 
+       - Zachęcamy do uczestnictwa zwłaszcza tych, którzy jeszcze nie zetknęli się z prgramowaniem funkcyjnym lub mieli problemy ze zrozumieniem jakie niesie ze sobą korzyści! 
+       - Warsztat jest językowo i środowiskowo agnostyczny, dzięki czemu nadaje się dla programistów różnych języków - zarówno front, jak i backendowych.
 
     **Wymagania wstępne**
        - Podstawowa znajomość programowania (zmienne, typy danych, funkcje, pętle, if-else, etc.)
