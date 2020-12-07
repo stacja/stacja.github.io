@@ -14,7 +14,7 @@ opis:
   informacje: |
     **Warsztat odbywa się w formie zdalnej za pośrednictwem platformy/komunikatora online, z wykorzystaniem dźwięku, obrazu z kamery, udostępniania ekranu komputera prowadzącego i uczestników.** 
     
-    Programowanie funkcyjne nie jest wcale nowym paradygmatem, bo siega aż lat 60-tych i pomimo, że zostało nieco zapomniane, dziś znów zyskuje na popularności. I słusznie, bo pozwala pisać zwięzły deklaratywny kod (wyrażający "co" komputer ma wykonać, a nie "jak"), który jest łatwiejszy w testowaniu i trudniej w nim o błędy. 
+    Programowanie funkcyjne nie jest wcale nowym paradygmatem, bo sięga aż lat 60-tych i pomimo, że zostało nieco zapomniane, dziś znów zyskuje na popularności. I słusznie, bo pozwala pisać zwięzły deklaratywny kod (wyrażający "co" komputer ma wykonać, a nie "jak"), który jest łatwiejszy w testowaniu i trudniej w nim o błędy. 
 
     Używając programowania funkcyjnego piszemy programy, które składają się jedynie z funkcji, które są "czyste" - jeśli damy im ten sam argument to zwrócą tę samą wartość i nigdy nie zmienią niczego innego w programie. Czyste funkcje są łatwiejsze w testowaniu (zwłaszcza jednostkowym), a zbudowane z nich programy mają mniej bugów. 
     
