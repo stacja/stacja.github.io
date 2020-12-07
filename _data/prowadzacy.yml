@@ -522,4 +522,7 @@ blackfriday:
   img: /img/portfolio/blackfriday.png
 springspring:
   name: Promocja tylko do startu kursu
-  img: /img/portfolio/springkod.png  
+  img: /img/portfolio/springkod.png 
+konkurs_komiks:
+  name: Uzupełnij komiks i wygraj 3 miesiące abonamentu! 
+  img: /img/portfolio/konkurs_komiks.png
