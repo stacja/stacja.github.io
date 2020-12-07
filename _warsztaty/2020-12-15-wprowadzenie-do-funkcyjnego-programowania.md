@@ -24,7 +24,7 @@ opis:
 
     **Dla kogo jest ten warsztat?**
        - Dla programistów z początkową lub zaawansowaną znajomością języków imperatywnych, którzy chcą poszerzyć swój zestaw narzędzi programistycznych o paradygmat funkcyjny. 
-       - Zachęcamy do uczestnictwa zwłaszcza tych, którzy jeszcze nie zetknęli się z prgramowaniem funkcyjnym lub mieli problemy ze zrozumieniem jakie niesie ze sobą korzyści! 
+       - Zachęcamy do uczestnictwa zwłaszcza tych, którzy jeszcze nie zetknęli się z programowaniem funkcyjnym lub mieli problemy ze zrozumieniem jakie niesie ze sobą korzyści! 
        - Warsztat jest językowo i środowiskowo agnostyczny, dzięki czemu nadaje się dla programistów różnych języków - zarówno front, jak i backendowych.
 
     **Wymagania wstępne**
