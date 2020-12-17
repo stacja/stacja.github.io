@@ -2,7 +2,7 @@
 # Data dodania informacji o wydarzeniu
 date: 2017-06-23
 # Data wydarzenia
-event_date: 2020-12-17
+event_date: 2020-12-22
 title: "Warsztat #459 React - Server Side Rendering i Gatsby"
 lokalizacja: zdalnie
 cena: Warsztat wieczorny (3h), cena 49PLN
