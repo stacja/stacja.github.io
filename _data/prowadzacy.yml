@@ -252,7 +252,7 @@ lach:
 bialas:
   name: Kaj Białas
   img: /img/portfolio/kbialas.jpg
-  desc: "JavaScript Developer z 6 letnim doświadczeniem, trener front-end. Jego doświadczenie obejmuje budowanie aplikacji mobilnych i internetowych oraz zagadnienia związane z bezpieczeństwem systemów informatycznych."
+  desc: "JavaScript Developer z 8 letnim doświadczeniem, trener front-end’u oraz autor prelekcji. Specjalizuje się w językach JavaScript oraz TypeScript. Specjalizuje się w tworzeniu aplikacji w ekosystemie React. Fan reguł KISS oraz DRY."
 pusz:
   name: Mateusz Pusz
   img: /img/portfolio/mpusz.png
@@ -367,7 +367,7 @@ pbykowski:
 ktrzcinska:
   name: Klara Trzcińska
   img: /img/portfolio/ktrzcinska.jpg
-  desc: "Testerka z doświadczeniem w testach bezpieczeństwa aplikacji webowych oraz infrastruktury. Pracuje jako Starszy Specjalista w Pentacomp Systemy Informatyczne, gdzie zajmuje się głównie testami bezpieczeństwa aplikacji webowych oraz testami automatycznymi. Wykonywała testy bezpieczeństwa w licznych projektach o dużej skali. Absolwentka Wydziału Matematyki, Informatyki i Mechaniki Uniwersytetu Warszawskiego oraz studiów podyplomowych z zakresu bezpieczeństwa systemów informatycznych na wydziale Elektroniki i Technik Informacyjnych Politechniki Warszawskiej. Posiada branżowe certyfikaty Certified Ethical Hacker oraz ISTQB FL."
+  desc: "Specjalistka ds. zapewnienia jakości i bezpieczeństwa oprogramowania z doświadczeniem w testach bezpieczeństwa aplikacji webowych oraz infrastruktury, testach wydajnościowych oraz testach technicznych. Pracuje jako Główny Specjalista w firmie Pentacomp Systemy Informatyczne, gdzie nie tylko wykonuje testy, ale także koordynuje pracę zespołu. Wykonywała testy bezpieczeństwa oraz wydajności w licznych projektach o dużej skali. Absolwentka Wydziału Matematyki, Informatyki i Mechaniki Uniwersytetu Warszawskiego oraz studiów podyplomowych z zakresu bezpieczeństwa systemów informatycznych na wydziale Elektroniki i Technik Informacyjnych Politechniki Warszawskiej oraz audytu systemów informatycznych w Instytucie Podstaw Informatyki Polskiej Akademii Nauk."
 szmit:
   name: Bartosz Szmit
   img: /img/portfolio/bszmit.png
